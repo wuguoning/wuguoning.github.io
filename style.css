@@ -18,22 +18,6 @@ html, body {
   height: 80%;
 }
 
-.left, .right {
-  background-color: lightblue;
-
-  margin: 5px;
-  max-width: 50%;
-  flex: 1;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-}
-
-.left {
-  align-items: center;
-  justify-content: center;
-}
-
 .name {
   font-family: 'Roboto', sans-serif;
   margin-bottom: 2px;
