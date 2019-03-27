@@ -1,4 +1,3 @@
-
 html, body {
   display: flex;
   align-items: center;
@@ -6,6 +5,13 @@ html, body {
   height: 100%;
   margin: 0px;
   padding: 0px;
+  
+  font-family: 'Open Sans', sans-serif;
+}
+
+.name {
+  font-family: 'Roboto', sans-serif;
+  margin-bottom: 2px;
 }
 
 .wrapper {
