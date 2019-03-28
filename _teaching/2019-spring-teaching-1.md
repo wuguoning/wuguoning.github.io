@@ -9,8 +9,8 @@ location: "City, Country"
 ---
 
 This Lectures basically based on the books below:
-<img src='zorich1.png'>
-<img src='zorich2.png'>
+<img src='../images/zorich1.png'>
+<img src='../images/zorich2.png'>
 
 
 Real Analysis I
