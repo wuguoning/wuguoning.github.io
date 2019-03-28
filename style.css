@@ -12,10 +12,10 @@ html, body {
 .wrapper {
   background-color: lightpink;
 
-  max-width: 50%;
+  max-width: 100%;
   display: flex;
   flex-direction: row;
-  height: 80%;
+  height: 100%;
 }
 
 .left, .right {
