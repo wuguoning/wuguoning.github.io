@@ -23,7 +23,7 @@ background: url(image/login.jpg) no-repeat;text-align:center;
 }
 
 .profile-picture {
-    border-radius: 80%;
+    border-radius: 50%;
 }
 
 .social-links {
