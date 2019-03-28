@@ -43,6 +43,3 @@ Real Analysis III
 ======
 
 
-Calculus II
-======
-

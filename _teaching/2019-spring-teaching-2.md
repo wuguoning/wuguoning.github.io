@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "Calculus II《微積分》II"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+permalink: /teaching/2019-spring-teaching-2
+venue: "China University of Petroleum at Beijing, Department of Science"
+date: 2019-03-28
 location: "City, Country"
 ---
 
