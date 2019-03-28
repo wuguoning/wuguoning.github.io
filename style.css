@@ -9,15 +9,6 @@ html, body {
   font-family: 'Open Sans', sans-serif;
 }
 
-.wrapper {
-  background-color: lightpink;
-
-  max-width: 100%;
-  display: flex;
-  flex-direction: row;
-  height: 100%;
-}
-
 .left, .right {
   background-color: lightblue;
 
