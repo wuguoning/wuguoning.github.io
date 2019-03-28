@@ -8,12 +8,13 @@ date: 2019-03-28
 location: "City, Country"
 ---
 
-This Lectures basically based on the books below:
+This Lectures notes were basically based on the books below:
 
 <img src="../images/zorich1.png" width = "80" height = "120">
 <img src="../images/zorich2.png" width = "80" height = "120">
 <img src="../images/huadongtext1.png" width = "80" height = "120">
 <img src="../images/huadongtext2.png" width = "80" height = "120">
+<img src="../images/fudantext.png" width = "80" height = "120">
 
 
 Real Analysis I
@@ -39,5 +40,9 @@ Real Analysis II
 [Download lectures here](http://wuguoning.github.io/files/diff_multi_var.pdf)
 
 Real Analysis III
+======
+
+
+Calculus II
 ======
 
