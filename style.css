@@ -16,8 +16,9 @@ html, body {
 }
 
 .profile-picture {
-    border-radius: 60%;
+    border-radius: 50%;
 }
+
 .social-links {
   list-style: none;
   padding-left: 0px;
@@ -48,8 +49,7 @@ html, body {
 }
 
 .left, .right {
-  background-color: white;
-
+  background-color: lightblue;
   margin: 5px;
   max-width: 80%;
   flex: 1;
