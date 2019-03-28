@@ -52,7 +52,7 @@ background: url(image/login.jpg) no-repeat;text-align:center;
   max-width: 100%;
   display: flex;
   flex-direction: row;
-  height: 80%;
+  height: 100%;
 }
 
 .left, .right {
