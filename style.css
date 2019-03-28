@@ -39,7 +39,7 @@ html, body {
 }
 
 .wrapper {
-  background-color: lightpink;
+  background-color: black;
 
   max-width: 80%;
   display: flex;
@@ -48,7 +48,7 @@ html, body {
 }
 
 .left, .right {
-  background-color: lightblue;
+  background-color: white;
 
   margin: 5px;
   max-width: 80%;
