@@ -1,10 +1,20 @@
 html, body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
   height: 100%;
   margin: 0;
   padding: 0;
-  overflow:hidden
   
   font-family: 'Open Sans', sans-serif;
+}
+
+.container {
+height:100%;width:100%;
+/*width: 100%;*/
+border: 1px solid green;
+position:fixed;
+background: url(image/login.jpg) no-repeat;text-align:center;
 }
 
 .name {
