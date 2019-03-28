@@ -69,6 +69,31 @@ background: url(image/login.jpg) no-repeat;text-align:center;
   justify-content: center;
 }
 
+.author-bio {
+  background-color: white;
+  border: 1px solid hsl(0,0%,85%);
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  overflow: hidden;
+  > img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+  > div {
+    padding: 1rem;
+    > h2 {
+      font-size: 1.25rem;
+      color: rgba(0,0,0,0.8);
+    }
+    > p {
+      font-size: 1rem;
+      color: rgba(0,0,0,0.75);
+      line-height: 1.5;
+    }
+  }
+}
+
 .body {
   background: linear-gradient(to bottom, rgba(231, 240, 245, 1) 0%, rgba(170, 221, 235, 1) 100%);
 }
