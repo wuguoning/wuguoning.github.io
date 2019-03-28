@@ -49,7 +49,6 @@ background: url(image/login.jpg) no-repeat;text-align:center;
 .wrapper {
   background-color: lightblue;
 
-  max-width: 100%;
   display: flex;
   flex-direction: row;
   height: 100%;
