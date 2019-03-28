@@ -9,11 +9,20 @@ html, body {
   font-family: 'Open Sans', sans-serif;
 }
 
+.wrapper {
+  background-color: lightpink;
+
+  max-width: 100%;
+  display: flex;
+  flex-direction: row;
+  height: 100%;
+}
+
 .left, .right {
   background-color: lightblue;
 
   margin: 5px;
-  max-width: 50%;
+  max-width: 100%;
   flex: 1;
   display: flex;
   flex-direction: column;
