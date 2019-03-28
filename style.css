@@ -40,9 +40,9 @@ html, body {
 }
 
 .wrapper {
-  background-color: lightpink;
+  background-color: lightblue;
 
-  max-width: 80%;
+  max-width: 50%;
   display: flex;
   flex-direction: row;
   height: 80%;
