@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 2"
+title: "Real Analysis 2"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2019-spring-teaching-1
@@ -12,6 +12,12 @@ This is a description of a teaching experience. You can use markdown like any ot
 
 Real Analysis 2
 ======
+1. Definite Integral.
+[Download paper here](http://wuguoning.github.io/files/integral.pdf)
+2. Multiple Variable Function.
+[Download paper here](http://wuguoning.github.io/files/mul_var_fun.pdf)
+2. Differentiation of Multiple Variable Function.
+[Download paper here](http://wuguoning.github.io/files/diff_multi_var.pdf)
 
 Calculus 2
 ======
