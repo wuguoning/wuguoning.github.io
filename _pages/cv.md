@@ -11,29 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mathematics, Shanxi Normal University, 2001
-* M.S. in Mathematics, Harbin Institute of Technology University, 2003
-* Ph.D. in Applied Geophysics, China University of Petroleum at Beijing, 2013
+* B.S. in Mathematics, Shanxi Normal University, 1997--2001
+* M.S. in Mathematics, Harbin Institute of Technology University, 2001--2003
+* Ph.D. in Applied Geophysics, China University of Petroleum at Beijing, 2008--2013
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2014: Associate Professor
+  * China University of Petroleum at Beijing
+  * Duties included: Teaching & Research
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2003--Summer 2014: Lecturer
+  * China University of Petroleum at Beijing
+  * Duties included: Teaching & Research
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+* Mathematical Teaching
+* Programming
+  * C, C++
+  * Python
 * Skill 3
 
 Publications
