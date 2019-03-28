@@ -15,7 +15,7 @@ html, body {
 }
 
 .profile-picture {
-    border-radius: 50%;
+    border-radius: 30%;
 }
 .social-links {
   list-style: none;
