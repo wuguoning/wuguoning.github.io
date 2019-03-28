@@ -1,14 +1,14 @@
-html{
+html, body{
   display: flex;
   align-items: center;
   justify-content: center;
   height: 100%;
-  margin: 0px;
-  padding: 0px;
+  margin: 0;
+  padding: 0;
+  overflow:hidden
   
   font-family: 'Open Sans', sans-serif;
 }
-
 
 .name {
   font-family: 'Roboto', sans-serif;
