@@ -19,6 +19,8 @@ Teaching
 Recent Projects
 ======
 
+1. Neural Networks and Deep Learning.()
+
 Data
 ======
 
