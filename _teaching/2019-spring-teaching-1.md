@@ -12,9 +12,9 @@ This Lectures notes were basically based on the books below:
 
 <img src="../images/zorich1.png" width = "80" height = "120">
 <img src="../images/zorich2.png" width = "80" height = "120">
-<img src="../images/huadongtext1.png" width = "80" height = "120">
-<img src="../images/huadongtext2.png" width = "80" height = "120">
-<img src="../images/fudantext.png" width = "80" height = "120">
+<img src="../images/huadongtext1.png" width = "90" height = "130">
+<img src="../images/huadongtext2.png" width = "90" height = "125">
+<img src="../images/fudantext.png" width = "120" height = "150">
 
 
 Real Analysis I
