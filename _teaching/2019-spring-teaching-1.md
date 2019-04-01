@@ -23,12 +23,10 @@ Real Analysis I
 [Download lecture notes here](http://wuguoning.github.io/files/introduction.pdf)
 2. Limit of Sequence.
 [Download lecture notes here](http://wuguoning.github.io/files/limits.pdf)
-
-[Test](http://wuguoning.github.io/files/ch1.pdf)
+** [Test](http://wuguoning.github.io/files/ch1.pdf)
 3. Continuity.
 [Download lecture notes here](http://wuguoning.github.io/files/continuity.pdf)
-
-[Test](http://wuguoning.github.io/files/ch2.pdf)
+** [Test](http://wuguoning.github.io/files/ch2.pdf)
 4. Derivative of One Variable Function.
 [Download lecture notes here](http://wuguoning.github.io/files/derivative.pdf)
 5. Primitive.
