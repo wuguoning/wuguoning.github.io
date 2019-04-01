@@ -13,7 +13,7 @@ This is the front page of a website that is powered by the [academicpages templa
 Teaching
 ======
 [<img src="../images/zorich1.png" width="200" height="300">](https://wuguoning.github.io/teaching/2019-spring-teaching-1)
-[<img src="../images/zorich2.png" width="200" height="300">](https://wuguoning.github.io/teaching/2019-spring-teaching-2)
+[<img src="../images/calculus.png" width="200" height="300">](https://wuguoning.github.io/teaching/2019-spring-teaching-2)
 
 Recent Projects
 ======
