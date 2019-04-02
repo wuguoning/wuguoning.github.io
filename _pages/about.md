@@ -12,16 +12,16 @@ Spring 2019
 ------
 * [<span style="color:red">**Real Analysis For Undergraduate**</span>](https://wuguoning.github.io/teaching/2019-spring-teaching-1)
 
-* [**Calculus For Undergraduate**](https://wuguoning.github.io/teaching/2019-spring-teaching-2)
+* [<span style="color:red">**Calculus For Undergraduate**](https://wuguoning.github.io/teaching/2019-spring-teaching-2)
 
 
 Recent Projects
 ======
-* [**Neural Networks and Deep Learning**](https://github.com/wuguoning/neural_network_deep_learning)
+* [<span style="color:blue">**Neural Networks and Deep Learning**](https://github.com/wuguoning/neural_network_deep_learning)
 
 Data
 ======
-* [**MNIST**](https://github.com/wuguoning/neural_network_deep_learning/tree/master/data)
+* [<span style="color:green">**MNIST**](https://github.com/wuguoning/neural_network_deep_learning/tree/master/data)
 
 For more info
 ======
