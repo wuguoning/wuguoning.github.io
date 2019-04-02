@@ -1,5 +1,6 @@
 ---
 permalink: /
+title: "Teaching"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +9,7 @@ redirect_from:
 ---
 
 Spring 2019
-======
-
+------
 1. [**Real Analysis For Undergraduate**](https://wuguoning.github.io/teaching/2019-spring-teaching-1)
 
 2. [**Calculus For Undergraduate**](https://wuguoning.github.io/teaching/2019-spring-teaching-2)
