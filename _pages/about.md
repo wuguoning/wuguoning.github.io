@@ -10,15 +10,16 @@ redirect_from:
 
 Spring 2019
 ------
-    1. [**Real Analysis For Undergraduate**](https://wuguoning.github.io/teaching/2019-spring-teaching-1)
+> 
+1. [**Real Analysis For Undergraduate**](https://wuguoning.github.io/teaching/2019-spring-teaching-1)
 
-    2. [**Calculus For Undergraduate**](https://wuguoning.github.io/teaching/2019-spring-teaching-2)
+2. [**Calculus For Undergraduate**](https://wuguoning.github.io/teaching/2019-spring-teaching-2)
 
 
 Recent Projects
 ======
-
-    1. Neural Networks and Deep Learning.()
+> 
+1. Neural Networks and Deep Learning.()
 
 Data
 ======
