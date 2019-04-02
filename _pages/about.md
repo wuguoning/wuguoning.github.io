@@ -32,12 +32,22 @@ Data
 | [Reuters-RCV1](https://archive.ics.uci.edu/ml/datasets/Reuters+RCV1+RCV2+Multilingual,+Multiview+Text+Categorization+Test+collection)          | Text     | 2000                   | 200K            | 200K       |
 | Alternative Splicing  | Genetics | 1014                   | 2932            | 733        |
 
-* The MNIST database of handwritten digits, available from this page, has a training set of 60,000 examples, and a test set of 10,000 examples. It is a subset of a larger set available from NIST. The digits have been size-normalized and centered in a fixed-size image.
-It is a good database for people who want to try learning techniques and pattern recognition methods on real-world data while spending minimal efforts on preprocessing and formatting.
-* SVHN:
+* MNIST: A standard toy data set of handwritten digits.
+
+* SVHN: A standard speech benchmark for clean speech recognition.
+
+* CIFAR-10 and CIFAR-100: Tiny natural images (Krizhevsky, 2009).
+
+* SVHN: Street View House Numbers, Images for house numbers collected by Google Street View.
+
+* ImageNet: A large collection of natural images.
+
+* Reuters-RCV1: A collection of Reuters newswire articles.
+
+* Alternative Splicing data set: RNA features for predicting alternative gene splicing (Xiong et al., 2011).
 
 
-For more info
+For more information
 ======
 
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
