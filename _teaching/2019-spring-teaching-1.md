@@ -20,31 +20,21 @@ This Lectures notes were basically based on the books below:
 Real Analysis I
 ======
 1. [<span style="color:blue">**Introduction.**</span>](http://wuguoning.github.io/files/introduction.pdf)
-2. [<span> style="color:blue">**Limit of Sequence.**</span>](http://wuguoning.github.io/files/limits.pdf)
-        * [<span> style="color:red"**Test1.**</span>](http://wuguoning.github.io/files/test1.pdf)
-3. Continuity.
-[Download lecture notes here](http://wuguoning.github.io/files/continuity.pdf)
-    * Test2.
-[Download here](http://wuguoning.github.io/files/test2.pdf)
-4. Derivative of One Variable Function.
-[Download lecture notes here](http://wuguoning.github.io/files/derivative.pdf)
-    * Test3. 
-[Download here](http://wuguoning.github.io/files/test3.pdf)
-5. Primitive.
-[Download lecture notes here](http://wuguoning.github.io/files/primitive.pdf)
-    * Test4. 
-[Download here](http://wuguoning.github.io/files/test4.pdf)
-6. Mid term test.
-[Download lecture notes here](http://wuguoning.github.io/files/midtermtest18-19-1.pdf)
+2. [<span style="color:blue">**Limit of Sequence.**</span>](http://wuguoning.github.io/files/limits.pdf)
+    * [<span style="color:red">**Test1.**</span>](http://wuguoning.github.io/files/test1.pdf)
+3. [<span style="color:blue">**Continuity.**</span>](http://wuguoning.github.io/files/continuity.pdf)
+    * [<span style="color:red">**Test2.**</span>](http://wuguoning.github.io/files/test2.pdf)
+4. [<span style="color:blue">**Derivative of One Variable Function.**</span>](http://wuguoning.github.io/files/derivative.pdf)
+    * [<span style="color:red">**Test3.**</span>](http://wuguoning.github.io/files/test3.pdf)
+5. [<span style="color:blue">**Primitive.**</span>](http://wuguoning.github.io/files/primitive.pdf)
+    * [<span style="color:red">**Test4.**</span>](http://wuguoning.github.io/files/test4.pdf)
+6. [<span style="color:blue">**Midterm Test.**</span>](http://wuguoning.github.io/files/midtermtest18-19-1.pdf)
 
 Real Analysis II
 ======
-1. Definite Integral.
-[Download lecture notes here](http://wuguoning.github.io/files/integral.pdf)
-2. Multiple Variable Function.
-[Download lecture notes here](http://wuguoning.github.io/files/mul_var_fun.pdf)
-2. Differentiation of Multiple Variable Function.
-[Download lectures here](http://wuguoning.github.io/files/diff_multi_var.pdf)
+1. [<span style="color:blue">**Definite Integral.**</span>](http://wuguoning.github.io/files/integral.pdf)
+2. [<span style="color:blue">**Multi-variable Function.**</span>](http://wuguoning.github.io/files/mul_var_fun.pdf)
+3. [<span style="color:blue">**Differential of Multi-variable Function.**</span>](http://wuguoning.github.io/files/diff_multi_var.pdf)
 
 Real Analysis III
 ======
