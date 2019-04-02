@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-[** Real Analysis For Undergraduate **](https://wuguoning.github.io/teaching/2019-spring-teaching-1)
-[** Calculus For Undergraduate **](https://wuguoning.github.io/teaching/2019-spring-teaching-2)
+**Real Analysis For Undergraduate** (https://wuguoning.github.io/teaching/2019-spring-teaching-1)
+
+**Calculus For Undergraduate** (https://wuguoning.github.io/teaching/2019-spring-teaching-2)
 
 
 Recent Projects
