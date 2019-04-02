@@ -21,6 +21,7 @@ Recent Projects
 
 Data
 ======
+* [**MNIST**](https://github.com/wuguoning/neural_network_deep_learning/tree/master/data)
 
 For more info
 ======
