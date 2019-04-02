@@ -25,11 +25,11 @@ Data
 | Data Set              | Domain   | Dimensionality         | Training Set    | Test Set   |
 | --------              | :------: | :--------------:       | :-------------: | ---------: |
 | [MNIST](http://yann.lecun.com/exdb/mnist/)| Version  | 784=28x28              | 60K             | 10K        |
-| SVHN                  | Version  | 3027(32X32 color)      | 600K            | 26K        |
-| CIFAR-10/100          | Version  | 3027(32x32 color)      | 60K             | 10K        |
-| ImageNet(ILSVRC-2012) | Version  | 65536(256x256 color)   | 1.2M            | 150K       |
-| TIMIT                 | Speech   | 2520(120-dim,21frames) | 1.1 frames      | 58K frames |
-| Reuters-RCV1          | Text     | 2000                   | 200K            | 200K       |
+| [SVHN](http://ufldl.stanford.edu/housenumbers/) | Version  | 3027(32X32 color)      | 600K            | 26K        |
+| [CIFAR-10/100](https://www.cs.toronto.edu/~kriz/cifar.html)| Version  | 3027(32x32 color)      | 60K             | 10K        |
+| [ImageNet(ILSVRC-2012)](http://www.image-net.org/) | Version  | 65536(256x256 color)   | 1.2M            | 150K       |
+| [TIMIT](https://catalog.ldc.upenn.edu/LDC93S1)| Speech   | 2520(120-dim,21frames) | 1.1 frames      | 58K frames |
+| [Reuters-RCV1](https://archive.ics.uci.edu/ml/datasets/Reuters+RCV1+RCV2+Multilingual,+Multiview+Text+Categorization+Test+collection)          | Text     | 2000                   | 200K            | 200K       |
 | Alternative Splicing  | Genetics | 1014                   | 2932            | 733        |
 
 * The MNIST database of handwritten digits, available from this page, has a training set of 60,000 examples, and a test set of 10,000 examples. It is a subset of a larger set available from NIST. The digits have been size-normalized and centered in a fixed-size image.
