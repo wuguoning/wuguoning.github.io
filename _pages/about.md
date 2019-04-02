@@ -10,15 +10,15 @@ redirect_from:
 
 Spring 2019
 ------
-1. [**Real Analysis For Undergraduate**](https://wuguoning.github.io/teaching/2019-spring-teaching-1)
+    1. [**Real Analysis For Undergraduate**](https://wuguoning.github.io/teaching/2019-spring-teaching-1)
 
-2. [**Calculus For Undergraduate**](https://wuguoning.github.io/teaching/2019-spring-teaching-2)
+    2. [**Calculus For Undergraduate**](https://wuguoning.github.io/teaching/2019-spring-teaching-2)
 
 
 Recent Projects
 ======
 
-1. Neural Networks and Deep Learning.()
+    1. Neural Networks and Deep Learning.()
 
 Data
 ======
@@ -26,7 +26,7 @@ Data
 For more info
 ======
 
-[^1]: More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
 
 Acknowledgement
 ======
