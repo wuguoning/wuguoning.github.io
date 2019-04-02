@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-[<img src="../images/Realanalysis.png" width="500" height="600">](https://wuguoning.github.io/teaching/2019-spring-teaching-1)
-[<img src="../images/calculus-tongji.png" width="200" height="300">](https://wuguoning.github.io/teaching/2019-spring-teaching-2)
+[<img src="../images/Realanalysis.png">](https://wuguoning.github.io/teaching/2019-spring-teaching-1)
+[<img src="../images/calculus-tongji.png">](https://wuguoning.github.io/teaching/2019-spring-teaching-2)
 
 
 Recent Projects
