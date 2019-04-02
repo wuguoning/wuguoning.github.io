@@ -24,7 +24,7 @@ Data
 
 | Data Set              | Domain   | Dimensionality         | Training Set    | Test Set   |
 | --------              | :------: | :--------------:       | :-------------: | ---------: |
-| MNIST                 | Version  | 784=28x28              | 60K             | 10K        |
+| [MNIST](http://yann.lecun.com/exdb/mnist/)| Version  | 784=28x28              | 60K             | 10K        |
 | SVHN                  | Version  | 3027(32X32 color)      | 600K            | 26K        |
 | CIFAR-10/100          | Version  | 3027(32x32 color)      | 60K             | 10K        |
 | ImageNet(ILSVRC-2012) | Version  | 65536(256x256 color)   | 1.2M            | 150K       |
