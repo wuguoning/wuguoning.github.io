@@ -19,12 +19,9 @@ This Lectures notes were basically based on the books below:
 
 Real Analysis I
 ======
-1. Introduction.
-[Download lecture notes here](http://wuguoning.github.io/files/introduction.pdf)
-2. Limit of Sequence.
-[Download lecture notes here](http://wuguoning.github.io/files/limits.pdf)
-    * Test1. 
-[Download here](http://wuguoning.github.io/files/test1.pdf)
+1. [<span style="color:blue">**Introduction.**</span>](http://wuguoning.github.io/files/introduction.pdf)
+2. [<span> style="color:blue">**Limit of Sequence.**</span>](http://wuguoning.github.io/files/limits.pdf)
+        * [<span> style="color:red"**Test1.**</span>](http://wuguoning.github.io/files/test1.pdf)
 3. Continuity.
 [Download lecture notes here](http://wuguoning.github.io/files/continuity.pdf)
     * Test2.
