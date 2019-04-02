@@ -17,7 +17,7 @@ Spring 2019
 
 Recent Projects
 ======
-1. Neural Networks and Deep Learning.()
+* [**Neural Networks and Deep Learning**](https://github.com/wuguoning/neural_network_deep_learning)
 
 Data
 ======
