@@ -1,14 +1,17 @@
 ---
-title: "Calculus II《微積分》II"
+title: "Calculus II"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2019-spring-teaching-2
+permalink: /teaching/2019-spring-Calculus-2
 venue: "China University of Petroleum at Beijing, Department of Science"
 date: 2019-03-28
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+教材
+--------
+1. 《高等數學》上下冊（第七版），同濟大學數學系編，高等教育出版社，2014.7
+
 
 解析幾何考点
 ------
