@@ -16,7 +16,7 @@ This is a description of a teaching experience. You can use markdown like any ot
 多元函數微分考點
 ------
 
-<img src="../images/diff_mul_score_dis.png" width = "200" height = "500">
+<img src="../images/diff_mul_score_dis.png">
 
 多元函数积分考点
 ------
