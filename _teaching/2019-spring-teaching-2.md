@@ -35,7 +35,7 @@ This is a description of a teaching experience. You can use markdown like any ot
         <td bgcolor="white"> </td>
     </tr>
     <tr>
-        <td>DC=2</td> <td <td bgcolor="white"></td>
+        <td>DC=2</td>  <td bgcolor="white"></td>
         <td bgcolor="yellow">2分</td>
         <td bgcolor="yellow">2分</td>
         <td bgcolor="yellow">2分</td>
