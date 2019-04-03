@@ -8,7 +8,7 @@ date: 2019-03-28
 location: "City, Country"
 ---
 
-This Lectures notes were basically based on the books below:
+These notes are basically based on the books below:
 
 <img src="../images/zorich1.png" width = "80" height = "120">
 <img src="../images/zorich2.png" width = "80" height = "120">

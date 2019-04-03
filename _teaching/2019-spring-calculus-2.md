@@ -8,6 +8,7 @@ date: 2019-03-28
 location: "City, Country"
 ---
 
+These notes are based on the calculus-II.
 
 教材
 ======
