@@ -16,7 +16,48 @@ This is a description of a teaching experience. You can use markdown like any ot
 多元函數微分考點
 ------
 
-<img src="https://github.com/wuguoning/wuguoning.github.io/tree/master/images/diff_mul_score_dis.png">
+<table>
+    <tr>
+        <th rowspan="2">难度系数</th> <th colspan="5">知识要点</th>
+    </tr>
+    
+    <tr>
+        <td>基本概念</td> <td>偏导数-微分-方向导数</td>
+        <td>隐函数</td> <td>复合函数</td> <td>极值</td>
+    </tr>
+    
+    <tr>
+        <td>DC=1</td>
+        <td bgcolor="green">1分</td> 
+        <td bgcolor="green">1分</td>
+        <td bgcolor="white"> </td>
+        <td bgcolor="white"> </td>
+        <td bgcolor="white"> </td>
+    </tr>
+    <tr>
+        <td>DC=2</td> <td <td bgcolor="white"></td>
+        <td bgcolor="yellow">2分</td>
+        <td bgcolor="yellow">2分</td>
+        <td bgcolor="yellow">2分</td>
+        <td bgcolor="yellow">2分</td>
+    </tr>
+    <tr>
+        <td>DC=3</td>
+        <td <td bgcolor="white"></td>
+        <td bgcolor="white"></td>
+        <td bgcolor="red">3分</td>
+        <td bgcolor="red">3分</td>
+        <td bgcolor="red">3分</td>
+    </tr>
+    <tr>
+        <td>DC>=3</td>
+        <td bgcolor="white"></td>
+        <td bgcolor="white"></td>
+        <td bgcolor="white"></td>
+        <td bgcolor="white"></td>
+        <td bgcolor="red">4分</td>
+    </tr>
+</table>
 
 多元函数积分考点
 ------
