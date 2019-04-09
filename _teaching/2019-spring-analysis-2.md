@@ -92,8 +92,9 @@ where the supremum and infimum are taken over all partitions $P$ of the interval
     \lim_{\lambda(P)\to 0}S(f, P) = \overline{I}
   \end{equation*}.
 ```
+
 ```{theorem}
-Here is my theorem.
+  Here is my theorem.
 ```
 The Darboux Criterion for Integrability of a Real-valued Function
 -----------------------------------------------------------------
