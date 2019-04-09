@@ -98,6 +98,17 @@ The Darboux Criterion for Integrability of a Real-valued Function
   A real valued function $f: I \to \mathbb{R}$ defined on an interval $I \subset \mathbb{R^n}$ is integrable over that interval if and only if it is bounded on $I$ and its upper and lower Darboux integrals are equal.
 $$ f \in \mathcal{R}(I) \equiv f \text{ is bounded on } I, \text{and} \underline{I} = \overline{I}. $$
 
+Double Integral Over Non-rectangular Regions
+--------------------------------------------
+\begin{equation}
+  \int_a^b \int_c^d f(x,y)\, \mathrm{d}y\mathrm{d}x = \int_a^b\left[\int_c^d f(x,y)\right]\mathrm{d}x
+        \label{eq:mul_int_6}\tag{6}
+\end{equation}
+\begin{equation}
+  \int_a^b \int_{g_1(x)}^{g_2(x)} f(x,y)\, \mathrm{d}y\mathrm{d}x = \int_a^b\left[\int_{g_1(x)}^{g_2(x)} f(x,y)\right]\mathrm{d}x
+        \label{eq:mul_int_6}\tag{6}
+\end{equation}
+
 
 
 
