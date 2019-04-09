@@ -71,11 +71,10 @@ The quantities
     are called the **lower** and **upper sums** of the function $f$ over the interval $I$ corresponding to the partion $P$ of the interval.
 
 The following relations hold between the Darboux sums a a function $f: I \to \mathbb{R}$:
-
-    1. $s(f, P) = \inf_{\xi} \sigma(f, P, \xi) \le \sigma(f, P, \xi) \le \sup_{\xi}\sigma(f, P, \xi)  = S(f, P)$
-    2. If the partition $P'$ of the interval $I$ is obtained by refining intervals of the partion $P$, then 
+  1. $s(f, P) = \inf_{\xi} \sigma(f, P, \xi) \le \sigma(f, P, \xi) \le \sup_{\xi}\sigma(f, P, \xi)  = S(f, P)$
+  2. If the partition $P'$ of the interval $I$ is obtained by refining intervals of the partion $P$, then 
          $s(f, P) \le s(f, P') \le S(f, P') \le S(f, P)$
-    3. The inequality $s(f, P_1) \le S(f, P_2)$ holds for any pair of partition $P_1, P_2$ of the interval $I$.
+  3. The inequality $s(f, P_1) \le S(f, P_2)$ holds for any pair of partition $P_1, P_2$ of the interval $I$.
 
 
 
