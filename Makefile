@@ -1,4 +1,4 @@
 git:
-	git add -A
-	git commit -m "first page"
+	git add .
+	git commit -m "version1"
 	git push
