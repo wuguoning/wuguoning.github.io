@@ -47,7 +47,7 @@ Real Analysis II
 Let consider the **Volume Problem**
 <div align=“center”>
 <div markdown=“1”>
-  <img src="/images/mul_int_vol2.png" alt="drawing" width = "600"/>{.center}
+  <img src="/images/mul_int_vol2.png" alt="drawing" width = "600"/>
 </div>
 </div>
 
