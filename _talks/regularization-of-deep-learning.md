@@ -33,4 +33,4 @@ This talk is about the regularization methods in deep learning.
 ## 参考文献
 [1]. Srivastava N, Hinton G, Krizhevsky A, et al. Dropout: A simple way to prevent neural networks from overfitting[J]. The Journal of Machine Learning Research, 2014, 15(1): 1929-1958.
 
-[2]. Dropout as data augmentation. http://arxiv.org/abs/1506.08700.
+[2]. [Dropout as data augmentation.](http://arxiv.org/abs/1506.08700)
