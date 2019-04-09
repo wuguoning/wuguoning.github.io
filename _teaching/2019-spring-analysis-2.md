@@ -93,6 +93,10 @@ For any bounded function: $f: I \to \mathbb{R}$,
 \end{equation*}
 ```
 
+The Darboux Criterion for Integrability of a Real-valued Function
+-----------------------------------------------------------------
+
+
 
 
 
