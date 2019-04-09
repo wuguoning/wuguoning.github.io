@@ -72,7 +72,7 @@ Let us consider another criterion for Riemann integrability of a function, which
         \label{eq:mul_int_3} \tag{3}
     \end{equation}
 
-    The quantities
+The quantities
     \begin{equation}
         s(f, P) = \sum_i m_i |I_i|, S(f, P) = \sum_i M_i |I_i|
         \label{eq:mul_int_4}\tag{4}
