@@ -66,18 +66,18 @@ The Darboux Criterion
 ---------------------
 Let us consider another criterion for Riemann integrability of a function, which is applicable only to real-valued function.
 
-* **Lower and Upper Darboux Sums** Let $f$ be a real-valued function on the interval $I$ and $P = {I_i}$ a partition of the interval $I$. We set 
-\begin{equation} 
-    m_i = \inf_{x \in I_i} f(x), M_i = \sup_{x \in I_i}f(x).
-    \label{eq:mul_int_3} \tag{3}
-\end{equation}
+    **Lower and Upper Darboux Sums** Let $f$ be a real-valued function on the interval $I$ and $P = {I_i}$ a partition of the interval $I$. We set 
+    \begin{equation} 
+        m_i = \inf_{x \in I_i} f(x), M_i = \sup_{x \in I_i}f(x).
+        \label{eq:mul_int_3} \tag{3}
+    \end{equation}
 
-* The quantities
-\begin{equation}
-    s(f, P) = \sum_i m_i |I_i|, S(f, P) = \sum_i M_i |I_i|
-    \label{eq:mul_int_4}\tag{4}
-\end{equation}
-are called the **lower** and **upper sums** of the function $f$ over the interval $I$ corresponding to the partion $P$ of the interval.
+    The quantities
+    \begin{equation}
+        s(f, P) = \sum_i m_i |I_i|, S(f, P) = \sum_i M_i |I_i|
+        \label{eq:mul_int_4}\tag{4}
+    \end{equation}
+    are called the **lower** and **upper sums** of the function $f$ over the interval $I$ corresponding to the partion $P$ of the interval.
 
 
 
