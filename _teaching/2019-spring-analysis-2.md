@@ -36,6 +36,7 @@ Real Analysis II
 ## [<span style="color:blue">**Multi-variable Function.**</span>](http://wuguoning.github.io/files/mul_var_fun.pdf)
 ## [<span style="color:blue">**Differential of Multi-variable Function.**</span>](http://wuguoning.github.io/files/diff_multi_var.pdf)
 ## <span style="color:blue">**Multiple Integral.**</span>
+<p>
 ### Introduction 
 * **Volume Problem** Find the volume $V$ of the solid $G$ enclosed between the surface $z = f(x,y)$ and the region $R$ in the $xy-$plane where $f(x,y)$ is continuous and non-negative on $R$.
 
@@ -59,7 +60,8 @@ This sum is called the <span style="color:red">**Rimann sum**</span>.
 $$ \begin{equation} V = \lim_{\lambda(P)\to 0} \sum_{k=1}^n f(\xi_k, \eta_k)\Delta A_k = \iint_R f(x,y)\, \mathrm{d}A \label{eq:mul_int_2} \tag{2}\end{equation}$$
 
 The last term is the notation for the limit of the Riemann sum, and it is called the **double integral** of $f(x,y)$ over $R$.
-
+</p>
+<p>
 ### The Darboux Criterion
 Let us consider another criterion for Riemann integrability of a function, which is applicable only to real-valued function.
 
@@ -74,8 +76,8 @@ Let us consider another criterion for Riemann integrability of a function, which
     s(f, P) = \sum_i m_i |I_i|, S(f, P) = \sum_i M_i |I_i|
     \label{eq:mul_int_4}\tag{4}
 \end{equation}
-
-
+are called the **lower** and **upper sums** of the function $f$ over the interval $I$ corresponding to the partion $P$ of the interval.
+</p>
 
 
 
