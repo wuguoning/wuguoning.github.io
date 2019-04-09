@@ -7,10 +7,7 @@ venue: "China University of Petroleum at Beijing, Science"
 date: 2019-03-28
 location: "City, Country"
 ---
-\newtheorem{definition }{Difinition}[section]
-\newtheorem{theorem}{Theorem}[section]
-\newtheorem{lemma}[theorem]
-\newtheorem{corollary}[theorem]
+
 Real Analysis I
 ======
 ## [<span style="color:blue">**Introduction.**</span>](http://wuguoning.github.io/files/introduction.pdf)
@@ -87,9 +84,12 @@ The **lower** and **upper** Darboux integrals of the function $f: I \to \mathbb{
         \label{eq:mul_int_5}\tag{5}
 \end{equation}
 where the supremum and infimum are taken over all partitions $P$ of the interval $I$.
-\begin{theorem}
-    For any bounded function: $f: I \to \mathbb{R}$, 
-\end{theorem}
+
+> For any bounded function: $f: I \to \mathbb{R}$, 
+$$
+  \lim_{\lambda(P)\to 0}s(f, P) = \underline{I},
+  \lim_{\lambda(P)\to 0}S(f, P) = \overline{I}
+$$
 
 
 
