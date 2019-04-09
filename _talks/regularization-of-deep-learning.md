@@ -19,6 +19,6 @@ location: "San Francisco, California"
 
 ## 为什么Dropout可以解决过拟合现象
 
-1. **平均作用** 每次应用Dropout时，相当于从原始网络中找到一个苗条(slim)的网络，如下图所示![dropout](../images/dropout1.png)
+1. **平均作用** 每次应用Dropout时，相当于从原始网络中找到一个苗条(slim)的网络，如下图所示![dropout](../images/dropout_slim_net.png)
 2. **减少神经元之间复杂的共适应关系**
 3. **Dropout类似与性别在生物进化中的角色**
