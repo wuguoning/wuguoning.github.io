@@ -8,7 +8,7 @@ date: 2019-04-09
 location: "San Francisco, California"
 ---
 
-# Regularization
+This talk is about the regularization methods in deep learning.
 
 ## Methods for prohibiting over-fitting 
 
