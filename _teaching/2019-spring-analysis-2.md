@@ -110,7 +110,7 @@ Double Integral Over Non-rectangular Regions
         \label{eq:mul_int_7}\tag{7}
 \end{equation}
 
-  <img src="/images/double_int1.png" alt="drawing" width = "600"/>
+  <img src="/images/double_int1.png" alt="drawing" width = "800"/>
 
 
 
