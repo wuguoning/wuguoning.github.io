@@ -104,9 +104,10 @@ Double Integral Over Non-rectangular Regions
   \int_a^b \int_c^d f(x,y)\, \mathrm{d}y\mathrm{d}x = \int_a^b\left[\int_c^d f(x,y)\right]\mathrm{d}x
         \label{eq:mul_int_6}\tag{6}
 \end{equation}
+
 \begin{equation}
   \int_a^b \int_{g_1(x)}^{g_2(x)} f(x,y)\, \mathrm{d}y\mathrm{d}x = \int_a^b\left[\int_{g_1(x)}^{g_2(x)} f(x,y)\right]\mathrm{d}x
-        \label{eq:mul_int_6}\tag{6}
+        \label{eq:mul_int_7}\tag{7}
 \end{equation}
 
   <img src="/images/double_int1.png" alt="drawing" width = "600"/>
