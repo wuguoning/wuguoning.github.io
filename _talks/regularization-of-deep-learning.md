@@ -21,7 +21,7 @@ This talk is about the regularization methods in deep learning.
 
 1. **平均作用** 每次应用Dropout时，相当于从原始网络中找到一个苗条(slim)的网络，如下图所示:
 <figure>
-  <img src="../images/dropout_slim_net.png" alt="my alt text"/>
+  <img src="/images/dropout_slim_net.png" alt="my alt text"/>
   <figcaption>Dropout Neural Network.</figcaption>
 </figure>
 对于一个有N个节点的神经网络，根据Dropout原理可以看成训练不同的网络模型，
@@ -32,4 +32,6 @@ This talk is about the regularization methods in deep learning.
 
 ## 参考文献
 [1]. Srivastava N, Hinton G, Krizhevsky A, et al. Dropout: A simple way to prevent neural networks from overfitting[J]. The Journal of Machine Learning Research, 2014, 15(1): 1929-1958.
+---
 [2]. Dropout as data augmentation. http://arxiv.org/abs/1506.08700.
+---
