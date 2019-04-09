@@ -10,14 +10,14 @@ location: "San Francisco, California"
 
 This talk is about the regularization methods in deep learning.
 
-## Methods for prohibiting over-fitting 
+## <span style="color:blue"> Methods for prohibiting over-fitting </span>
 
 * 提前终止
 * L1 and L2 regularization methods
 * Soft weight sharing
 * dropout
 
-## 为什么Dropout可以解决过拟合现象
+## <span style="color:blue"> Why does Dropout can conquer over-fitting? </span>
 
 1. **平均作用** 每次应用Dropout时，相当于从原始网络中找到一个苗条(slim)的网络，如下图所示:
 <figure>
@@ -30,7 +30,7 @@ This talk is about the regularization methods in deep learning.
 2. **减少神经元之间复杂的共适应关系**
 3. **Dropout类似与性别在生物进化中的角色**
 
-## 参考文献
+## </span style="color:blue">参考文献</span>
 [1]. Srivastava N, Hinton G, Krizhevsky A, et al. Dropout: A simple way to prevent neural networks from overfitting[J]. The Journal of Machine Learning Research, 2014, 15(1): 1929-1958.
 
 [2]. [Dropout as data augmentation.](http://arxiv.org/abs/1506.08700)
