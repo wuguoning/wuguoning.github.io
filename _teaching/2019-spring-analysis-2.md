@@ -84,6 +84,9 @@ The **lower** and **upper** Darboux integrals of the function $f: I \to \mathbb{
         \label{eq:mul_int_5}\tag{5}
 \end{equation}
 where the supremum and infimum are taken over all partitions $P$ of the interval $I$.
+\begin{theorem}
+    For any bounded function: $f: I \to \mathbb{R}$, 
+\end{theorem}
 
 
 
