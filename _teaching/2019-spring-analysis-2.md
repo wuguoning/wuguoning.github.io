@@ -65,7 +65,7 @@ Let us consider another criterion for Riemann integrability of a function, which
 
 * **Lower and Upper Darboux Sums** Let $f$ be a real-valued function on the interval $I$ and $P = {I_i}$ a partition of the interval $I$. We set 
 \begin{equation} 
-    m_i = inf_{x \in I_i} f(x), M_i = sup_{x \in I_i}f(x)
+    m_i = \inf_{x \in I_i} f(x), M_i = \sup_{x \in I_i}f(x)
 \end{equation}
 
 
