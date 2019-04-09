@@ -109,6 +109,9 @@ Double Integral Over Non-rectangular Regions
         \label{eq:mul_int_6}\tag{6}
 \end{equation}
 
+  <img src="/images/double_int1.png" alt="drawing" width = "600"/>
+
+
 
 
 
