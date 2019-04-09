@@ -53,6 +53,11 @@ Let us consider the **Volume Problem**
 
 $$ \begin{equation} V \approx \sum_{k=1}^n \Delta V_k = \sum_{k=1}^n f(\xi_k, \eta_k)\Delta A_k = \sum_{k=1}^n f(\xi_k, \eta_k)\Delta x_k \Delta y_k\label{eq:eq1} \tag{1}\end{equation}$$
 
+This sum is called the <span style="color:red">**Rimann sum**</span>.
+3. Take the sides of all the subrectangles to 0, and get 
+
+$$ \begin{equation} V = \lim_{\lambda(P)\to 0} \sum_{k=1}^n f(\xi_k, \eta_k)\Delta A_k = \iint_R f(x,y)\, \mathrm{d}A \label{eq:eq2} \tag{2}\end{equation}$$
+
 
 
 
