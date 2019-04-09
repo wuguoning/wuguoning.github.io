@@ -37,6 +37,11 @@ Real Analysis II
 ## [<span style="color:blue">**Differential of Multi-variable Function.**</span>](http://wuguoning.github.io/files/diff_multi_var.pdf)
 ## <span style="color:blue">**Multiple Integral.**</span>
 ### Introduction 
+1. **Volume Problem** Find the volume $V$ of the solid $G$ enclosed between the surface $z = f(x,y)$ and the region $R$ in the $xy-$plane where $f(x,y)$ is continuous and non-negative on $R$.
+<figure>
+  <img src="/images/multi_int_vol1.png" alt="my alt text"/>
+  <figcaption>Volume of the region.</figcaption>
+</figure>
 
 
 
