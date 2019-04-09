@@ -96,9 +96,9 @@ The Darboux Criterion for Integrability of a Real-valued Function
 -----------------------------------------------------------------
 **Theorem(The Darboux Criterion)**
   A real valued function $f: I \to \mathbb{R}$ defined on an interval $I \subset \mathbb{R^n}$ is integrable over that interval if and only if it is bounded on $I$ and its upper and lower Darboux integrals are equal.
-  \begin{equation*}
+  \begin{equation}
     f \in \mathcal{R}(I) \equiv f \text{ is bounded on } I, \text{and} \uderline{I} = \overline{I}.
-  \end{equation*}
+  \end{equation}
 
 
 
