@@ -76,6 +76,13 @@ The following relations hold between the Darboux sums a a function $f: I \to \ma
          $s(f, P) \le s(f, P') \le S(f, P') \le S(f, P)$
   3. The inequality $s(f, P_1) \le S(f, P_2)$ holds for any pair of partition $P_1, P_2$ of the interval $I$.
 
+Lower and Upper Integrals
+-------------------------
+The **lower** and **upper** Darboux integrals of the function $f: I \to \mathbb{R}$ over the interval $I$ are respectively 
+\begin{equation}
+    \underline{I} = \sup_{P} s(f, P), \overline{I} = \inf_{P} S(f, P)
+\end{equation}
+
 
 
 
