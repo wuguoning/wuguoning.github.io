@@ -8,15 +8,6 @@ date: 2019-03-28
 location: "City, Country"
 ---
 
-These notes are basically based on the books below:
-
-<img src="/images/zorich1.png" width = "80" height = "120">
-<img src="/images/zorich2.png" width = "80" height = "120">
-<img src="/images/huadongtext1.png" width = "90" height = "145">
-<img src="/images/huadongtext2.png" width = "90" height = "125">
-<img src="/images/fudantext.png" width = "130" height = "180">
-
-
 Real Analysis I
 ======
 ## [<span style="color:blue">**Introduction.**</span>](http://wuguoning.github.io/files/introduction.pdf)
@@ -78,6 +69,10 @@ The quantities
         \label{eq:mul_int_4}\tag{4}
     \end{equation}
     are called the **lower** and **upper sums** of the function $f$ over the interval $I$ corresponding to the partion $P$ of the interval.
+
+    The following relations hold between the Darboux sums a a function $f: I \to \mathbb{R}$:
+    (1). $s(f, P) = \inf_{\xi} \sigma(f, P, \xi) \le \sigma(f, P, \xi) \le \sup_{\xi}\sigma(f, P, \xi)  = S(f, P)$
+    (2). If the
 
 
 
