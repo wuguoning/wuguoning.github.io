@@ -117,6 +117,7 @@ Double Integral Over Non-rectangular Regions
         \label{eq:mul_int_8}\tag{8}
 \end{equation}
 
+  <img src="/images/double_int2.png" alt="drawing" width = "800"/>
 
 
 
