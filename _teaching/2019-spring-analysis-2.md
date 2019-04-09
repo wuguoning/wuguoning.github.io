@@ -39,7 +39,7 @@ Real Analysis II
 ### Introduction 
 1. **Volume Problem** Find the volume $V$ of the solid $G$ enclosed between the surface $z = f(x,y)$ and the region $R$ in the $xy-$plane where $f(x,y)$ is continuous and non-negative on $R$.
 <figure>
-  <img src="/images/multi_int_vol1.png" width="200" height="400" alt="my alt text"/>
+  <img src="/images/multi_int_vol1.png" width="100" height="150" alt="my alt text"/>
   <figcaption>Volume of the region.</figcaption>
 </figure>
 
