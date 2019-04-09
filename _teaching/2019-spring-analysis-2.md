@@ -49,7 +49,7 @@ Let us consider the **Volume Problem**
   <img src="/images/mul_int_vol2.png" alt="drawing" width = "600"/>
 
 1. Divide the rectangle enclosing $R$ into subrectangles, and exclude all those rectangles that contain points outside $R$. Let $n$ be the number of all the rectangles inside $R$, and let $\Delta A_k = \Delta x_k \Delta y_k$ be the area of the $k-$th subrectangle.
-2. Choose any point $(\xi_k^*, \eta_k^*)$ in the $k-$th subrectangle. The volume of a rectangular parallelepiped with base area $\Delta A_k$ and height $f(\xi_k^*, \eta_k^*)$ is $\Delta V_k = f(\xi_k^*, \eta_k^*)\Delta A_k$, thus,
+2. Choose any point $(\xi_k, \eta_k)$ in the $k-$th subrectangle. The volume of a rectangular parallelepiped with base area $\Delta A_k$ and height $f(\xi_k, \eta_k)$ is $\Delta V_k = f(\xi_k, \eta_k)\Delta A_k$, thus,
 $$ V \approx \sum_{k=1}^n \Delta V_k = \sum_{k=1}^n$$
 
 
