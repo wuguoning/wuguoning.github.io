@@ -79,7 +79,11 @@ The following relations hold between the Darboux sums a a function $f: I \to \ma
 Lower and Upper Integrals
 -------------------------
 The **lower** and **upper** Darboux integrals of the function $f: I \to \mathbb{R}$ over the interval $I$ are respectively 
-  $$ \underline{I} = \sup_{P} s(f, P), \overline{I} = \inf_{P} S(f, P) $$
+\begin{equation} 
+    \underline{I} = \sup_{P} s(f, P), \overline{I} = \inf_{P} S(f, P) 
+        \label{eq:mul_int_5}\tag{5}
+\end{equation}
+where the supremum and infimum are taken over all partitions $P$ of the interval $I$.
 
 
 
