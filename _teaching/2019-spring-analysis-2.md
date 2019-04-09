@@ -5,8 +5,14 @@ type: "Workshop"
 permalink: /teaching/2019-spring-analysis-2
 venue: "China University of Petroleum at Beijing, Science"
 date: 2019-03-28
+header_includes:
+- \usepackage{amsmath}
+- \usepackage{amssymb}
+- \usepackage{amsthm}
 location: "City, Country"
 ---
+
+\newtheorem{assumption}{Assumption}
 
 Real Analysis I
 ======
@@ -92,6 +98,10 @@ Theorem For any bounded function: $f: I \to \mathbb{R}$,
   \lim_{\lambda(P)\to 0}S(f, P) = \overline{I}
 \end{equation}.
 ```
+
+\begin{assumption}
+$a > b$
+\end{assumption}
 
 The Darboux Criterion for Integrability of a Real-valued Function
 -----------------------------------------------------------------
