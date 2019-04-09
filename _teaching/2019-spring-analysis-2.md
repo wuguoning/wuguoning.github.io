@@ -48,9 +48,17 @@ Let us consider the **Volume Problem**
 
   <img src="/images/mul_int_vol2.png" alt="drawing" width = "600"/>
 
-1. Divide the rectangle enclosing $R$ into subrectangles, and exclude all those rectangles that contain points outside $R$. Let $n$ be the number of all the rectangles inside $R$, and let $\Delta A_k = \Delta x_k \Delta y_k$ be the area of the $k-$th subrectangle.
-2. Choose any point $(\xi_k, \eta_k)$ in the $k-$th subrectangle. The volume of a rectangular parallelepiped with base area $\Delta A_k$ and height $f(\xi_k, \eta_k)$ is $\Delta V_k = f(\xi_k, \eta_k)\Delta A_k$, thus,$$ \begin{equation} V \approx \sum_{k=1}^n \Delta V_k = \sum_{k=1}^n f(\xi_k, \eta_k)\Delta A_k = \sum_{k=1}^n f(\xi_k, \eta_k)\Delta x_k \Delta y_k\label{eq:eq1} \tag{1}\end{equation}$$, This sum is called the <span style="color:red">**Rimann sum**</span>.
-3. Take the sides of all the subrectangles to 0, and get $$ \begin{equation} V = \lim_{\lambda(P)\to 0} \sum_{k=1}^n f(\xi_k, \eta_k)\Delta A_k = \iint_R f(x,y)\, \mathrm{d}A \label{eq:eq2} \tag{2}\end{equation}$$.
+* Divide the rectangle enclosing $R$ into subrectangles, and exclude all those rectangles that contain points outside $R$. Let $n$ be the number of all the rectangles inside $R$, and let $\Delta A_k = \Delta x_k \Delta y_k$ be the area of the $k-$th subrectangle.
+* Choose any point $(\xi_k, \eta_k)$ in the $k-$th subrectangle. The volume of a rectangular parallelepiped with base area $\Delta A_k$ and height $f(\xi_k, \eta_k)$ is $\Delta V_k = f(\xi_k, \eta_k)\Delta A_k$, thus,
+
+$$ \begin{equation} V \approx \sum_{k=1}^n \Delta V_k = \sum_{k=1}^n f(\xi_k, \eta_k)\Delta A_k = \sum_{k=1}^n f(\xi_k, \eta_k)\Delta x_k \Delta y_k\label{eq:eq1} \tag{1}\end{equation}$$, 
+
+This sum is called the <span style="color:red">**Rimann sum**</span>.
+* Take the sides of all the subrectangles to 0, and get 
+
+$$ \begin{equation} V = \lim_{\lambda(P)\to 0} \sum_{k=1}^n f(\xi_k, \eta_k)\Delta A_k = \iint_R f(x,y)\, \mathrm{d}A \label{eq:eq2} \tag{2}\end{equation}$$.
+
+The last term is the notation for the limit of the Riemann sum, and it is called the **double integral** of $f(x,y)$ over $R$.
 
 
 
