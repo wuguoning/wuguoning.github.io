@@ -51,7 +51,7 @@ Let us consider the **Volume Problem**
 1. Divide the rectangle enclosing $R$ into subrectangles, and exclude all those rectangles that contain points outside $R$. Let $n$ be the number of all the rectangles inside $R$, and let $\Delta A_k = \Delta x_k \Delta y_k$ be the area of the $k-$th subrectangle.
 2. Choose any point $(\xi_k, \eta_k)$ in the $k-$th subrectangle. The volume of a rectangular parallelepiped with base area $\Delta A_k$ and height $f(\xi_k, \eta_k)$ is $\Delta V_k = f(\xi_k, \eta_k)\Delta A_k$, thus,
 
-$$ \begin{equation} V \approx \sum_{k=1}^n \Delta V_k = \sum_{k=1}^n \label{eq:eq1} \tag{1}\end{equation}$$
+$$ \begin{equation} V \approx \sum_{k=1}^n \Delta V_k = \sum_{k=1}^n f(\xi_k, \eta_k)\Delta A_k = \sum_{k=1}^n f(\xi_k, \eta_k)\Delta x_k \Delta y_k\label{eq:eq1} \tag{1}\end{equation}$$
 
 
 
