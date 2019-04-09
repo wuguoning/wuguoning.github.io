@@ -9,13 +9,15 @@ location: "San Francisco, California"
 ---
 
 This talk is about the regularization methods in deep learning.
+## <span style="color:blue"> Introduction </span>
+> Deep neural networks contain multiple non-linear hidden layers and this makes them very expressive models that can learn very complicated relationships between their inputs and outputs. With limited data, however, many of these complicated relationships will be the result of sampling noise, so they will exist in the training set but not in real test data even if it is drawn from the same distribution. This leads to overfitting and many methods have been developed for reducing it. These including:
+* Stopping the training as soon as performance on a validation set starts to get wrose;
+* Introducing weight penalties of various kinds such as:
+    * $L1$ regularization;
+    * $L2$ regularization;
+    * Soft weight sharing;
+    * Dropout method.
 
-## <span style="color:blue"> Methods for prohibiting over-fitting </span>
-
-* 提前终止
-* L1 and L2 regularization methods
-* Soft weight sharing
-* dropout
 
 ## <span style="color:blue"> Why does Dropout can conquer over-fitting? </span>
 
