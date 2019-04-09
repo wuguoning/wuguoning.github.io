@@ -1,14 +1,14 @@
 ---
 title: "Real Analysis For Undergraduate"
+header_includes:
+- \usepackage{amsmath}
+- \usepackage{amssymb}
+- \usepackage{amsthm}
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2019-spring-analysis-2
 venue: "China University of Petroleum at Beijing, Science"
 date: 2019-03-28
-header_includes:
-- \usepackage{amsmath}
-- \usepackage{amssymb}
-- \usepackage{amsthm}
 location: "City, Country"
 ---
 
