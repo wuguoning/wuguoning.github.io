@@ -106,12 +106,16 @@ Double Integral Over Non-rectangular Regions
 \end{equation}
 
 \begin{equation}
-  \int_a^b \int_{g_1(x)}^{g_2(x)} f(x,y)\, \mathrm{d}y\mathrm{d}x = \int_a^b\left[\int_{g_1(x)}^{g_2(x)} f(x,y)\right]\mathrm{d}x
+  \int_a^b \int_{g_1(x)}^{g_2(x)} f(x,y)\, \mathrm{d}y\mathrm{d}x = \int_a^b\left[\int_{g_1(x)}^{g_2(x)} f(x,y)\mathrm{d}y\right]\mathrm{d}x
         \label{eq:mul_int_7}\tag{7}
 \end{equation}
 
   <img src="/images/double_int1.png" alt="drawing" width = "800"/>
 
+\begin{equation}
+  \int_a^b \int_{h_1(y)}^{h_2(y)} f(x,y)\, \mathrm{d}x\mathrm{d}y = \int_a^b\left[\int_{h_1(y)}^{h_2(y)} f(x,y)\mathrm{d}x\right]\mathrm{d}y
+        \label{eq:mul_int_8}\tag{8}
+\end{equation}
 
 
 
