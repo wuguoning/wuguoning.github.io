@@ -30,7 +30,7 @@ This talk is about the regularization methods in deep learning.
 2. **减少神经元之间复杂的共适应关系**
 3. **Dropout类似与性别在生物进化中的角色**
 
-## </span style="color:blue">参考文献</span>
+## <span style="color:blue">参考文献</span>
 [1]. Srivastava N, Hinton G, Krizhevsky A, et al. Dropout: A simple way to prevent neural networks from overfitting[J]. The Journal of Machine Learning Research, 2014, 15(1): 1929-1958.
 
 [2]. [Dropout as data augmentation.](http://arxiv.org/abs/1506.08700)
