@@ -88,8 +88,7 @@ where the supremum and infimum are taken over all partitions $P$ of the interval
 
 **Theorem**
   For any bounded function: 
-
-  $$f: I \to \mathbb{R}, \lim_{\lambda(P)\to 0}s(f, P) = \underline{I},\lim_{\lambda(P)\to 0}S(f, P) = \overline{I}$$
+  $$ f: I \to \mathbb{R}, \lim_{\lambda(P)\to 0}s(f, P) = \underline{I},\lim_{\lambda(P)\to 0}S(f, P) = \overline{I} $$
 
 
 
@@ -97,8 +96,9 @@ The Darboux Criterion for Integrability of a Real-valued Function
 -----------------------------------------------------------------
 **Theorem(The Darboux Criterion)**
   A real valued function $f: I \to \mathbb{R}$ defined on an interval $I \subset \mathbb{R^n}$ is integrable over that interval if and only if it is bounded on $I$ and its upper and lower Darboux integrals are equal.
-  
-$$f \in \mathcal{R}(I) \equiv f \text{ is bounded on } I, \text{and} \underline{I} = \overline{I}.$$
+$$ f \in \mathcal{R}(I) \equiv f \text{ is bounded on } I, \text{and} \underline{I} = \overline{I}. $$
+
+
 
 
 
