@@ -85,16 +85,15 @@ The **lower** and **upper** Darboux integrals of the function $f: I \to \mathbb{
 \end{equation}
 where the supremum and infimum are taken over all partitions $P$ of the interval $I$.
 
-```{theorem, name="Darboux"}
-  For any bounded function: $f: I \to \mathbb{R}$, 
+<strong> Theorem For any bounded function: $f: I \to \mathbb{R}$, 
   \begin{equation*}
     \lim_{\lambda(P)\to 0}s(f, P) = \underline{I},
     \lim_{\lambda(P)\to 0}S(f, P) = \overline{I}
   \end{equation*}.
-```
+</strong>
 
 ```{theorem}
-  Here is my theorem.
+Here is my theorem.
 ```
 <em>single asterisks</em>
 
