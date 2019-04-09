@@ -23,5 +23,10 @@ This talk is about the regularization methods in deep learning.
 | ![dropout](../images/dropout_slim_net.png) |
 |:--:|
 | * Dropout Neural Network * |
+
+<figure>
+  <img src="../images/dropout_slim_net.png" alt="my alt text"/>
+  <figcaption>Dropout Neural Network.</figcaption>
+</figure>
 2. **减少神经元之间复杂的共适应关系**
 3. **Dropout类似与性别在生物进化中的角色**
