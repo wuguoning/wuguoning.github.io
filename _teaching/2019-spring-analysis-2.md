@@ -10,11 +10,11 @@ location: "City, Country"
 
 These notes are basically based on the books below:
 
-<img src="../images/zorich1.png" width = "80" height = "120">
-<img src="../images/zorich2.png" width = "80" height = "120">
-<img src="../images/huadongtext1.png" width = "90" height = "145">
-<img src="../images/huadongtext2.png" width = "90" height = "125">
-<img src="../images/fudantext.png" width = "130" height = "180">
+<img src="/images/zorich1.png" width = "80" height = "120">
+<img src="/images/zorich2.png" width = "80" height = "120">
+<img src="/images/huadongtext1.png" width = "90" height = "145">
+<img src="/images/huadongtext2.png" width = "90" height = "125">
+<img src="/images/fudantext.png" width = "130" height = "180">
 
 
 Real Analysis I
@@ -35,7 +35,7 @@ Real Analysis II
 1. [<span style="color:blue">**Definite Integral.**</span>](http://wuguoning.github.io/files/integral.pdf)
 2. [<span style="color:blue">**Multi-variable Function.**</span>](http://wuguoning.github.io/files/mul_var_fun.pdf)
 3. [<span style="color:blue">**Differential of Multi-variable Function.**</span>](http://wuguoning.github.io/files/diff_multi_var.pdf)
-4. [<span style="color:blue">**Multiple Integral.**</span>](http://wuguoning.github.io/files/diff_multi_var.pdf)
+4. [<span style="color:blue">**Multiple Integral.**</span>](http://wuguoning.github.io/files/multiple_integral.md)
 Real Analysis III
 ======
 
