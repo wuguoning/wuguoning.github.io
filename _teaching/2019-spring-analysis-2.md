@@ -45,8 +45,12 @@ Real Analysis II
     <img src="/images/mul_int_mass1.png" alt="drawing" width = "200"/> {.center}
 
 Let consider the **Volume Problem**
-
+<div align=“center”>
+<div markdown=“1”>
   <img src="/images/mul_int_vol2.png" alt="drawing" width = "600"/>{.center}
+</div>
+</div>
+
 
 
 
