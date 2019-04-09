@@ -1,9 +1,5 @@
 ---
 title: "Real Analysis For Undergraduate"
-header_includes:
-- \usepackage{amsmath}
-- \usepackage{amssymb}
-- \usepackage{amsthm}
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2019-spring-analysis-2
@@ -12,7 +8,6 @@ date: 2019-03-28
 location: "City, Country"
 ---
 
-\newtheorem{assumption}{Assumption}
 
 Real Analysis I
 ======
@@ -92,16 +87,13 @@ The **lower** and **upper** Darboux integrals of the function $f: I \to \mathbb{
 where the supremum and infimum are taken over all partitions $P$ of the interval $I$.
 
 ```{theorem}
-Theorem For any bounded function: $f: I \to \mathbb{R}$, 
+For any bounded function: $f: I \to \mathbb{R}$, 
 \begin{equation}
   \lim_{\lambda(P)\to 0}s(f, P) = \underline{I},
   \lim_{\lambda(P)\to 0}S(f, P) = \overline{I}
 \end{equation}.
 ```
 
-\begin{assumption}
-$a > b$
-\end{assumption}
 
 The Darboux Criterion for Integrability of a Real-valued Function
 -----------------------------------------------------------------
