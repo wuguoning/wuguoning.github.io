@@ -20,10 +20,6 @@ This talk is about the regularization methods in deep learning.
 ## 为什么Dropout可以解决过拟合现象
 
 1. **平均作用** 每次应用Dropout时，相当于从原始网络中找到一个苗条(slim)的网络，如下图所示
-| ![dropout](../images/dropout_slim_net.png) |
-|:--:|
-| * Dropout Neural Network * |
-
 <figure>
   <img src="../images/dropout_slim_net.png" alt="my alt text"/>
   <figcaption>Dropout Neural Network.</figcaption>
