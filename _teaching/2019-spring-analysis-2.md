@@ -87,12 +87,13 @@ The **lower** and **upper** Darboux integrals of the function $f: I \to \mathbb{
 where the supremum and infimum are taken over all partitions $P$ of the interval $I$.
 
 ```{theorem}
-For any bounded function: $f: I \to \mathbb{R}$, 
+For any bounded function: 
+```
+$f: I \to \mathbb{R}$, 
 \begin{equation}
   \lim_{\lambda(P)\to 0}s(f, P) = \underline{I},
   \lim_{\lambda(P)\to 0}S(f, P) = \overline{I}
 \end{equation}.
-```
 
 
 The Darboux Criterion for Integrability of a Real-valued Function
