@@ -7,7 +7,10 @@ venue: "China University of Petroleum at Beijing, Science"
 date: 2019-03-28
 location: "City, Country"
 ---
-
+\newtheorem{definition }{Difinition}[section]
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{lemma}[theorem]
+\newtheorem{corollary}[theorem]
 Real Analysis I
 ======
 ## [<span style="color:blue">**Introduction.**</span>](http://wuguoning.github.io/files/introduction.pdf)
