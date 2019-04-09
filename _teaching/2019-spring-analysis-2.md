@@ -39,13 +39,13 @@ Real Analysis II
 ### Introduction 
 1. **Volume Problem** Find the volume $V$ of the solid $G$ enclosed between the surface $z = f(x,y)$ and the region $R$ in the $xy-$plane where $f(x,y)$ is continuous and non-negative on $R$.
 <figure>
-  <img src="/images/multi_int_vol1.png" width="80" height="100" >
+  <img src="/images/multi_int_vol1.png" width="10" height="20" >
   <figcaption>Volume of the region.</figcaption>
 </figure>
 
 2. **Mass Problem** Find the mass $M$ of a lamina (a region $R$ in the $xy-$plane) whose density is a continuous nonnegative function $\rho(x,y)$
 <figure>
-  <img src="/images/mul_int_mass1.png" width="80" height="100" >
+  <img src="/images/mul_int_mass1.png" width="10" height="40" >
   <figcaption>Mass of a lamina.</figcaption>
 </figure>
 
