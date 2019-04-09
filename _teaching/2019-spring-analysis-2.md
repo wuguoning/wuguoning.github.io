@@ -96,21 +96,13 @@ where the supremum and infimum are taken over all partitions $P$ of the interval
 ```{theorem}
   Here is my theorem.
 ```
-+-- {: .num_lemma #LeftCosetsDisjoint}
- ###### Lemma
- Let $H$ be a subgroup of a group $G$, and let $x$ and $y$ be elements
- of $G$. Suppose that $x H \cap y H$ is non-empty. Then $x H = y H$.
- =--
+<em>single asterisks</em>
 
- +-- {: .proof}
- ###### Proof
- Let $z$ be some element of $x H \cap y H$.  Then $z = x a$ for some
- $a \in H$, and $z = y b$ for some $b \in H$.  If $h$ is any element
- of $H$ then $a h \in H$ and $a^{-1}h \in H$, since $H$ is a subgroup
- of $G$. But $z h = x(a h)$ and $x h = z(a^{-1}h)$ for all $h \in H$.
- Therefore $z H \subset x H$ and $x H \subset z H$, and thus
- $x H = z H$. Similarly $y H = z H$, and thus $x H = y H$, as required.
- =--
+<em>single underscores</em>
+
+<strong>double asterisks</strong>
+
+<strong>double underscores</strong>
 
 The Darboux Criterion for Integrability of a Real-valued Function
 -----------------------------------------------------------------
