@@ -58,6 +58,10 @@ The feed-forward operation of a standard neural network (Figure a) can be descri
   y_i^{(l+1)}  = f\left(z_i^{(l+1)}\right)
   \label{eq:dropout2} \tag{2}
 \end{equation}
+  <figure>
+    <img src="/images/dropout_newwork1.png" alt="my alt text"/>
+    <figcaption>Dropout Neural Network.</figcaption>
+  </figure>
 
 <span style="color:blue">Reference</span>
 ----------------------------------------
