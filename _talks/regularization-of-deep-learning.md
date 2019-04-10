@@ -59,6 +59,32 @@ The feed-forward operation of a standard neural network (Figure a) can be descri
     <figcaption>Dropout Neural Network.</figcaption>
   </figure>
 
+
+<span style="color:blue">Simple Code for Dropout</span>
+----------------------------------------
+```
+# coding:utf-8
+import numpy as np
+
+def dropout(x, level):
+    if level < 0. or level >= 1: 
+        raise ValueError('Dropout level must be in interval [0, 1[.')
+    retain_prob = 1. - level
+
+    random_tensor = np.random.binomial(n=1, p=retain_prob, size=x.shape) 
+    print(random_tensor)
+
+    x *= random_tensor
+    print(x)
+    x /= retain_prob
+    print(x)
+
+    return x
+
+x=np.asarray([1,2,3,4,5,6,7,8,9,10],dtype=np.float32)
+dropout(x,0.5)
+```
+
 <span style="color:blue">Reference</span>
 ----------------------------------------
 [1]. Srivastava N, Hinton G, Krizhevsky A, et al. Dropout: A simple way to prevent neural networks from overfitting[J]. The Journal of Machine Learning Research, 2014, 15(1): 1929-1958.
