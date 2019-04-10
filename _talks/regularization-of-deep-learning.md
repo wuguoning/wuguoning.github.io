@@ -41,21 +41,26 @@ This talk is about the regularization methods in deep learning.
 --------------------------------------------------
 The feed-forward operation of a standard neural network (Figure a) can be described as (for $l \in {0, \cdots, L-1}$) and any hidden unit $i$
 \begin{equation}
-  z_i^{(l+1)} = \mathbf{w}_i^{(l+1)}\mathbf{y}^l + b_i^{(l+1)},
-  y_i^{(l+1)} = f\left(z_i^{(l+1)}\right)
+  \begin{split}
+  z_i^{(l+1)} & = \mathbf{w}_i^{(l+1)}\mathbf{y}^l + b_i^{(l+1)}\\
+  y_i^{(l+1)} & = f\left(z_i^{(l+1)}\right)
+  \end{split}
   \label{eq:dropout1} \tag{1}
 \end{equation}
 
   With dropout, the feed-forward operation becomes
 \begin{equation}
-  r_j^{(l)} \sim \text{Bernoulli(p)} \\
-  \widetilde{\mathbf{y}}^{(l)} = \mathbf{r}^{(l)} \mathbf{y}^{(l)}\\ 
-  z_i^{(l+1)} = \mathbf{w}_i^{(l+1)}\widetilde{\mathbf{y}}^l + b_i^{(l+1)}\\
-  y_i^{(l+1)} = f\left(z_i^{(l+1)}\right)
+  \begin{split}
+  r_j^{(l)} & \sim \text{Bernoulli(p)} \\
+  \widetilde{\mathbf{y}}^{(l)} & = \mathbf{r}^{(l)} \mathbf{y}^{(l)}\\ 
+  z_i^{(l+1)} & = \mathbf{w}_i^{(l+1)}\widetilde{\mathbf{y}}^l + b_i^{(l+1)}\\
+  y_i^{(l+1)} & = f\left(z_i^{(l+1)}\right)
+  \end{split}
   \label{eq:dropout2} \tag{2}
 \end{equation}
 
 <span style="color:blue">Reference</span>
+----------------------------------------
 [1]. Srivastava N, Hinton G, Krizhevsky A, et al. Dropout: A simple way to prevent neural networks from overfitting[J]. The Journal of Machine Learning Research, 2014, 15(1): 1929-1958.
 
 [2]. [Dropout as data augmentation.](http://arxiv.org/abs/1506.08700)
