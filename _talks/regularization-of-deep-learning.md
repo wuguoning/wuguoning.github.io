@@ -55,7 +55,7 @@ The feed-forward operation of a standard neural network (Figure a) can be descri
   \label{eq:dropout2} \tag{2}
 \end{equation}
   <figure>
-    <img src="/images/dropout_newwork1.png" alt="my alt text"/>
+    <img src="/images/dropout_network1.png" alt="my alt text"/>
     <figcaption>Dropout Neural Network.</figcaption>
   </figure>
 
