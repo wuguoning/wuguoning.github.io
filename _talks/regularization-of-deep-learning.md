@@ -1,5 +1,5 @@
 ---
-title: "Regularization of Deep Learning"
+title: "Dropout: a Regularization Method for Deep Learning"
 collection: talks
 type: "Talk"
 permalink: /talks/regularization-of-deep-learning

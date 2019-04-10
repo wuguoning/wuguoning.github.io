@@ -7,7 +7,7 @@ venue: "China University of Petroleum at Beijing, Science"
 date: 2019-03-28
 location: "City, Country"
 ---
-
+**`These are lectures notes and tests for real analysis.`**
 
 
 Real Analysis I
