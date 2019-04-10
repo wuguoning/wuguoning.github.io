@@ -62,7 +62,8 @@ The feed-forward operation of a standard neural network (Figure a) can be descri
 
 <span style="color:blue">Simple Code for Dropout</span>
 ----------------------------------------
-```
+
+```ruby
 # coding:utf-8
 import numpy as np
 
