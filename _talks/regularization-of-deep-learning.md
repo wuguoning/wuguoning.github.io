@@ -41,21 +41,21 @@ This talk is about the regularization methods in deep learning.
 --------------------------------------------------
 The feed-forward operation of a standard neural network (Figure a) can be described as (for $l \in {0, \cdots, L-1}$) and any hidden unit $i$
 \begin{equation}
-  \begin{split}
-  z_i^{(l+1)} & = \mathbf{w}_i^{(l+1)}\mathbf{y}^l + b_i^{(l+1)}\\
+  z_i^{(l+1)} & = \mathbf{w}_i^{(l+1)}\mathbf{y}^l + b_i^{(l+1)}
+
   y_i^{(l+1)} & = f\left(z_i^{(l+1)}\right)
-  \end{split}
   \label{eq:dropout1} \tag{1}
 \end{equation}
 
   With dropout, the feed-forward operation becomes
 \begin{equation}
-  \begin{split}
-  r_j^{(l)} & \sim \text{Bernoulli(p)} \\
-  \widetilde{\mathbf{y}}^{(l)} & = \mathbf{r}^{(l)} \mathbf{y}^{(l)}\\ 
-  z_i^{(l+1)} & = \mathbf{w}_i^{(l+1)}\widetilde{\mathbf{y}}^l + b_i^{(l+1)}\\
+  r_j^{(l)} & \sim \text{Bernoulli(p)} 
+
+  \widetilde{\mathbf{y}}^{(l)} & = \mathbf{r}^{(l)} \mathbf{y}^{(l)}
+
+  z_i^{(l+1)} & = \mathbf{w}_i^{(l+1)}\widetilde{\mathbf{y}}^l + b_i^{(l+1)}
+
   y_i^{(l+1)} & = f\left(z_i^{(l+1)}\right)
-  \end{split}
   \label{eq:dropout2} \tag{2}
 \end{equation}
 
