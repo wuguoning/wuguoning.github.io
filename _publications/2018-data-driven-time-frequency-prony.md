@@ -9,6 +9,6 @@ paperurl: 'http://wuguoning.github.io/files/Data-driven-tf-prony.pdf'
 ---
 This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://wuguoning.github.io/files/paper3.pdf)
+[Download paper here](http://wuguoning.github.io/files/Data-driven-tf-prony.pdf)
 
 Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
