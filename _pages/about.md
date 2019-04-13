@@ -1,18 +1,26 @@
 ---
 permalink: /
-title: "Teaching"
+title: "Outline"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+This is an outline about my research and teaching etc.
+
+Teaching
+=========
 
 Spring 2019
 ------
 * [<span style="color:blue">**Real Analysis For Undergraduate**</span>](https://wuguoning.github.io/teaching/2019-spring-analysis-2)
 
 * [<span style="color:blue">**Calculus For Undergraduate**</span>](https://wuguoning.github.io/teaching/2019-spring-calculus-2)
+
+Research Papers
+==============
+* [<span style="color:blue">**Research Papers**</span>](https://wuguoning.github.io/publications)
 
 
 Recent Projects
