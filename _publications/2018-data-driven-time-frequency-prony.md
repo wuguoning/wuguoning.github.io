@@ -1,7 +1,7 @@
 ---
 title: "Data-driven time-frequency analysis of seismic data using non-stationary Prony method"
 collection: publications
-permalink: /publication/2018-data-driven-time-frequency-prony
+permalink: /publications/2018-data-driven-time-frequency-prony
 excerpt: 'This paper is about time-frequency method based on non-stationary Prony method used to analyze seismic data.'
 date: 2018-1
 venue: 'Geophysical Prospecting'
