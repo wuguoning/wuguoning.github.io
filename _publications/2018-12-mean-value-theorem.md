@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "微分均值定理及其推廣"
 collection: publications
 permalink: /publication/2018-12-mean-value-theorem
 excerpt: 'This paper is about the generalization of mean value theorem.'
