@@ -6,7 +6,6 @@ excerpt: 'This paper is about seismic data analysis using synchrosqueezing short
 date: 2018-04-01
 venue: 'J. Geophys. Eng.'
 paperurl: 'http://wuguoning.github.io/files/seismic_data_analysis_sstf.pdf'
-citation: 'Guoning Wu and Yatong Zhou. (2018). &quot;Seismic Data Analysis Using Synchrosqueezing Short Time Fourier Analysis.&quot; <i>J. Geophys. Eng.</i>. 15.'
 ---
 This paper is about seismic data analysis using sychrosqueezing short time Fourier analysis.
 
