@@ -31,9 +31,6 @@ Real Analysis II
   [<span style="color:red">**Test6.**</span>](http://wuguoning.github.io/files/test6.pdf)
 4. [<span style="color:blue">**Multiple Integral.**</span>](http://wuguoning.github.io/files/mul_int.pdf)
 
-5. [<span style="color:blue">**test.**</span>](http://wuguoning.github.io/files/test1.pdf)
-6. [<span style="color:blue">**test.**</span>](http://wuguoning.github.io/files/test1.pdf)
-
 
 Real Analysis III
 ======

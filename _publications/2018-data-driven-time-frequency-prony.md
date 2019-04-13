@@ -3,12 +3,12 @@ title: "Data-driven time-frequency analysis of seismic data using non-stationary
 collection: publications
 permalink: /publications/2018-data-driven-time-frequency-prony
 excerpt: 'This paper is about time-frequency method based on non-stationary Prony method used to analyze seismic data.'
-date: 2018-10-01
+date: 2018-01-01
 venue: 'Geophysical Prospecting'
 paperurl: 'http://wuguoning.github.io/files/Data-driven-tf-prony.pdf'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+This paper is about time frequency analysis of seismic data using non-stationary Prony method.
 
 [Download paper here](http://wuguoning.github.io/files/Data-driven-tf-prony.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Guoning Wu, Sergey Fomel and Yangkang Chen. (2018). "Data-driven time-frequency analysis of seismic data using non-stationary Prony method." <i>Geophysical Prospecting</i>. 66(1).
