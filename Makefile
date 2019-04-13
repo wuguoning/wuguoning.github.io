@@ -1,4 +1,4 @@
 git:
 	git add .
-	git commit -m "version1"
+	git commit -m "version3"
 	git push
