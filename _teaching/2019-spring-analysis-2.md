@@ -25,12 +25,12 @@ Real Analysis I
 
 Real Analysis II
 ======
-7. [<span style="color:blue">**Definite Integral.**</span>](http://wuguoning.github.io/files/integral.pdf)
-8. [<span style="color:blue">**Multi-variable Function.**</span>](http://wuguoning.github.io/files/mul_var_fun.pdf)
-9. [<span style="color:blue">**Differential of Multi-variable Function.**</span>](http://wuguoning.github.io/files/diff_multi_var.pdf)
+1. [<span style="color:blue">**Definite Integral.**</span>](http://wuguoning.github.io/files/integral.pdf)
+2. [<span style="color:blue">**Multi-variable Function.**</span>](http://wuguoning.github.io/files/mul_var_fun.pdf)
+3. [<span style="color:blue">**Differential of Multi-variable Function.**</span>](http://wuguoning.github.io/files/diff_multi_var.pdf)
   [<span style="color:red">**Test6.**</span>](http://wuguoning.github.io/files/test6.pdf)
-10. [<span style="color:blue">**Multiple Integral.**</span>](http://wuguoning.github.io/files/mul_int.pdf)
-11. [<span style="color:blue">**test.**</span>](http://wuguoning.github.io/files/test1.pdf)
+4. [<span style="color:blue">**Multiple Integral.**</span>](http://wuguoning.github.io/files/mul_int.pdf)
+5. [<span style="color:blue">**test.**</span>](http://wuguoning.github.io/files/test1.pdf)
 
 
 Real Analysis III
