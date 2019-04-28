@@ -26,6 +26,7 @@ Research Papers
 Recent Projects
 ======
 * [<span style="color:blue">**Neural Networks and Deep Learning**</span>](https://github.com/wuguoning/neural_network_deep_learning)
+* [<span style="color:blue">**Pattern Recognition and Maching Learning**</span>](https://github.com/wuguoning/PRML)
 
 Data
 ======
