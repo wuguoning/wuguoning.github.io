@@ -29,10 +29,13 @@ Real Analysis II
 2. [<span style="color:blue">**Multi-variable Function.**</span>](http://wuguoning.github.io/files/mul_var_fun.pdf)
 3. [<span style="color:blue">**Differential of Multi-variable Function.**</span>](http://wuguoning.github.io/files/diff_multi_var.pdf)
   [<span style="color:red">**Test6.**</span>](http://wuguoning.github.io/files/test6.pdf)
+  [<span style="color:red">**Test6_answer.**</span>](http://wuguoning.github.io/files/mulvar_diff_test_ans.pdf)
 4. [<span style="color:blue">**Multiple Integral.**</span>](http://wuguoning.github.io/files/mul_int.pdf)
   [<span style="color:red">**Test7.**</span>](http://wuguoning.github.io/files/mul_int_test.pdf)
+  [<span style="color:red">**Test7.**</span>](http://wuguoning.github.io/files/mulvar_int_test_ans.pdf)
 5. [<span style="color:blue">**Line and Surface Integral.**</span>](http://wuguoning.github.io/files/line_and_surface.pdf)
   [<span style="color:red">**Test8.**</span>](http://wuguoning.github.io/files/line_surface_int_test.pdf)
+  [<span style="color:red">**Test8.**</span>](http://wuguoning.github.io/files/lineSurface_test_ans.pdf)
 
 
 Real Analysis III
