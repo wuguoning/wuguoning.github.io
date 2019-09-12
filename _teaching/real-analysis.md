@@ -12,37 +12,61 @@ location: "City, Country"
 
 Real Analysis I
 ======
-1. [<span style="color:blue">**Introduction.**</span>](http://wuguoning.github.io/files/introduction.pdf)
-2. [<span style="color:blue">**Limit of Sequence.**</span>](http://wuguoning.github.io/files/limits.pdf)
-  [<span style="color:red">**Test1.**</span>](http://wuguoning.github.io/files/test1.pdf)
-3. [<span style="color:blue">**Continuity.**</span>](http://wuguoning.github.io/files/continuity.pdf)
-  [<span style="color:red">**Test2.**</span>](http://wuguoning.github.io/files/test2.pdf)
-4. [<span style="color:blue">**Derivative of One Variable Function.**</span>](http://wuguoning.github.io/files/derivative.pdf)
-  [<span style="color:red">**Test3.**</span>](http://wuguoning.github.io/files/test3.pdf)
-5. [<span style="color:blue">**Primitive.**</span>](http://wuguoning.github.io/files/primitive.pdf)
-  [<span style="color:red">**Test4.**</span>](http://wuguoning.github.io/files/test4.pdf)
-6. [<span style="color:blue">**Midterm Test.**</span>](http://wuguoning.github.io/files/midtermtest18-19-1.pdf)
+## Introduction
+### The Motivation for Calculus
+Following hard on the adoption of the function concept came the calculus, which, next to Euclidean geometry, is the greatest in all of mathematics. Though is was to some extent the answer  to problems already tackled by the Greeks, the calculus was created primarily to treat the major scientific problems of the seventeenth century.
 
-Real Analysis II
-======
-1. [<span style="color:blue">**Definite Integral.**</span>](http://wuguoning.github.io/files/integral.pdf)
-2. [<span style="color:blue">**Multi-variable Function.**</span>](http://wuguoning.github.io/files/mul_var_fun.pdf)
-3. [<span style="color:blue">**Differential of Multi-variable Function.**</span>](http://wuguoning.github.io/files/diff_multi_var.pdf)
-  [<span style="color:red">**Test6.**</span>](http://wuguoning.github.io/files/test6.pdf)
-  [<span style="color:red">**Test6_answer.**</span>](http://wuguoning.github.io/files/mulvar_diff_test_ans.pdf)
-4. [<span style="color:blue">**Multiple Integral.**</span>](http://wuguoning.github.io/files/mul_int.pdf)
-  [<span style="color:red">**Test7.**</span>](http://wuguoning.github.io/files/mul_int_test.pdf)
-  [<span style="color:red">**Test7_answer.**</span>](http://wuguoning.github.io/files/mulvar_int_test_ans.pdf)
-5. [<span style="color:blue">**Line and Surface Integral.**</span>](http://wuguoning.github.io/files/line_and_surface.pdf)
-  [<span style="color:red">**Test8.**</span>](http://wuguoning.github.io/files/line_surface_int_test.pdf)
-  [<span style="color:red">**Test8_answer.**</span>](http://wuguoning.github.io/files/lineSurface_test_ans.pdf)
-6. [<span style="color:blue">**Final Test.**</span>](http://wuguoning.github.io/files/2018-2019-2-final-test-and-ans.pdf)
+There were four major types of problems. The first was: Given the formula for the distance a body covers as a function of time, to find the velocity and acceleration at any instant; and, conversely, given the formula describing the acceleration of a body as a function of the time, to find the velocity and the distance traveled.
 
+The second type of problem was to find the tangent to a curve. It was a problem of pure geometry, and it was of great importance  for scientific applications.
 
-Real Analysis III
-======
-1. [<span style="color:blue">**Series.**</span>](http://wuguoning.github.io/files/series.pdf)
-2. [<span style="color:blue">**Power Series.**</span>](http://wuguoning.github.io/files/powerSeries.pdf)
-3. [<span style="color:blue">**Fourier Series.**</span>](http://wuguoning.github.io/files/fourierSeries.pdf)
+The third problem was that of finding the maximum or minimum value of a function. The study of the motion of the planets involved maxima and minima problems, such as finding the greatest and least distances of a planet from the sun.
 
+The fourth problem was finding the lengths of curves, for example, the distance covered by a planet in a given period of time; the area bounded by curves; volumes bounded by surfaces; centers of gravity of bodies; and the gravitational attraction that extended body, a planet for example, exerts on another body.
 
+### Early Seventeenth-Century Work on the Calculus
+
+The problems of the calculus were tackled by at least a dozen of the greatest mathematicians of the seventeenth century and by several dozen minor ones. All of their contributions were crowned by the achievements of Newton and Leibniz. Here we shall be able to note only the principle contributions of the precursors of these two masters.
+
+Several methods were advanced to find the tangent to a curve. Gilles Persone de Roberval(1602-75) generalized a method Archimedes had used to find the tangent at any point on his spiral, which the tangent line of a projectile shot from a canon is the resultant diagonal line of the vertical and horizontal velocities.
+
+While the notion of a tangent as a line having the direction of the resultant velocity was more complicated than the Greek definition of a line touching a curve, this newer concept applied to many curves for which the older one failed.
+
+## The Real Numbers
+### Sets and Elementary Operations on Them
+In this note, we introduce some basic concepts for real 
+analysis.
+
+#### The Concept of a Set
+Since the late nineteenth and early twentieth centuries 
+the most universal language of mathematics has been the 
+language of set theory. This is even manifest in one of 
+the definitions of mathematics as the science that 
+studies different structures (relations) on sets.
+
+**"We take a set to be an assemblage of definite, 
+perfectly distinguishable objects of our intuition or 
+our thought into a coherent whole."** Thus did Georg 
+Cantor\footnote{G.Cantor(1845-1918) - German 
+mathematician, the creator of the theory of infinite 
+sets and the progenitor of set theoretic language in 
+mathematics.}, describe the concept of a set.
+
+    1. A set may be consist of any distinguishable 
+        objects.
+    2. A set is unambiguously determined by the 
+        collection of objects that comprise it.
+    3. Any property defines the set of objects 
+        having that property.
+        
+If $x$ is an object, $P$ is a property, and $P(x)$ 
+denotes the assertion that $x$ has property $P$, 
+then the class of objects having the property
+$P$ is denoted $\{x\lvert P(x)\}$
+
+And in fact the concept of the set of all sets, for 
+example, is simply contradictory. This is the 
+classical paradox of **Russell**.
+
+    B.Russell (1872-1970) - British logician, philosopher, sociologist ans social activist.
+## Limits
