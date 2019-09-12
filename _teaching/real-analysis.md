@@ -58,6 +58,56 @@ mathematics.}, describe the concept of a set.
 If $x$ is an object, $P$ is a property, and $P(x)$ denotes the assertion that $x$ has property $P$, then the class of objects having the property $P$ is denoted $\{x\lvert P(x)\}$
 And in fact the concept of the set of all sets, for example, is simply contradictory. This is the classical paradox of **Russell**.
 
-  B.Russell (1872-1970) - British logician, philosopher, sociologist ans social activist.
+  > B.Russell (1872-1970) - British logician, philosopher, sociologist ans social activist.
+
+#### The Inclusion Relation
+
+The statement, "$x$ is an element of the set $X$" is written 
+briefly as
+$$
+    x\in X
+$$
+and its negation as
+$$
+    x \notin X
+$$
+
+When statements about sets are written, frequent use is 
+made of the logical operators $\exists$ ("there exists" or "there
+are") and $\forall$ ("every" or "for all") which are called the
+\emph{existence} and \emph{generalization} respectively.
+
+Thus two sets are equal if they consist of the same 
+elements, this statement is usually written briefly as 
+$$
+    A=B,
+$$
+read as "$A$ equals $B$". The negation of equality is usually 
+written as 
+$$
+    A \ne B.
+$$
+If every element of $A$ is an element of $B$, we write
+$A\subset B$ and say that $A$ is a subset of 
+$B$ or that $B$ contains $A$.
+
+Thus 
+$$
+    A\subset B := \forall x\in A \Rightarrow x\in B
+$$
+If $A\subset B$ and $A\ne B$, we shall say that the inclusion $A\subset B$ is 
+\emph{strict} or that $A$ is a proper subset of $B$.
+
+Using these definitions, we can now conclude that
+$$A=B \Leftrightarrow A\subset B \wedge B\subset A$$
+If $M$ is a set, any property of $P$ distinguishes in M the subset
+$$\{x\in M \vert P(x)\}$$
+consisting of the elements of $M$ that have the property.
+
+For example, it is obvious that 
+\[ M=\{x\in M \vert x\in M\},\]
+and the \emph{empty} subset of $M$ is 
+\[\emptyset = \{x\in M \vert x\ne x\}\]
 
 ## Limits
+
