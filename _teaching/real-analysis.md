@@ -51,22 +51,13 @@ Cantor\footnote{G.Cantor(1845-1918) - German
 mathematician, the creator of the theory of infinite 
 sets and the progenitor of set theoretic language in 
 mathematics.}, describe the concept of a set.
+  1. A set may be consist of any distinguishable objects.
+  2. A set is unambiguously determined by the collection of objects that comprise it.
+  3. Any property defines the set of objects having that property.
 
-    1. A set may be consist of any distinguishable 
-        objects.
-    2. A set is unambiguously determined by the 
-        collection of objects that comprise it.
-    3. Any property defines the set of objects 
-        having that property.
-        
-If $x$ is an object, $P$ is a property, and $P(x)$ 
-denotes the assertion that $x$ has property $P$, 
-then the class of objects having the property
-$P$ is denoted $\{x\lvert P(x)\}$
+If $x$ is an object, $P$ is a property, and $P(x)$ denotes the assertion that $x$ has property $P$, then the class of objects having the property $P$ is denoted $\{x\lvert P(x)\}$
+And in fact the concept of the set of all sets, for example, is simply contradictory. This is the classical paradox of **Russell**.
 
-And in fact the concept of the set of all sets, for 
-example, is simply contradictory. This is the 
-classical paradox of **Russell**.
+  B.Russell (1872-1970) - British logician, philosopher, sociologist ans social activist.
 
-    B.Russell (1872-1970) - British logician, philosopher, sociologist ans social activist.
 ## Limits
