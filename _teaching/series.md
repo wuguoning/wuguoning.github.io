@@ -2,7 +2,7 @@
 title: "Real Analysis For Undergraduate"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2019-spring-analysis-2/series
+permalink: /teaching/series
 venue: "China University of Petroleum at Beijing, Science"
 date: 2019-03-28
 location: "City, Country"
