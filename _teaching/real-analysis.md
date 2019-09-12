@@ -64,13 +64,9 @@ And in fact the concept of the set of all sets, for example, is simply contradic
 
 The statement, "$x$ is an element of the set $X$" is written 
 briefly as
-$$
-    x\in X
-$$
+$$ x\in X $$
 and its negation as
-$$
-    x \notin X
-$$
+$$ x \notin X $$
 
 When statements about sets are written, frequent use is 
 made of the logical operators $\exists$ ("there exists" or "there
@@ -79,24 +75,18 @@ are") and $\forall$ ("every" or "for all") which are called the
 
 Thus two sets are equal if they consist of the same 
 elements, this statement is usually written briefly as 
-$$
-    A=B,
-$$
+$$ A=B,$$
 read as "$A$ equals $B$". The negation of equality is usually 
 written as 
-$$
-    A \ne B.
-$$
+$$ A \ne B.$$
 If every element of $A$ is an element of $B$, we write
 $A\subset B$ and say that $A$ is a subset of 
 $B$ or that $B$ contains $A$.
 
 Thus 
-$$
-    A\subset B := \forall x\in A \Rightarrow x\in B
-$$
+$$A\subset B := \forall x\in A \Rightarrow x\in B$$
 If $A\subset B$ and $A\ne B$, we shall say that the inclusion $A\subset B$ is 
-\emph{strict} or that $A$ is a proper subset of $B$.
+**strict** or that $A$ is a proper subset of $B$.
 
 Using these definitions, we can now conclude that
 $$A=B \Leftrightarrow A\subset B \wedge B\subset A$$
@@ -105,9 +95,59 @@ $$\{x\in M \vert P(x)\}$$
 consisting of the elements of $M$ that have the property.
 
 For example, it is obvious that 
-\[ M=\{x\in M \vert x\in M\},\]
+$$M=\{x\in M \vert x\in M\},$$
 and the \emph{empty} subset of $M$ is 
-\[\emptyset = \{x\in M \vert x\ne x\}\]
+$$\emptyset = \{x\in M \vert x\ne x\}$$
+
+
+#### Elementary Operations on Sets
+\begin{figure}[htbp]
+    \centering
+    \begin{tikzpicture}[scale=0.75]
+    \draw  (0,0) rectangle  (4,3);
+        \node [below,black] at (2, 0) {(a)};
+    \draw (2.5,1.5) circle (1);
+    \draw (1.5,1.5) circle (1);
+    \node [above left,green] at (1.5, 1.5) {$A$};
+    \node [above right,blue] at (2.5, 1.5) {$B$};
+    \clip (1.5,1.5) circle (1);
+    \clip (2.5,1.5) circle (1);
+    \draw [fill, blue!100] (0, 0) rectangle (4, 3);
+    \node [black] at (2, 1.5) {$ A\cap B$};
+\end{tikzpicture}
+    \begin{tikzpicture}[scale=0.75]
+    \draw  (0,0) rectangle  (4,3);
+        \node [below,black] at (2, 0) {(b)};
+    \draw [fill=green](2.5,1.5) circle (1);
+    \draw [fill=green] (1.5,1.5) circle (1);
+    \node [above left,black] at (1.5, 1.5) {$A$};
+    \node [above right,black] at (2.5, 1.5) {$B$};
+    \clip (1.5,1.5) circle (1);
+    \clip (2.5,1.5) circle (1);
+    \draw [fill, green] (0, 0) rectangle (4, 3);
+\end{tikzpicture}
+    \begin{tikzpicture}[scale=0.75]
+    \draw  (0,0) rectangle  (4,3);
+        \node [below,black] at (2, 0) {(c)};
+    \draw [fill=red](1.5,1.5) circle (1);
+    \draw (2.5,1.5) circle (1);
+    \node [above left,black] at (1.5, 1.5) {$A$};
+    \clip (0,0) rectangle  (4,3);
+    \clip (2.5,1.5) circle (1);
+    \draw [fill,black!0] (0, 0) rectangle (4, 3);
+    \node [above right,black] at (2.5, 1.5) {$B$};
+\end{tikzpicture}
+    \begin{tikzpicture}[scale=0.75]
+    \draw [fill=yellow] (0,0) rectangle  (4,3);
+        \node [below,black] at (2, 0) {(d)};
+    \draw (1.5,1.5) circle (1);
+    \clip (1.5,1.5) circle (1);
+    \draw [fill,yellow!0] (0, 0) rectangle (4,3);
+    \node [above left,black] at (1.5, 1.5) {$A$};
+\end{tikzpicture}
+\label{sets}
+    \caption{(a) Intersection. (b) Union. (c) Difference. (d) Complement. }
+\end{figure}
 
 ## Limits
 
