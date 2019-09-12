@@ -1,4 +1,15 @@
-﻿# series
+﻿---
+title: "Real Analysis For Undergraduate"
+collection: teaching
+type: "Workshop"
+permalink: /teaching/2019-spring-analysis-2/series
+venue: "China University of Petroleum at Beijing, Science"
+date: 2019-03-28
+location: "City, Country"
+---
+**`These are lectures notes and tests for real analysis.`**
+
+# series
 
 ## Basics
 In this section we will introduce the topic of infinite series. Let's start with a sequence $\left\{a_n\right\}$ and define the following:
