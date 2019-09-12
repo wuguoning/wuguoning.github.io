@@ -15,7 +15,7 @@ Teaching
 Spring 2019
 ------
 * [<span style="color:blue">**Real Analysis For Undergraduate**</span>](https://wuguoning.github.io/teaching/2019-spring-analysis-2)
-** [<span style="color:blue">**series**</span>](https://wuguoning.github.io/teaching/series)
+** [<span style="color:blue">**series**</span>](https://wuguoning.github.io/teaching/2019-spring-analysis-2/series)
 
 * [<span style="color:blue">**Calculus For Undergraduate**</span>](https://wuguoning.github.io/teaching/2019-spring-calculus-2)
 
