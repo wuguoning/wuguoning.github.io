@@ -42,7 +42,7 @@ Real Analysis II
 Real Analysis III
 ======
 1. [<span style="color:blue">**Series.**</span>](http://wuguoning.github.io/files/series.pdf)
-2. [<span style="color:blue">**Series.**</span>](http://wuguoning.github.io/files/function_series.pdf)
+2. [<span style="color:blue">**Function Series.**</span>](http://wuguoning.github.io/files/function_series.pdf)
 3. [<span style="color:blue">**Power Series.**</span>](http://wuguoning.github.io/files/powerSeries.pdf)
 4. [<span style="color:blue">**Fourier Series.**</span>](http://wuguoning.github.io/files/fourierSeries.pdf)
 
