@@ -2,14 +2,13 @@
 title: "李善蘭"
 collection: talks
 type: "History"
-permalink: /talks/lishanlan
+permalink: /talks/Li_Shanlan
 venue: "China University of Petroleum-Beijing"
 date: 2019-09-16
 location: "Beijing BJ, CN"
 ---
 
-### <span style="color:red"> 任何侵權內容將會刪除 </span>.
-[More infomation here](https://www.wikiwand.com/en/Li_Shanlan)
+
 
 **李善兰**（1810年-1882年）字'''壬叔'''，号'''秋纫'''，中國清朝數學家。
 浙江省杭州府海宁县人。为清代数学史上的杰出代表，中国近代数学的先驱。
@@ -61,3 +60,6 @@ location: "Beijing BJ, CN"
  切线、法线、曲线、渐近线、相似等**，其他学科如：植物等，这些译名独具匠心，自然贴切，
  其中许多译名随同他的译著被引入日本，且沿用至今。
 
+
+### <span style="color:red"> 任何侵權內容將會刪除 </span>.
+[More infomation here](https://www.wikiwand.com/en/Li_Shanlan)
