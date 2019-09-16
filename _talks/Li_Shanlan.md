@@ -14,7 +14,7 @@ location: "Beijing BJ, CN"
 浙江省杭州府海宁县人。为清代数学史上的杰出代表，中国近代数学的先驱。
 通詩文，曾幫基督教傳教士翻譯聖經。
   <figure>
-    <img src="/images/Li_Shanlan.png" alt="my alt text"/>
+    <img src="/images/Li_Shanlan.png" alt="my alt text" style="width:200px;/>
     <figcaption>Li Shanlan.</figcaption>
   </figure>
 
