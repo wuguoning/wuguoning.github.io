@@ -15,10 +15,15 @@ location: "City, Country"
   3. **Real Analysis I: the first part of the real analysis**
 
 ## For References see:
-  [1]. V. A. Zorich. Mathematical Analysis I, 2nd ed. 2015, Springer;
-  [2]. V. A. Zorich. Mathematical Analysis II, 2nd ed. 2015, Springer;
-  [3]. 陈纪修,於崇华. 数学分析上下册, 2006, 高等教育出版社;
-  [4]. 华东师范大学. 数学分析上下册, 2010, 高等教育出版社。
+  [1]. V. A. Zorich. Mathematical Analysis I, 2nd ed. 2015, Springer.
+
+  [2]. V. A. Zorich. Mathematical Analysis II, 2nd ed. 2015, Springer.
+
+  [3]. 陈纪修,於崇华. 数学分析上下册, 2006, 高等教育出版社.
+
+  [4]. 华东师范大学. 数学分析上下册, 2010, 高等教育出版社.
+
+  [5]. 裴礼文. 数学分析中的典型问题与方法, 2015, 高等教育出版社.
 
 
 
