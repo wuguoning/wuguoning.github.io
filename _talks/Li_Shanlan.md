@@ -17,6 +17,10 @@ location: "Beijing BJ, CN"
     <img src="/images/Li_Shanlan.png" alt="my alt text" style="width:200px"/>
     <figcaption>Li Shanlan.</figcaption>
   </figure>
+  <figure>
+    <img src="/images/Li_Shanlan_and_his_pupils.png" alt="my alt text" style="width:200px"/>
+    <figcaption>Li Shanlan and his pupils.</figcaption>
+  </figure>
 
 生平
 ---------------
