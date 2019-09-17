@@ -28,7 +28,9 @@ There were four major types of problems.
 
 ## The Seventeenth-Century Work on the Calculus
 
-The problems of the calculus were tackled by at least a dozen of the greatest mathematicians of the seventeenth century and by several dozen minor ones. All of their contributions were crowned by the achievements of Newton and Leibniz. Here we shall be able to note only the principle contributions of the precursors of these two masters.
+The problems of the calculus were tackled by at least a dozen of the greatest mathematicians of the seventeenth century and by several dozen minor ones. 
+Sir Isaac Newton was a mathematician and scientist, and he was the first person who is credited with actually developing calculus. It really is an incremental development, and many other mathematicians had part of the idea. In fact, Newton’s teacher, by the name of Barrow, actually said “the fundamental theorem of calculus” in his writings but somehow didn’t realize the significance of it and didn’t actually highlight it. But he was Newton’s teacher and presumably Newton learned things from him. Fermat invented some of the early concepts associated with calculus, finding derivatives and finding maxima and minima of equations. And other mathematicians, many mathematicians contributed to both the development of the derivative and the development of the integral.
+All of their contributions were crowned by the achievements of Newton and Leibniz. Here we shall be able to note only the principle contributions of the precursors of these two masters.
 
   <figure>
     <img src="/images/Newton_and_Leibniz.png" alt="my alt text" style="width:400px"/>
@@ -47,6 +49,18 @@ Berkeley's criticisms were well founded and important in that they focused the a
 
 When we first study Calculus we often learn its concepts in an order that is somewhat backwards to its development. We wish to take advantage of the hundreds of years of thought that have gone into it. As a result, we often begin by learning about limits. Afterward we define the derivative and integral developed by Newton and Leibniz. But unlike Newton and Leibniz we define them in the modern way -- in terms of limits. Afterward we see how the derivative and integral can be used to solve many of the problems that precipitated the development of Calculus.
 
+## The Controversy Between Newton and Leibniz
+The controversy between Newton and Leibniz started in the later part of the 1600s. 1699 was a date associated with a start of a tirade, which just went downhill. It was a tremendous controversy. But Leibniz had this to say about Newton. And I’ve served on many committees reading letters of recommendation for mathematicians, you know, for positions, and I can assure you that there are huge numbers of mathematicians who are the best three mathematicians in the world in any given field, but if a sentence like Leibniz’s sentence on Newton appeared in a letter, one would take notice. Leibniz said about Newton, “Taking mathematics from the beginning of the world to the time when Newton lived, what he has done is much the better part.” This was Leibniz talking about Newton.
+
+But when Newton began to realize that Leibniz had the ideas of calculus, which he began to realize in the 1770s, Newton’s response to make sure that he got credit for calculus was to write a letter to Leibniz in which he encoded a Latin sentence and I will—well, I won’t attempt the Latin, but I’ll attempt just a few words of the Latin. It starts out, “Data aequatione quotcunque” and so on. It’s a short Latin sentence whose translation is, “Having any given equation involving never so many flowing quantities, to find the fluxions, and vice versa.” This was a sentence that encapsulated his, Newton’s, thinking about derivatives. And what he did is he took that sentence and he just took the letters, individual letters, a, c, d, e, and he put them just in order. He said there are six a’s, two c’s, one d, 13 e’s, two f’s. He put them in order and that was what he included in this letter to Leibniz to establish his priority for calculus. And I read you the sentence, which means very little to anybody. Even a mathematician wouldn’t know from the actual translation of the sentence exactly what it was that he had done.
+
+So he tried to establish his priority in that fashion, but then there were accusations that Leibniz had read some of these manuscripts of Newton’s work before he got the ideas. But since Leibniz had published first, people who were siding with Leibniz said that Newton had stolen the ideas from Leibniz. And it was a huge mess, which incidentally led to British mathematics being very retarded for the next century because they didn’t take advantage of the wonderful developments of calculus that were taking place on continental Europe.
+
+## Keep Reading
+   1. [Isaac Newton’s Influence on Modern Science](https://www.thegreatcoursesdaily.com/isaac-newtons-influence-on-modern-science/)
+   2. [Gottfried Wilhelm Leibniz](https://www.wikiwand.com/en/Gottfried_Wilhelm_Leibniz)
+   3. [Isaac Newton](https://www.wikiwand.com/en/Isaac_Newton)
+   4. [Calculus](https://www.wikiwand.com/en/Calculus)
+
  <span style="color:red"> 如有侵權，請立即告知。</span>
  <span style="color:red"> Please advise to remove immediatly if any infringement caused。</span>
-
