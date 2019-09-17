@@ -30,6 +30,11 @@ There were four major types of problems.
 
 The problems of the calculus were tackled by at least a dozen of the greatest mathematicians of the seventeenth century and by several dozen minor ones. All of their contributions were crowned by the achievements of Newton and Leibniz. Here we shall be able to note only the principle contributions of the precursors of these two masters.
 
+  <figure>
+    <img src="/images/Newton_and_Leibniz.png" alt="my alt text" style="width:400px"/>
+    <figcaption>Li Shanlan and his pupils.</figcaption>
+  </figure>
+
 The discovery of calculus is often attributed to two men, **Issac Newton and Gottfried Leibniz**, who independently developed it foundations. Although they both instrumental in it creation, they thought of the fundamental concepts in very different ways. While Newton considered variable changing with time, Leibniz thought of the variable $x$ and $y$ as ranging over sequences of infinitely close value. He introduced $dx$ and $dy$ as differences between successive values of these sequences. Leibniz knew that $\dfrac{dy}{dx}$ gives the tangent but did not use it as a defining property. One the other hand, Newton used quantities $x'$ and $y'$, which were finite velocities, to compute the tangent. Of course neither Leibniz nor Newton thought in terms of functions, but both always thought in terms of graphs. For Newton the calculus was geometrical while Leibniz took it towards analysis.
 
 It is interesting to note that Leibniz was very conscious of the importance of good notation and put a lot of thought into the symbols he used. Newton, on the other hand, wrote more for himself than anyone else. Consequently, he tended to use whatever notation he thought of on that day. This turned out to be important in later developments. Leibniz's notation was better suited to generalizing calculus to multiple variables and in addition it highlighted the operator aspect of the derivative and integral. As a result, much of the notation that is used in Calculus today is due to Leibniz.
