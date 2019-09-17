@@ -34,7 +34,7 @@ All of their contributions were crowned by the achievements of Newton and Leibni
 
   <figure>
     <img src="/images/Newton_and_Leibniz.png" alt="my alt text" style="width:400px"/>
-    <figcaption>Li Shanlan and his pupils.</figcaption>
+    <figcaption>Leibniz VS Newton.</figcaption>
   </figure>
 
 The discovery of calculus is often attributed to two men, **Issac Newton and Gottfried Leibniz**, who independently developed it foundations. Although they both instrumental in it creation, they thought of the fundamental concepts in very different ways. While Newton considered variable changing with time, Leibniz thought of the variable $x$ and $y$ as ranging over sequences of infinitely close value. He introduced $dx$ and $dy$ as differences between successive values of these sequences. Leibniz knew that $\dfrac{dy}{dx}$ gives the tangent but did not use it as a defining property. One the other hand, Newton used quantities $x'$ and $y'$, which were finite velocities, to compute the tangent. Of course neither Leibniz nor Newton thought in terms of functions, but both always thought in terms of graphs. For Newton the calculus was geometrical while Leibniz took it towards analysis.
