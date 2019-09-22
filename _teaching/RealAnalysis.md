@@ -51,7 +51,7 @@ location: "City, Country"
     * [<span style="color:red">**Test7_answer.**</span>](http://wuguoning.github.io/files/analysis/mulvar_int_test_ans.pdf)
 5. [<span style="color:blue">**Line and Surface Integral.**</span>](http://wuguoning.github.io/analysis/files/line_and_surface.pdf)
     * [<span style="color:red">**Test8.**</span>](http://wuguoning.github.io/files/analysis/line_surface_int_test.pdf)
-    *[<span style="color:red">**Test8_answer.**</span>](http://wuguoning.github.io/files/analysis/lineSurface_test_ans.pdf)
+    * [<span style="color:red">**Test8_answer.**</span>](http://wuguoning.github.io/files/analysis/lineSurface_test_ans.pdf)
 6. [<span style="color:blue">**Final Test.**</span>](http://wuguoning.github.io/files/analysis/2018-2019-2-final-test-and-ans.pdf)
 
 
@@ -61,3 +61,13 @@ location: "City, Country"
 3. [<span style="color:blue">**Power Series.**</span>](http://wuguoning.github.io/files/analysis/powerSeries.pdf)
     * [<span style="color:red">**Homework.**</span>](http://wuguoning.github.io/files/analysis/homework_power_series.pdf)
 4. [<span style="color:blue">**Fourier Series.**</span>](http://wuguoning.github.io/files/analysis/fourierSeries.pdf)
+
+<div class="panel panel-info">
+**Note**
+{: .panel-heading}
+<div class="panel-body">
+
+NOTE DESCRIPTION
+
+</div>
+</div>
