@@ -59,4 +59,6 @@ location: "City, Country"
 1. [<span style="color:blue">**Series.**</span>](http://wuguoning.github.io/files/analysis/series.pdf)
 2. [<span style="color:blue">**Function Series.**</span>](http://wuguoning.github.io/files/analysis/function_series.pdf)
 3. [<span style="color:blue">**Power Series.**</span>](http://wuguoning.github.io/files/analysis/powerSeries.pdf)
+
+  [<span style="color:red">**Homework.**</span>](http://wuguoning.github.io/files/analysis/homework_power_series.pdf)
 4. [<span style="color:blue">**Fourier Series.**</span>](http://wuguoning.github.io/files/analysis/fourierSeries.pdf)
