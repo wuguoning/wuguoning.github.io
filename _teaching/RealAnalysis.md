@@ -8,7 +8,6 @@ date: 2019-03-28
 location: "City, Country"
 ---
 
-
 ## These are lectures notes and tests for real analysis.
   1. **Real Analysis I: the first part of the real analysis**
   2. **Real Analysis I: the first part of the real analysis**
@@ -61,13 +60,7 @@ location: "City, Country"
 3. [<span style="color:blue">**Power Series.**</span>](http://wuguoning.github.io/files/analysis/powerSeries.pdf)
     * [<span style="color:red">**Homework.**</span>](http://wuguoning.github.io/files/analysis/homework_power_series.pdf)
 4. [<span style="color:blue">**Fourier Series.**</span>](http://wuguoning.github.io/files/analysis/fourierSeries.pdf)
-
-<div class="panel panel-info">
-**Note**
-{: .panel-heading}
-<div class="panel-body">
-
-NOTE DESCRIPTION
-
-</div>
-</div>
+  <figure>
+    <img src="/images/magic_garden.png" alt="my alt text" style="width:600px"/>
+    <figcaption>Magic Garden.</figcaption>
+  </figure>
