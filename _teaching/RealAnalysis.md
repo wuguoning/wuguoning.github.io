@@ -13,6 +13,7 @@ location: "City, Country"
   2. **Real Analysis I: the first part of the real analysis**
   3. **Real Analysis I: the first part of the real analysis**
 
+----
 
 ## For References see:
   [1]. V. A. Zorich. Mathematical Analysis I, 2nd ed. 2015, Springer.
@@ -25,6 +26,7 @@ location: "City, Country"
 
   [5]. 裴礼文. 数学分析中的典型问题与方法, 2015, 高等教育出版社.
 
+----
 
 ## Real Analysis I
 
@@ -38,6 +40,7 @@ location: "City, Country"
 | [<span style="color:blue">**Primitive**</span>](http://wuguoning.github.io/files/analysis/primitive.pdf)  | [<span style="color:red">**homework5.**</span>](http://wuguoning.github.io/files/analysis/homework5.pdf) | [<span style="color:red">**Test4.**</span>](http://wuguoning.github.io/files/analysis/test4.pdf) |             |
 |  |  | [<span style="color:red">**Midterm test.**</span>](http://wuguoning.github.io/files/analysis/midtermtest18-19-1.pdf) |             |
 
+----
 
 ## Real Analysis II
 1. [<span style="color:blue">**Definite Integral.**</span>](http://wuguoning.github.io/files/analysis/integral.pdf)
@@ -53,6 +56,7 @@ location: "City, Country"
     * [<span style="color:red">**Test8_answer.**</span>](http://wuguoning.github.io/files/analysis/lineSurface_test_ans.pdf)
 6. [<span style="color:blue">**Final Test.**</span>](http://wuguoning.github.io/files/analysis/2018-2019-2-final-test-and-ans.pdf)
 
+----
 
 ## Real Analysis III
 1. [<span style="color:blue">**Series.**</span>](http://wuguoning.github.io/files/analysis/series.pdf)
@@ -61,7 +65,8 @@ location: "City, Country"
     * [<span style="color:red">**Homework.**</span>](http://wuguoning.github.io/files/analysis/homework_power_series.pdf)
 4. [<span style="color:blue">**Fourier Series.**</span>](http://wuguoning.github.io/files/analysis/fourierSeries.pdf)
 
-> 
+----
+
   <figure>
     <img src="/images/magic_garden.png" alt="my alt text" style="width:800px"/>
     <figcaption>Magic Garden.</figcaption>
