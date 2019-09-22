@@ -60,7 +60,9 @@ location: "City, Country"
 3. [<span style="color:blue">**Power Series.**</span>](http://wuguoning.github.io/files/analysis/powerSeries.pdf)
     * [<span style="color:red">**Homework.**</span>](http://wuguoning.github.io/files/analysis/homework_power_series.pdf)
 4. [<span style="color:blue">**Fourier Series.**</span>](http://wuguoning.github.io/files/analysis/fourierSeries.pdf)
+
+> 
   <figure>
-    <img src="/images/magic_garden.png" alt="my alt text" style="width:600px"/>
+    <img src="/images/magic_garden.png" alt="my alt text" style="width:800px"/>
     <figcaption>Magic Garden.</figcaption>
   </figure>
