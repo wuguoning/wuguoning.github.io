@@ -67,7 +67,9 @@ location: "City, Country"
 
 ----
 
-  <figure>
-    <img src="/images/magic_garden.png" alt="my alt text" style="width:800px"/>
-    <figcaption>Magic Garden.</figcaption>
-  </figure>
+Image:
+
+![](https://pandao.github.io/editor.md/examples/images/4.jpg)
+
+> Follow your heart.
+
