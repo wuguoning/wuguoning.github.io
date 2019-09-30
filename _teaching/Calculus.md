@@ -15,6 +15,9 @@ These notes are based on the calculus-II.
 
 1. 《高等數學》上下冊（第七版），同濟大學數學系編，高等教育出版社，2014.7
 
+讲义
+======
+[<span style="color:blue">**All Lecture Notes, Download Here.**</span>](http://wuguoning.github.io/files/calculus/notes/lecture_notes.rar)
 
 解析幾何考点
 ------
