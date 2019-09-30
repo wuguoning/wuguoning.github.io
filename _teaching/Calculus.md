@@ -1,14 +1,14 @@
 ---
-title: "Calculus II"
+title: "Calculus"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2019-spring-calculus-2
+permalink: /teaching/Calculus
 venue: "China University of Petroleum at Beijing, Department of Science"
-date: 2019-03-28
+date: 2019-09-30
 location: "City, Country"
 ---
 
-These notes are based on the calculus-II.
+These notes are based on the calculus.
 
 教材
 ======
