@@ -70,6 +70,7 @@ location: "City, Country"
 3. [<span style="color:blue">**Power Series.**</span>](http://wuguoning.github.io/files/analysis/powerSeries.pdf)
     * [<span style="color:red">**Homework.**</span>](http://wuguoning.github.io/files/analysis/homework_power_series.pdf)
 4. [<span style="color:blue">**Fourier Series.**</span>](http://wuguoning.github.io/files/analysis/fourierSeries.pdf)
+    * [<span style="color:red">**Homework.**</span>](http://wuguoning.github.io/files/analysis/homework_fourier_series.pdf)
 
 ----
 
