@@ -12,8 +12,8 @@ location: "City, Country"
 
 Real Analysis I
 ======
-## Introduction
-### The Motivation for Calculus
+# Introduction
+## The Motivation for Calculus
 Following hard on the adoption of the function concept came the calculus, which, next to Euclidean geometry, is the greatest in all of mathematics. Though is was to some extent the answer  to problems already tackled by the Greeks, the calculus was created primarily to treat the major scientific problems of the seventeenth century.
 
 There were four major types of problems. The first was: Given the formula for the distance a body covers as a function of time, to find the velocity and acceleration at any instant; and, conversely, given the formula describing the acceleration of a body as a function of the time, to find the velocity and the distance traveled.
@@ -24,7 +24,7 @@ The third problem was that of finding the maximum or minimum value of a function
 
 The fourth problem was finding the lengths of curves, for example, the distance covered by a planet in a given period of time; the area bounded by curves; volumes bounded by surfaces; centers of gravity of bodies; and the gravitational attraction that extended body, a planet for example, exerts on another body.
 
-### Early Seventeenth-Century Work on the Calculus
+## Early Seventeenth-Century Work on the Calculus
 
 The problems of the calculus were tackled by at least a dozen of the greatest mathematicians of the seventeenth century and by several dozen minor ones. All of their contributions were crowned by the achievements of Newton and Leibniz. Here we shall be able to note only the principle contributions of the precursors of these two masters.
 
@@ -32,12 +32,12 @@ Several methods were advanced to find the tangent to a curve. Gilles Persone de 
 
 While the notion of a tangent as a line having the direction of the resultant velocity was more complicated than the Greek definition of a line touching a curve, this newer concept applied to many curves for which the older one failed.
 
-## The Real Numbers
-### Sets and Elementary Operations on Them
+# The Real Numbers
+## Sets and Elementary Operations on Them
 In this note, we introduce some basic concepts for real 
 analysis.
 
-#### The Concept of a Set
+### The Concept of a Set
 Since the late nineteenth and early twentieth centuries 
 the most universal language of mathematics has been the 
 language of set theory. This is even manifest in one of 
@@ -60,7 +60,7 @@ And in fact the concept of the set of all sets, for example, is simply contradic
 
   > B.Russell (1872-1970) - British logician, philosopher, sociologist ans social activist.
 
-#### The Inclusion Relation
+### The Inclusion Relation
 
 The statement, "$x$ is an element of the set $X$" is written 
 briefly as
@@ -100,7 +100,7 @@ and the \emph{empty} subset of $M$ is
 $$\emptyset = \{x\in M \vert x\ne x\}$$
 
 
-#### Elementary Operations on Sets
+### Elementary Operations on Sets
 \begin{figure}[htbp]
     \centering
     \begin{tikzpicture}[scale=0.75]
@@ -149,5 +149,89 @@ $$\emptyset = \{x\in M \vert x\ne x\}$$
     \caption{(a) Intersection. (b) Union. (c) Difference. (d) Complement. }
 \end{figure}
 
-## Limits
+# Limits
+## The Limit of a sequence
+
+## The Limit of a Function
+**Definitions and Examples**
+Let $E$ be a subset of $\mathbb{R}$ and $a$ a limit point of $E$.
+Let $f: E \to \mathbb{R}$ be a real-valued function defined on $E$.
+
+**Definition**
+    \normalfont
+    We shall say (following Cauchy) that the function $f: E \to \mathbb{R}$ 
+    tends to $A$ as $x$ tends to $a$, or that $A$ is the limit of $f$ as $x$ 
+    tends to $a$, if for every $\epsilon > 0$ there exist $\delta > 0$ 
+such that $|f(x) - A| < \epsilon$ for every $x \in E$ such that $0 < |x - a| < \delta.$
+
+In logical symbolism these condition are written as 
+{\color{blue}
+\[\forall \epsilon > 0, \exists \delta > 0, \forall x \in E \text{ and } 
+0 < |x - a| < \delta, \Rightarrow |f(x) - A| < \epsilon \]
+}
+\begin{example}
+    Let $E = \mathbb{R} \setminus 0$, and $\displaystyle f(x) = x\sin \frac{1}{x}$. We 
+    shall verify that \[ \lim_{E \ni x \to 0} x\sin \frac{1}{x} = 0.\]
+\end{example}
+
+\begin{definition}
+    \normalfont
+    A \textbf{deleted neighborhood} of a point is a neighborhood of the point 
+    from which the point itself has been removed.
+\end{definition}
+
+\begin{definition}
+{\color{blue}
+    \[\lim_{E \ni x \to a} f(x) = A := \forall V_{\mathbb{R}}(A), \exists 
+    \mathring{U}_E(a) \Rightarrow f\left(\mathring{U}_E(a)\right)
+    \subset V_R(A).\]
+}
+\end{definition}
+
+\begin{example}
+    \[
+        \lim_{x \to 0} e^x = 1
+        \]
+\end{example}
+\begin{example}
+    \[
+        \lim_{x \to 2} x^2 = 4
+        \]
+\end{example}
+
+\begin{example}
+    \normalfont
+    The function 
+    \[
+        \mbox{sgn} x = \left\{\begin{array}{rcl} 1 & \mbox{if} & x > 0 \\
+                                                0 & \mbox{if} & x = 0 \\
+                                               -1 & \mbox{if} & x < 0 \\
+                             \end{array} \right.
+    \]
+is defined on the whole line. We shall show that it has no limit 
+as $x$ tends to 0.
+\end{example}
+The nonexistence of this limit is expressed by 
+{\color{blue}
+\[
+    \forall A \in \mathbb{R}, \exists V(A), \forall \mathring{U}(0) \Rightarrow 
+    \exists x \in \mathring{U}(0), f(x) \notin V(A).
+\]
+}
+
+\begin{example}
+    \normalfont
+    The function 
+    \[
+        f(x) = \sin \frac{1}{x}
+    \]
+has no limit as $x \to 0$
+\end{example}
+
+\begin{proposition}
+    \normalfont
+    The relation $\displaystyle \lim_{E \ni x \to a} f(x) = A$ holds if and 
+    only if for every sequence $\{x_n\}$ of points $x_n \in E \setminus a $ 
+    converging to $a$, the sequence $\{f(x_n)\}$ converges to $A$.
+\end{proposition}
 
