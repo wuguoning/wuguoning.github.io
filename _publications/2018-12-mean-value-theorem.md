@@ -10,6 +10,6 @@ paperurl: 'http://wuguoning.github.io/files/mean-value-theorem.pdf'
 
 This paper is about the mean value theorem and its generalization.
 
-[Download paper here](http://wuguoning.github.io/files/mean-value-theorem.pdf)
+[Download paper here](http://wuguoning.github.io/files/paper/mean-value-theorem.pdf)
 
 Recommended citation: Guoning Wu, Sun Na (2018). "微分均值定理及其推廣." <i>數學傳播</i>. 42(4).
