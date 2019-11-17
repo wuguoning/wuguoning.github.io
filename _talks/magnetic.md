@@ -1,11 +1,6 @@
 ---
 title: "Electric and Magnetism: Statics - Visualization"
-collection: talks
-type: "Teaching"
-permalink: /talks/magnetic
-venue: "China University of Petroleum-Beijing"
-date: 2019-09-16
-location: "Beijing BJ, CN"
+date: "May 2019"
 author: "Guoning Wu, China University of Petroleum at Beijing"
 ---
 
@@ -30,6 +25,16 @@ mathematical and physical concepts.
 
 ## Quadrupole Charge
 ![Duadrupole Charge](./figs/quadrupolecharge.png)
+
+## Electric Line
+![Single Charge](./figs/electric-line.png)
+
+## Electric Lines
+![Single Charge](./figs/e-lines.png)
+
+## Electric Potential
+![Single Charge](./figs/e-potential.png)
+![Single Charge](./figs/e-potential1.png)
 
 ## Dipole 
 ![Alt Text](./figs/dipolegif.gif)
@@ -68,7 +73,33 @@ mathematical and physical concepts.
 ## Magnetic Sphere
 ![Alt Text](./figs/mag-sphere.gif)
 
+# Vector Calculus
+## Double Convergence
+![Alt Text](./figs/double-convergence.gif)
 
+## Rotational Dipole
+![Alt Text](./figs/rotational-dipole.gif)
+
+## Rotational Dipole Vector
+![Duadrupole Charge](./figs/rotational-dipole.png)
+
+## Constant Rotation
+![Alt Text](./figs/constant-rotation.gif)
+
+## Constant Rotation Vector
+![Duadrupole Charge](./figs/constant-rotation.png)
+
+## Gradient
+![Alt Text](./figs/gradient.gif)
+
+## Divergence
+![Alt Text](./figs/divergence.gif)
+
+## Curl
+![Alt Text](./figs/curl.gif)
+
+## E-Force Line
+![Duadrupole Charge](./figs/e-force-line.png)
 
 # Conclusion
 
