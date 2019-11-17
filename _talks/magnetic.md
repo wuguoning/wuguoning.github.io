@@ -5,9 +5,10 @@ type: "Teaching"
 permalink: /talks/magnetic
 venue: "China University of Petroleum-Beijing"
 date: 2019-11-16
-location: "Beijing BJ, CN"
 author: "Guoning Wu, China University of Petroleum at Beijing"
+location: "Beijing BJ, CN"
 ---
+
 
 # Abstract
 
