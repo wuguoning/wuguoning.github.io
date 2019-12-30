@@ -10,10 +10,10 @@ location: "City, Country"
 These are notes and test papers about real analysis.
 
 # Table of Contents
-1.[Real Analysis I](#analysis1)
-2.[Real Analysis II](#analysis2)
-3.[Real Analysis III](#analysis3)
-4.[References](#references)
+1. [Real Analysis I](#analysis1)
+2. [Real Analysis II](#analysis2)
+3. [Real Analysis III](#analysis3)
+4. [References](#references)
 
 
 In mathematics, **real analysis** is the branch of mathematical analysis that studies 
@@ -24,25 +24,26 @@ integrability.
 
 <a name="analysis1"></a>
 ## Real Analysis I
+[![Real Analysis](/images/analysis1.png)]
 
-1. [<span style="color:blue">**Introduction**</span>](http://wuguoning.github.io/files/analysis/introduction.pdf)
-   - [<span style="color:red">**homework1.**</span>](http://wuguoning.github.io/files/analysis/homework1.pdf)
-2. [<span style="color:blue">**Limit of Sequence**</span>](http://wuguoning.github.io/files/analysis/limits.pdf)
-   - [<span style="color:red">**homework2.**</span>](http://wuguoning.github.io/files/analysis/homework2.pdf)
-     - [<span style="color:red">**Test1.**</span>](http://wuguoning.github.io/files/analysis/test1.pdf)
-3. [<span style="color:blue">**Continuity**</span>](http://wuguoning.github.io/files/analysis/continuity.pdf)
-   - [<span style="color:red">**homework3.**</span>](http://wuguoning.github.io/files/analysis/homework3.pdf)
-     - [<span style="color:red">**Test2.**</span>](http://wuguoning.github.io/files/analysis/test2.pdf)
-4. [<span style="color:blue">**Mean value theorem**</span>](http://wuguoning.github.io/files/analysis/meanvalue.pdf)
-   - [<span style="color:red">**homework4.**</span>](http://wuguoning.github.io/files/analysis/homework4.pdf)
-     - [<span style="color:red">**Test3.**</span>](http://wuguoning.github.io/files/analysis/test3.pdf)
-5. [<span style="color:blue">**Derivative**</span>](http://wuguoning.github.io/files/analysis/derivative.pdf)
-   - [<span style="color:red">**homework5.**</span>](http://wuguoning.github.io/files/analysis/homework5.pdf)
-     - [<span style="color:red">**Test4.**</span>](http://wuguoning.github.io/files/analysis/test4.pdf)
-6. [<span style="color:blue">**Primitive**</span>](http://wuguoning.github.io/files/analysis/primitive.pdf)
-   - [<span style="color:red">**homework6.**</span>](http://wuguoning.github.io/files/analysis/primitive_homework.pdf) 
-     - [<span style="color:red">**Test4.**</span>](http://wuguoning.github.io/files/analysis/test4.pdf)
-7. [<span style="color:blue">**Midterm test.**</span>](http://wuguoning.github.io/files/analysis/midtermtest18-19-1.pdf)
+1. Before we start talking about analysis, we need to fix some language. Modern analysis uses the language of sets, and therefore that is where we start. Details can see here [<span style="color:blue">**Introduction**</span>](http://wuguoning.github.io/files/analysis/introduction.pdf)
+   - Here is the homework for your final grade. [<span style="color:red">**Homework of introduction.**</span>](http://wuguoning.github.io/files/analysis/homework1.pdf)
+2. In discussing the various aspects of the concept or a real number we remarked in particular that in measuring real physical quantities we obtain sequences of approximate values with which one must then work. We begin out discussion of the theory of limits by considering the limit of a function of a natural-number argument (a sequence), in view of the fundamental role played by these functions, as already explained, and also because all the basic facts of the theory of limits can acturally be clearly seen in this simple situation. For details about sequence, see [<span style="color:blue">**Limit of Sequence**</span>](http://wuguoning.github.io/files/analysis/limits.pdf)
+   - Here is the homoework for your final grade.  [<span style="color:red">**Homework of limits.**</span>](http://wuguoning.github.io/files/analysis/homework2.pdf)
+   - Here is some excises, you can check your understanding. [<span style="color:red">**Test of limits.**</span>](http://wuguoning.github.io/files/analysis/test1.pdf)
+3. In mathematics, a continuous function is a function that does not have any abrupt changes in value, known as discontinuities. More precisely, sufficiently small changes in the input of a continuous function result in arbitrarily small changes in its output. Continuity of functions is one of the core concepts of topology, which is treated in full generality below. The introductory portion of this article focuses on the special case where the inputs and outputs of functions are real numbers. A stronger form of continuity is uniform continuity. For details about sequence, see [<span style="color:blue">**Continuity**</span>](http://wuguoning.github.io/files/analysis/continuity.pdf)
+   - Here is the homoework for your final grade.[<span style="color:red">**Homework of continuity.**</span>](http://wuguoning.github.io/files/analysis/homework3.pdf)
+   - Here is some excises, you can check your understanding. [<span style="color:red">**Test of continuity.**</span>](http://wuguoning.github.io/files/analysis/test2.pdf)
+4. In mathematics, the mean value theorem states, roughly, that for a given planar arc between two endpoints, there is at least one point at which the tangent to the arc is parallel to the secant through its endpoints. This theorem is used to prove statements about a function on an interval starting from local hypotheses about derivatives at points of the interval. For details about sequence, see [<span style="color:blue">**Mean value theorem**</span>](http://wuguoning.github.io/files/analysis/meanvalue.pdf)
+   - Here is the homoework for your final grade. [<span style="color:red">**Homework of mean value theorem.**</span>](http://wuguoning.github.io/files/analysis/homework4.pdf)
+   - Here is some excises, you can check your understanding. [<span style="color:red">**Test of mean value theorem.**</span>](http://wuguoning.github.io/files/analysis/test3.pdf)
+5. The derivative of a function of a real variable measures the sensitivity to change of the function value (output value) with respect to a change in its argument (input value). Derivatives are a fundamental tool of calculus. For example, the derivative of the position of a moving object with respect to time is the object's velocity: this measures how quickly the position of the object changes when time advances. Details see here [<span style="color:blue">**Derivative**</span>](http://wuguoning.github.io/files/analysis/derivative.pdf)
+   - Here is the homoework for your final grade. [<span style="color:red">**Homework of derivative.**</span>](http://wuguoning.github.io/files/analysis/homework5.pdf)
+   - Here is some excises, you can check your understanding. [<span style="color:red">**Test of derivative.**</span>](http://wuguoning.github.io/files/analysis/test4.pdf)
+6. In calculus, an antiderivative, primitive function, primitive integral or indefinite integral of a function $f$ is a differentiable function $F$ whose derivative is equal to the original function $f$. The process of solving for antiderivatives see here: [<span style="color:blue">**Primitive**</span>](http://wuguoning.github.io/files/analysis/primitive.pdf)
+   -  Here is the homoework for your final grade. [<span style="color:red">**homework6.**</span>](http://wuguoning.github.io/files/analysis/primitive_homework.pdf) 
+   - Here is some excises, you can check your understanding. [<span style="color:red">**Test4.**</span>](http://wuguoning.github.io/files/analysis/test4.pdf)
+7. Here is the midterm test: [<span style="color:blue">**Midterm test.**</span>](http://wuguoning.github.io/files/analysis/midtermtest18-19-1.pdf)
 
 
 <a name="analysis2"></a>

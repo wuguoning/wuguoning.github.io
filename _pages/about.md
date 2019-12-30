@@ -12,7 +12,7 @@ This is an outline about my research and teaching etc.
 
 Real Analysis
 =========
-[![Real Analysis](/images/calculus1.png)](https://wuguoning.github.io/teaching/RealAnalysis)
+[![Real Analysis](/images/calculus.png)](https://wuguoning.github.io/teaching/RealAnalysis)
 
 Research Papers
 ==============
