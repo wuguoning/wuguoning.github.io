@@ -11,16 +11,16 @@ This is an outline about my research and teaching etc.
 
 Real Analysis
 =========
-[![Real Analysis](/images/calculus1.png =300x)](https://wuguoning.github.io/teaching/RealAnalysis)
+[![Real Analysis](/images/calculus1.png)](https://wuguoning.github.io/teaching/RealAnalysis){width=250px}
 
 Research Papers
 ==============
-[![Research Papers](/images/researchpaper.png =300x)](https://wuguoning.github.io/publications)
+[![Research Papers](/images/researchpaper.png)](https://wuguoning.github.io/publications){width=250px}
 
 
 Deep Learning 
 ======
-[![Deep Learning](/images/deep_learning.png =300x)](https://github.com/wuguoning/neural_network_deep_learning)
+[![Deep Learning](/images/deep_learning.png)](https://github.com/wuguoning/neural_network_deep_learning){width=250px}
 
 
 Data
