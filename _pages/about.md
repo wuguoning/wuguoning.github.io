@@ -11,9 +11,9 @@ This is an outline about my research and teaching etc.
 
 Teaching
 =========
-<figure>
-  <img src="/images/calculus1.png" alt="Calculus" style="width:800px"/>
-<figure>
+<img src="/images/calculus1.png"
+     alt="Real Analysis"
+     style="float: left; margin-right: 10px;" />
 * [<span style="color:blue">**Real Analysis For Undergraduate**</span>](https://wuguoning.github.io/teaching/RealAnalysis)
 * [<span style="color:blue">**Calculus For Undergraduate**</span>](https://wuguoning.github.io/teaching/Calculus)
 
