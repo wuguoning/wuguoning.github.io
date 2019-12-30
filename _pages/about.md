@@ -14,6 +14,9 @@ Teaching
 
 Spring 2019
 ------
+<figure>
+  <img src="/images/calculus1.png" alt="Calculus" style="width:400px"/>
+<figure>
 * [<span style="color:blue">**Real Analysis For Undergraduate**</span>](https://wuguoning.github.io/teaching/RealAnalysis)
 * [<span style="color:blue">**Calculus For Undergraduate**</span>](https://wuguoning.github.io/teaching/Calculus)
 
