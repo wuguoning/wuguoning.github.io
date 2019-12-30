@@ -15,14 +15,13 @@ Real Analysis
 
 Research Papers
 ==============
-* [![Research Papers](/images/researchpaper.png)](https://wuguoning.github.io/publications)
+[![Research Papers](/images/researchpaper.png)](https://wuguoning.github.io/publications)
 
 
-
-Recent Projects
+Deep Learning 
 ======
-* [<span style="color:blue">**Neural Networks and Deep Learning**</span>](https://github.com/wuguoning/neural_network_deep_learning)
-* [<span style="color:blue">**Pattern Recognition and Maching Learning**</span>](https://github.com/wuguoning/PRML)
+[![Deep Learning](/images/deep_learning.png)](https://github.com/wuguoning/neural_network_deep_learning)
+
 
 Data
 ======
