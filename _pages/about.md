@@ -15,7 +15,7 @@ Real Analysis
      alt="Real Analysis"
      style="float: left; margin-right: 10px;" />
 
-[![Real Analysis](/images/calculus)](https://wuguoning.github.io/teaching/RealAnalysis)
+[![Real Analysis](/images/calculus1.png)](https://wuguoning.github.io/teaching/RealAnalysis)
 
 
 Research Papers
