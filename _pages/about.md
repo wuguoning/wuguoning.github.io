@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 This is an outline about my research and teaching etc.
 
 Real Analysis
