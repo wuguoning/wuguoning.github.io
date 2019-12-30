@@ -25,6 +25,7 @@ Deep Learning
 
 Data
 ======
+[![Big Data](/images/bigdata.png)](https://github.com/wuguoning/neural_network_deep_learning)
 
 | Data Set              | Domain   | Dimensionality         | Training Set    | Test Set   |
 | --------              | :------: | :--------------:       | :-------------: | ---------: |
