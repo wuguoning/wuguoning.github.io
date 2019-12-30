@@ -11,13 +11,8 @@ This is an outline about my research and teaching etc.
 
 Teaching
 =========
-
-Spring 2019
-------
 <figure>
-  <img src="/images/calculus1.png" alt="Calculus" style="width:400px"/>
-  <figcaption> Real Analysis </figcaption>
- ![](https://wuguoning.github.io/teaching/RealAnalysis)
+  <img src="/images/calculus1.png" alt="Calculus" style="width:800px"/>(https://wuguoning.github.io/teaching/RealAnalysis)
 <figure>
 
 
