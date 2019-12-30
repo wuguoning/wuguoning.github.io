@@ -18,28 +18,23 @@ location: "City, Country"
 ## Real Analysis I
 
 1. [<span style="color:blue">**Introduction**</span>](http://wuguoning.github.io/files/analysis/introduction.pdf)
-   - [<span style="color:red">**homework1.**</span>](http://wuguoning.github.io/files/analysis/homework1.pdf)                                                                                                  |             |
+   - [<span style="color:red">**homework1.**</span>](http://wuguoning.github.io/files/analysis/homework1.pdf)                                           
 2. [<span style="color:blue">**Limit of Sequence**</span>](http://wuguoning.github.io/files/analysis/limits.pdf) 
    - [<span style="color:red">**homework2.**</span>](http://wuguoning.github.io/files/analysis/homework2.pdf) 
      - [<span style="color:red">**Test1.**</span>](http://wuguoning.github.io/files/analysis/test1.pdf)
-
 3. [<span style="color:blue">**Continuity**</span>](http://wuguoning.github.io/files/analysis/continuity.pdf)
    - [<span style="color:red">**homework3.**</span>](http://wuguoning.github.io/files/analysis/homework3.pdf)
      - [<span style="color:red">**Test2.**</span>](http://wuguoning.github.io/files/analysis/test2.pdf)
-
 4. [<span style="color:blue">**Mean value theorem**</span>](http://wuguoning.github.io/files/analysis/meanvalue.pdf)
    - [<span style="color:red">**homework4.**</span>](http://wuguoning.github.io/files/analysis/homework4.pdf)
      - [<span style="color:red">**Test3.**</span>](http://wuguoning.github.io/files/analysis/test3.pdf)
-
 5. [<span style="color:blue">**Derivative**</span>](http://wuguoning.github.io/files/analysis/derivative.pdf)
    - [<span style="color:red">**homework5.**</span>](http://wuguoning.github.io/files/analysis/homework5.pdf)
      - [<span style="color:red">**Test4.**</span>](http://wuguoning.github.io/files/analysis/test4.pdf)
-
 6. [<span style="color:blue">**Primitive**</span>](http://wuguoning.github.io/files/analysis/primitive.pdf)
    - [<span style="color:red">**homework6.**</span>](http://wuguoning.github.io/files/analysis/primitive_homework.pdf) 
      - [<span style="color:red">**Test4.**</span>](http://wuguoning.github.io/files/analysis/test4.pdf)
-
-7. [<span style="color:red">**Midterm test.**</span>](http://wuguoning.github.io/files/analysis/midtermtest18-19-1.pdf)
+7. [<span style="color:blue">**Midterm test.**</span>](http://wuguoning.github.io/files/analysis/midtermtest18-19-1.pdf)
 
 
 <a name="analysis2"></a>
