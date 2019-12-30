@@ -13,10 +13,10 @@ Real Analysis
 =========
 [![Real Analysis](/images/calculus1.png)](https://wuguoning.github.io/teaching/RealAnalysis)
 
-
 Research Papers
 ==============
-* [<span style="color:blue">**Research Papers**</span>](https://wuguoning.github.io/publications)
+* [![Research Papers](/images/researchpaper.png)](https://wuguoning.github.io/publications)
+
 
 
 Recent Projects
