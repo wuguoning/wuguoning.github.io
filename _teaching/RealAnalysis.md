@@ -14,13 +14,20 @@ location: "City, Country"
 3.[Real Analysis III](#analysis3)
 4.[References](#references)
 
+
+In mathematics, **real analysis** is the branch of mathematical analysis that studies 
+the behavior of real numbers, sequence and series of real numbers, and real functions.
+Some particular properties of real valued sequences and functions that real analysis 
+studies include convergence, limits, continuity, smoothness, differentiability and 
+integrability.
+
 <a name="analysis1"></a>
 ## Real Analysis I
 
 1. [<span style="color:blue">**Introduction**</span>](http://wuguoning.github.io/files/analysis/introduction.pdf)
-   - [<span style="color:red">**homework1.**</span>](http://wuguoning.github.io/files/analysis/homework1.pdf)                                           
-2. [<span style="color:blue">**Limit of Sequence**</span>](http://wuguoning.github.io/files/analysis/limits.pdf) 
-   - [<span style="color:red">**homework2.**</span>](http://wuguoning.github.io/files/analysis/homework2.pdf) 
+   - [<span style="color:red">**homework1.**</span>](http://wuguoning.github.io/files/analysis/homework1.pdf)
+2. [<span style="color:blue">**Limit of Sequence**</span>](http://wuguoning.github.io/files/analysis/limits.pdf)
+   - [<span style="color:red">**homework2.**</span>](http://wuguoning.github.io/files/analysis/homework2.pdf)
      - [<span style="color:red">**Test1.**</span>](http://wuguoning.github.io/files/analysis/test1.pdf)
 3. [<span style="color:blue">**Continuity**</span>](http://wuguoning.github.io/files/analysis/continuity.pdf)
    - [<span style="color:red">**homework3.**</span>](http://wuguoning.github.io/files/analysis/homework3.pdf)
