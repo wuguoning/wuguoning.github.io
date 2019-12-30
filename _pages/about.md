@@ -11,10 +11,6 @@ This is an outline about my research and teaching etc.
 
 Real Analysis
 =========
-<img src="/images/calculus1.png"
-     alt="Real Analysis"
-     style="float: left; margin-right: 10px;" />
-
 [![Real Analysis](/images/calculus1.png)](https://wuguoning.github.io/teaching/RealAnalysis)
 
 
