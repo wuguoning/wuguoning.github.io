@@ -44,6 +44,7 @@ integrability.
    -  Here is the homoework for your final grade. [<span style="color:red">**homework6.**</span>](http://wuguoning.github.io/files/analysis/primitive_homework.pdf) 
    - Here is some excises, you can check your understanding. [<span style="color:red">**Test4.**</span>](http://wuguoning.github.io/files/analysis/test4.pdf)
 7. Here is the midterm test: [<span style="color:blue">**Midterm test.**</span>](http://wuguoning.github.io/files/analysis/midtermtest18-19-1.pdf)
+   - Here is the midterm test answer: [<span style="color:red">**Midterm test.**</span>](http://wuguoning.github.io/files/analysis/17-18-1-real-analysis-mid-term-test.pdf)
 8. In mathematics, an integral assigns numbers to functions in a way that can describe displacement, area, volume, and other concepts that arise by combining infinitesimal data. Integration is one of the two main operations of calculus, with its inverse operation, differentiation, being the other. Details see here: [<span style="color:blue">**Definite Integral.**</span>](http://wuguoning.github.io/files/analysis/integral.pdf)
    - Here is the homework for your final grade. [<span style="color:red">**Homework.**</span>](http://wuguoning.github.io/files/analysis/integral_homework.pdf)
 
