@@ -17,6 +17,7 @@ statics and its visualization. Gradient, divergence and curl are
 visualized. Hopefully, this paper will give  visualizations of many 
 mathematical and physical concepts.
 
+[![Real Analysis](/images/electromagnetic-field.png)](https://wuguoning.github.io/talks/magnetic)
 
 # Electricity
 
