@@ -5,7 +5,7 @@ permalink: /publication/2018-12-mean-value-theorem
 excerpt: 'This paper is about the generalization of mean value theorem.'
 date: 2018-12-1
 venue: '數學傳播'
-paperurl: 'http://wuguoning.github.io/files/mean-value-theorem.pdf'
+paperurl: 'http://wuguoning.github.io/files/paper/mean-value-theorem.pdf'
 ---
 
 This paper is about the mean value theorem and its generalization.
