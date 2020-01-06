@@ -10,5 +10,5 @@ paperurl: 'http://wuguoning.github.io/files/paper/random_riemann_integral.pdf'
 
 This paper is about randomly sampled Riemann integral.
 [Download paper here](http://wuguoning.github.io/files/paper/random_riemann_integral.pdf)
-[For Python code see here](http://wuguoning.github.io/files/notebook/random_riemann_integral.ipynb)
+[For Python code see here](http://wuguoning.github.io/files/notebook/random_riemann_integral.md)
 
