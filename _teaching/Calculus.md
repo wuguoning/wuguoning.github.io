@@ -31,7 +31,7 @@ $$\dfrac{x^2}{a^2}+\dfrac{y^2}{b^2}+\dfrac{z^2}{c^2} = 1$$
 
 ### 切割一下！
 <p>
-<iframe style="width: 100%; height: 800px;" 
+<iframe style="width: 100%; height: 300px;" 
 src="https://www.geogebra.org/m/MxGcbbRM"
  frameborder="0" 
  width="320" 
@@ -41,7 +41,7 @@ src="https://www.geogebra.org/m/MxGcbbRM"
 
 ### 旋轉一下！
 <p>
-<iframe style="width: 100%; height: 800px;" 
+<iframe style="width: 100%; height: 300px;" 
 src="https://www.geogebra.org/m/BPUDhm94"
  frameborder="0" 
  width="320" 
@@ -55,7 +55,7 @@ $$\dfrac{x^2}{a^2} + \dfrac{y^2}{b^2} - z = 0$$
 
 ### 初步認識
 <p>
-<iframe style="width: 100%; height: 800px;" 
+<iframe style="width: 100%; height: 300px;" 
 src="https://www.geogebra.org/m/MRXApP4h"
  frameborder="0" 
  width="320" 
@@ -78,7 +78,7 @@ $$\dfrac{x^2}{a^2}+\dfrac{y^2}{b^2}-\dfrac{z^2}{c^2}=1$$
 
 ### 初步認識
 <p>
-<iframe style="width: 100%; height: 800px;" 
+<iframe style="width: 100%; height: 300px;" 
 src="https://www.geogebra.org/m/zjugyq8e"
  frameborder="0" 
  width="320" 
