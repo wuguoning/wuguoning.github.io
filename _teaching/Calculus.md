@@ -49,4 +49,27 @@ src="https://www.geogebra.org/m/BPUDhm94"
  </iframe>
 </p>
 
+## 橢圓拋物面
+$$\dfrac{x^2}{a^2} + \dfrac{y^2}{b^2} - z = 0$$
+
+
+### 初步認識
+<p>
+<iframe style="width: 100%; height: 800px;" 
+src="https://www.geogebra.org/m/MRXApP4h"
+ frameborder="0" 
+ width="320" 
+ height="340">
+ </iframe>
+ </p>
+
+### 切割一下
+<p>
+<iframe style="width: 100%; height: 800px;" 
+src="https://www.geogebra.org/m/VtEt9dPC"
+ frameborder="0" 
+ width="320" 
+ height="340">
+ </iframe>
+ </p>
 
