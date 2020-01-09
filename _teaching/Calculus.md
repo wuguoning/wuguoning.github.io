@@ -10,20 +10,14 @@ location: "City, Country"
 
 These notes are based on the calculus.
 
+## Calculus and its Visualization: an Introduction
 
-
-## 二次曲面
-
-二次曲面指任何n維空間中的超曲面，其定義為多元二次方程的軌跡。其方程可以寫為：
-$$\sum_{i,j=0}^D Q_{i,j}  x_i  x_j + \sum_{i=0}^D P_i  x_i + R = 0$$
-
-這裡是常見的二次曲面，該軟件主要借助於[**GeoGebra**](https://www.geogebra.org/)
+Thanks to [**GeoGebra**](https://www.geogebra.org/)
 
 **For details, click here:**
-[![Real Analysis](./imags/surface.png)](https://www.geogebra.org/m/yxadpqun)
+[![Calculus](./imags/surface.png)](https://www.geogebra.org/m/yxadpqun)
 
 
 教材
 ======
-
 1. 《高等數學》上下冊（第七版），同濟大學數學系編，高等教育出版社，2014.7
