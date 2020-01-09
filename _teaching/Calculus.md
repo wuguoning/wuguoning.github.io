@@ -14,7 +14,8 @@ These notes are based on the calculus.
 
 Thanks to [**GeoGebra**](https://www.geogebra.org/)
 
-**For details, click here:**
+[<span style="color:red"> **For details, click here:**</span>]
+
 [![Calculus](./imags/surface.png)](https://www.geogebra.org/m/yxadpqun)
 
 
