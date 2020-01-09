@@ -162,6 +162,21 @@ src="https://www.geogebra.org/m/VWSdjJYT"
  </iframe>
  </p>
 
+## 錐面
+
+### 初步認識
+<p>
+<iframe style="width: 100%; height: 600px;" 
+src="https://www.geogebra.org/m/yfaBeaUy"
+ frameborder="0" 
+ width="320" 
+ height="340">
+ </iframe>
+ </p>
+
+
+
+---------------------------------------------------
 # 重積分
 
 ##球座標
@@ -178,7 +193,27 @@ src="https://www.geogebra.org/m/hffk3hnb"
 ##旋轉體體積
 <p>
 <iframe style="width: 100%; height: 600px;" 
-src="https://www.geogebra.org/m/WkWPXhhu#material/Buz3SdxF"
+src="https://www.geogebra.org/m/WkWPXhhu#material/FqyshUCS"
+ frameborder="0" 
+ width="320" 
+ height="340">
+ </iframe>
+ </p>
+
+## 截面
+<p>
+<iframe style="width: 100%; height: 600px;" 
+src="https://www.geogebra.org/m/TEERJczX#material/pcxnubax"
+ frameborder="0" 
+ width="320" 
+ height="340">
+ </iframe>
+ </p>
+
+
+<p>
+<iframe style="width: 100%; height: 600px;" 
+src="https://www.geogebra.org/m/TEERJczX#material/yQnm8JAa"
  frameborder="0" 
  width="320" 
  height="340">
