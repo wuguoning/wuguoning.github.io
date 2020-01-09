@@ -189,6 +189,24 @@ src="https://www.geogebra.org/m/hffk3hnb"
  </iframe>
  </p>
 
+##柱座標積分
+<p>
+<iframe style="width: 100%; height: 600px;" 
+src="https://www.geogebra.org/m/BBghSxn9"
+ frameborder="0" 
+ width="320" 
+ height="340">
+ </iframe>
+ </p>
+##球座標積分
+<p>
+<iframe style="width: 100%; height: 600px;" 
+src="https://www.geogebra.org/m/TEERJczX#material/RKmXuqKE"
+ frameborder="0" 
+ width="320" 
+ height="340">
+ </iframe>
+ </p>
 
 ##旋轉體體積
 <p>
