@@ -113,3 +113,17 @@ src="https://www.geogebra.org/m/gpXMrfSS"
  height="340">
  </iframe>
  </p>
+
+
+## 重積分
+
+###球座標
+<p>
+<iframe style="width: 100%; height: 600px;" 
+src="https://www.geogebra.org/m/hffk3hnb"
+ frameborder="0" 
+ width="320" 
+ height="340">
+ </iframe>
+ </p>
+
