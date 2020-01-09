@@ -174,3 +174,13 @@ src="https://www.geogebra.org/m/hffk3hnb"
  </iframe>
  </p>
 
+
+##旋轉體體積
+<p>
+<iframe style="width: 100%; height: 600px;" 
+src="https://www.geogebra.org/m/WkWPXhhu#material/Buz3SdxF"
+ frameborder="0" 
+ width="320" 
+ height="340">
+ </iframe>
+ </p>
