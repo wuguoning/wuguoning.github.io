@@ -26,20 +26,10 @@ $$\sum_{i,j=0}^D Q_{i,j}  x_i  x_j + \sum_{i=0}^D P_i  x_i + R = 0$$
 ## 三維空間
 ![imag1](./imags/space_3d.png)
 
-## 自己畫一張平面
-<p>
-<iframe style="width: 100%; height: 600px;" 
- src="https://www.geogebra.org/m/Pd5mkw3j"  
- frameborder="0" 
- width="320" 
- height="340">
- </iframe>
- </p>
- 
-
 ## 橢球面
 $$\dfrac{x^2}{a^2}+\dfrac{y^2}{b^2}+\dfrac{z^2}{c^2} = 1$$
 
+### 切割一下！
 <p>
 <iframe style="width: 100%; height: 600px;" 
 src="https://www.geogebra.org/m/MxGcbbRM"
@@ -48,3 +38,15 @@ src="https://www.geogebra.org/m/MxGcbbRM"
  height="340">
  </iframe>
  </p>
+
+### 旋轉一下！
+<p>
+<iframe style="width: 100%; height: 600px;" 
+src="https://www.geogebra.org/m/BPUDhm94
+ frameborder="0" 
+ width="320" 
+ height="340">
+ </iframe>
+ </p>
+
+
