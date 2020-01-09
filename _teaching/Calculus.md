@@ -32,7 +32,7 @@ $$\sum_{i,j=0}^D Q_{i,j}  x_i  x_j + \sum_{i=0}^D P_i  x_i + R = 0$$
  src="https://www.geogebra.org/m/Pd5mkw3j"  
  frameborder="0" 
  width="320" 
- height="300">
+ height="340">
  </iframe>
  </p>
  
@@ -45,6 +45,6 @@ $$\dfrac{x^2}{a^2}+\dfrac{y^2}{b^2}+\dfrac{z^2}{c^2} = 1$$
 src="https://www.geogebra.org/m/MxGcbbRM"
  frameborder="0" 
  width="320" 
- height="300">
+ height="340">
  </iframe>
  </p>
