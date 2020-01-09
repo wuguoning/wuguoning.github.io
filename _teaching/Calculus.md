@@ -19,11 +19,8 @@ These notes are based on the calculus.
 ======
 [<span style="color:blue">**All Lecture Notes, Download Here.**</span>](http://wuguoning.github.io/files/calculus/notes/lecture_notes.rar)
 
-解析幾何考点
 ------
 
-多元函數微分考點
-------
 
 <table>
     <tr>
@@ -73,5 +70,3 @@ These notes are based on the calculus.
     </tr>
 </table>
 
-多元函数积分考点
-------

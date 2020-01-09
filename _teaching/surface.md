@@ -1,5 +1,5 @@
 ---
-title: "Calculus"
+title: "Surfaces"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/surface
