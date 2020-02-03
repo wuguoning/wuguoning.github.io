@@ -12,7 +12,7 @@ These notes are based on the calculus.
 
 # 多元函数微积分
 
-### 向量代数与空间解析几何
+## 向量代数与空间解析几何
 
 ### 向量及其运算
 
@@ -23,25 +23,32 @@ These notes are based on the calculus.
 $$\bf{a, b, c,} \cdots $$
 或者
 $$\vec{a}, \vec{b}, \vec{c}, \cdots$$
+
 两个向量的夹角:
 $$(\widehat{a,b}) = \phi$$
 
-<div class="video-container">
-    <iframe 
-    src="https://www.geogebra.org/m/vmqR4M2R"
-    height="600" 
-    width="800" 
-    allowfullscreen="" 
-    frameborder="6"
-    ></iframe>
-</div>
-.video-container iframe {
-    position: absolute;
-    top:0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-}
+### 向量的线性运算
+**向量的加法和减法**：
+![vector](./imags/vector_add.png)
+向量的加法符合以下规律：
+   1. 交换律： $\bf{a + b = b + a} $;
+   2. 结合律：$\bf{(a + b) + c = a + (b + c)}$   
+**数乘**
+向量与数的乘积满足以下运算规律：
+   1. 结合律：$\lambda (\mu \bf{a}) = (\lambda \mu)\bf{a}$;
+   2. 分配律：$(\lambda + \mu)\bf{a} = \lambda \bf{a} + \mu \bf{a}$, $\lambda \bf{a + b} = \lambda \bf{a} + \lambda \bf{b}$.
+> 设向量$\bf{a} \ne \bf{0}$，则向量$\bf{b}$平行于$\bf{a}$的充分必要条件为：$\bf{b} = \lambda \bf{a}$.
+
+--------------------------------------------------------------------
+### 空间直角坐标系
+![3D_System](./imags/3d_coordinate_system.png)
+![3D_System](./imags/3d_coordinate_system1.png)
+
+
+
+
+
+
 
 # Calculus and its Visualization: an Introduction
 
