@@ -50,7 +50,6 @@ integrability.
 
 9. Here is the final test answer: [<span style="color:red">**Final test.**</span>](http://wuguoning.github.io/files/analysis/17-18-1_real_analysis_final_test.pdf)
 
-<div style="page-break-after: always"></div>
 
 <a name="analysis2"></a>
 ## Real Analysis II
