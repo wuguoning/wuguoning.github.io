@@ -29,12 +29,19 @@ $$(\widehat{a,b}) = \phi$$
 <div class="video-container">
     <iframe 
     src="https://www.geogebra.org/m/vmqR4M2R"
-    height="250" 
-    width="300" 
+    height="600" 
+    width="800" 
     allowfullscreen="" 
     frameborder="6"
     ></iframe>
 </div>
+.video-container iframe {
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
 
 # Calculus and its Visualization: an Introduction
 
