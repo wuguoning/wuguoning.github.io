@@ -14,11 +14,7 @@ These notes are based on the calculus.
 
 ## 第八章 向量代数与空间解析几何
 
-  
 ### 第一节 向量及其运算
-<details>
-  <summary>Click to expand!</summary>
-
 ---
 
 **1. 向量和标量**
@@ -109,22 +105,14 @@ $$\vec{AM} = \lambda \vec{MB}$$
 ---
 
 
----
+
 
 #### 习题
 
 
-</details>
-
-
----
+===
 
 ### 第二节
-
-<details>
-  <summary>Click to expand!</summary>
-  
-</details>
 
 ---
 
