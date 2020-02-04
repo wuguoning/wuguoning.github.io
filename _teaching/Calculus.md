@@ -18,6 +18,7 @@ These notes are based on the calculus.
 ---
 
 **1. 向量和标量**
+
 “速度”和“位移”是向量，“速率”和“长度”是标量。几何上向量是有大小和方向的有向线段。向量描述事物间的位移和相对位置，向量不包括“位置”的概念。“点”有位置，但没有大小和厚度。
 
 向量的表示：
@@ -36,14 +37,18 @@ $$(\widehat{a,b}) = \phi$$
 
 ![vector](./imags/vector_add.png)
 向量的加法符合以下规律：
-   [1]. 交换律： $\bf{a + b = b + a} $;
-   [2]. 结合律：$\bf{(a + b) + c = a + (b + c)}$   
+
+  + 交换律： $\bf{a + b = b + a} $;
+
+  + 结合律：$\bf{(a + b) + c = a + (b + c)}$   
 
 **数乘**
 
 向量与数的乘积满足以下运算规律：
-   [1]. 结合律：$\lambda (\mu \bf{a}) = (\lambda \mu)\bf{a}$;
-   [2]. 分配律：$(\lambda + \mu)\bf{a} = \lambda \bf{a} + \mu \bf{a}$, $\lambda (\bf{a + b}) = \lambda \bf{a} + \lambda \bf{b}$.
+
+  + 结合律：$\lambda (\mu \bf{a}) = (\lambda \mu)\bf{a}$;
+
+  + 分配律：$(\lambda + \mu)\bf{a} = \lambda \bf{a} + \mu \bf{a}$, $\lambda (\bf{a + b}) = \lambda \bf{a} + \lambda \bf{b}$.
 
 
 ---
@@ -115,13 +120,19 @@ $$M \leftrightarrow \bf{r} \leftrightarrow \vec{OM} = x^1\bf{e_1} + x^2\bf{e_2} 
 $$\vec{AM} = \lambda \vec{MB}$$
 
 解： $\vec{AM} = \vec{OM} - \vec{OA}$, $\vec{MB} = \vec{OB} - \vec{OM}$，所以有：
+
 $$\vec{OM} - \vec{OA} = \lambda (\vec{OB} - \vec{OM})$$，
+
 故
+
 $$\vec{OM} = \dfrac{1}{1+\lambda}\left(\vec{OA} + \lambda \vec{OB}\right)$$
+
 将坐标带入得到：
+
 $$\vec{OM} = \left(\dfrac{x_1 + \lambda x_2}{1 + \lambda}, \dfrac{y_1 + \lambda y_2}{1 + \lambda}, \dfrac{z_1 + \lambda z_2}{1 + \lambda}\right)$$
 
 **向量长度**
+
 $$\|\bf{a}\| = $$
 
 **方向余弦**
