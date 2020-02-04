@@ -165,14 +165,19 @@ $$\left(\cos \alpha, \cos \beta, \cos \gamma\right) = \left(-\dfrac{1}{2}, \dfra
 $$\alpha = \dfrac{2\pi}{3}, \beta = \dfrac{\pi}{3}, \gamma = \dfrac{3\pi}{4}$$
 
 </details>
+
 ---
+**投影**
 
+  ![3D_System](./imags/vector_proj.png)
 
+[Click: 更详细的动画](https://www.geogebra.org/material/edit/id/yxadpqun#bookcontent)
 
-
-
-
-
+ > 注意：
+ 
+   + 同济大学高等数学书中的投影是一个标量，也就这上图中的分数$\dfrac{35}{49}$。其实，向量$Proj_{\vec{v}}\vec{u}$若看成一个向量更符合实际的几何意义。
+ 
+   + 若按照同济大学教科书，投影的计算方法为：$$Proj_{\vec{v}}\vec{u} = \dfrac{\vec{u}\cdot \vec{v}}{\|\vec{v}\|}$$
 
 ---
 
@@ -182,7 +187,46 @@ $$\alpha = \dfrac{2\pi}{3}, \beta = \dfrac{\pi}{3}, \gamma = \dfrac{3\pi}{4}$$
 
 ===
 
-### 第二节
+### 第二节 数量积、向量积、混合积
+---
+**1. 数量积**
+由物理学知识指导：物体在常力$\bf{F}$的作用下产生了直线位移$\bf{S}$，则力所做的功为：
+
+$$W = |\bf{F}||\bf{S}|\cos (\widehat{\bf{F},\bf{S}})$$
+
+受此启发，我们定义向量$\bf{a}$和$\bf{b}$的数量积(内积, scalar product)为：$|\bf{a}||\bf{b}|\cos (\widehat{\bf{a},\bf{b}})$，记为：
+
+$$\bf{a} \cdot \bf{b} = |\bf{a}||\bf{b}|\cos (\widehat{\bf{a},\bf{b}})$$
+
+**由定义可以推出数量积具有以下性质**：
+
+  + $\bf{a} \cdot \bf{a} = \|a\|^2$;
+  
+  + $\bf{a} \cdot \bf{b} = \bf{b} \cdot \bf{a} $;
+
+  + $(\bf{a} + \bf{b} ) \cdot \bf{c} = \bf{a} \cdot \bf{c} + \bf{b} \cdot \bf{c} $;
+
+  + $(\lambda\bf{a}) \cdot \bf{b} = \lambda (\bf{a} \cdot \bf{b} )$.
+
+**数量积在坐标下的计算方法**
+
+设$\bf{a} = (a_x, a_y, a_z), \bf{b} = (b_x, b_y, b_z)$，则有：
+$$\bf{a} \cdot \bf{b} = (a_x \bf{i} + a_y \bf{j} + a_z \bf{k}) \cdot (b_x \bf{i} + b_y \bf{j} + b_z \bf{k})$$
+
+<details>
+<summary>Click to expand!</summary>
+$$ = a_xb_x\bf{i}\cdot\bf{i} + a_xb_y\bf{i}\cdot\bf{j} + a_xb_z\bf{i}\cdot\bf{k}
+ $$  $$ +  a_yb_x\bf{j}\cdot\bf{i} + a_yb_y\bf{j}\cdot\bf{j} + a_yb_z\bf{j}\cdot\bf{k}
+ $$ $$ + a_zb_x\bf{k}\cdot\bf{i} + a_zb_y\bf{k}\cdot\bf{j} + a_zb_z\bf{k}\cdot\bf{k}
+ $$
+ </details>
+ $$=(a_xb_x + a_yb_y + a_zb_z)$$
+ 
+   ![3D_System](./imags/vector_scalar_prod.png)
+
+[Click: 更详细的动画](https://www.geogebra.org/material/edit/id/yxadpqun#bookcontent)
+
+---
 
 ---
 
