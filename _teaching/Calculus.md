@@ -192,15 +192,15 @@ $$\alpha = \dfrac{2\pi}{3}, \beta = \dfrac{\pi}{3}, \gamma = \dfrac{3\pi}{4}$$
 **1. 数量积**
 由物理学知识知道：物体在常力$\bf{F}$的作用下产生了直线位移$\bf{S}$，则力所做的功为：
 
-$$W = |\bf{F}||\bf{S}|\cos (\widehat{\bf{F},\bf{S}})$$
+$$W = \|\bf{F}\|\|\bf{S}\|\cos (\widehat{\bf{F},\bf{S}})$$
 
 受此启发，我们定义向量 $\bf{a}$ 和 $\bf{b}$ 的数量积(内积, scalar product)为: 
 
-$$|\bf{a}||\bf{b}|\cos (\widehat{\bf{a},\bf{b}})$$, 
+$$\|\bf{a}\|\|\bf{b}\|\cos (\widehat{\bf{a},\bf{b}})$$, 
 
 记为：
 
-$$\bf{a} \cdot \bf{b} = |\bf{a}||\bf{b}|\cos (\widehat{\bf{a},\bf{b}})$$
+$$\bf{a} \cdot \bf{b} = \|\bf{a}\|\|\bf{b}\|\cos (\widehat{\bf{a},\bf{b}})$$
 
 **由定义可以推出数量积具有以下性质**：
 
