@@ -18,7 +18,7 @@ These notes are based on the calculus.
 ### 第一节 向量及其运算
 <details>
   <summary>Click to expand!</summary>
- 
+
 ---
 **1. 向量和标量**
 “速度”和“位移”是向量，“速率”和“长度”是标量。几何上向量是有大小和方向的有向线段。向量描述事物间的位移和相对位置，向量不包括“位置”的概念。“点”有位置，但没有大小和厚度。
