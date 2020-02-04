@@ -108,9 +108,9 @@ $$M \leftrightarrow \bf{r} \leftrightarrow \vec{OM} = x^1\bf{e_1} + x^2\bf{e_2} 
 
   + $\lambda (a_x, a_y, a_z)  = (\lambda a_x, \lambda a_y, \lambda a_z)$
  
- ![3D_System](./imags/vector_add.png)
+![3D_System](./imags/vector_add.png)
  
-  ![3D_System](./imags/scalar_mult.png)
+![3D_System](./imags/scalar_mult.png)
 
 [Click: 更详细的动画](https://www.geogebra.org/material/edit/id/yxadpqun#bookcontent)
 
@@ -181,11 +181,12 @@ $$\alpha = \dfrac{2\pi}{3}, \beta = \dfrac{\pi}{3}, \gamma = \dfrac{3\pi}{4}$$
 
 ---
 
+<span style="color:red"> 
+**第一次作业：课本第13页：第6, 8, 12, 15题**
+</span>
 
-### 习题
 
-
-===
+---
 
 ### 第二节 数量积、向量积、混合积
 ---
