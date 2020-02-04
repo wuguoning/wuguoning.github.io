@@ -194,9 +194,11 @@ $$\alpha = \dfrac{2\pi}{3}, \beta = \dfrac{\pi}{3}, \gamma = \dfrac{3\pi}{4}$$
 
 $$W = |\bf{F}||\bf{S}|\cos (\widehat{\bf{F},\bf{S}})$$
 
+
 受此启发，我们定义向量$\bf{a}$和$\bf{b}$的数量积(内积, scalar product)为：$|\bf{a}||\bf{b}|\cos (\widehat{\bf{a},\bf{b}})$，记为：
 
 $$\bf{a} \cdot \bf{b} = |\bf{a}||\bf{b}|\cos (\widehat{\bf{a},\bf{b}})$$
+
 
 **由定义可以推出数量积具有以下性质**：
 
@@ -216,13 +218,14 @@ $$\bf{a} \cdot \bf{b} = (a_x \bf{i} + a_y \bf{j} + a_z \bf{k}) \cdot (b_x \bf{i}
 <details>
 <summary>Click to expand!</summary>
 $$ = a_xb_x\bf{i}\cdot\bf{i} + a_xb_y\bf{i}\cdot\bf{j} + a_xb_z\bf{i}\cdot\bf{k}
- $$  $$ +  a_yb_x\bf{j}\cdot\bf{i} + a_yb_y\bf{j}\cdot\bf{j} + a_yb_z\bf{j}\cdot\bf{k}
- $$ $$ + a_zb_x\bf{k}\cdot\bf{i} + a_zb_y\bf{k}\cdot\bf{j} + a_zb_z\bf{k}\cdot\bf{k}
+  +  a_yb_x\bf{j}\cdot\bf{i} + a_yb_y\bf{j}\cdot\bf{j} + a_yb_z\bf{j}\cdot\bf{k}
+  + a_zb_x\bf{k}\cdot\bf{i} + a_zb_y\bf{k}\cdot\bf{j} + a_zb_z\bf{k}\cdot\bf{k}
  $$
  </details>
+ 
  $$=(a_xb_x + a_yb_y + a_zb_z)$$
  
-   ![3D_System](./imags/vector_scalar_prod.png)
+![3D_System](./imags/vector_scalar_prod.png)
 
 [Click: 更详细的动画](https://www.geogebra.org/material/edit/id/yxadpqun#bookcontent)
 
