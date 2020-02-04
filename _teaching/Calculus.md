@@ -119,6 +119,9 @@ $$M \leftrightarrow \bf{r} \leftrightarrow \vec{OM} = x^1\bf{e_1} + x^2\bf{e_2} 
 已知两点$A(x_1, y_1, z_1), B(x_2, y_2, z_2)$以及$\lambda \ne -1$，在直线$AB$上求点$M$，使
 $$\vec{AM} = \lambda \vec{MB}$$
 
+<details>
+<summary>Click to expand!</summary>
+
 解： $\vec{AM} = \vec{OM} - \vec{OA}$, $\vec{MB} = \vec{OB} - \vec{OM}$，所以有：
 
 $$\vec{OM} - \vec{OA} = \lambda (\vec{OB} - \vec{OM})$$，
@@ -130,13 +133,47 @@ $$\vec{OM} = \dfrac{1}{1+\lambda}\left(\vec{OA} + \lambda \vec{OB}\right)$$
 将坐标带入得到：
 
 $$\vec{OM} = \left(\dfrac{x_1 + \lambda x_2}{1 + \lambda}, \dfrac{y_1 + \lambda y_2}{1 + \lambda}, \dfrac{z_1 + \lambda z_2}{1 + \lambda}\right)$$
+</details>
 
 **向量长度**
 
-$$\|\bf{a}\| = $$
+设向量$\bf{a} = (a_x, a_y, a_z)$，则向量的长度为：
+
+$$\|\bf{a}\| = \sqrt{a_x^2 + a_y^2 + a_z^2}$$
 
 **方向余弦**
-$$\left(\cos \alpha, \cos \beta, \cos \gamma\right) = \left(\dfrac{x}{r}, \dfrac{y}{r}, \dfrac{z}{r}\right)$$
+
+$$\left(\cos \alpha, \cos \beta, \cos \gamma\right) = \left(\dfrac{a_x}{\|a\|}, \dfrac{a_y}{\|a\|}, \dfrac{a_z}{\|a\|}\right) = \dfrac{1}{\|a\|}\left(a_x, a_y, a_z\right)$$
+
+$$\cos^2 \alpha + \cos^2 \beta + \cos^2 \gamma = \dfrac{\|a\|^2}{\|a\|^2} = 1 $$
+
+**方向角**
+
+上式中的$\alpha, \beta, \gamma$称为向量$\bf{a}$的方向角。
+
+---
+**例子**
+已知两点$M_1(2, 2, \sqrt{2}), M_2(1, 3, 0)$，计算向量$\vec{M_1 M_2}$的模、方向余弦和方向角。
+
+<details>
+<summary>Click to expand!</summary>
+解： 
+$$\|\vec{M_1 M_2}\| = \|(-1, 1, -\sqrt{2})\| = 2$$
+
+$$\left(\cos \alpha, \cos \beta, \cos \gamma\right) = \left(-\dfrac{1}{2}, \dfrac{1}{2}, -\dfrac{\sqrt{2}}{2}\right)$$
+
+$$\alpha = \dfrac{2\pi}{3}, \beta = \dfrac{\pi}{3}, \gamma = \dfrac{3\pi}{4}$$
+
+</details>
+---
+
+
+
+
+
+
+
+
 ---
 
 
