@@ -20,6 +20,7 @@ These notes are based on the calculus.
   <summary>Click to expand!</summary>
 
 ---
+
 **1. 向量和标量**
 “速度”和“位移”是向量，“速率”和“长度”是标量。几何上向量是有大小和方向的有向线段。向量描述事物间的位移和相对位置，向量不包括“位置”的概念。“点”有位置，但没有大小和厚度。
 
@@ -47,6 +48,7 @@ $$(\widehat{a,b}) = \phi$$
 
 
 ---
+
 <span style="color:blue">
  **定理1**
 设向量$\bf{a} \ne \bf{0}$，则向量$\bf{b}$平行于$\bf{a}$的充分必要条件为：$\bf{b} = \lambda \bf{a}$.
@@ -62,7 +64,7 @@ $$(\widehat{a,b}) = \phi$$
 ![3D_System](./imags/3d_coordinate_system1.png)
 [Click: 更详细的动画](https://www.geogebra.org/material/edit/id/yxadpqun#bookcontent)
 
-------
+---
 
 **4. 向量坐标表示**
 $$M \leftrightarrow \bf{r} \leftrightarrow \vec{OM} = x\bf{i} + y\bf{j} + z\bf{k} \leftrightarrow (x, y, z) $$
@@ -102,6 +104,7 @@ $$M \leftrightarrow \bf{r} \leftrightarrow \vec{OM} = x^1\bf{e_1} + x^2\bf{e_2} 
 
 
 ---
+
 #### 习题
 
 
@@ -116,6 +119,7 @@ $$M \leftrightarrow \bf{r} \leftrightarrow \vec{OM} = x^1\bf{e_1} + x^2\bf{e_2} 
   <summary>Click to expand!</summary>
   
 </details>
+
 ---
 
 
