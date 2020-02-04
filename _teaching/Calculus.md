@@ -16,6 +16,8 @@ These notes are based on the calculus.
 
 ### 第一节 向量及其运算
 ---
+<details>
+  <summary>Click to expand!</summary>
 
 **1. 向量和标量**
 “速度”和“位移”是向量，“速率”和“长度”是标量。几何上向量是有大小和方向的有向线段。向量描述事物间的位移和相对位置，向量不包括“位置”的概念。“点”有位置，但没有大小和厚度。
@@ -31,13 +33,16 @@ $$(\widehat{a,b}) = \phi$$
 ---
 
 **2. 向量的线性运算**
+
 **向量的加法和减法**：
+
 ![vector](./imags/vector_add.png)
 向量的加法符合以下规律：
    1. 交换律： $\bf{a + b = b + a} $;
    2. 结合律：$\bf{(a + b) + c = a + (b + c)}$   
 
 **数乘**
+
 向量与数的乘积满足以下运算规律：
    1. 结合律：$\lambda (\mu \bf{a}) = (\lambda \mu)\bf{a}$;
    2. 分配律：$(\lambda + \mu)\bf{a} = \lambda \bf{a} + \mu \bf{a}$, $\lambda (\bf{a + b}) = \lambda \bf{a} + \lambda \bf{b}$.
@@ -53,18 +58,27 @@ $$(\widehat{a,b}) = \phi$$
 ---
 
 **3. 空间直角坐标系**
+
 在空间取定一定点$O$和三个两两相互垂直的单位向量$\bf{i, j, k}$就确定了三条都以$O$为原点的两两相互垂直的数轴，依次记为$x$轴(横轴)，$y$轴(纵轴)，$z$轴(竖轴)，统称为坐标轴。它们构成空间的一个直角坐标系，如下图所示：
+
 ![3D_System](./imags/3d_coordinate_system.png)
+
 [Click: 更详细的动画](https://www.geogebra.org/material/edit/id/yxadpqun#bookcontent)
+
 三条坐标轴的任意两条可以确定一个平面，这样确定的三个坐标平面统称为坐标平面。$x$轴及$y$轴所确定的坐标平面叫做$xOy$面等等。如下图所示：
+
 ![3D_System](./imags/3d_coordinate_system1.png)
+
 [Click: 更详细的动画](https://www.geogebra.org/material/edit/id/yxadpqun#bookcontent)
 
 ---
 
 **4. 向量坐标表示**
+
 $$M \leftrightarrow \bf{r} \leftrightarrow \vec{OM} = x\bf{i} + y\bf{j} + z\bf{k} \leftrightarrow (x, y, z) $$
+
 例如向量：$\bf{r} = \vec{OM} = 3\bf{i} + 4\bf{j} + 5\bf{k}$
+
 ![3D_System](./imags/3d_vector.png)
 
 [Click: 更详细的动画](https://www.geogebra.org/material/edit/id/yxadpqun#bookcontent)
@@ -102,12 +116,19 @@ $$M \leftrightarrow \bf{r} \leftrightarrow \vec{OM} = x^1\bf{e_1} + x^2\bf{e_2} 
 已知两点$A(x_1, y_1, z_1), B(x_2, y_2, z_2)$以及$\lambda \ne -1$，在直线$AB$上求点$M$，使
 $$\vec{AM} = \lambda \vec{MB}$$
 
+解： $\vec{AM} = \vec{OM} - \vec{OA}$, $\vec{MB} = \vec{OB} - \vec{OM}$，所以有：
+$$\vec{OM} - \vec{OA} = \lambda (\vec{OB} - \vec{OM})$$，
+故
+$$\vec{OM} = \dfrac{1}{1+\lambda}\left(\vec{OA} + \lambda \vec{OB}\right)$$
+将坐标带入得到：
+$$\vec{OM} = \left(\dfrac{x_1 + \lambda x_2}{1 + \lambda}, \dfrac{y_1 + \lambda y_2}{1 + \lambda}, \dfrac{z_1 + \lambda z_2}{1 + \lambda}\right)$$
+
 ---
 
 
+</details>
 
-
-#### 习题
+### 习题
 
 
 ===
@@ -134,3 +155,4 @@ Thanks to [**GeoGebra**](https://www.geogebra.org/)
 教材
 ======
 1. 《高等數學》上下冊（第七版），同濟大學數學系編，高等教育出版社，2014.7
+
