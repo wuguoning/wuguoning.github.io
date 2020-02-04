@@ -232,6 +232,17 @@ $$=(a_xb_x + a_yb_y + a_zb_z)$$
 [Click: 更详细的动画](https://www.geogebra.org/material/edit/id/yxadpqun#bookcontent)
 
 ---
+**例子**
+已知三点$M(1,1,1), A(2,2,1), B(2,1,2)$，求$\angle{AMB}$
+
+<details>
+<summary>Click to expand!</summary>
+$$\cos \angle{AMB} = \dfrac{\vec{MA} \cdot \vec{MB}}{\|\vec{MA}\|\|\vec{MB}\|} = \dfrac{1}{\sqrt{2}\sqrt{2}} = \dfrac{1}{2}$$
+所以有，
+$$\angle{AMB} = \dfrac{\pi}{3}$$
+</details>
+
+---
 
 
 
