@@ -1,16 +1,14 @@
 ---
-title: "Calculus"
+title: "Cartesian__Geometry"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/Calculus
+permalink: /teaching/Cartesian_Geometry
 venue: "China University of Petroleum at Beijing, Department of Science"
-date: 2019-09-30
+date: 2019-02-02
 location: "City, Country"
 ---
 
-These notes are based on the calculus.
-
-# 多元函数微积分
+这部分内容为空间几何初步.
 
 ## 第八章 向量代数与空间解析几何
 
@@ -347,6 +345,17 @@ a_x & a_y & a_z \newline
 b_x & b_y & b_z \newline
 c_x & c_y & c_z
 \end{array}\right|$$
+
+---
+**例子**
+已知不在平面上的四点：$A_i(x_i, y_i, z_i), i=1,2,3,4$，求四面体$A_1A_2A_3A_4$的体积。
+
+<details>
+<summary>Click to expand!</summary>
+解：四面体的体积为$\bf{V} = \dfrac{1}{6}\left|\vec{A_1A_2}\vec{A_1A_3}\vec{A_1A_4}\right|$
+
+</details>
+
 
 ---
 
