@@ -33,7 +33,10 @@ $$(\widehat{a,b}) = \phi$$
 
 **向量的加法和减法**：
 
-![vector](./imags/vector_add.png)
+<center>
+<img src="./imags/vector_add.png"  width="300" height="240" />
+</center>
+
 向量的加法符合以下规律：
 
   + 交换律： $\bf{a + b = b + a} $;
@@ -62,13 +65,17 @@ $$(\widehat{a,b}) = \phi$$
 
 在空间取定一定点$O$和三个两两相互垂直的单位向量$\bf{i, j, k}$就确定了三条都以$O$为原点的两两相互垂直的数轴，依次记为$x$轴(横轴)，$y$轴(纵轴)，$z$轴(竖轴)，统称为坐标轴。它们构成空间的一个直角坐标系，如下图所示：
 
-![3D_System](./imags/3d_coordinate_system.png)
+<center>
+<img src="./imags/3d_coordinate_system.png"  width="300" height="200" />
+</center>
 
 👉[Click: 更详细的动画](https://www.geogebra.org/material/edit/id/yxadpqun#bookcontent)
 
 三条坐标轴的任意两条可以确定一个平面，这样确定的三个坐标平面统称为坐标平面。$x$轴及$y$轴所确定的坐标平面叫做$xOy$面等等。如下图所示：
 
-![3D_System](./imags/3d_coordinate_system1.png)
+<center>
+<img src="./imags/3d_coordinate_system1.png"  width="200" height="200" />
+</center>
 
 👉[Click: 更详细的动画](https://www.geogebra.org/material/edit/id/yxadpqun#bookcontent)
 
@@ -80,7 +87,10 @@ $$M \leftrightarrow \bf{r} \leftrightarrow \vec{OM} = x\bf{i} + y\bf{j} + z\bf{k
 
 例如向量：$\bf{r} = \vec{OM} = 3\bf{i} + 4\bf{j} + 5\bf{k}$
 
-![3D_System](./imags/3d_vector.png)
+<center>
+<img src="./imags/3d_vector.png"  width="300" height="200" />
+</center>
+
 
 👉[Click: 更详细的动画](https://www.geogebra.org/material/edit/id/yxadpqun#bookcontent)
 
@@ -105,10 +115,11 @@ $$M \leftrightarrow \bf{r} \leftrightarrow \vec{OM} = x^1\bf{e_1} + x^2\bf{e_2} 
   + $(a_x, a_y, a_z) + (b_x, b_y, b_z) = (a_x+b_x, a_y+b_y, a_z+b_z)$;
 
   + $\lambda (a_x, a_y, a_z)  = (\lambda a_x, \lambda a_y, \lambda a_z)$
- 
-![3D_System](./imags/vector_add.png)
- 
-![3D_System](./imags/scalar_mult.png)
+
+<center>
+<img src="./imags/vector_add.png"  width="300" height="200" />
+<img src="./imags/scalar_mult.png"  width="300" height="200" />
+</center> 
 
 👉[Click: 更详细的动画](https://www.geogebra.org/material/edit/id/yxadpqun#bookcontent)
 
@@ -167,7 +178,9 @@ $$\alpha = \dfrac{2\pi}{3}, \beta = \dfrac{\pi}{3}, \gamma = \dfrac{3\pi}{4}$$
 ---
 **投影**
 
-  ![3D_System](./imags/vector_proj.png)
+<center>
+<img src="./imags/vector_proj.png"  width="300" height="200" />
+</center> 
 
 👉[Click: 更详细的动画](https://www.geogebra.org/material/edit/id/yxadpqun#bookcontent)
 
@@ -233,7 +246,10 @@ $$
 
 $$=(a_xb_x + a_yb_y + a_zb_z)$$
 
-![3D_System](./imags/vector_scalar_prod.png)
+<center>
+<img src="./imags/vector_scalar_prod.png"  width="300" height="200" />
+</center> 
+
 
 👉[Click: 更详细的动画](https://www.geogebra.org/material/edit/id/yxadpqun#bookcontent)
 
@@ -271,8 +287,12 @@ $\bf{M}$所在的方向垂直于$\vec{OP}$和$\bf{F}$所决定的平面，它的
   + 方向：垂直于向量$\bf{a, b}$所在的平面，方向为按右手法则从向量$\bf{a}$以不超过$\pi$的角转向向量$\bf{b}$.
 
 下图直观展示了向量$\bf{a}\times\bf{b}$：
-![3D_System](./imags/right_hand_rule.png)
-![3D_System](./imags/right_hand_rule1.png)
+
+<center>
+<img src="./imags/right_hand_rule.png"  width="200" height="140" />
+<img src="./imags/right_hand_rule1.png"  width="200" height="140" />
+</center> 
+
 
 **向量积性质**
 
@@ -324,7 +344,10 @@ b_x & b_y & b_z
 \end{array}\right|
 $
 
-![3D_System](./imags/cross_prod.png)
+<center>
+<img src="./imags/cross_prod.png"  width="400" height="300" />
+</center> 
+
 👉[Click: 更详细的动画](https://www.geogebra.org/material/edit/id/yxadpqun#bookcontent)
 
 ---
@@ -384,12 +407,14 @@ c_x & c_y & c_z
 
 
 # Calculus and its Visualization: an Introduction
-
+<center>
+<img src="./imags/surface.png" width="100" height="100"/>
+</center>
 Thanks to [**GeoGebra**](https://www.geogebra.org/)
 
 👉[<span style="color:red"> **For details, click here:**</span>](https://www.geogebra.org/m/yxadpqun)
 
-[![Calculus](./imags/surface.png)](https://www.geogebra.org/m/yxadpqun)
+
 
 
 📖教材
