@@ -310,12 +310,12 @@ $ = (a_yb_z - a_zb_y) \bf{i} + (a_zb_x - a_xb_z) \bf{j} + (a_xb_y-a_yb_x)\bf{k}$
 写成代数中行列式的方式为：
 
 $$
-\bf{a}\times\bf{b} = Det
-\begin{bmatrix}
+\bf{a}\times\bf{b} = 
+\left|\begin{array}{ccc}
 i & j & k \newline
 a_x & a_y & a_z \newline
 b_x & b_y & b_z
-\end{bmatrix}
+\end{array}\right|
 $$
 
 ![3D_System](./imags/cross_prod.png)
@@ -342,12 +342,11 @@ $$
   +  $\bf{[abc]} = \bf{[bca]} = \bf{[cab]}$
 
 **坐标下的计算方法**
-$$\bf{[abc]}  = Det\begin{bmatrix}
+$$\bf{[abc]}  = \left|\begin{array}{ccc}
 a_x & a_y & a_z \newline
 b_x & b_y & b_z \newline
 c_x & c_y & c_z
-\end{bmatrix}$$
-
+\end{array}\right|$$
 
 ---
 
