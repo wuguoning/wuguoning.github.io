@@ -392,32 +392,47 @@ c_x & c_y & c_z
 
  
 ---
-📚<span style="color:red"> 
-**第二次作业:**
+<span style="color:red"> 
+📚**第二次作业:**
 </span>
 
   1. 设向量$\bf{a} = (3, -1, -2), \bf{b} = (1, 2, -1)$，求
-    * $\bf{a} \cdot \bf{b}$;
+    + $\bf{a} \cdot \bf{b}$;
 
-    * $(-2\bf{a}) \cdot 3\bf{b}$;
+    + $(-2\bf{a}) \cdot 3\bf{b}$;
 
-    * $\bf{a} \times 2\bf{b}$;
+    + $\bf{a} \times 2\bf{b}$;
 
-    * $\bf{a, b}$夹角的余弦。
+    + $\bf{a, b}$夹角的余弦。
 
   2. 已知$M_1(1, -1, 2), M_2(3, 3, 1), M_3(3, 1, 3)$，求与$\vec{M_1M_2}, \vec{M_2M_3}$同时垂直的单位向量。
 
   3. 求向量$\bf{a} = (4, -3, 4)$在向量$\bf{b} = (2, 2, 1)$上的投影。
 
   4. 已知向量$\bf{a} = (2, -3, 1), \bf{b} = (1, -1, 3), \bf{c}=(1, -2, 0)$，求
-    * $\bf{(a \cdot b)c - (a \cdot c)b}$;
+    + $\bf{(a \cdot b)c - (a \cdot c)b}$;
 
-    * $\bf{(a + b)\times (b + c)}$;
+    + $\bf{(a + b)\times (b + c)}$;
 
-    * $\bf{(a \times b) \cdot c}$.
+    + $\bf{(a \times b) \cdot c}$.
 
+
+===
+
+### 第三节 空间平面
 
 ---
+**1. 平面方程**
+**📌点法式**
+
+**📌一般式**
+
+**📌参数式**
+
+**📌两平面的位置关系**
+
+---
+
 
 
 
