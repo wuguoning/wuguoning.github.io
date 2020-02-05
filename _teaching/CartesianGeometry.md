@@ -1,8 +1,8 @@
 ---
-title: "Cartesian__Geometry"
+title: "CartesianGeometry"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/Cartesian_Geometry
+permalink: /teaching/CartesianGeometry
 venue: "China University of Petroleum at Beijing, Department of Science"
 date: 2019-02-02
 location: "City, Country"
