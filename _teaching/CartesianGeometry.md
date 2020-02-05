@@ -180,8 +180,11 @@ $$\alpha = \dfrac{2\pi}{3}, \beta = \dfrac{\pi}{3}, \gamma = \dfrac{3\pi}{4}$$
 ---
 
 <span style="color:red"> 
+:clipboard:
 **第一次作业:**
 </span>
+<details>
+<summary>Clip to expand!</summary>
 
   1. 已知两点$M_1(0, 1, 2)$和$M_2(1, -1, 0)$，试用坐标表示向量$\vec{M_1M_2}, -2\vec{M_1M_2}$.
 
@@ -191,7 +194,7 @@ $$\alpha = \dfrac{2\pi}{3}, \beta = \dfrac{\pi}{3}, \gamma = \dfrac{3\pi}{4}$$
 
   4. 设已知两点$M_1(4, \sqrt{2}, 1)$和$M_2(3, 0, 2)$，计算向量$\vec{M_1M_2}$的模、方向余弦和方向角。
 
-
+</details>
 
 ---
 
@@ -369,7 +372,6 @@ c_x & c_y & c_z
 
 </details>
 
-:clipboard:
 
 
 ---
