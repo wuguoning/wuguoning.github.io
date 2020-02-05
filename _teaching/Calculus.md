@@ -251,7 +251,7 @@ $$\angle{AMB} = \dfrac{\pi}{3}$$
 
  > “Give me a fulcrum, and I shall move the world!”
 
-   "给我一个支点我将反转地球！"-阿基米德。
+ > "给我一个支点我将反转地球！"-阿基米德。
 
 设$\bf{O}$为一根杠杆的支点。有一个力$\bf{F}$作用在这根杠杆的$P$点处夹角为$\theta$，由力学规定，力$\bf{F}$对支点$\bf{O}$的力矩是一个向量$\bf{M}$，该向量的长度为：
 
@@ -268,8 +268,6 @@ $\bf{M}$所在的方向垂直于$\vec{OP}$和$\bf{F}$所决定的平面，它的
 下图直观展示了向量$\bf{a}\times\bf{b}$：
 ![3D_System](./imags/right_hand_rule.png)
 ![3D_System](./imags/right_hand_rule1.png)
-![3D_System](./imags/cross_prod.png)
-[Click: 更详细的动画](https://www.geogebra.org/material/edit/id/yxadpqun#bookcontent)
 
 **向量积性质**
 
@@ -310,11 +308,24 @@ $
 $ = (a_yb_z - a_zb_y) \bf{i} + (a_zb_x - a_xb_z) \bf{j} + (a_xb_y-a_yb_x)\bf{k}$
 
 写成代数中行列式的方式为：
-$$\bf{a}\times\bf{b} = \left|\begin{array}{ccc}
-i & j & k \newline
-a_x & a_y & a_z \newline
+
+$$
+\bf{a}\times\bf{b} = \left|\begin{array}{ccc}
+i & j & k \\
+a_x & a_y & a_z \\
 b_x & b_y & b_z
-\end{array}\right|$$
+\end{array}\right|
+$$
+![3D_System](./imags/cross_prod.png)
+[Click: 更详细的动画](https://www.geogebra.org/material/edit/id/yxadpqun#bookcontent)
+
+---
+**例子**
+
+
+---
+
+
 
 
 
