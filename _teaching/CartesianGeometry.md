@@ -391,8 +391,24 @@ c_x & c_y & c_z
 </details>
 
  
+---
+📚<span style="color:red"> 
+**第一次作业:**
+</span>
+<details>
+<summary>Click to expand</summary>
+  1. 设向量$\bf{a} = (3, -1, -2), \bf{b} = (1, 2, -1)$，求
+    * $\bf{a} \cdot \bf{b}$;
 
+    * $(-2\bf{a}) \cdot 3\bf{b}$;
 
+    * $\bf{a} \times 2\bf{b}$;
+
+    * $\bf{a, b}$夹角的余弦。
+
+  2. 已知$M_1(1, -1, 2), M_2(3, 3, 1), M_3(3, 1, 3)$，求与$\vec{M_1M_2}, \vec{M_2M_3}$同时垂直的单位向量。
+
+</details>
 
 ---
 
