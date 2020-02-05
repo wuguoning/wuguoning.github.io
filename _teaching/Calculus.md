@@ -238,12 +238,41 @@ $$=(a_xb_x + a_yb_y + a_zb_z)$$
 
 <details>
 <summary>Click to expand!</summary>
-$$\cos \angle{AMB} = \dfrac{\vec{MA} \cdot \vec{MB}}{\|\vec{MA}\|\|\vec{MB}\|} = \dfrac{1}{\sqrt{2}\sqrt{2}} = \dfrac{1}{2}$$
+
+$\cos \angle{AMB} = \dfrac{\vec{MA} \cdot \vec{MB}}{\|\vec{MA}\|\|\vec{MB}\|} = \dfrac{1}{\sqrt{2}\sqrt{2}} = \dfrac{1}{2}$
+
 所以有，
 $$\angle{AMB} = \dfrac{\pi}{3}$$
 </details>
 
 ---
+
+**2. 两个向量的向量积**
+
+ > “Give me a fulcrum, and I shall move the world!”
+  "给我一个支点我将反转地球！"-阿基米德。
+
+设$\bf{O}$为一根杠杆的支点。有一个力$\bf{F}$作用在这根杠杆的$P$点处夹角为$\theta$，由力学规定，力$\bf{F}$对支点$\bf{O}$的力矩是一个向量$\bf{M}$，该向量的长度为：
+
+$$\|\bf{M}\| = \|\vec{OP}\|\|\bf{F}\|\sin \angle{(\widehat{\vec{OP}, \bf{F}})}$$
+
+$\bf{M}$所在的方向垂直于$\vec{OP}$和$\bf{F}$所决定的平面，它的方向为按照右手规则从$\vec{OP}$以不超过$\pi$的角度转向$\bf{F}$来确定。受此启发我们定义两个向量的向量积如下：
+
+设$\bf{a}, \bf{b}$为两个向量，向量$\bf{a, b}$的向量积(**一个新的向量**)$\bf{a}\times\bf{b}$(cross product)定义为：
+
+  + 大小: $\|\bf{a} \times \bf{b}\| = \|a\|\|b\|\sin \angle{\widehat{(\bf{a}, \bf{b})}}$;
+
+  + 方向：垂直于向量$\bf{a, b}$所在的平面，方向为按右手法则从向量$\bf{a}$以不超过$\pi$的角转向向量$\bf{b}$.
+
+下图直观展示了向量$\bf{a}\times\bf{b}$：
+![3D_System](./imags/right_hand_rule.png)
+![3D_System](./imags/right_hand_rule1.png)
+![3D_System](./imags/cross_prod.png)
+[Click: 更详细的动画](https://www.geogebra.org/material/edit/id/yxadpqun#bookcontent)
+
+
+
+
 
 
 
