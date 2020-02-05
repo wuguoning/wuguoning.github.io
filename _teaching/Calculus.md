@@ -340,13 +340,12 @@ b_x & b_y & b_z
   +  $\bf{[abc]} = \bf{[bca]} = \bf{[cab]}$
 
 **坐标下的计算方法**
-$$\bf{[abc]}  = \left|\begin{array}{ccc}
-a_x & a_y & a_z \newline
+$$\bf{[abc]}  = Det\begin{bmatrix}
+## a_x & a_y & a_z \newline
 b_x & b_y & b_z \newline
 c_x & c_y & c_z
-\end{array}\right|$$
+\end{bmatrix}$$
 
-$\begin{bmatrix}a & b\newline c & d\end{bmatrix}$
 
 ---
 
