@@ -309,19 +309,44 @@ $ = (a_yb_z - a_zb_y) \bf{i} + (a_zb_x - a_xb_z) \bf{j} + (a_xb_y-a_yb_x)\bf{k}$
 
 写成代数中行列式的方式为：
 
-$$
-\bf{a}\times\bf{b} = \left|\begin{array}{ccc}
-i & j & k \\
-a_x & a_y & a_z \\
+$$\bf{a}\times\bf{b} = Det
+\begin{bmatrix}
+i & j & k \newline
+a_x & a_y & a_z \newline
 b_x & b_y & b_z
-\end{array}\right|
-$$
+\end{bmatrix}$$
+
 ![3D_System](./imags/cross_prod.png)
 [Click: 更详细的动画](https://www.geogebra.org/material/edit/id/yxadpqun#bookcontent)
 
 ---
 **例子**
+已知三角形的顶点分别是$A(1,2,3), B(3,4,5), C(2,4,7)$求三角形$ABC$的面积。
 
+<details>
+<summary>Click to expand!</summary>
+解：三角形的面积为$\|\vec{AB} \times \vec{AC}\|$
+
+</details>
+
+---
+
+---
+**3.三个向量的混合积**
+已知三个向量$\bf{a, b, c}$，先作两个向量$\bf{a}$和向量$\bf{b}$的向量积$\bf{a} \times \bf{b}$，再把得到的向量与第三个向量$\bf{c}$作数量积$(\bf{a} \times \bf{b}) \cdot \bf{c}$，这样得到的数称为向量$\bf{a, b, c}$的混合积。记作$[\bf{abc}]$。
+
+**性质**
+
+  +  $\bf{[abc]} = \bf{[bca]} = \bf{[cab]}$
+
+**坐标下的计算方法**
+$$\bf{[abc]}  = \left|\begin{array}{ccc}
+a_x & a_y & a_z \newline
+b_x & b_y & b_z \newline
+c_x & c_y & c_z
+\end{array}\right|$$
+
+$\begin{bmatrix}a & b\newline c & d\end{bmatrix}$
 
 ---
 
