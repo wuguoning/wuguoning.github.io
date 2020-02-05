@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/CartesianGeometry
 venue: "China University of Petroleum at Beijing, Department of Science"
-date: 2019-02-02
+date: 2020-02-02
 location: "City, Country"
 ---
 
@@ -307,14 +307,16 @@ $ = (a_yb_z - a_zb_y) \bf{i} + (a_zb_x - a_xb_z) \bf{j} + (a_xb_y-a_yb_x)\bf{k}$
 
 写成代数中行列式的方式为：
 
-$$
+
+![3D_System](./imags/a_cross_b.png)
+$
 \bf{a}\times\bf{b} = 
 \left|\begin{array}{ccc}
 i & j & k \newline
 a_x & a_y & a_z \newline
 b_x & b_y & b_z
 \end{array}\right|
-$$
+$
 
 ![3D_System](./imags/cross_prod.png)
 [Click: 更详细的动画](https://www.geogebra.org/material/edit/id/yxadpqun#bookcontent)
@@ -340,6 +342,8 @@ $$
   +  $\bf{[abc]} = \bf{[bca]} = \bf{[cab]}$
 
 **坐标下的计算方法**
+
+![3D_System](./imags/a_cross_b.png)
 $$\bf{[abc]}  = \left|\begin{array}{ccc}
 a_x & a_y & a_z \newline
 b_x & b_y & b_z \newline
@@ -352,7 +356,7 @@ c_x & c_y & c_z
 
 <details>
 <summary>Click to expand!</summary>
-解：四面体的体积为$\bf{V} = \dfrac{1}{6}\left|\vec{A_1A_2}\vec{A_1A_3}\vec{A_1A_4}\right|$
+解：四面体的体积为$\bf{V} = \dfrac{1}{6}\left|\left[\vec{A_1A_2} \vec{A_1A_3} \vec{A_1A_4}\right]\right|$
 
 </details>
 
