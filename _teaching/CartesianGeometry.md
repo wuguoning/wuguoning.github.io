@@ -15,7 +15,7 @@ location: "City, Country"
 ### 第一节 向量及其运算
 ---
 
-**1. 向量和标量**
+📌**1. 向量和标量**
 
 “速度”和“位移”是向量，“速率”和“长度”是标量。几何上向量是有大小和方向的有向线段。向量描述事物间的位移和相对位置，向量不包括“位置”的概念。“点”有位置，但没有大小和厚度。
 
@@ -29,7 +29,7 @@ $$(\widehat{a,b}) = \phi$$
 
 ---
 
-**2. 向量的线性运算**
+📌**2. 向量的线性运算**
 
 **向量的加法和减法**：
 
@@ -58,23 +58,23 @@ $$(\widehat{a,b}) = \phi$$
 
 ---
 
-**3. 空间直角坐标系**
+**📌3. 空间直角坐标系**
 
 在空间取定一定点$O$和三个两两相互垂直的单位向量$\bf{i, j, k}$就确定了三条都以$O$为原点的两两相互垂直的数轴，依次记为$x$轴(横轴)，$y$轴(纵轴)，$z$轴(竖轴)，统称为坐标轴。它们构成空间的一个直角坐标系，如下图所示：
 
 ![3D_System](./imags/3d_coordinate_system.png)
 
-[Click: 更详细的动画](https://www.geogebra.org/material/edit/id/yxadpqun#bookcontent)
+👉[Click: 更详细的动画](https://www.geogebra.org/material/edit/id/yxadpqun#bookcontent)
 
 三条坐标轴的任意两条可以确定一个平面，这样确定的三个坐标平面统称为坐标平面。$x$轴及$y$轴所确定的坐标平面叫做$xOy$面等等。如下图所示：
 
 ![3D_System](./imags/3d_coordinate_system1.png)
 
-[Click: 更详细的动画](https://www.geogebra.org/material/edit/id/yxadpqun#bookcontent)
+👉[Click: 更详细的动画](https://www.geogebra.org/material/edit/id/yxadpqun#bookcontent)
 
 ---
 
-**4. 向量坐标表示**
+**📌4. 向量坐标表示**
 
 $$M \leftrightarrow \bf{r} \leftrightarrow \vec{OM} = x\bf{i} + y\bf{j} + z\bf{k} \leftrightarrow (x, y, z) $$
 
@@ -82,7 +82,7 @@ $$M \leftrightarrow \bf{r} \leftrightarrow \vec{OM} = x\bf{i} + y\bf{j} + z\bf{k
 
 ![3D_System](./imags/3d_vector.png)
 
-[Click: 更详细的动画](https://www.geogebra.org/material/edit/id/yxadpqun#bookcontent)
+👉[Click: 更详细的动画](https://www.geogebra.org/material/edit/id/yxadpqun#bookcontent)
 
 $n$维空间向量的Enstein表示为：
 $$M \leftrightarrow \bf{r} \leftrightarrow \vec{OM} = x^1\bf{e_1} + x^2\bf{e_2} + \cdots +  x^n\bf{e_n} \leftrightarrow (x^1, x^2, \cdots, x^n) = x^i \bf{e_i}$$
@@ -90,7 +90,7 @@ $$M \leftrightarrow \bf{r} \leftrightarrow \vec{OM} = x^1\bf{e_1} + x^2\bf{e_2} 
 
 ---
 
-**5. 利用坐标作向量的线形运算、向量的模、方向角、投影**
+**📌5. 利用坐标作向量的线形运算、向量的模、方向角、投影**
 
 设向量$\bf{a} = a_x\bf{i} + a_y\bf{j} + a_z\bf{k}$, $\bf{b} = b_x\bf{i} + b_y\bf{j} + b_z\bf{k}$，则有：
   
@@ -110,7 +110,7 @@ $$M \leftrightarrow \bf{r} \leftrightarrow \vec{OM} = x^1\bf{e_1} + x^2\bf{e_2} 
  
 ![3D_System](./imags/scalar_mult.png)
 
-[Click: 更详细的动画](https://www.geogebra.org/material/edit/id/yxadpqun#bookcontent)
+👉[Click: 更详细的动画](https://www.geogebra.org/material/edit/id/yxadpqun#bookcontent)
 
 ---
 **例子**
@@ -169,7 +169,7 @@ $$\alpha = \dfrac{2\pi}{3}, \beta = \dfrac{\pi}{3}, \gamma = \dfrac{3\pi}{4}$$
 
   ![3D_System](./imags/vector_proj.png)
 
-[Click: 更详细的动画](https://www.geogebra.org/material/edit/id/yxadpqun#bookcontent)
+👉[Click: 更详细的动画](https://www.geogebra.org/material/edit/id/yxadpqun#bookcontent)
 
  > 注意：
  
@@ -180,8 +180,8 @@ $$\alpha = \dfrac{2\pi}{3}, \beta = \dfrac{\pi}{3}, \gamma = \dfrac{3\pi}{4}$$
 ---
 
 <span style="color:red"> 
-:clipboard:
-**第一次作业:**
+
+📚**第一次作业:**
 </span>
 <details>
 <summary>Clip to expand!</summary>
@@ -200,7 +200,7 @@ $$\alpha = \dfrac{2\pi}{3}, \beta = \dfrac{\pi}{3}, \gamma = \dfrac{3\pi}{4}$$
 
 ### 第二节 数量积、向量积、混合积
 ---
-**1. 数量积**
+**📌. 数量积**
 由物理学知识知道：物体在常力$\bf{F}$的作用下产生了直线位移$\bf{S}$，则力所做的功为：
 
 $$W = \|\bf{F}\|\|\bf{S}\|\cos (\widehat{\bf{F},\bf{S}})$$
@@ -240,7 +240,7 @@ $$=(a_xb_x + a_yb_y + a_zb_z)$$
 
 ![3D_System](./imags/vector_scalar_prod.png)
 
-[Click: 更详细的动画](https://www.geogebra.org/material/edit/id/yxadpqun#bookcontent)
+👉[Click: 更详细的动画](https://www.geogebra.org/material/edit/id/yxadpqun#bookcontent)
 
 ---
 **例子**
@@ -257,7 +257,7 @@ $$\angle{AMB} = \dfrac{\pi}{3}$$
 
 ---
 
-**2. 两个向量的向量积**
+**📌2. 两个向量的向量积**
 
  > “Give me a fulcrum, and I shall move the world!”
 
@@ -330,7 +330,7 @@ b_x & b_y & b_z
 $
 
 ![3D_System](./imags/cross_prod.png)
-[Click: 更详细的动画](https://www.geogebra.org/material/edit/id/yxadpqun#bookcontent)
+👉[Click: 更详细的动画](https://www.geogebra.org/material/edit/id/yxadpqun#bookcontent)
 
 ---
 **例子**
@@ -345,7 +345,7 @@ $
 ---
 
 ---
-**3.三个向量的混合积**
+**📌3.三个向量的混合积**
 已知三个向量$\bf{a, b, c}$，先作两个向量$\bf{a}$和向量$\bf{b}$的向量积$\bf{a} \times \bf{b}$，再把得到的向量与第三个向量$\bf{c}$作数量积$(\bf{a} \times \bf{b}) \cdot \bf{c}$，这样得到的数称为向量$\bf{a, b, c}$的混合积。记作$[\bf{abc}]$。
 
 **性质**
@@ -372,6 +372,8 @@ c_x & c_y & c_z
 
 </details>
 
+ 
+
 
 
 ---
@@ -390,12 +392,12 @@ c_x & c_y & c_z
 
 Thanks to [**GeoGebra**](https://www.geogebra.org/)
 
-[<span style="color:red"> **For details, click here:**</span>](https://www.geogebra.org/m/yxadpqun)
+👉[<span style="color:red"> **For details, click here:**</span>](https://www.geogebra.org/m/yxadpqun)
 
 [![Calculus](./imags/surface.png)](https://www.geogebra.org/m/yxadpqun)
 
 
-教材
+📖教材
 ======
 1. 《高等數學》上下冊（第七版），同濟大學數學系編，高等教育出版社，2014.7
 
