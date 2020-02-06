@@ -655,11 +655,12 @@ $
   = \dfrac{3}{3} = 1.
 $
 
-</details>
 </center>
+</details>
 
 
 ---
+
 📚<span style="color:red"> 
 **第三次作业:**
 </span>
