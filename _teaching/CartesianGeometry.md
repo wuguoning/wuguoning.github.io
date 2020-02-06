@@ -504,6 +504,22 @@ $$A(x - x_0) + B(y - y_0) + C(z - z_0) = 0$$
 
 🍺[Hands on](https://www.geogebra.org/m/bFuCp5Ys)
 
+---
+**例子**
+设一平面与$x, y, z$轴的交点依次为$P(a, 0, 0), Q(0, b, 0), R(0, 0, c)$三点$(abc \ne 0)$。求此平面方程。
+
+<details>
+<summary>Click to expand!</summary>
+解： 设所求平面方程为:$Ax + By + Cz + D = 0$，则有：
+$aA + D = 0,  bB + D = 0, cC + D = 0$
+解之得，
+
+$$\dfrac{x}{a} + \dfrac{y}{b} + \dfrac{z}{c} = 1$$.
+
+</details>
+
+---
+
 **📌参数式**
 
 设平面$\Pi$过$M_0(x_0, y_0, z_0)$点，平行于两个不共线的两个向量$\bf{u_1}(X_1, Y_1, Z_1), \bf{u_2}(X_2, Y_2, Z_2)$，于是$M(x, y, z)$在该平面上的的充分必要条件为向量$\vec{M_0M}, \bf{u_1, u_2}$共面。由于$\bf{u_1, u_2}$不共线，所以存在实数$s, t$使得：
@@ -535,33 +551,26 @@ $$
 另外，常用的是一般式程，其表达式为：
 
 $$
-  \left|\begin{array}{ccc}
+\left|\begin{array}{ccc}
           x - x_0 & y - y_0 & z - z_0 \newline
           X_1 & Y_1 & Z_1 \newline
           X_2 & Y_2 & Z_2 
         \end{array}
-  \right| = 0
+\right| = 0
 $$
 
----
-**例子**
-设一平面与$x, y, z$轴的交点依次为$P(a, 0, 0), Q(0, b, 0), R(0, 0, c)$三点$(abc \ne 0)$。求此平面方程。
-
-<details>
-<summary>Click to expand!</summary>
-解： 设所求平面方程为:$Ax + By + Cz + D = 0$，则有：
-$aA + D = 0,  bB + D = 0, cC + D = 0$
-解之得，
-
-$$\dfrac{x}{a} + \dfrac{y}{b} + \dfrac{z}{c} = 1$$.
-
-</details>
 
 ---
-
-
-
 **📌两平面的位置关系**
+两张平面的位置关系有：相交、平行两种情况。判断方法为：
+<span "color=blue">
+在直角坐标系中，两张平面：
+$$\Pi_i: A_ix + B_iy + C_iz + D_i = 0, i=1,2$$
+
+  1. $\Pi_1$平行于$\Pi_2$的充分必要条件为：$\dfrac{A_1}{A_2} = \dfrac{B_1}{B_2} = \dfrac{C_1}{C_2}$;
+
+  2. $\Pi_1$等于$\Pi_2$的充分必要条件为：$\dfrac{A_1}{A_2} = \dfrac{B_1}{B_2} = \dfrac{C_1}{C_2} = \dfrac{D_1}{D_2}$.
+
 
 ---
 
