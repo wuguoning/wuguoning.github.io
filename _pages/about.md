@@ -16,7 +16,7 @@ Real Analysis
 
 Calculus
 =========
-[![Calculus](/images/calculus_main_page.png)](https://wuguoning.github.io/teaching/Calculus)
+[![Calculus](/images/calculus_main_page.png)](https://wuguoning.github.io/teaching)
 
 
 Research Papers
