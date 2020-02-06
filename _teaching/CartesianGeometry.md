@@ -691,13 +691,6 @@ $
 
 **📌空间点到与直线的距离**
 
-
-
-
-
-
-
-
 # Calculus and its Visualization: an Introduction
 <center>
 <img src="./imags/surface.png" width="100" height="100"/>
@@ -705,9 +698,6 @@ $
 Thanks to [**GeoGebra**](https://www.geogebra.org/)
 
 👉[<span style="color:red"> **For details, click here:**</span>](https://www.geogebra.org/m/yxadpqun)
-
-
-
 
 📖教材
 ======
