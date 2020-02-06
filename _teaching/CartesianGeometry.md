@@ -598,6 +598,17 @@ $</span>
 
 🍺[Hands on](https://www.geogebra.org/m/bgAjjjJD)
 
+两平面法向量的夹角(通常指锐角或直角)称为两平面的夹角。
+在直角坐标系中，两张平面：
+
+$$\Pi_i: A_ix + B_iy + C_iz + D_i = 0, i=1,2$$
+
+则，
+
+$$\cos \theta = \dfrac{\left|A_1A_2 + B_1B_2 + C_1C_2\right|}{\sqrt{A_1^2 + B_1^2 + C_1^2}\sqrt{A_2^2 + B_2^2 + C_2^2}}$$
+
+
+
 ---
 
 
