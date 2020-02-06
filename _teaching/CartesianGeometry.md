@@ -553,10 +553,10 @@ $$
 
 $$
 \left|\begin{array}{ccc}
-    x - x_0 & y - y_0 & z - z_0 \newline
-    X_1 & Y_1 & Z_1 \newline
-    X_2 & Y_2 & Z_2 
-    \end{array}
+x - x_0 & y - y_0 & z - z_0 \newline
+X_1 & Y_1 & Z_1 \newline
+X_2 & Y_2 & Z_2 
+\end{array}
 \right| = 0
 $$
 
@@ -584,10 +584,10 @@ $$\Pi_i: A_ix + B_iy + C_iz + D_i = 0, i=1,2,3$$
 
 $$
 \left|\begin{array}{ccc}
-    A_1 & B_1 & C_1 \newline
-    A_2 & B_2 & C_2 \newline
-    A_3 & B_3 & C_3 
-    \end{array}
+A_1 & B_1 & C_1 \newline
+A_2 & B_2 & C_2 \newline
+A_3 & B_3 & C_3 
+\end{array}
 \right| \ne 0
 $$
 </span>
