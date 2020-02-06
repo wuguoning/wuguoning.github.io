@@ -687,21 +687,31 @@ $
 $\vec{M_0M} \parallel \bf{u}$
 </center>
 
-写成坐标的形式，记得到了直线的标准方程：
+写成坐标的形式，记得到了<span style="color:red">直线的标准方程:</span>
 
 $$\dfrac{x - x_0}{X} = \dfrac{y - y_0}{Y} = \dfrac{z - z_0}{Z}$$
 
 又因为$\bf{u} \ne \bf{0}$，所以$\vec{M_0M} \parallel \bf{u}$的充分且必要条件是：存在实数$\lambda$使得
 
 <center>
-\vec{M_0M} = \lambda \bf{u}
+$\vec{M_0M} = \lambda \bf{u}$
 </center>
-用坐标写出，即得到了直线的参数方程：
+用坐标写出，即得到了<span style="color:red">直线的参数方程:</span>
 
 $$
 \left\{\begin{array}{c} x = x_0 + \lambda X \newline 
                         y = y_0 + \lambda Y \newline
                         z = z_0 + \lambda Z
+       \end{array}\right.
+$$
+
+直线的这两种方程虽然在形式上不同，但它们的直接表现处出直线的几何意义，即它的方向和所经过的点。我们把这两种方法统称为<span style="color:red">直线的点向式方程。</span>
+
+确定直线的另外一种方法是把它作为两张平面的交线，即三元一次方程组：
+
+$$
+\left\{\begin{array}{c} A_1x + B_1y + C_1z + D_1 = 0 \newline
+                        A_2x + B_2y + C_2z + D_2 = 0
        \end{array}\right.
 $$
 
