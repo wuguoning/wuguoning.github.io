@@ -566,6 +566,7 @@ $$
 **📌两平面的位置关系**
 
 两张平面的位置关系有：相交、平行两种情况。判断方法为：
+
 <span style="color:blue">
 在直角坐标系中，两张平面：
 $$\Pi_i: A_ix + B_iy + C_iz + D_i = 0, i=1,2$$
@@ -573,7 +574,6 @@ $$\Pi_i: A_ix + B_iy + C_iz + D_i = 0, i=1,2$$
   1. $\Pi_1$平行于$\Pi_2$的充分必要条件为：$\dfrac{A_1}{A_2} = \dfrac{B_1}{B_2} = \dfrac{C_1}{C_2}$;
 
   2. $\Pi_1$等于$\Pi_2$的充分必要条件为：$\dfrac{A_1}{A_2} = \dfrac{B_1}{B_2} = \dfrac{C_1}{C_2} = \dfrac{D_1}{D_2}$.
-
 </span>
 
 ---
@@ -590,7 +590,6 @@ $$
     \end{array}
 \right| \ne 0
 $$
-
 </span>
 
 
