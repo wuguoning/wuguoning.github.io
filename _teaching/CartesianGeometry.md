@@ -602,9 +602,24 @@ $</center>
 
 $$\Pi_i: A_ix + B_iy + C_iz + D_i = 0, i=1,2$$
 
-则，
+则夹角的余弦为，
 
 $$\cos \theta = \dfrac{\left|A_1A_2 + B_1B_2 + C_1C_2\right|}{\sqrt{A_1^2 + B_1^2 + C_1^2}\sqrt{A_2^2 + B_2^2 + C_2^2}}$$
+
+---
+**例子**
+求两张平面$x-y+2z-6=0$和$2x+y+z-5=0$的夹角。
+<details>
+<summary>Click to expand!</summary>
+解：
+
+$\cos \theta = \dfrac{|1 \times 2 + (-1) \times 1 + 2 \times 1 }{\sqrt{1^2 + (-1)^2 + 2^2}\sqrt{2^2 + 1^2 + 1^2}} = \dfrac{1}{2}$
+
+所以$\theta = \dfrac{\pi}{3}$
+</details>
+
+
+---
 
 
 
