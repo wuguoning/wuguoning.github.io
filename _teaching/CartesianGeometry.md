@@ -566,7 +566,7 @@ $$
 **📌两平面的位置关系**
 
 两张平面的位置关系有：相交、平行两种情况。判断方法为：
-<span "color=blue">
+<span style="color:blue">
 在直角坐标系中，两张平面：
 $$\Pi_i: A_ix + B_iy + C_iz + D_i = 0, i=1,2$$
 
@@ -577,7 +577,7 @@ $$\Pi_i: A_ix + B_iy + C_iz + D_i = 0, i=1,2$$
 </span>
 
 ---
-<span "color=blue">
+<span style="color:blue">
 在直角坐标系中，三张平面：
 $$\Pi_i: A_ix + B_iy + C_iz + D_i = 0, i=1,2,3$$
 相交于一点的充分必要条件为：
