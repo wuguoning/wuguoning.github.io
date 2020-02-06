@@ -620,7 +620,13 @@ $\cos \theta = \dfrac{|1 \times 2 + (-1) \times 1 + 2 \times 1 }{\sqrt{1^2 + (-1
 
 
 ---
+**📌点到平面的距离**
 
+<center>
+<img src="./imags/point_2plane_dist.png"  width="700" height="300" />
+</center> 
+
+🍺[Hands on](https://www.geogebra.org/m/z88Fyq98)
 
 
 ---
