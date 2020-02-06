@@ -770,11 +770,24 @@ $
 ---
 
 **📌空间直线与平面**
+直线于平面的位置关系有：相交(只有一个交点)、直线在平面上、以及没有交点三种情况，后两种统称为平行。
+设平面$\Pi$的方程为$Ax + By + Cz + D = 0$。直线$l$过点$M_0(x_0, y_0, z_0)$，平行于非零向量$\bf{u}(X, Y, Z)$。则$l$平行于$\Pi$;$l$在$\Pi$上的条件为：
+
+$$l \parallel \Pi \iff AX + BY + CZ = 0$$
+$$l \in \Pi \iff \left\{\begin{array}{c}AX + BY + CZ = 0 \newline Ax_0 + By_0 + Cz_0 + D =0$$
+
+
+---
 
 **📌空间直线与直线**
 
+
+---
+
 **📌空间点到与直线的距离**
 
+
+---
 # Calculus and its Visualization: an Introduction
 <center>
 <img src="./imags/surface.png" width="100" height="100"/>
