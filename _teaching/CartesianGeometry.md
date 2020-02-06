@@ -648,9 +648,11 @@ $$
 <center>
 $
 d = \dfrac{\vec{PQ} \cdot \bf{n}}{\|\bf{n}\|} = 
-  = \dfrac{|Ax_0 + By_0 + Cz_0 + D|}{\sqrt{A^2 + B^2 + C^2}}\newline
+  = \dfrac{|Ax_0 + By_0 + Cz_0 + D|}{\sqrt{A^2 + B^2 + C^2}}
+$
+$
   = \dfrac{|1 \times 1 + 2 \times 2 + 2 \times 1  - 10|}{\sqrt{1^2 + 2^2 + 2^2}}
-   = \dfrac{3}{3} = 1.
+  = \dfrac{3}{3} = 1.
 $
 
 </details>
