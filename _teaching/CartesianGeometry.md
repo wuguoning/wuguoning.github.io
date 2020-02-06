@@ -703,3 +703,6 @@ Thanks to [**GeoGebra**](https://www.geogebra.org/)
 ======
 1. 《高等數學》上下冊（第七版），同濟大學數學系編，高等教育出版社，2014.7
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE4NzQ4ODYyMDNdfQ==
+-->
