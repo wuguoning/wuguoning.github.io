@@ -715,6 +715,13 @@ $$
        \end{array}\right.
 $$
 
+以上方程为直线的<span style="color:red">一般方程</span>.
+
+<center>
+<img src="./imags/point_vector_line.png"  width="700" height="300" />
+</center> 
+
+🍺[Hands on](https://www.geogebra.org/m/Zrch46XS)
 
 **📌空间直线与平面**
 
