@@ -622,12 +622,37 @@ $\cos \theta = \dfrac{|1 \times 2 + (-1) \times 1 + 2 \times 1 }{\sqrt{1^2 + (-1
 ---
 **📌点到平面的距离**
 
+设空间一平面$\Pi: Ax + By + Cz + D = 0$其法向量为$\bf{n} = (A, B, C)$，另设$Q(x, y, z)$为平面外一点，点$Q$到平面$\Pi$的距离为：
+
+在平面$\Pi$上任取一点$P(x_0, y_0, z_0)$，距离为：
+
+$$
+d = \dfrac{\vec{PQ} \cdot \bf{n}}{\|\bf{n}\|} = 
+  = \dfrac{|Ax_0 + By_0 + Cz_0 + D|}{\sqrt{A^2 + B^2 + C^2}
+$$
+
+见下图：
 <center>
 <img src="./imags/point_2plane_dist.png"  width="700" height="300" />
 </center> 
 
 🍺[Hands on](https://www.geogebra.org/m/z88Fyq98)
 
+---
+**例子**
+求点$(1, 2, 1)$到平面$x + 2y + 2z - 10 = 0$的距离。
+<details>
+<summary>Click to expand!</summary>
+解：在平面上任取一点$P(0, 0, 5)$,法向量$\bf{n} = (1, 2, 2)$,
+
+$
+d = \dfrac{\vec{PQ} \cdot \bf{n}}{\|\bf{n}\|} = 
+  = \dfrac{|Ax_0 + By_0 + Cz_0 + D|}{\sqrt{A^2 + B^2 + C^2}\newline
+  = \dfrac{|1 \times 1 + 2 \times 2 + 2 \times 1  - 10|}{\sqrt{1^2 + 2^2 + 2^2}}
+   = \dfrac{3}{3} = 1.
+$
+
+</details>
 
 ---
 
