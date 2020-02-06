@@ -743,6 +743,31 @@ $$
 </details>
 
 ---
+**例子**
+设直线的一般方程为：
+$
+\left\{\begin{array}{c} 2x + y -2z + 1 = 0 \newline
+                        4x - 2y + 2z - 1 = 0
+       \end{array}\right.
+$
+求它的参数方程。
+<details>
+<summary>Click to expand!</summary>
+直线的方向向量为：
+$
+ \left|\begin{array}{cc} 1 & -2 \newline -2 & 2 \end{array}\right|, \left|\begin{array}{cc} -2 & 2 \newline 2 & 4 \end{array}\right|, \left|\begin{array}{cc} 2 & 1 \newline 4 & -2 \end{array}\right|
+$
+$
+ = (-2, -12, 8)
+$
+在直线上找一点$(0, 0, 0.5)$，所以直线的参数方程为：
+
+$
+ \left\{\begin{array}{c} x = \lambda \newline y = 6\lambda \newline z = 0.5 + 4\lambda \end{array}\right.
+$
+</details>
+
+---
 
 **📌空间直线与平面**
 
