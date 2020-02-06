@@ -74,7 +74,7 @@ $$(\widehat{a,b}) = \phi$$
 三条坐标轴的任意两条可以确定一个平面，这样确定的三个坐标平面统称为坐标平面。$x$轴及$y$轴所确定的坐标平面叫做$xOy$面等等。坐标平面把空间分割为8个卦限。如下图所示：
 
 <center>
-<img src="./imags/eight_parts.png"  width="400" height="800" />
+<img src="./imags/eight_parts.png"  width="400" height="600" />
 </center>
 
 <center>
