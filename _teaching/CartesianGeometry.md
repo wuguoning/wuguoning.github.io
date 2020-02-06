@@ -71,10 +71,10 @@ $$(\widehat{a,b}) = \phi$$
 
 👉[Click: 更详细的动画](https://www.geogebra.org/material/edit/id/yxadpqun#bookcontent)
 
-三条坐标轴的任意两条可以确定一个平面，这样确定的三个坐标平面统称为坐标平面。$x$轴及$y$轴所确定的坐标平面叫做$xOy$面等等。如下图所示：
+三条坐标轴的任意两条可以确定一个平面，这样确定的三个坐标平面统称为坐标平面。$x$轴及$y$轴所确定的坐标平面叫做$xOy$面等等。坐标平面把空间分割为8个卦限。如下图所示：
 
 <center>
-<img src="./imags/eight_parts.png"  width="300" height="600" />
+<img src="./imags/eight_parts.png"  width="400" height="800" />
 </center>
 
 <center>
@@ -505,6 +505,33 @@ $$A(x - x_0) + B(y - y_0) + C(z - z_0) = 0$$
 🍺[Hands on](https://www.geogebra.org/m/bFuCp5Ys)
 
 **📌参数式**
+
+设平面$\Pi$过$M_0(x_0, y_0, z_0)$点，平行于两个不共线的两个向量$\bf{u_1}(X_1, Y_1, Z_1), \bf{u_2}(X_2, Y_2, Z_2)}$，于是$M(x, y, z)$在该平面上的的充分必要条件为向量$\vec{M_0M}, bf{u_1, u_2}$共面。由于$\bf{u_1, u_2}$不共线，所以存在实数$s, t$使得：
+
+$$\vec{M_0M} = s\bf{u_1} + t\bf{u_2}$$
+
+上述方程写成分量的形式为：
+
+$
+\left\{\begin{array} 
+x - x_0 = sX_1 + tX_2 \newline 
+y - y_0 = sY_1 + tY_2 \newline
+z - z_0 = sZ_1 + tZ_2 
+\end{array}\right.
+(s, t) \in \mathcal{R}
+$
+
+即，
+
+$
+\left\{\begin{array} 
+x = x_0 + sX_1 + tX_2 \newline 
+y = y_0 + sY_1 + tY_2 \newline
+z = z_0 + sZ_1 + tZ_2 
+\end{array}\right.
+(s, t) \in \mathcal{R}
+$
+
 
 
 
