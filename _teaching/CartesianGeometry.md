@@ -513,7 +513,7 @@ $$\vec{M_0M} = s\bf{u_1} + t\bf{u_2}$$
 上述方程写成分量的形式为：
 
 $
-\left\{\begin{array} 
+\left{\begin{array} 
 x - x_0 = sX_1 + tX_2 \newline 
 y - y_0 = sY_1 + tY_2 \newline
 z - z_0 = sZ_1 + tZ_2 
@@ -524,7 +524,7 @@ $
 即，
 
 $
-\left\{\begin{array} 
+\left{\begin{array} 
 x = x_0 + sX_1 + tX_2 \newline 
 y = y_0 + sY_1 + tY_2 \newline
 z = z_0 + sZ_1 + tZ_2 
