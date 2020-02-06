@@ -628,7 +628,7 @@ $\cos \theta = \dfrac{|1 \times 2 + (-1) \times 1 + 2 \times 1 }{\sqrt{1^2 + (-1
 
 $$
 d = \dfrac{\vec{PQ} \cdot \bf{n}}{\|\bf{n}\|} = 
-  = \dfrac{|Ax_0 + By_0 + Cz_0 + D|}{\sqrt{A^2 + B^2 + C^2}
+  = \dfrac{|Ax_0 + By_0 + Cz_0 + D|}{\sqrt{A^2 + B^2 + C^2}}
 $$
 
 见下图：
@@ -645,14 +645,17 @@ $$
 <summary>Click to expand!</summary>
 解：在平面上任取一点$P(0, 0, 5)$,法向量$\bf{n} = (1, 2, 2)$,
 
+<center>
 $
 d = \dfrac{\vec{PQ} \cdot \bf{n}}{\|\bf{n}\|} = 
-  = \dfrac{|Ax_0 + By_0 + Cz_0 + D|}{\sqrt{A^2 + B^2 + C^2}\newline
+  = \dfrac{|Ax_0 + By_0 + Cz_0 + D|}{\sqrt{A^2 + B^2 + C^2}}\newline
   = \dfrac{|1 \times 1 + 2 \times 2 + 2 \times 1  - 10|}{\sqrt{1^2 + 2^2 + 2^2}}
    = \dfrac{3}{3} = 1.
 $
 
 </details>
+</center>
+
 
 ---
 📚<span style="color:red"> 
