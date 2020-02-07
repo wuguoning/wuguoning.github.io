@@ -1032,18 +1032,30 @@ $\dfrac{x^2 + z^2}{a^2} - \dfrac{y^2}{b^2} = 1$.
 
 
 
+## 📖参考书目
+1. 《高等数学》上下册（第七版），同济大学，高等教育出版社，2014.7.
+
+2. 《解析几何》，邱维声，北京大学出版社，1988.
+
+3. 《解析几何》，尤承业，北京大学出版社，2004.
+
+
 
 # Calculus and its Visualization: an Introduction
+
+👉[<span style="color:red"> **For details, click here:**</span>](https://www.geogebra.org/m/yxadpqun)
+
 <center>
 <a href="https://www.geogebra.org/material/edit/id/yxadpqun#bookcontent">
    <img src="./imags/surface.png" width="100" height="100"/>
 </a>
 </center>
 
-👉[<span style="color:red"> **For details, click here:**</span>](https://www.geogebra.org/m/yxadpqun)
 
-Thanks to:
 <center>
+
+<span style="color:red">**THANKS**</span>
+
 <a href="https://www.geogebra.org">
    <img src="./imags/geogebra.png" width="200" height="60"/>
 </a>
@@ -1051,13 +1063,5 @@ Thanks to:
 <a href="https://www.geogebra.org">
    <img src="./imags/github.png" width="200" height="60"/>
 </a>
+
 </center>
-
-
-
-
-📖参考书目
-======
-1. 《高等数学》上下册（第七版），同济大学，高等教育出版社，2014.7.
-2. 《解析几何》，邱维声，北京大学出版社，1988.
-3. 《解析几何》，尤承业，北京大学出版社，2004.
