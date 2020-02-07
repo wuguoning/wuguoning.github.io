@@ -834,7 +834,7 @@ $
 <center>
 $
 \left\{\begin{array}{c} 3x + 2y - z + 1 = 0 \newline x - 2z = 0 \end{array}\right.
-$
+$</center>
 平面$\Pi$的方程为$4x + ay + 2z + b = 0$，求$a, b$.
 
 <details>
@@ -846,10 +846,26 @@ $
 
 **📌空间直线与直线**
 
+空间直线与直线的位置关系有异面、相交、重合、平行而不重合四种情况。设直线$l_i$的方向向量为$\bf{u_i}$且分别通过$M_i$点$i=1,2$，则有：
+
+---
+<span style="color:blue">
+**命题**
+</span>
+  1. $l_1 \parallel l_2 \iff \bf{u_1} \parallel \bf{u_2}$;
+
+  2. $l_1, l_2$共面$\iff$ $[\vec{M_1M_2 \bf{u_1} \bf{u_2}}] = 0$(混合积为零);
+
+  3. $l_1, l_2$重合 $\iff$ $\vec{M_1M_2}, \bf{u_1}, \bf{u_2}$共线。
+
+🛠**上述命题的分量表达式应该为什么？**
+
+
 
 ---
 
 **📌空间点到与直线的距离**
+
 
 
 ---
@@ -864,7 +880,3 @@ Thanks to [**GeoGebra**](https://www.geogebra.org/)
 📖教材
 ======
 1. 《高等數學》上下冊（第七版），同濟大學數學系編，高等教育出版社，2014.7
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzQ4ODYyMDNdfQ==
--->
