@@ -828,6 +828,19 @@ $
 
 其中$\lambda^2 + \mu^2 \ne 0$.
 
+---
+**例子**
+已知$l$在$\Pi$上，其中$l$的一般方程为：
+<center>
+$
+\left\{\begin{array}{c} 3x + 2y - z + 1 = 0 \newline x - 2z = 0 \end{array}\right.
+$
+平面$\Pi$的方程为$4x + ay + 2z + b = 0$，求$a, b$.
+
+<details>
+<summary>Click to expand!</summary>
+设$4x + ay + 2z + b = \lambda(3x + 2y - z + 1) + \mu(x - 2z)$，解之得，$\lambda = 2, \mu = -2$从而有$a = 4, b = 2$.
+</details>
 
 ---
 
