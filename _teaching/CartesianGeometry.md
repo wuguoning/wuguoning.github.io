@@ -981,8 +981,27 @@ $$f(\pm\sqrt{x^2 + y^2}, z) = 0$$
 
 
 ---
-<span style="color:red">**小结**</span>
+📝<span style="color:red">**小结**</span>
+
 为了得到$yOz$平面上的曲线$\Gamma$绕$z$轴旋转所得到的旋转曲线，只要将母线$\Gamma$在$yOz$平面上的方程中$y$改成$\pm\sqrt{x^2 + y^2}$，$z$不动。坐标平面上的曲线绕坐标轴旋转所得到的旋转曲面的方程都有类似的规律。
+
+---
+**例子**
+母线$\Gamma$为
+<center>
+$\left\{\begin{array}{l} y^2 = 2pz \newline x = 0 \end{array}\right.$
+</center>
+绕$z$轴旋转所得到的旋转曲面方程为：
+<center>
+$x^2 + y^2 = 2pz$.
+</center>
+
+<center>
+<img src="./imags/rotational_parabo.png" width="400" height="300"/>
+</center>
+
+🍺[Hands on](https://www.geogebra.org/m/qcNwb4bk)
+
 
 ---
 
@@ -994,7 +1013,9 @@ Thanks to [**GeoGebra**](https://www.geogebra.org/)
 
 👉[<span style="color:red"> **For details, click here:**</span>](https://www.geogebra.org/m/yxadpqun)
 
-📖教材
+
+
+📖参考书目
 ======
 1. 《高等数学》上下册（第七版），同济大学，高等教育出版社，2014.7.
 2. 《解析几何》，邱维声，北京大学出版社，1988.
