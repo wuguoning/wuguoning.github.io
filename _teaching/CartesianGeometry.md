@@ -1035,17 +1035,21 @@ $\dfrac{x^2 + z^2}{a^2} - \dfrac{y^2}{b^2} = 1$.
 
 # Calculus and its Visualization: an Introduction
 <center>
-[![Geogebra](<img src="./imags/surface.png" width="100" height="100"/>)](https://www.geogebra.org/material/edit/id/yxadpqun#bookcontent)
+<a href="https://www.geogebra.org/material/edit/id/yxadpqun#bookcontent">
+   <img src="./imags/surface.png" width="100" height="100"/>
+</a>
 </center>
 
 👉[<span style="color:red"> **For details, click here:**</span>](https://www.geogebra.org/m/yxadpqun)
 
 Thanks to:
 <center>
-[<img src="./imags/geogebra.png" width="200" height="60"/>](https://www.geogebra.org)
+<a href="https://www.geogebra.org">
+   <img src="./imags/geogebra.png" width="200" height="60"/>
+</a>
 
-<a> href="https://www.geogebra.org"
-<img src="./imags/geogebra.png" width="200" height="60"/>
+<a href="https://www.geogebra.org">
+   <img src="./imags/github.png" width="200" height="60"/>
 </a>
 </center>
 
