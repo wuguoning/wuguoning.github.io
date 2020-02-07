@@ -66,10 +66,11 @@ $$(\widehat{a,b}) = \phi$$
 在空间取定一定点$O$和三个两两相互垂直的单位向量$\bf{i, j, k}$就确定了三条都以$O$为原点的两两相互垂直的数轴，依次记为$x$轴(横轴)，$y$轴(纵轴)，$z$轴(竖轴)，统称为坐标轴。它们构成空间的一个直角坐标系，如下图所示：
 
 <center>
+<a href="https://www.geogebra.org/material/edit/id/yxadpqun#bookcontent">
 <img src="./imags/3d_coordinate_system.png"  width="300" height="200" />
+</a>
 </center>
 
-👉[Click: 更详细的动画](https://www.geogebra.org/material/edit/id/yxadpqun#bookcontent)
 
 三条坐标轴的任意两条可以确定一个平面，这样确定的三个坐标平面统称为坐标平面。$x$轴及$y$轴所确定的坐标平面叫做$xOy$面等等。坐标平面把空间分割为8个卦限。如下图所示：
 
@@ -78,10 +79,11 @@ $$(\widehat{a,b}) = \phi$$
 </center>
 
 <center>
+<a href="https://www.geogebra.org/material/edit/id/yxadpqun#bookcontent">
 <img src="./imags/3d_coordinate_system1.png"  width="200" height="200" />
+</a>
 </center>
 
-👉[Click: 更详细的动画](https://www.geogebra.org/material/edit/id/yxadpqun#bookcontent)
 
 ---
 
@@ -92,11 +94,12 @@ $$M \leftrightarrow \bf{r} \leftrightarrow \vec{OM} = x\bf{i} + y\bf{j} + z\bf{k
 例如向量：$\bf{r} = \vec{OM} = 3\bf{i} + 4\bf{j} + 5\bf{k}$
 
 <center>
+<a href="https://www.geogebra.org/material/edit/id/yxadpqun#bookcontent">
 <img src="./imags/3d_vector.png"  width="300" height="200" />
+</a>
 </center>
 
 
-👉[Click: 更详细的动画](https://www.geogebra.org/material/edit/id/yxadpqun#bookcontent)
 
 $n$维空间向量的Enstein表示为：
 $$M \leftrightarrow \bf{r} \leftrightarrow \vec{OM} = x^1\bf{e_1} + x^2\bf{e_2} + \cdots +  x^n\bf{e_n} \leftrightarrow (x^1, x^2, \cdots, x^n) = x^i \bf{e_i}$$
@@ -121,11 +124,12 @@ $$M \leftrightarrow \bf{r} \leftrightarrow \vec{OM} = x^1\bf{e_1} + x^2\bf{e_2} 
   + $\lambda (a_x, a_y, a_z)  = (\lambda a_x, \lambda a_y, \lambda a_z)$
 
 <center>
+<a href="https://www.geogebra.org/material/edit/id/yxadpqun#bookcontent">
 <img src="./imags/vector_add.png"  width="300" height="200" />
 <img src="./imags/scalar_mult.png"  width="300" height="200" />
+</a>
 </center> 
 
-👉[Click: 更详细的动画](https://www.geogebra.org/material/edit/id/yxadpqun#bookcontent)
 
 ---
 **例子**
@@ -133,7 +137,7 @@ $$M \leftrightarrow \bf{r} \leftrightarrow \vec{OM} = x^1\bf{e_1} + x^2\bf{e_2} 
 $$\vec{AM} = \lambda \vec{MB}$$
 
 <details>
-<summary>Click to expand!</summary>
+<summary>⬇️ Click to expand!</summary>
 
 解： $\vec{AM} = \vec{OM} - \vec{OA}$, $\vec{MB} = \vec{OB} - \vec{OM}$，所以有：
 
@@ -169,7 +173,7 @@ $$\cos^2 \alpha + \cos^2 \beta + \cos^2 \gamma = \dfrac{\|a\|^2}{\|a\|^2} = 1 $$
 已知两点$M_1(2, 2, \sqrt{2}), M_2(1, 3, 0)$，计算向量$\vec{M_1 M_2}$的模、方向余弦和方向角。
 
 <details>
-<summary>Click to expand!</summary>
+<summary>⬇️ Click to expand!</summary>
 解： 
 $$\|\vec{M_1 M_2}\| = \|(-1, 1, -\sqrt{2})\| = 2$$
 
@@ -183,10 +187,11 @@ $$\alpha = \dfrac{2\pi}{3}, \beta = \dfrac{\pi}{3}, \gamma = \dfrac{3\pi}{4}$$
 **投影**
 
 <center>
+<a href="https://www.geogebra.org/material/edit/id/yxadpqun#bookcontent">
 <img src="./imags/vector_proj.png"  width="300" height="200" />
+</a>
 </center> 
 
-👉[Click: 更详细的动画](https://www.geogebra.org/material/edit/id/yxadpqun#bookcontent)
 
  > 注意：
  
@@ -241,7 +246,7 @@ $$\bf{a} \cdot \bf{b} = \|\bf{a}\|\|\bf{b}\|\cos (\widehat{\bf{a},\bf{b}})$$
 $$\bf{a} \cdot \bf{b} = (a_x \bf{i} + a_y \bf{j} + a_z \bf{k}) \cdot (b_x \bf{i} + b_y \bf{j} + b_z \bf{k})$$
 
 <details>
-<summary>Click to expand!</summary>
+<summary>⬇️ Click to expand!</summary>
 $$ = a_xb_x\bf{i}\cdot\bf{i} + a_xb_y\bf{i}\cdot\bf{j} + a_xb_z\bf{i}\cdot\bf{k}
   +  a_yb_x\bf{j}\cdot\bf{i} + a_yb_y\bf{j}\cdot\bf{j} + a_yb_z\bf{j}\cdot\bf{k}
   + a_zb_x\bf{k}\cdot\bf{i} + a_zb_y\bf{k}\cdot\bf{j} + a_zb_z\bf{k}\cdot\bf{k}
@@ -251,11 +256,12 @@ $$
 $$=(a_xb_x + a_yb_y + a_zb_z)$$
 
 <center>
+<a href="https://www.geogebra.org/material/edit/id/yxadpqun#bookcontent">
 <img src="./imags/vector_scalar_prod.png"  width="300" height="200" />
+</a>
 </center> 
 
 
-👉[Click: 更详细的动画](https://www.geogebra.org/material/edit/id/yxadpqun#bookcontent)
 
 ---
 **例子**
@@ -315,7 +321,7 @@ $\bf{M}$所在的方向垂直于$\vec{OP}$和$\bf{F}$所决定的平面，它的
 $$\bf{a} \times \bf{b} = (a_x \bf{i} + a_y \bf{j} + a_z \bf{k}) \times (b_x \bf{i} + b_y \bf{j} + b_z \bf{k})$$
 
 <details>
-<summary>Click to expand!</summary>
+<summary>⬇️ Click to expand!</summary>
 $ = a_xb_x\bf{i}\times\bf{i} + a_xb_y\bf{i}\times\bf{j} + a_xb_z\bf{i}\times\bf{k}
   +  a_yb_x\bf{j}\times\bf{i} + a_yb_y\bf{j}\times\bf{j} + a_yb_z\bf{j}\times\bf{k}
   + a_zb_x\bf{k}\times\bf{i} + a_zb_y\bf{k}\times\bf{j} + a_zb_z\bf{k}\times\bf{k}
@@ -349,17 +355,18 @@ b_x & b_y & b_z
 $
 
 <center>
+<a href="https://www.geogebra.org/material/edit/id/yxadpqun#bookcontent">
 <img src="./imags/cross_prod.png"  width="400" height="300" />
+</a>
 </center> 
 
-👉[Click: 更详细的动画](https://www.geogebra.org/material/edit/id/yxadpqun#bookcontent)
 
 ---
 **例子**
 已知三角形的顶点分别是$A(1,2,3), B(3,4,5), C(2,4,7)$求三角形$ABC$的面积。
 
 <details>
-<summary>Click to expand!</summary>
+<summary>⬇️ Click to expand!</summary>
 解：三角形的面积为$\|\vec{AB} \times \vec{AC}\|$
 
 </details>
@@ -388,7 +395,7 @@ c_x & c_y & c_z
 已知不在平面上的四点：$A_i(x_i, y_i, z_i), i=1,2,3,4$，求四面体$A_1A_2A_3A_4$的体积。
 
 <details>
-<summary>Click to expand!</summary>
+<summary>⬇️ Click to expand!</summary>
 
 解：四面体的体积为$\bf{V} = \dfrac{1}{6}\left|\left[\vec{A_1A_2} \vec{A_1A_3} \vec{A_1A_4}\right]\right| = \pm \dfrac{1}{6} \left|\begin{array}{ccc} x_2 - x_1 & y_2 - y_1 & z_2 - z_1 \newline x_3 - x_1 & y_3 - y_1 & z_3 - z_1 \newline x_4 - x_1 & y_4 - y_1 & z_4 - z_1 \end{array} \right| $
 
@@ -440,17 +447,18 @@ $$A(x - x_0) + B(y - y_0) + C(z - z_0) = 0$$
 下图为点法式建立平面示意图
 
 <center>
+<a href="https://www.geogebra.org/material/edit/id/yxadpqun#bookcontent">
 <img src="./imags/plane_equa.png"  width="400" height="300" />
+</a>
 </center> 
 
-👉[Click: 更详细的动画](https://www.geogebra.org/material/edit/id/yxadpqun#bookcontent)
 
 ---
 **例子**
 求过三点$M_i(x_i, y_i, z_i), i=1, 2, 3$的平面方程。
 
 <details>
-<summary>Click to expand!</summary>
+<summary>⬇️ Click to expand!</summary>
 解：法向量为
 $\bf{n} = \left|\begin{array}{ccc} 
           \bf{i} & \bf{j} & \bf{j} \newline
@@ -509,7 +517,7 @@ $$A(x - x_0) + B(y - y_0) + C(z - z_0) = 0$$
 设一平面与$x, y, z$轴的交点依次为$P(a, 0, 0), Q(0, b, 0), R(0, 0, c)$三点$(abc \ne 0)$。求此平面方程。
 
 <details>
-<summary>Click to expand!</summary>
+<summary>⬇️ Click to expand!</summary>
 解： 设所求平面方程为:$Ax + By + Cz + D = 0$，则有：
 $aA + D = 0,  bB + D = 0, cC + D = 0$
 解之得，
@@ -611,7 +619,7 @@ $$\cos \theta = \dfrac{\left|A_1A_2 + B_1B_2 + C_1C_2\right|}{\sqrt{A_1^2 + B_1^
 **例子**
 求两张平面$x-y+2z-6=0$和$2x+y+z-5=0$的夹角。
 <details>
-<summary>Click to expand!</summary>
+<summary>⬇️ Click to expand!</summary>
 解：
 
 $\cos \theta = \dfrac{|1 \times 2 + (-1) \times 1 + 2 \times 1 }{\sqrt{1^2 + (-1)^2 + 2^2}\sqrt{2^2 + 1^2 + 1^2}} = \dfrac{1}{2}$
@@ -644,7 +652,7 @@ $$
 **例子**
 求点$(1, 2, 1)$到平面$x + 2y + 2z - 10 = 0$的距离。
 <details>
-<summary>Click to expand!</summary>
+<summary>⬇️ Click to expand!</summary>
 解：在平面上任取一点$P(0, 0, 5)$,法向量$\bf{n} = (1, 2, 2)$,
 
 <center>
@@ -731,7 +739,7 @@ $$
 给定平面$\Pi: 3x - y + 2z - 1 = 0$，直线$l: \dfrac{x-1}{4} = \dfrac{y-3}{-2} = \dfrac{z}{1}$和点$M_0(0, 0, -2)$。写出过$M_0$点平行于平面$\Pi$且和直线$l$相交的直线方程。
 
 <details>
-<summary> Click to expand! </summary>
+<summary>⬇️ Click to expand! </summary>
 解：设所求直线的方程为$l_1$，设$\Pi_1$过$M_0$且平行于平面$\Pi$，$\Pi_2$过$M_0$和直线$l$，则他们都通过$l_1$.
 
 因为$\Pi_1$平行于平面$\Pi$，故可设其方程为：$3x - y + 2z + d = 0$，再将$M_0$的坐标带代入得到$d = 4$，得到平面$\Pi_1$的方程为：$3x - y + 2z + 4 = 0$
@@ -756,7 +764,7 @@ $\left\{\begin{array}{c} 2x + y -2z + 1 = 0 \newline 4x - 2y + 2z - 1 = 0 \end{a
 
 求它的参数方程。
 <details>
-<summary>Click to expand!</summary>
+<summary>⬇️ Click to expand!</summary>
 直线的方向向量为：
 
 $
@@ -841,7 +849,7 @@ $</center>
 平面$\Pi$的方程为$4x + ay + 2z + b = 0$，求$a, b$.
 
 <details>
-<summary>Click to expand!</summary>
+<summary>⬇️ Click to expand!</summary>
 设$4x + ay + 2z + b = \lambda(3x + 2y - z + 1) + \mu(x - 2z)$，解之得，$\lambda = 2, \mu = -2$从而有$a = 4, b = 2$.
 </details>
 
