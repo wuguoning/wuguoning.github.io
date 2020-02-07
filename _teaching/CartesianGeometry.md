@@ -592,10 +592,11 @@ $</center>
 
 
 <center>
+<a href="https://www.geogebra.org/m/bgAjjjJD">
 <img src="./imags/angle_2planes.png"  width="400" height="300" />
+</a>
 </center> 
 
-🍺[Hands on](https://www.geogebra.org/m/bgAjjjJD)
 
 两平面法向量的夹角(通常指锐角或直角)称为两平面的夹角。
 在直角坐标系中，两张平面：
@@ -633,10 +634,11 @@ $$
 
 见下图：
 <center>
+<a href="https://www.geogebra.org/m/z88Fyq98">
 <img src="./imags/point_2plane_dist.png"  width="700" height="300" />
+</a>
 </center> 
 
-🍺[Hands on](https://www.geogebra.org/m/z88Fyq98)
 
 ---
 **例子**
@@ -718,10 +720,11 @@ $$
 以上方程为直线的<span style="color:red">一般方程</span>.
 
 <center>
+<a href="https://www.geogebra.org/m/Zrch46XS">
 <img src="./imags/point_vector_line.png"  width="700" height="300" />
+</a>
 </center> 
 
-🍺[Hands on](https://www.geogebra.org/m/Zrch46XS)
 
 ---
 **例子**
@@ -871,10 +874,11 @@ $$
 $$
 
 <center>
+<a href="https://www.geogebra.org/m/nfQDEbeh">
 <img src="./imags/angle_2lines.png"  width="700" height="300" />
+</a>
 </center> 
 
-🍺[Hands on](https://www.geogebra.org/m/nfQDEbeh)
 
 
 ---
@@ -892,10 +896,11 @@ $$
 $$
 
 <center>
+<a href="https://www.geogebra.org/m/AbSjyYXG">
 <img src="./imags/angle_line_plane.png"  width="700" height="300" />
+</a>
 </center> 
 
-🍺[Hands on](https://www.geogebra.org/m/AbSjyYXG)
 
 
 
@@ -910,10 +915,11 @@ $$
 d = \dfrac{|\bf{u} \times \vec{M_0P}|}{|\bf{u}|}
 $$
 <center>
+<a href="https://www.geogebra.org/m/qcNwb4bk">
 <img src="./imags/dist_point_line.png" width="200" height="200"/>
+</a>
 </center>
 
-🍺[Hands on](https://www.geogebra.org/m/qcNwb4bk)
 
 ---
 📚<span style="color:red"> 
@@ -1015,10 +1021,11 @@ $\dfrac{x^2}{a^2} - \dfrac{y^2 + z^2}{b^2} = 1$.
 </center>
 
 <center>
+<a href="https://www.geogebra.org/m/CgTcYCQg">
 <img src="./imags/para_2sheets.png" width="600" height="300"/>
+</a>
 </center>
 
-🍺[Hands on](https://www.geogebra.org/m/CgTcYCQg)
 
 绕$y$轴旋转所得到的旋转曲面方程为(单叶双曲面)：
 <center>
@@ -1026,10 +1033,11 @@ $\dfrac{x^2 + z^2}{a^2} - \dfrac{y^2}{b^2} = 1$.
 </center>
 
 <center>
+<a href="https://www.geogebra.org/m/nuakmjta">
 <img src="./imags/para_1sheet.png" width="600" height="300"/>
+</a>
 </center>
 
-🍺[Hands on](https://www.geogebra.org/m/nuakmjta)
 
 ---
 **例子**
@@ -1043,10 +1051,11 @@ $4x^2 + 9(y^2 + z^2) = 36$.
 </center>
 
 <center>
+<a href="https://www.geogebra.org/material/copy/id/gmt735vp">
 <img src="./imags/rotational_ellip.png" width="600" height="300"/>
+</a>
 </center>
 
-🍺[Hands on](https://www.geogebra.org/material/copy/id/gmt735vp)
 ---
 ## 📖参考书目
 1. 《高等数学》上下册（第七版），同济大学，高等教育出版社，2014.7.
