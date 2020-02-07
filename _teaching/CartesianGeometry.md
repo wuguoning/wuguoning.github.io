@@ -748,7 +748,7 @@ $
 设直线的一般方程为:
 
 $
-\left\{\begin{array}{c} 2x + y -2z + 1 = 0 \newline 4x - 2y + 2z - 1 = 0 \end{array}\right.
+\left\{\begin{array}{l} 2x + y -2z + 1 = 0 \newline 4x - 2y + 2z - 1 = 0   \end{array}\right.
 $
 
 求它的参数方程。
@@ -805,9 +805,9 @@ $ Ax + By + Cz + D = 0$
 
   1. 直线$l$和平面$\Pi$相交的充分必要条件为：<center> $\left|\begin{array}{ccc} A_1 & B_1 & C_1 \newline A_2 & B_2 & C_2 \newline A & B & C \end{array}\right| \ne 0$ </center>
 
-  2. 直线$l$和平面$\Pi$无交点的充分必要条件为：线形方程组<center>$\left\{\begin{array}{c} A_1x + B_1y + C_1z + D_1 = 0 \newline A_2x + B_2y + C_2z + D_2 = 0 \newline Ax + By + Cz + D = 0 \end{array}\right.$ </center>无解。
+  2. 直线$l$和平面$\Pi$无交点的充分必要条件为：线形方程组<center>$\left\{\begin{array}{l} A_1x + B_1y + C_1z + D_1 = 0 \newline A_2x + B_2y + C_2z + D_2 = 0 \newline Ax + By + Cz + D = 0 \end{array}\right.$ </center>无解。
 
-  3. 直线$l$在平面$\Pi$上的充分必要条件为：线形方程组<center>$\left\{\begin{array}{c} A_1x + B_1y + C_1z + D_1 = 0 \newline A_2x + B_2y + C_2z + D_2 = 0 \newline Ax + By + Cz + D = 0\end{array}\right.$</center>有无穷多解。
+  3. 直线$l$在平面$\Pi$上的充分必要条件为：线形方程组<center>$\left\{\begin{array}{l} A_1x + B_1y + C_1z + D_1 = 0 \newline A_2x + B_2y + C_2z + D_2 = 0 \newline Ax + By + Cz + D = 0\end{array}\right.$</center>有无穷多解。
 
 ---
 
