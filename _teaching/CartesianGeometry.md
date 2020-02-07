@@ -1000,10 +1000,29 @@ $x^2 + y^2 = 2pz$.
 <img src="./imags/rotational_parabo.png" width="400" height="300"/>
 </center>
 
-🍺[Hands on](https://www.geogebra.org/m/qcNwb4bk)
-
+🍺[Hands on](https://www.geogebra.org/m/yxadpqun#material/gsrmycmc)
 
 ---
+**例子**
+母线$\Gamma$为
+<center>
+$\left\{\begin{array}{l} \dfrac{x^2}{a^2} - \dfrac{y^2}{b^2} = 1 \newline z = 0 \end{array}\right.$
+</center>
+绕$x$轴旋转所得到的旋转曲面方程为：
+<center>
+$\dfrac{x^2}{a^2} - \dfrac{y^2 + z^2}{b^2} = 1$.
+</center>
+
+<center>
+<img src="./imags/para_2sheets.png" width="600" height="300"/>
+</center>
+
+🍺[Hands on](https://www.geogebra.org/m/CgTcYCQg)
+
+
+
+
+
 
 # Calculus and its Visualization: an Introduction
 <center>
