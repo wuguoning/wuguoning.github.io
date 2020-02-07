@@ -1030,6 +1030,16 @@ $\dfrac{x^2 + z^2}{a^2} - \dfrac{y^2}{b^2} = 1$.
 
 🍺[Hands on](https://www.geogebra.org/m/nuakmjta)
 
+---
+**例子**
+母线$\Gamma$为
+<center>
+$\left\{\begin{array}{l} 4x^2 + 9y^2 = 36 \newline z = 0 \end{array}\right.$
+</center>
+绕$x$轴旋转所得到的旋转曲面方程为：
+<center>
+$4x^2 + 9(y^2 + z^2) = 36$.
+</center>
 
 ---
 ## 📖参考书目
