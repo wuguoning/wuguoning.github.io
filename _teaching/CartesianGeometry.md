@@ -955,9 +955,26 @@ $$
 
 一条曲线$\Gamma$绕一条直线$l$旋转所得的曲面称为<span style="color:red">旋转曲面</span>。$l$称为<span style="color:red">轴</span>，$\Gamma$称为<span style="color:red">母线</span>。
 
+母线$\Gamma$上每个点$M_0$绕$l$旋转得到的圆，成为<span style="color:red">纬圆</span>，纬圆与轴线垂直。过$l$的半平面与旋转曲面的交线称为<span style="color:red">经线</span>。经线可以作为母线，但母线不一定是经线。
+
 <center>
-<img src="./imags/rotational_surf.png" width="300" height="400"/>
+<img src="./imags/rotational_surf.png" width="200" height="300"/>
 </center>
+
+现在假设旋转轴为$z$轴，母线$\Gamma$在$yoz$平面上，其方程为：
+<center>
+\left\{\begin{array}{l} f(y,z) = 0 \newline x = 0 \end{array}\right.
+</center>
+
+则点$M(x, y, z)$在旋转曲面上的充分条件为
+<center>
+\left\{\begin{array}{l} f(y_0,z_0) = 0 \newline x_0 = 0 \newline x^2 + y^2 = x_0^2 + y_0^2 \newline 1 \cdot (z - z_0) = 0 \end{array}\right.
+</center>
+这里$M_0(x_0, y_0, z_0)$为过$M$的纬圆在母线上的对应点。
+
+消去$x_0, y_0, z_0$得到
+
+$$f(\pm\sqrt{x^2 + y^2}, z) = 0$$
 
 
 # Calculus and its Visualization: an Introduction
