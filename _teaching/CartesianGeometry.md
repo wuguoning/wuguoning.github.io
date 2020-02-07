@@ -1064,6 +1064,43 @@ $4x^2 + 9(y^2 + z^2) = 36$.
 </a>
 </center>
 
+
+---
+
+**📌柱面**
+
+若一条直线$l$沿着一条空间曲线$C$平行移动时所形成的曲面称为<span style="color:red">**柱面**</span>。$l$称为<span style="color:red">**母线**</span>，$C$称为<span style="color:red">**准线**</span>。
+
+<center>
+<a href="https://www.geogebra.org/m/AWr5ag7a">
+<img src="./imags/cylinder.png" width="400" height="300"/>
+</a>
+</center>
+
+**柱面方程的建立**
+
+设柱面的母线方向为$\bf{v}(l, m, n)$，准线$C$的方程为
+<center>
+$\left\{\begin{array}{l} F(x, y, z) = 0 \newline G(x, y, z) = 0 \end{array}\right.$
+</center>
+
+假设$M(x,y,z)$为柱面上的任意一点，则有$M$在过准线上的一点$M_0(x_0, y_0, z_0)$，且方向为$\bf{v}$的直线上。因此有：
+
+<center>
+$\left\{\begin{array}{l} F(x_0, y_0, z_0) = 0 \newline G(x_0, y_0, z_0) = 0 \newline x = x_0 + lu \newline y = y_0 + mu \newline z = z_0 + nu \end{array}\right.$
+
+消去$x_0, y_0, z_0,u$，得到柱面方程。
+
+**圆柱面、点的柱坐标**
+
+圆柱面有一条对称轴$l$，圆柱面上每一点到轴的距离相等，这个距离称为圆柱面面的半径。如果知道圆柱面的半径为$r$，母线的方向为$\bf{v}(l, m, n)$以及圆柱面的对称轴$l_0$经过$M_0(x_0, y_0, z_0)$，则点$M(x,y,z)$在圆柱面上的充分且必要条件为$M$到轴$l_0$的距离等于$r$，即
+<center>
+$\dfrac{\|\vec{MM_0} \times \bf{v}\|}{\|v\|} = r.$
+</center>
+
+
+
+
 ---
 ## 📖参考书目
 1. 《高等数学》上下册（第七版），同济大学，高等教育出版社，2014.7.
