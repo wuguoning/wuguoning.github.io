@@ -980,6 +980,12 @@ $\left\{\begin{array}{l} f(y_0,z_0) = 0 \newline x_0 = 0 \newline x^2 + y^2 = x_
 $$f(\pm\sqrt{x^2 + y^2}, z) = 0$$
 
 
+---
+<span style="color:red">**小结**</span>
+为了得到$yOz$平面上的曲线$\Gamma$绕$z$轴旋转所得到的旋转曲线，只要将母线$\Gamma$在$yOz$平面上的方程中$y$改成$\pm\sqrt{x^2 + y^2}$，$z$不动。坐标平面上的曲线绕坐标轴旋转所得到的旋转曲面的方程都有类似的规律。
+
+---
+
 # Calculus and its Visualization: an Introduction
 <center>
 <img src="./imags/surface.png" width="100" height="100"/>
@@ -990,4 +996,6 @@ Thanks to [**GeoGebra**](https://www.geogebra.org/)
 
 📖教材
 ======
-1. 《高等數學》上下冊（第七版），同濟大學數學系編，高等教育出版社，2014.7
+1. 《高等数学》上下册（第七版），同济大学，高等教育出版社，2014.7.
+2. 《解析几何》，邱维声，北京大学出版社，1988.
+3. 《解析几何》，尤承业，北京大学出版社，2004.
