@@ -909,7 +909,7 @@ $$
 d = \dfrac{|\bf{u} \times \vec{M_0P}|}{|\bf{u}|}
 $$
 <center>
-<img src="./imags/dist_point_line.png" width="100" height="100"/>
+<img src="./imags/dist_point_line.png" width="200" height="200"/>
 </center>
 
 🍺[Hands on](https://www.geogebra.org/m/qcNwb4bk)
