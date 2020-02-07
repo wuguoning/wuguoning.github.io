@@ -964,13 +964,13 @@ $$
 现在假设旋转轴为$z$轴，母线$\Gamma$在$yoz$平面上，其方程为：
 
 <center>
-\left\{\begin{array}{l} f(y,z) = 0 \newline x = 0 \end{array}\right.
+$\left\{\begin{array}{l} f(y,z) = 0 \newline x = 0 \end{array}\right.$
 </center>
 
 则点$M(x, y, z)$在旋转曲面上的充分条件为
 
 <center>
-\left\{\begin{array}{l} f(y_0,z_0) = 0 \newline x_0 = 0 \newline x^2 + y^2 = x_0^2 + y_0^2 \newline 1 \cdot (z - z_0) = 0 \end{array}\right.
+$\left\{\begin{array}{l} f(y_0,z_0) = 0 \newline x_0 = 0 \newline x^2 + y^2 = x_0^2 + y_0^2 \newline 1 \cdot (z - z_0) = 0 \end{array}\right.$
 </center>
 
 这里$M_0(x_0, y_0, z_0)$为过$M$的纬圆在母线上的对应点。
