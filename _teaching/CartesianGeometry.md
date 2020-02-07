@@ -735,21 +735,24 @@ $$
 $\Pi_2$经过$M_0$和$M_1(1, 3, 0)$，平行于向量$\bf{u} = (4, -2, 1)$，也就是由点$M_0$和向量$\vec{M_0M}(1, 3, 2)$和$\bf{u}$所决定的平面，得到$\Pi_2$的一般方程为：$x + y - 2z - 4 = 0$
 于是所求直线方程为
 
-$$
+$
 \left\{\begin{array}{c} x + y -2z - 4 = 0 \newline
                         3x - y + 2z + 4 = 0
        \end{array}\right.
-$$
+$
+
 </details>
 
 ---
 **例子**
 设直线的一般方程为：
+
 $
 \left\{\begin{array}{c} 2x + y -2z + 1 = 0 \newline
                         4x - 2y + 2z - 1 = 0
        \end{array}\right.
 $
+
 求它的参数方程。
 <details>
 <summary>Click to expand!</summary>
@@ -773,8 +776,14 @@ $
 直线于平面的位置关系有：相交(只有一个交点)、直线在平面上、以及没有交点三种情况，后两种统称为平行。
 设平面$\Pi$的方程为$Ax + By + Cz + D = 0$。直线$l$过点$M_0(x_0, y_0, z_0)$，平行于非零向量$\bf{u}(X, Y, Z)$。则$l$平行于$\Pi$;$l$在$\Pi$上的条件为：
 
-$$l \parallel \Pi \iff AX + BY + CZ = 0$$
-$$l \in \Pi \iff \left\{\begin{array}{c}AX + BY + CZ = 0 \newline Ax_0 + By_0 + Cz_0 + D =0$$
+$$
+l \parallel \Pi \iff AX + BY + CZ = 0
+$$
+
+
+$$
+l \in \Pi \iff \left\{\begin{array}{c}AX + BY + CZ = 0 \newline Ax_0 + By_0 + Cz_0 + D =0 \end{array}\right.
+$$
 
 
 ---
