@@ -843,7 +843,7 @@ $</center>
 
 ---
 
-**📌空间直线与直线**
+**📌空间直线与直线位置关系**
 
 空间直线与直线的位置关系有异面、相交、重合、平行而不重合四种情况。设直线$l_i$的方向向量为$\bf{u_i}$且分别通过$M_i$点$i=1,2$，则有：
 
@@ -861,7 +861,7 @@ $</center>
 
 ---
 
-**📌空间点到与直线的距离**
+**📌空间直线与直线的夹角**
 
 两直线方向向量的夹角(通常知锐角或直角)叫做两直线的夹角。设直线$l_i$的方向向量为$\bf{u_i} = (X_i, Y_i, Z_i), i=1,2$，则两直线夹角$\phi$的余弦为：
 
@@ -876,6 +876,25 @@ $$
 🍺[Hands on](https://www.geogebra.org/m/nfQDEbeh)
 
 
+---
+
+**📌空间直线与平面的夹角**
+
+直线与平面的夹角，即直线与它在平面上正射影的夹角。设直线$l$平行于非零向量$\bf{u}(X, Y, Z)$，平面$\Pi$的法向量为$\bf{n}(A, B, C)$，则它们的夹角为：
+
+$$
+\theta = arccos(|\sin (\widehat{\bf{u}, \bf{n}})|)
+$$
+
+$$
+\sin \theta = \dfrac{|AX + BY + CZ|}{\sqrt{A^2 + B^2 + C^2}\sqrt{X^2 + Y^2 + Z^2}}
+$$
+
+<center>
+<img src="./imags/angle_line_plane.png"  width="700" height="300" />
+</center> 
+
+🍺[Hands on](https://www.geogebra.org/m/AbSjyYXG)
 
 ---
 # Calculus and its Visualization: an Introduction
