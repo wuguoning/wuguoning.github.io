@@ -784,6 +784,40 @@ l \in \Pi \iff \left\{\begin{array}{c}AX + BY + CZ = 0 \newline Ax_0 + By_0 + Cz
 $$
 
 
+设直线$l$的一般方程为:
+
+<center>
+$
+\left\{\begin{array}{c} A_1x + B_1y + C_1z + D_1 = 0 \newline A_2x + B_2y + C_2z + D_2 =0 \end{array}\right.
+$
+</center>
+
+设平面$\Pi$的方程为：
+<center>
+$ Ax + By + Cz + D = 0$
+</center>
+则有下述结果：
+
+---
+<span style="color:red">**命题**</span>
+
+  1. 直线$l$和平面$\Pi$相交的充分必要条件为：
+  <center>
+  $\left|\begin{array}{ccc} A_1 & B_1 & C_1 \newline A_2 & B_2 & C_2 \newline A & B & C \end{array}\right| \ne 0$
+  </center>
+
+  2. 直线$l$和平面$\Pi$无交点的充分必要条件为：线形方程组
+  <center>
+  $\left\{\begin{array} A_1x + B_1y + C_1z + D_1 = 0 \newline A_2x + B_2y + C_2z + D_2 = 0 \newline Ax + By + Cz + D = 0$
+  </center>
+  无解。
+
+  3. 直线$l$在平面$\Pi$上的充分必要条件为：线形方程组
+  <center>
+  $\left\{\begin{array} A_1x + B_1y + C_1z + D_1 = 0 \newline A_2x + B_2y + C_2z + D_2 = 0 \newline Ax + By + Cz + D = 0$
+  </center>
+  有无穷多解。
+
 ---
 
 **📌空间直线与直线**
