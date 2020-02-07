@@ -467,7 +467,7 @@ $$
           x_2 - x_1 & y_2 - y_1 & z_2 - z_1 \newline
           x_3 - x_1 & y_3 - y_1 & z_3 - z_1
         \end{array}
-  \right|
+  \right| = 0
 $$
 
 </details>
@@ -496,7 +496,7 @@ $$A(x - x_0) + B(y - y_0) + C(z - z_0) = 0$$
   
   * $A = 0, By + Cz + D = 0$;
 
-  * $B, Ax + Cz + D = 0$;
+  * $B = 0, Ax + Cz + D = 0$;
 
   * $A = D = 0, By + Cz = 0$;
 
