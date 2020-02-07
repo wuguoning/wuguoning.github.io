@@ -1041,6 +1041,11 @@ $\left\{\begin{array}{l} 4x^2 + 9y^2 = 36 \newline z = 0 \end{array}\right.$
 $4x^2 + 9(y^2 + z^2) = 36$.
 </center>
 
+<center>
+<img src="./imags/rotational_ellip.png" width="600" height="300"/>
+</center>
+
+🍺[Hands on](https://www.geogebra.org/material/copy/id/gmt735vp)
 ---
 ## 📖参考书目
 1. 《高等数学》上下册（第七版），同济大学，高等教育出版社，2014.7.
