@@ -951,8 +951,13 @@ $$
 
 ---
 
-**📌旋转曲面*
+**📌旋转曲面**
 
+一条曲线$\Gamma$绕一条直线$l$旋转所得的曲面称为<span style="color:red">旋转曲面</span>。$l$称为<span style="color:red">轴</span>，$\Gamma$称为<span style="color:red">母线</span>。
+
+<center>
+<img src="./imags/rotational_surf.png" width="300" height="400"/>
+</center>
 
 
 # Calculus and its Visualization: an Introduction
