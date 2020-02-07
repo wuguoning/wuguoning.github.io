@@ -1035,7 +1035,7 @@ $\dfrac{x^2 + z^2}{a^2} - \dfrac{y^2}{b^2} = 1$.
 
 # Calculus and its Visualization: an Introduction
 <center>
-[<img src="./imags/surface.png" width="100" height="100"/>](https://www.geogebra.org/material/edit/id/yxadpqun#bookcontent)
+[![<img src="./imags/surface.png" width="100" height="100"/>]](https://www.geogebra.org/material/edit/id/yxadpqun#bookcontent)
 </center>
 
 👉[<span style="color:red"> **For details, click here:**</span>](https://www.geogebra.org/m/yxadpqun)
