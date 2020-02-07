@@ -926,9 +926,21 @@ $$
   $\left\{\begin{array}{l} x - y + z = 1 \newline 2x + y + z = 4 \end{array}\right.$
   </center>
 
-  3. 求直线$\left\{\begin{array}{l} 5x - 3y + 3z -9 = 0 \newline 3x - 2y + z -1 = 0 \end{array}\right.$与直线$\left\{\begin{array} 2x + 2y - z + 23= 0 \newline 3x + 8y + z -18 = 0 \end{array}\right.$的夹角。
+  3. 求直线
+  <center>
+  $\left\{\begin{array}{l} 5x - 3y + 3z -9 = 0 \newline 3x - 2y + z -1 = 0 \end{array}\right.$
+  </center>
+  与直线
+  <center>
+  $\left\{\begin{array} 2x + 2y - z + 23= 0 \newline 3x + 8y + z -18 = 0 \end{array}\right.$
+  </center>
+  的夹角。
 
-  4. 求直线$\left\{\begin{array}{l} 2x - 4y + z = 0 \newline 3x - y - 2z - 9 = 0 \end{array}\right.$在平面$4x - y + z = 1$投影直线的方程。
+  4. 求直线
+  <center>
+  $\left\{\begin{array}{l} 2x - 4y + z = 0 \newline 3x - y - 2z - 9 = 0 \end{array}\right.$
+  </center>
+  在平面$4x - y + z = 1$投影直线的方程。
 
 ---
 
