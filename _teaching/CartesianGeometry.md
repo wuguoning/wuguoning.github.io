@@ -917,7 +917,7 @@ $$
 
 ---
 📚<span style="color:red"> 
-**第一次作业:**
+**第四次作业:**
 </span>
 
   1. 求过点$(4, -1, 3)$且平行于直线$\dfrac{x - 3}{2} = \dfrac{y}{1} = \dfrac{z - 1}{5}$ 的直线方程。
@@ -997,10 +997,11 @@ $x^2 + y^2 = 2pz$.
 </center>
 
 <center>
+<a href="https://www.geogebra.org/m/yxadpqun#material/gsrmycmc">
 <img src="./imags/rotational_parabo.png" width="400" height="300"/>
+</a>
 </center>
 
-🍺[Hands on](https://www.geogebra.org/m/yxadpqun#material/gsrmycmc)
 
 ---
 **例子**
