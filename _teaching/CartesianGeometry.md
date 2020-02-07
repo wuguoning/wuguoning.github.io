@@ -1031,7 +1031,7 @@ $\dfrac{x^2 + z^2}{a^2} - \dfrac{y^2}{b^2} = 1$.
 🍺[Hands on](https://www.geogebra.org/m/nuakmjta)
 
 
-
+---
 ## 📖参考书目
 1. 《高等数学》上下册（第七版），同济大学，高等教育出版社，2014.7.
 
@@ -1040,7 +1040,7 @@ $\dfrac{x^2 + z^2}{a^2} - \dfrac{y^2}{b^2} = 1$.
 3. 《解析几何》，尤承业，北京大学出版社，2004.
 
 
-
+---
 # Calculus and its Visualization: an Introduction
 
 👉[<span style="color:red"> **For details, click here:**</span>](https://www.geogebra.org/m/yxadpqun)
@@ -1052,9 +1052,10 @@ $\dfrac{x^2 + z^2}{a^2} - \dfrac{y^2}{b^2} = 1$.
 </center>
 
 
-<center>
+---
+# THANKS
 
-<span style="color:red">**THANKS**</span>
+<center>
 
 <a href="https://www.geogebra.org">
    <img src="./imags/geogebra.png" width="200" height="60"/>
