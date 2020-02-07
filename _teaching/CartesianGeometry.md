@@ -1008,7 +1008,7 @@ $x^2 + y^2 = 2pz$.
 <center>
 $\left\{\begin{array}{l} \dfrac{x^2}{a^2} - \dfrac{y^2}{b^2} = 1 \newline z = 0 \end{array}\right.$
 </center>
-绕$x$轴旋转所得到的旋转曲面方程为：
+绕$x$轴旋转所得到的旋转曲面方程为(双叶双曲面)：
 <center>
 $\dfrac{x^2}{a^2} - \dfrac{y^2 + z^2}{b^2} = 1$.
 </center>
@@ -1019,7 +1019,16 @@ $\dfrac{x^2}{a^2} - \dfrac{y^2 + z^2}{b^2} = 1$.
 
 🍺[Hands on](https://www.geogebra.org/m/CgTcYCQg)
 
+绕$y$轴旋转所得到的旋转曲面方程为(单叶双曲面)：
+<center>
+$\dfrac{x^2 + z^2}{a^2} - \dfrac{y^2}{b^2} = 1$.
+</center>
 
+<center>
+<img src="./imags/para_1sheet.png" width="600" height="300"/>
+</center>
+
+🍺[Hands on](https://www.geogebra.org/m/nuakmjta)
 
 
 
