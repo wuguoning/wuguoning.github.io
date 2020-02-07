@@ -745,7 +745,10 @@ $
 
 ---
 **例子**
-设直线的一般方程为:$\left\{\begin{array}{c} 2x + y -2z + 1 = 0 \newline 4x - 2y + 2z - 1 = 0 \end{array}\right.$
+设直线的一般方程为:
+<center>
+$\left\{\begin{array}{c} 2x + y -2z + 1 = 0 \newline 4x - 2y + 2z - 1 = 0 \end{array}\right.$
+</center>
 
 
 求它的参数方程。
@@ -920,13 +923,27 @@ $$
   1. 求过点$(4, -1, 3)$且平行于直线$\dfrac{x - 3}{2} = \dfrac{y}{1} = \dfrac{z - 1}{5}$ 的直线方程。
 
 
-  2. 用对称式及参数方程表示直线$\left\{\begin{array}{l} x - y + z = 1 \newline 2x + y + z = 4 \end{array}\right.$
+  2. 用对称式及参数方程表示直线
+  <center>
+  $\left\{\begin{array}{l} x - y + z = 1 \newline 2x + y + z = 4 \end{array}\right.$
+  </center>
+
+  3. 求直线
+  <center>
+  $\left\{\begin{array}{l} 5x - 3y + 3z -9 = 0 \newline 3x - 2y + z -1 = 0 \end{array}\right.$ 
+  </center>
+  与直线
+  <center>
+  $\left\{\begin{array} 2x + 2y - z + 23= 0 \newline 3x + 8y + z -18 = 0 \end{array}\right.$ 
+  </center>
+  的夹角。
 
 
-  3. 求直线$\left\{\begin{array}{l} 5x - 3y + 3z -9 = 0 \newline 3x - 2y + z -1 = 0 \end{array}\right.$ 与直线$\left\{\begin{array} 2x + 2y - z + 23= 0 \newline 3x + 8y + z -18 = 0 \end{array}\right.$ 的夹角。
-
-
-  4. 求直线$\left\{\begin{array}{l} 2x - 4y + z = 0 \newline 3x - y - 2z - 9 = 0 \end{array}\right.$在平面$4x - y + z = 1$投影直线的方程。
+  4. 求直线
+  <center>
+  $\left\{\begin{array}{l} 2x - 4y + z = 0 \newline 3x - y - 2z - 9 = 0 \end{array}\right.$
+  </center>
+  在平面$4x - y + z = 1$投影直线的方程。
 
 ---
 
