@@ -1088,7 +1088,7 @@ $\left\{\begin{array}{l} F(x, y, z) = 0 \newline G(x, y, z) = 0 \end{array}\righ
 
 <center>
 $\left\{\begin{array}{l} F(x_0, y_0, z_0) = 0 \newline G(x_0, y_0, z_0) = 0 \newline x = x_0 + lu \newline y = y_0 + mu \newline z = z_0 + nu \end{array}\right.$
-
+</center>
 消去$x_0, y_0, z_0,u$，得到柱面方程。
 
 **圆柱面、点的柱坐标**
@@ -1097,8 +1097,6 @@ $\left\{\begin{array}{l} F(x_0, y_0, z_0) = 0 \newline G(x_0, y_0, z_0) = 0 \new
 <center>
 $\dfrac{\|\vec{MM_0} \times \bf{v}\|}{\|v\|} = r.$
 </center>
-
-
 
 
 ---
