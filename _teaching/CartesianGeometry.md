@@ -747,9 +747,7 @@ $
 **例子**
 设直线的一般方程为：
 
-$
-\left\{\begin{array}{c} 2x + y -2z + 1 = 0 \newline 4x - 2y + 2z - 1 = 0\end{array}\right.
-$
+$ \left\{\begin{array}{c} 2x + y -2z + 1 = 0 \newline 4x - 2y + 2z - 1 = 0 \end{array}\right.$
 
 求它的参数方程。
 <details>
