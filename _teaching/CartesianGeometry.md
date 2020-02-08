@@ -344,7 +344,7 @@ $ = (a_yb_z - a_zb_y) \bf{i} + (a_zb_x - a_xb_z) \bf{j} + (a_xb_y-a_yb_x)\bf{k}$
 
 写成代数中行列式的方式为：
 
-
+<center>
 $
 \bf{a}\times\bf{b} = 
 \left|\begin{array}{ccc}
@@ -353,6 +353,7 @@ a_x & a_y & a_z \newline
 b_x & b_y & b_z
 \end{array}\right|
 $
+</center>
 
 <center>
 <a href="https://www.geogebra.org/material/edit/id/yxadpqun#bookcontent">
@@ -383,12 +384,13 @@ $
 
 **坐标下的计算方法**
 
-
+<center>
 $\bf{[abc]}  = \left|\begin{array}{ccc}
 a_x & a_y & a_z \newline
 b_x & b_y & b_z \newline
 c_x & c_y & c_z
 \end{array}\right|$
+</center>
 
 ---
 **例子**
@@ -1106,6 +1108,13 @@ $$x^2 + y^2  = r^2$$
 <a href="https://www.geogebra.org/m/M4MpvbvQ">
 <img src="./imags/cylinder1.png" width="400" height="300"/>
 </a>
+</center>
+
+空间中的任意一点$M(x, y, z)$必在以$r = \sqrt{x^2 + y^2}$为半径，以$z$轴为对称轴的圆柱面上。这个圆柱面的参数方程为：
+
+
+<center>
+$\left\{\begin{array}{l} x = r\cos \theta \newline y = r \sin \theta \newline z = u \end{array}\right. 0 \le \theta < 2\pi, -\infty < u < +\infty$
 </center>
 
 ---
