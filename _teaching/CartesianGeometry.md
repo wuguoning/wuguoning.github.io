@@ -1260,9 +1260,11 @@ $xy + yz + xz = 0$
   </a>
 
   <a href="https://www.geogebra.org/classic/nsypppjd">
-    <img src="./imags/Hypobolic_paraboloid_xy.png" width="400" height="400"/>
+    <img src="./imags/Hypobolic_paraboloid_xy.png" width="500" height="500"/>
   </a>
 </center>
+
+---
 
 **📌直纹面**
 
@@ -1275,7 +1277,28 @@ $xy + yz + xz = 0$
   <img src="./imags/ruled_surf.png" width="500" height="200"/>
 </center>
 
+---
 
+### 空间曲线
+
+---
+**📌空间曲线的方程**
+
+**空间曲线一般式方程**
+
+空间曲线可以看成两个曲面的交线。其方程为：
+
+$$\left\{\begin{array}{l} F(x, y, z) = 0 \newline G(x, y, z) = 0 \end{array}\right. $$
+
+---
+**例子**
+
+
+---
+**例子**
+
+
+---
 
 
 ## 📚参考书目
