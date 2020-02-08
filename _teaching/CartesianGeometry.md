@@ -1251,15 +1251,31 @@ $xy + yz + xz = 0$
 
 **📌双曲抛物面**
 
+马鞍面的标准方程为$z = \dfrac{x^2}{p^2} - \dfrac{y^2}{q^2}$，特别的$z = xy$为一马鞍面。
+
+
 <center>
   <a href="https://www.geogebra.org/classic/g4dqpkk4 ">
-    <img src="./imags/Hypobolic_paraboloid.png" width="300" height="300"/>
+    <img src="./imags/Hypobolic_paraboloid.png" width="400" height="400"/>
   </a>
 
   <a href="https://www.geogebra.org/classic/nsypppjd">
-    <img src="./imags/Hypobolic_paraboloid_xy.png" width="300" height="300"/>
+    <img src="./imags/Hypobolic_paraboloid_xy.png" width="400" height="400"/>
   </a>
 </center>
+
+**📌直纹面**
+
+一曲面$S$称为<span style="color:red">**直纹面**</span>，如果存在一簇直线是的这一簇中的每一条直线都在$S$上；并且$S$上的每一个点都在这一簇的某一条直线上。这样一簇直线称为$S$的<span style="color:red">**一簇直母线**</span>。
+
+二次曲面中：二次柱面和锥面都是直纹面，椭球面不是直纹面，因为它有界。双叶双曲面不是直纹面，椭圆抛物面也不是直纹面。剩下的：单叶双曲面和双叶双曲面都是直纹面。
+
+
+<center>
+  <img src="./imags/dege_quad_surf.png" width="500" height="200"/>
+</center>
+
+
 
 
 ## 📚参考书目
