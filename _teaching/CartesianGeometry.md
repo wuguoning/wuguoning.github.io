@@ -1159,6 +1159,23 @@ $\left\{\begin{array}{l} x = r\cos \theta \newline y = r \sin \theta \newline z 
 </center>
 
 ---
+
+<center>
+<a href="https://en.wikipedia.org/wiki/Quadric">
+<img src="./imags/nondeg_quad_surf.png" width="600" height="1000"/>
+</a>
+</center>
+
+
+---
+
+<center>
+<a href="https://en.wikipedia.org/wiki/Quadric">
+<img src="./imags/dege_quad_surf.png" width="600" height="1000"/>
+</a>
+</center>
+
+---
 ## 📚参考书目
 📖1. 《高等数学》上下册（第七版），同济大学，高等教育出版社，2014.7.
 
