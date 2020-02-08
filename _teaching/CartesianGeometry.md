@@ -1140,7 +1140,7 @@ $\left\{\begin{array}{l} x = r\cos \theta \newline y = r \sin \theta \newline z 
 
 
 <center>
-<a href="https://www.geogebra.org/m/tV6CZy9Y">
+<a href="https://www.geogebra.org/m/sk9n55wr">
 <img src="./imags/cylinders2.png" width="400" height="400"/>
 </a>
 </center>
