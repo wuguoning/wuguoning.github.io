@@ -1208,6 +1208,6 @@ $\left\{\begin{array}{l} x = r\cos \theta \newline y = r \sin \theta \newline z 
 </a>
 
 <a href="https://www.wikipedia.org/">
-   <img src="./imags/wiki.png" width="200" height="60"/>
+   <img src="./imags/wiki.png" width="200" height="40"/>
 </a>
 </center>
