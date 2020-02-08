@@ -1293,6 +1293,12 @@ $$\left\{\begin{array}{l} F(x, y, z) = 0 \newline G(x, y, z) = 0 \end{array}\rig
 ---
 **例子**
 
+<center>
+  <a href="https://www.geogebra.org/classic/kkjsbgcn ">
+    <img src="./imags/Viviani's_curve.png" width="400" height="400"/>
+  </a>
+</center>
+
 
 ---
 **例子**
