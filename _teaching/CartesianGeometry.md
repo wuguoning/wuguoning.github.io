@@ -1246,6 +1246,17 @@ $xy + yz + xz = 0$
 
   + $\dfrac{x^2}{3^2} + \dfrac{y^2}{4^2} + \dfrac{z^2}{5^2} = 1$.
 
+---
+### 强调几个曲面
+
+**📌双曲抛物面**
+
+<center>
+<a href="https://www.geogebra.org/classic/g4dqpkk4 ">
+<img src="https://www.geogebra.org/classic/g4dqpkk4.png" width="300" height="300"/>
+</a>
+</center>
+
 
 ## 📚参考书目
 📖1. 《高等数学》上下册（第七版），同济大学，高等教育出版社，2014.7.
