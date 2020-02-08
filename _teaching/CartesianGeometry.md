@@ -1207,4 +1207,7 @@ $\left\{\begin{array}{l} x = r\cos \theta \newline y = r \sin \theta \newline z 
    <img src="./imags/github.png" width="200" height="60"/>
 </a>
 
+<a href="https://www.wikipedia.org/">
+   <img src="./imags/wiki.png" width="200" height="60"/>
+</a>
 </center>
