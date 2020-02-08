@@ -1138,7 +1138,7 @@ $\left\{\begin{array}{l} x = r\cos \theta \newline y = r \sin \theta \newline z 
 ---
 **例子**
 
-下图分别为椭圆柱面($\dfrac{x^2}{2^2} + \dfrac{y^2}{3^2} = 1$)、抛物柱面($z = x^2$)和双曲柱面($\dfrac{x^2}{4} - dfrac{y^2}{2} = 1$)。
+下图分别为椭圆柱面($\dfrac{x^2}{2^2} + \dfrac{y^2}{3^2} = 1$)、抛物柱面($z = x^2$)和双曲柱面($\dfrac{x^2}{4} - \dfrac{y^2}{2} = 1$)。
 
 <center>
 <a href="https://www.geogebra.org/m/sk9n55wr">
@@ -1147,6 +1147,55 @@ $\left\{\begin{array}{l} x = r\cos \theta \newline y = r \sin \theta \newline z 
 </center>
 
 ---
+**📌圆锥面**
+
+对于圆锥面，它有一根对称轴$l$，它的每一条母线与轴$l$夹的角都相等，这个锐角称为圆锥面的<span style="color:red">**半顶角**</span>。与轴$l$垂直的平面截圆锥面所得的交线为圆。如果知道圆锥面的顶点$M_0(x_0, y_0, z_0)$，圆锥面轴的方向向量$\bf{v}$以及半顶角$\alpha$，则$M(x, y, z)$在圆锥面上的充分必要条件为：
+
+<center>
+$<\vec{M_0M}, \bf{v}> = \alpha$或者$\pi - \alpha$,
+</center>
+
+因此有：
+
+<center>
+$|\cos <\vec{M_0M}, \bf{v}>| = \cos \alpha $
+</center>
+
+---
+**例子**
+
+求以三根坐标轴为母线的圆锥面的方程。
+
+<details>
+<summary>⬇️iClick to expand!</summary>
+显然这个圆锥面的顶点为原点，设轴$l$的方向为$\bf{v}$，因为三个坐标轴为母线，所以有：
+<center>
+$|\cos <\bf{e_1}, \bf{v}>| = |\cos <\bf{e_2}, \bf{v}>| = |\cos <\bf{e_3}, \bf{v}>| $
+</center>
+
+考察方向向量$\bf{v}$为$(1, 1, 1)$的情况，其它情况($(1, 1, -1), (1, -1, 1), (1, -1, -1)$)。$M(x, y, z)$在锥面上的充分必要条件为：
+
+<center>
+$|\cos<\vec{OM}, \bf{v}>| = |\cos<e_1, \bf{v}>|$
+</center>
+
+即
+
+<center>
+$\dfrac{|\vec{OM} \cdot \bf{v}|}{\|\vec{OM}\|\|\bf{v}\|} = \dfrac{|\bf{e_1} \cdot \bf{v}|}{\|\bf{v}\|}$
+</center>
+
+得到
+
+<center>
+$xy + yz + xz = 0$
+</center>
+
+
+</details>
+
+
+
 
 ### 三元二次曲面
 
