@@ -1098,6 +1098,15 @@ $\left\{\begin{array}{l} F(x_0, y_0, z_0) = 0 \newline G(x_0, y_0, z_0) = 0 \new
 $\dfrac{\|\vec{MM_0} \times \bf{v}\|}{\|v\|} = r.$
 </center>
 
+特别的，若圆柱面的半径为$r$，对称轴为$z$轴，则这个圆柱面的方程为：
+
+$$x^2 + y^2  = r^2$$
+
+<center>
+<a href="https://www.geogebra.org/m/M4MpvbvQ">
+<img src="./imags/cylinder.png" width="400" height="300"/>
+</a>
+</center>
 
 ---
 ## 📖参考书目
