@@ -1112,10 +1112,17 @@ $$x^2 + y^2  = r^2$$
 
 空间中的任意一点$M(x, y, z)$必在以$r = \sqrt{x^2 + y^2}$为半径，以$z$轴为对称轴的圆柱面上。这个圆柱面的参数方程为：
 
-
 <center>
 $\left\{\begin{array}{l} x = r\cos \theta \newline y = r \sin \theta \newline z = u \end{array}\right. 0 \le \theta < 2\pi, -\infty < u < +\infty$
 </center>
+
+因此，圆柱面上的点$M$被$(\theta, u)$所确定。从而空间中的任意一点被有序的三元实数组$(r, \theta, u)$所确定。$(r, \theta, u)$称为点$M$的<span style="color:red">**柱面坐标**</span>。
+<center>
+<a href="https://www.geogebra.org/m/tV6CZy9Y">
+<img src="./imags/cylinder_cood.png" width="400" height="300"/>
+</a>
+</center>
+
 
 ---
 ## 📖参考书目
