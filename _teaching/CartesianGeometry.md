@@ -1253,7 +1253,7 @@ $xy + yz + xz = 0$
 
 <center>
 <a href="https://www.geogebra.org/classic/g4dqpkk4 ">
-<img src="https://www.geogebra.org/classic/g4dqpkk4.png" width="300" height="300"/>
+<img src="https://www.geogebra.org/classic/g4dqpkk4" width="300" height="300"/>
 </a>
 </center>
 
