@@ -1252,9 +1252,13 @@ $xy + yz + xz = 0$
 **📌双曲抛物面**
 
 <center>
-<a href="https://www.geogebra.org/classic/g4dqpkk4 ">
-<img src="./imags/Hypobolic_paraboloid.png" width="400" height="400"/>
-</a>
+  <a href="https://www.geogebra.org/classic/g4dqpkk4 ">
+    <img src="./imags/Hypobolic_paraboloid.png" width="300" height="300"/>
+  </a>
+
+  <a href="https://www.geogebra.org/classic/nsypppjd">
+    <img src="./imags/Hypobolic_paraboloid_xy.png" width="300" height="300"/>
+  </a>
 </center>
 
 
