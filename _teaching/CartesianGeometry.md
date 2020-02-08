@@ -1104,7 +1104,7 @@ $$x^2 + y^2  = r^2$$
 
 <center>
 <a href="https://www.geogebra.org/m/M4MpvbvQ">
-<img src="./imags/cylinder.png" width="400" height="300"/>
+<img src="./imags/cylinder1.png" width="400" height="300"/>
 </a>
 </center>
 
