@@ -1124,8 +1124,27 @@ $\left\{\begin{array}{l} x = r\cos \theta \newline y = r \sin \theta \newline z 
 </center>
 
 直角坐标与柱坐标的相互关系为：
+<center>
+$\left\{\begin{array}{l} x = r\cos \theta \newline y = r \sin \theta \newline z = u \end{array}\right. r \ge 0, 0 \le \theta < 2\pi, -\infty < u < +\infty$
+</center>
 
-$$\left\{\begin{array}{l} x = r\cos \theta \newline y = r \sin \theta \newline z = u \end{array}\right. r \ge 0, 0 \le \theta < 2\pi, -\infty < u < +\infty$$
+---
+**柱面坐标的特点**
+
+<span style="color:red"> 
+若一个柱面的母线平行于$z$轴(或$x$轴，或$y$轴)，则它的方程中不含有$z$(或$x$，或$y$)；反之，一个三元方程如果不含有$z$(或$x$，或$y$)，则它一定表示一个母线平行于$z$轴(或$x$轴，或$y$轴)的柱面。
+</span>
+
+---
+**例子**
+
+
+<center>
+<a href="https://www.geogebra.org/m/tV6CZy9Y">
+<img src="./imags/cylinders2.png" width="400" height="400"/>
+</a>
+</center>
+
 
 
 ---
