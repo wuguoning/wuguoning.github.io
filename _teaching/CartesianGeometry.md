@@ -1272,7 +1272,7 @@ $xy + yz + xz = 0$
 
 
 <center>
-  <img src="./imags/dege_quad_surf.png" width="500" height="200"/>
+  <img src="./imags/ruled_surf.png" width="500" height="200"/>
 </center>
 
 
