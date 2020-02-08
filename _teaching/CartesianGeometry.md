@@ -1138,6 +1138,7 @@ $\left\{\begin{array}{l} x = r\cos \theta \newline y = r \sin \theta \newline z 
 ---
 **例子**
 
+下图分别为椭圆柱面($\dfrac{x^2}{2^2} + \dfrac{y^2}{3^2} = 1$)、抛物柱面($z = x^2$)和双曲柱面($\dfrac{x^2}{4} - dfrac{y^2}{2} = 1$)。
 
 <center>
 <a href="https://www.geogebra.org/m/sk9n55wr">
