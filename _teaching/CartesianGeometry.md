@@ -1253,7 +1253,7 @@ $xy + yz + xz = 0$
 
 <center>
 <a href="https://www.geogebra.org/classic/g4dqpkk4 ">
-<img src="./imags/Hypobolic_paraboloid.png" width="300" height="300"/>
+<img src="./imags/Hypobolic_paraboloid.png" width="400" height="400"/>
 </a>
 </center>
 
