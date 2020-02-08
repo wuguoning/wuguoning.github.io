@@ -1146,7 +1146,17 @@ $\left\{\begin{array}{l} x = r\cos \theta \newline y = r \sin \theta \newline z 
 </a>
 </center>
 
+---
 
+### 三元二次曲面
+
+---
+
+<center>
+<a href="https://en.wikipedia.org/wiki/Quadric">
+<img src="./imags/quad_revo.png" width="600" height="1000"/>
+</a>
+</center>
 
 ---
 ## 📚参考书目
