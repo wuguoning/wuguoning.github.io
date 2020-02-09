@@ -1011,9 +1011,9 @@ $x^2 + y^2 = 2pz$.
 </center>
 
 <center>
-<a href="https://www.geogebra.org/m/yxadpqun#material/gsrmycmc">
-<img src="./imags/rotational_parabo.png" width="400" height="300"/>
-</a>
+  <a href="https://www.geogebra.org/classic/tjcyukcx">
+    <img src="./imags/rotational_parabo.png" width="400" height="300"/>
+  </a>
 </center>
 
 
