@@ -932,15 +932,15 @@ $$
 **第四次作业:**
 </span>
 
-1. 求过点$(4, -1, 3)$且平行于直线$\dfrac{x - 3}{2} = \dfrac{y}{1} = \dfrac{z - 1}{5}$ 的直线方程。
++ 求过点$(4, -1, 3)$且平行于直线$\dfrac{x - 3}{2} = \dfrac{y}{1} = \dfrac{z - 1}{5}$ 的直线方程。
 
 
-2. 用对称式及参数方程表示直线
++ 用对称式及参数方程表示直线
   <center>
   $\left\{\begin{array}{l} x - y + z = 1 \newline 2x + y + z = 4 \end{array}\right.$
   </center>
 
-3. 求直线
++ 求直线
   <center>
   $\left\{\begin{array}{l} 5x - 3y + 3z -9 = 0 \newline 3x - 2y + z -1 = 0 \end{array}\right.$ 
   </center>
@@ -951,7 +951,7 @@ $$
   的夹角。
 
 
-4. 求直线
++ 求直线
   <center>
   $\left\{\begin{array}{l} 2x - 4y + z = 0 \newline 3x - y - 2z - 9 = 0 \end{array}\right.$
   </center>
