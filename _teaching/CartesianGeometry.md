@@ -1393,7 +1393,7 @@ $\Gamma$在$xOz$面上的投影为
 **第六次作业:**
 </span>
 
-1. 分别求母线平行于$x$轴，$y$轴而且通过曲线
++ 分别求母线平行于$x$轴，$y$轴而且通过曲线
 <center>
     $
       \left\{\begin{array}{l} 2x^2 + y^2 + z^2 = 16 \newline x^2 + z^2 - y^2 = 0 \end{array}\right.
@@ -1401,7 +1401,7 @@ $\Gamma$在$xOz$面上的投影为
 </center>
    的柱面方程。
 
-2. 将曲线
++ 将曲线
 <center>
     $
       \left\{\begin{array}{l} x^2 + y^2 + z^2 = 9 \newline y = x \end{array}\right.
@@ -1409,7 +1409,7 @@ $\Gamma$在$xOz$面上的投影为
 </center>
    化为参数方程。
 
-3. 求螺旋线
++ 求螺旋线
 <center>
    $
       \left\{\begin{array}{l} x = a\cos \theta \newline y = a \sin \theta \newline z = b\theta \end{array}\right.
