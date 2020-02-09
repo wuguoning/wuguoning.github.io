@@ -974,7 +974,9 @@ $$
 母线$\Gamma$上每个点$M_0$绕$l$旋转得到的圆，成为<span style="color:red">纬圆</span>，纬圆与轴线垂直。过$l$的半平面与旋转曲面的交线称为<span style="color:red">经线</span>。经线可以作为母线，但母线不一定是经线。
 
 <center>
-<img src="./imags/rotational_surf.png" width="200" height="300"/>
+  <a href="https://www.geogebra.org/3d/gpyagmtp">
+  <img src="./imags/rotational_surf.png" width="500" height="300"/>
+  </a>
 </center>
 
 现在假设旋转轴为$z$轴，母线$\Gamma$在$yoz$平面上，其方程为：
@@ -1333,14 +1335,34 @@ $\left\{\begin{array}{l} x = a\cos t \newline y = a\sin t \newline z = vt \end{a
 </center>
 
 <center>
-\newline\newline
   <a href="https://www.geogebra.org/classic/bcqxkxsp">
     <img src="./imags/curve_3d_2.png" width="400" height="400"/>
   </a>
 </center>
 
+**空间曲线在坐标平面上的投影，投影柱面**
+
+设空间曲线$C$方程为
+
+<center>
+$\left\{\begin{array}{l} F(x, y, z) = 0 \newline G(x, y, z) = 0 \end{array}\right. $
+</center>
+
+消去变量$z$(如果可能的话)，所得到的方程为
+$$H(x, y) = 0$$
+得到过曲线$C$的<span style="color:red">**投影柱面**</span>，而
+
+$$
+  \left\{\begin{array}{l} H(x, y) = 0 \newline z = 0 \end{array}\right.
+$$
+
+所表示的曲线为曲线$C$在$xOy$平面上的<span style="color:red">**投影曲线**</span>，投影曲线围成的区域为空间曲线$C$在$xOy$平面上的<span style="color:red">**投影区域**</span>。
+
+---
+**例子**
 
 
+---
 
 
 
