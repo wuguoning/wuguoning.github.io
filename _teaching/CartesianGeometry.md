@@ -1103,8 +1103,8 @@ $\dfrac{\|\vec{MM_0} \times \bf{v}\|}{\|v\|} = r.$
 $$x^2 + y^2  = r^2$$
 
 <center>
-<a href="https://www.geogebra.org/m/M4MpvbvQ">
-<img src="./imags/cylinder1.png" width="400" height="300"/>
+<a href="https://www.geogebra.org/3d/perzz6xa">
+<img src="./imags/cylinder1.png" width="300" height="400"/>
 </a>
 </center>
 
