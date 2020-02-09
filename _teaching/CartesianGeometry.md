@@ -34,7 +34,9 @@ $$(\widehat{a,b}) = \phi$$
 **向量的加法和减法**：
 
 <center>
-<img src="./imags/vector_add.png"  width="300" height="240" />
+  <a href="https://www.geogebra.org/classic/rjccuqws">
+  <img src="./imags/vector_add.png"  width="500" height="300" />
+  </a>
 </center>
 
 向量的加法符合以下规律：
