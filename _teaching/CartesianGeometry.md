@@ -35,7 +35,7 @@ $$(\widehat{a,b}) = \phi$$
 
 <center>
   <a href="https://www.geogebra.org/classic/rjccuqws">
-  <img src="./imags/vector_add.png"  width="500" height="300" />
+  <img src="./imags/vector_add.png"  width="400" height="300" />
   </a>
 </center>
 
@@ -68,9 +68,9 @@ $$(\widehat{a,b}) = \phi$$
 在空间取定一定点$O$和三个两两相互垂直的单位向量$\bf{i, j, k}$就确定了三条都以$O$为原点的两两相互垂直的数轴，依次记为$x$轴(横轴)，$y$轴(纵轴)，$z$轴(竖轴)，统称为坐标轴。它们构成空间的一个直角坐标系，如下图所示：
 
 <center>
-<a href="https://www.geogebra.org/material/edit/id/yxadpqun#bookcontent">
-<img src="./imags/3d_coordinate_system.png"  width="300" height="200" />
-</a>
+  <a href="https://www.geogebra.org/classic/pmheaygy">
+    <img src="./imags/xyz_coordinate_system.png"  width="400" height="300" />
+  </a>
 </center>
 
 
