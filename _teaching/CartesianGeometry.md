@@ -1116,7 +1116,7 @@ $\left\{\begin{array}{l} x = r\cos \theta \newline y = r \sin \theta \newline z 
 
 因此，圆柱面上的点$M$被$(\theta, u)$所确定。从而空间中的任意一点被有序的三元实数组$(r, \theta, u)$所确定。$(r, \theta, u)$称为点$M$的<span style="color:red">**柱面坐标**</span>。
 <center>
-<a href="https://www.geogebra.org/m/tV6CZy9Y">
+<a href="https://www.geogebra.org/3d/zhqbgbmj">
 <img src="./imags/cylinder_cood.png" width="400" height="300"/>
 </a>
 </center>
