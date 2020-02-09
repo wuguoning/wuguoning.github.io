@@ -1360,6 +1360,33 @@ $$
 ---
 **例子**
 
+用不等式组表示出下列曲面或平面所围成的区域。
+<center>
+$x^2 + y^2 = 2z, x^2 + y^2 = 4x, z = 0$
+</center>
+
+<details>
+解：$x^2 + y^2 = 2z$是椭圆抛物面，$x^2 + y^2 = 4x$是圆柱面。椭圆抛物面与柱面的交线$\Gamma$为：
+<center>
+  $\left\{\begin{array}{l} x^2 + y^2 = 2z \newline x^2 + y^2 = 4x \end{array}\right.$
+</center>
+$Gamma$在$xOy$面上的投影为
+<center>
+  $\left\{\begin{array}{l} z = 0 \newline x^2 + y^2 = 4x \end{array}\right.$
+</center>
+
+$Gamma$在$xOz$面上的投影为
+<center>
+  $\left\{\begin{array}{l} z = 2x \newline y = 0 \end{array}\right.$
+</center>
+
+<center>
+<a href="https://www.geogebra.org/3d/hkctfegq">
+   <img src="./imags/cyli_para_inter.png" width="400" height="400"/>
+</a>
+</center>
+
+</details>
 
 ---
 
