@@ -1394,21 +1394,27 @@ $\Gamma$在$xOz$面上的投影为
 </span>
 
 1. 分别求母线平行于$x$轴，$y$轴而且通过曲线
+<center>
     $
       \left\{\begin{array}{l} 2x^2 + y^2 + z^2 = 16 \newline x^2 + z^2 - y^2 = 0 \end{array}\right.
     $
+</center>
    的柱面方程。
 
 2. 将曲线
+<center>
     $
       \left\{\begin{array}{l} x^2 + y^2 + z^2 = 9 \newline y = x \end{array}\right.
     $
+</center>
    化为参数方程。
 
 3. 求螺旋线
+<center>
    $
       \left\{\begin{array}{l} x = a\cos \theta \newline y = a \sin \theta \newline z = b\theta \end{array}\right.
    $
+</center>
    在三个坐标平面上的投影曲线的直角坐标方程。
 
 
