@@ -10,8 +10,18 @@ location: "City, Country"
 
 这部分内容为空间几何初步.
 
+## 目录
+1. [第一节 向量及其运算](#cotes1)
+2. [第二节 数量积、向量积、混合积](#cotes2)
+3. [第三节 空间平面](#cotes3)
+4. [第四节 空间直线及其方程](#cotes4)
+5. [第五节 旋转曲面、柱面和锥面](#cotes5)
+6. [第六节 三元二次曲面](#cotes6)
+7. [第七节 空间曲线](#cotes7)
+
 ## 第八章 向量代数与空间解析几何
 
+<a name="cotes1"></a>
 ### 第一节 向量及其运算
 ---
 
@@ -211,6 +221,7 @@ $$\alpha = \dfrac{2\pi}{3}, \beta = \dfrac{\pi}{3}, \gamma = \dfrac{3\pi}{4}$$
 
 ---
 
+<a name="cotes2"></a>
 ### 第二节 数量积、向量积、混合积
 ---
 **📌. 数量积**
@@ -429,6 +440,7 @@ c_x & c_y & c_z
 
 ---
 
+<a name="cotes3"></a>
 ### 第三节 空间平面
 
 ---
@@ -684,7 +696,8 @@ $
 
 ---
 
-### 空间直线及其方程
+<a name="cotes4"></a>
+### 第四节 空间直线及其方程
 
 ---
 **📌空间直线方程**
@@ -959,7 +972,8 @@ $$
 
 ---
 
-### 旋转曲面、柱面和锥面
+<a name="cotes5"></a>
+### 第五节 旋转曲面、柱面和锥面
 
 ---
 
@@ -1198,7 +1212,8 @@ $xy + yz + xz = 0$
 
 
 
-### 三元二次曲面
+<a name="cotes6"></a>
+### 第六节 三元二次曲面
 
 ---
 **📌旋转二次曲面**
@@ -1280,7 +1295,8 @@ $xy + yz + xz = 0$
 
 ---
 
-### 空间曲线
+<a name="cotes7"></a>
+### 第七节 空间曲线
 
 ---
 **📌空间曲线的方程**
@@ -1294,7 +1310,11 @@ $$\left\{\begin{array}{l} F(x, y, z) = 0 \newline G(x, y, z) = 0 \end{array}\rig
 ---
 **例子**
 
-方程组$\left\{\begin{array}{l} x^2 + y^2 + z^2 = a^2 \newline (x - a/2)^2 + y^2 = (a/2)^2 \end{array}{c}$为<span style="color:red">**Viviani曲线**</span>。下图为$a=4$的情形。
+方程组
+<center>
+  $\left\{\begin{array}{l} x^2 + y^2 + z^2 = a^2 \newline (x - a/2)^2 + y^2 = (a/2)^2 \end{array}{c}$
+</center>
+为<span style="color:red">**Viviani曲线**</span>。下图为$a=4$的情形。
 
 <center>
   <a href="https://www.geogebra.org/classic/kkjsbgcn ">
