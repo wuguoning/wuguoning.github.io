@@ -1059,9 +1059,9 @@ $4x^2 + 9(y^2 + z^2) = 36$.
 </center>
 
 <center>
-<a href="https://www.geogebra.org/material/copy/id/gmt735vp">
-<img src="./imags/rotational_ellip.png" width="600" height="300"/>
-</a>
+  <a href="https://www.geogebra.org/3d/y22upztm">
+    <img src="./imags/rotational_ellip.png" width="600" height="300"/>
+  </a>
 </center>
 
 
