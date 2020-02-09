@@ -1293,16 +1293,27 @@ $$\left\{\begin{array}{l} F(x, y, z) = 0 \newline G(x, y, z) = 0 \end{array}\rig
 ---
 **例子**
 
+方程组$\left\{\begin{array}{l} x^2 + y^2 + z^2 = a^2 \newline (x - a/2)^2 + y^2 = (a/2)^2 \end{array}{c}$为<span style="color:red">**Viviani曲线**</span>。下图为$a=4$的情形。
+
 <center>
   <a href="https://www.geogebra.org/classic/kkjsbgcn ">
     <img src="./imags/Viviani's_curve.png" width="400" height="400"/>
   </a>
 </center>
 
-
 ---
 **例子**
 
+方程组
+<center>
+  $\left\{\begin{array}{l}x^2 + y^2 = 1 \newline 2x + 3y = 1 \end{array}\right. $
+</center>
+表示的曲线见下图。
+<center>
+  <a href="https://www.geogebra.org/classic/kwfhk7wg">
+    <img src="./imags/line_in3d_1.png" width="400" height="400"/>
+  </a>
+</center>
 
 ---
 
