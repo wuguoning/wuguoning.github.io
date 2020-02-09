@@ -10,6 +10,8 @@ location: "City, Country"
 
 这部分内容为空间几何初步.
 
+# 第八章 向量代数与空间解析几何
+
 ## 目录
 1. [第一节 向量及其运算](#cotes1)
 2. [第二节 数量积、向量积、混合积](#cotes2)
@@ -19,7 +21,6 @@ location: "City, Country"
 6. [第六节 三元二次曲面](#cotes6)
 7. [第七节 空间曲线](#cotes7)
 
-## 第八章 向量代数与空间解析几何
 
 <a name="cotes1"></a>
 ### 第一节 向量及其运算
@@ -1312,7 +1313,7 @@ $$\left\{\begin{array}{l} F(x, y, z) = 0 \newline G(x, y, z) = 0 \end{array}\rig
 
 方程组
 <center>
-  $\left\{\begin{array}{l} x^2 + y^2 + z^2 = a^2 \newline (x - a/2)^2 + y^2 = (a/2)^2 \end{array}{c}$
+  $\left\{\begin{array}{l} x^2 + y^2 + z^2 = a^2 \newline (x - a/2)^2 + y^2 = (a/2)^2 \end{array}\right.$
 </center>
 为<span style="color:red">**Viviani曲线**</span>。下图为$a=4$的情形。
 
