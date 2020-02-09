@@ -598,8 +598,8 @@ $</center>
 
 
 <center>
-<a href="https://www.geogebra.org/m/bgAjjjJD">
-<img src="./imags/angle_2planes.png"  width="400" height="300" />
+<a href="https://www.geogebra.org/3d/qpnanhce">
+<img src="./imags/angle_2planes.png"  width="500" height="300" />
 </a>
 </center> 
 
@@ -640,9 +640,9 @@ $$
 
 见下图：
 <center>
-<a href="https://www.geogebra.org/m/z88Fyq98">
-<img src="./imags/point_2plane_dist.png"  width="700" height="300" />
-</a>
+  <a href="https://www.geogebra.org/3d/vnazjmse">
+    <img src="./imags/point_2plane_dist.png"  width="500" height="400" />
+  </a>
 </center> 
 
 
