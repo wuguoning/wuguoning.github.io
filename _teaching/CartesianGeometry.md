@@ -1029,9 +1029,9 @@ $\dfrac{x^2}{a^2} - \dfrac{y^2 + z^2}{b^2} = 1$.
 </center>
 
 <center>
-<a href="https://www.geogebra.org/m/CgTcYCQg">
-<img src="./imags/para_2sheets.png" width="600" height="300"/>
-</a>
+  <a href="https://www.geogebra.org/classic/tdmrwwy5">
+    <img src="./imags/para_2sheets.png" width="500" height="300"/>
+  </a>
 </center>
 
 
@@ -1041,9 +1041,9 @@ $\dfrac{x^2 + z^2}{a^2} - \dfrac{y^2}{b^2} = 1$.
 </center>
 
 <center>
-<a href="https://www.geogebra.org/m/nuakmjta">
-<img src="./imags/para_1sheet.png" width="600" height="300"/>
-</a>
+  <a href="https://www.geogebra.org/3d/ewgcjsee">
+    <img src="./imags/para_1sheet.png" width="300" height="500"/>
+  </a>
 </center>
 
 
