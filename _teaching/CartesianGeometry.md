@@ -902,7 +902,7 @@ $$
 $$
 
 <center>
-<a href="https://www.geogebra.org/m/AbSjyYXG">
+<a href="https://www.geogebra.org/3d/bnxrq9ad">
 <img src="./imags/angle_line_plane.png"  width="700" height="300" />
 </a>
 </center> 
