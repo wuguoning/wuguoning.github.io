@@ -1360,9 +1360,9 @@ $$
 ---
 **例子**
 
-用不等式组表示出下列曲面或平面所围成的区域。
+求下列曲面的交线在坐标平面上的投影。
 <center>
-$x^2 + y^2 = 2z, x^2 + y^2 = 4x, z = 0$
+$x^2 + y^2 = 2z, x^2 + y^2 = 4x$
 </center>
 
 <details>
@@ -1370,12 +1370,12 @@ $x^2 + y^2 = 2z, x^2 + y^2 = 4x, z = 0$
 <center>
   $\left\{\begin{array}{l} x^2 + y^2 = 2z \newline x^2 + y^2 = 4x \end{array}\right.$
 </center>
-$Gamma$在$xOy$面上的投影为
+$\Gamma$在$xOy$面上的投影为
 <center>
   $\left\{\begin{array}{l} z = 0 \newline x^2 + y^2 = 4x \end{array}\right.$
 </center>
 
-$Gamma$在$xOz$面上的投影为
+$\Gamma$在$xOz$面上的投影为
 <center>
   $\left\{\begin{array}{l} z = 2x \newline y = 0 \end{array}\right.$
 </center>
