@@ -1119,9 +1119,9 @@ $\left\{\begin{array}{l} x = r\cos \theta \newline y = r \sin \theta \newline z 
 下图点$B''$在柱坐标下的参数为$(r, \theta, u) = (4, 2, 5)$
 
 <center>
-<a href="https://www.geogebra.org/3d/zhqbgbmj">
-<img src="./imags/cylinder_cood.png" width="400" height="300"/>
-</a>
+  <a href="https://www.geogebra.org/3d/zhqbgbmj">
+    <img src="./imags/cylinder_cood.png" width="400" height="300"/>
+  </a>
 </center>
 
 直角坐标与柱坐标的相互关系为：
