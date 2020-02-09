@@ -1333,6 +1333,7 @@ $\left\{\begin{array}{l} x = a\cos t \newline y = a\sin t \newline z = vt \end{a
 </center>
 
 <center>
+\newline\newline
   <a href="https://www.geogebra.org/classic/bcqxkxsp">
     <img src="./imags/curve_3d_2.png" width="400" height="400"/>
   </a>
