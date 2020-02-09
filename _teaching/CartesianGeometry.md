@@ -1317,6 +1317,31 @@ $$\left\{\begin{array}{l} F(x, y, z) = 0 \newline G(x, y, z) = 0 \end{array}\rig
 
 ---
 
+**空间曲线的参数方程**
+
+空间曲线可以看成是一个质点的移动轨迹，其参数方程为：
+<center>
+$\left\{\begin{array}{l} x = x(t) \newline y = y(t) \newline z = z(t) \end{array}\right.$
+</center>
+
+---
+**例子**
+螺旋线：在圆柱面$x^2 + y^2 = a^2$上以角速度$\omega$绕$z$轴旋转，同时又以线速度$v$沿平行于$z$轴的正方向上升，那么点形成的轨迹称为螺旋线，其参数方程为：
+
+<center>
+$\left\{\begin{array}{l} x = a\cos t \newline y = a\sin t \newline z = vt \end{array}\right.$
+</center>
+
+<center>
+  <a href="https://www.geogebra.org/classic/bcqxkxsp">
+    <img src="./imags/curve_3d_2.png" width="400" height="400"/>
+  </a>
+</center>
+
+
+
+
+
 
 ## 📚参考书目
 📖1. 《高等数学》上下册（第七版），同济大学，高等教育出版社，2014.7.
