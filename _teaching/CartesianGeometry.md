@@ -303,13 +303,13 @@ $$\angle{AMB} = \dfrac{\pi}{3}$$
 
 设$\bf{O}$为一根杠杆的支点。有一个力$\bf{F}$作用在这根杠杆的$P$点处夹角为$\theta$，由力学规定，力$\bf{F}$对支点$\bf{O}$的力矩是一个向量$\bf{M}$，该向量的长度为：
 
-$$\|\bf{M}\| = \|\vec{OP}\|\|\bf{F}\|\sin \angle{(\widehat{\vec{OP}, \bf{F}})}$$
+$$\|\bf{M}\| = \|\vec{OP}\|\|\bf{F}\|\sin <\widehat{\vec{OP}, \bf{F}}>$$
 
 $\bf{M}$所在的方向垂直于$\vec{OP}$和$\bf{F}$所决定的平面，它的方向为按照右手规则从$\vec{OP}$以不超过$\pi$的角度转向$\bf{F}$来确定。受此启发我们定义两个向量的向量积如下：
 
-设$\bf{a}, \bf{b}$为两个向量，向量$\bf{a, b}$的向量积(**一个新的向量**)$\bf{a}\times\bf{b}$(cross product)定义为：
+设$\bf{a}, \bf{b}$为两个向量，向量$\bf{a, b}$的<span style="color:red">**向量积**</span>(**一个新的向量**)$\bf{a}\times\bf{b}$(cross product)定义为：
 
-  + 大小: $\|\bf{a} \times \bf{b}\| = \|a\|\|b\|\sin \angle{\widehat{(\bf{a}, \bf{b})}}$;
+  + 大小: $\|\bf{a} \times \bf{b}\| = \|a\|\|b\|\sin <\widehat{\bf{a}, \bf{b}}>$;
 
   + 方向：垂直于向量$\bf{a, b}$所在的平面，方向为按右手法则从向量$\bf{a}$以不超过$\pi$的角转向向量$\bf{b}$.
 
@@ -339,24 +339,16 @@ $$\bf{a} \times \bf{b} = (a_x \bf{i} + a_y \bf{j} + a_z \bf{k}) \times (b_x \bf{
 
 <details>
 <summary>⬇️ Click to expand!</summary>
-$ = a_xb_x\bf{i}\times\bf{i} + a_xb_y\bf{i}\times\bf{j} + a_xb_z\bf{i}\times\bf{k}
-  +  a_yb_x\bf{j}\times\bf{i} + a_yb_y\bf{j}\times\bf{j} + a_yb_z\bf{j}\times\bf{k}
-  + a_zb_x\bf{k}\times\bf{i} + a_zb_y\bf{k}\times\bf{j} + a_zb_z\bf{k}\times\bf{k}
-$
-
-$ 
-\bf{i}\times\bf{i} = \bf{j}\times\bf{j} = \bf{k}\times\bf{k} = \bf{0}
-$
-
-$ 
-\bf{i}\times\bf{j} = \bf{k},
-\bf{j}\times\bf{k} = \bf{i},
-\bf{k}\times\bf{i} = \bf{j},
-\bf{i}\times\bf{k} = -\bf{j},
-\bf{j}\times\bf{i} = -\bf{k},
-\bf{k}\times\bf{j} = -\bf{i}
+$\begin{split}
+  = & a_xb_x\bf{i}\times\bf{i} + a_xb_y\bf{i}\times\bf{j} + a_xb_z\bf{i}\times\bf{k}\newline
+    & +  a_yb_x\bf{j}\times\bf{i} + a_yb_y\bf{j}\times\bf{j} + a_yb_z\bf{j}\times\bf{k} \newline
+    & + a_zb_x\bf{k}\times\bf{i} + a_zb_y\bf{k}\times\bf{j} + a_zb_z\bf{k}\times\bf{k}  \newline
+    & \left(\bf{i}\times\bf{i} = \bf{j}\times\bf{j} = \bf{k}\times\bf{k} = \bf{0}\right)\newline
+    & \left(\bf{i}\times\bf{j} = \bf{k}, \bf{j}\times\bf{k} = \bf{i}, \bf{k}\times\bf{i} = \bf{j}\right),\newline
+    & \left(\bf{i}\times\bf{k} = -\bf{j},\bf{j}\times\bf{i} = -\bf{k},\bf{k}\times\bf{j} = -\bf{i}\right)
 $
 </details>
+
 $ = (a_yb_z - a_zb_y) \bf{i} + (a_zb_x - a_xb_z) \bf{j} + (a_xb_y-a_yb_x)\bf{k}$
 
 写成代数中行列式的方式为：
