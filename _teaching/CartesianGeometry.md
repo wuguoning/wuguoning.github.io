@@ -717,7 +717,7 @@ $
 $\vec{M_0M} \parallel \bf{u}$
 </center>
 
-写成坐标的形式，得到了<span style="color:red">直线的标准方程:</span>
+写成坐标的形式，得到了<span style="color:red">**直线的标准方程**:</span>
 
 $$\dfrac{x - x_0}{X} = \dfrac{y - y_0}{Y} = \dfrac{z - z_0}{Z}$$
 
@@ -726,7 +726,7 @@ $$\dfrac{x - x_0}{X} = \dfrac{y - y_0}{Y} = \dfrac{z - z_0}{Z}$$
 <center>
 $\vec{M_0M} = \lambda \bf{u}$
 </center>
-用坐标写出，即得到了<span style="color:red">直线的参数方程:</span>
+用坐标写出，即得到了<span style="color:red">**直线的参数方程**:</span>
 
 $$
 \left\{\begin{array}{c} x = x_0 + \lambda X \newline 
@@ -735,7 +735,7 @@ $$
        \end{array}\right.
 $$
 
-直线的这两种方程虽然在形式上不同，但它们的直接表现处出直线的几何意义，即它的方向和所经过的点。我们把这两种方法统称为<span style="color:red">直线的点向式方程。</span>
+直线的这两种方程虽然在形式上不同，但它们的直接表现处出直线的几何意义，即它的方向和所经过的点。我们把这两种方法统称为<span style="color:red">**直线的点向式方程**。</span>
 
 确定直线的另外一种方法是把它作为两张平面的交线，即三元一次方程组：
 
@@ -745,7 +745,7 @@ $$
        \end{array}\right.
 $$
 
-以上方程为直线的<span style="color:red">一般方程</span>.
+以上方程为直线的<span style="color:red">**一般方程**</span>.
 
 <center>
 <a href="https://www.geogebra.org/m/Zrch46XS">
