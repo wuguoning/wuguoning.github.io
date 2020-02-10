@@ -1297,7 +1297,7 @@ $xy + yz + xz = 0$
 
 **📌双曲抛物面**
 
-马鞍面的标准方程为$z = \dfrac{x^2}{p^2} - \dfrac{y^2}{q^2}$，特别的$z = xy$为一马鞍面。
+<span style="color:red">**双曲抛物面又称马鞍面**</span>，该曲面的的标准方程为$z = \dfrac{x^2}{p^2} - \dfrac{y^2}{q^2}$，特别的$z = xy$为一马鞍面。
 
 
 <center>
@@ -1370,14 +1370,15 @@ $$\left\{\begin{array}{l} F(x, y, z) = 0 \newline G(x, y, z) = 0 \end{array}\rig
 
 **空间曲线的参数方程**
 
-空间曲线可以看成是一个质点的移动轨迹，其参数方程为：
+空间曲线可以看成是一个质点的移动轨迹，其<span style="color:red">**参数方程为**</span>：
 <center>
 $\left\{\begin{array}{l} x = x(t) \newline y = y(t) \newline z = z(t) \end{array}\right.$
 </center>
 
 ---
 **例子**
-螺旋线：在圆柱面$x^2 + y^2 = a^2$上以角速度$\omega$绕$z$轴旋转，同时又以线速度$v$沿平行于$z$轴的正方向上升，那么点形成的轨迹称为螺旋线，其参数方程为：
+
+<span style="color:red">**螺旋线**</span>：在圆柱面$x^2 + y^2 = a^2$上以角速度$\omega$绕$z$轴旋转，同时又以线速度$v$沿平行于$z$轴的正方向上升，那么点形成的轨迹称为螺旋线，其参数方程为：
 
 <center>
 $\left\{\begin{array}{l} x = a\cos t \newline y = a\sin t \newline z = vt \end{array}\right.$
