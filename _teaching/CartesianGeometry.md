@@ -988,7 +988,7 @@ $$
 
 一条曲线$\Gamma$绕一条直线$l$旋转所得的曲面称为<span style="color:red">旋转曲面</span>。$l$称为<span style="color:red">轴</span>，$\Gamma$称为<span style="color:red">母线</span>。
 
-母线$\Gamma$上每个点$M_0$绕$l$旋转得到的圆，成为<span style="color:red">纬圆</span>，纬圆与轴线垂直。过$l$的半平面与旋转曲面的交线称为<span style="color:red">经线</span>。经线可以作为母线，但母线不一定是经线。
+母线$\Gamma$上每个点$M_0$绕$l$旋转得到的圆，称为<span style="color:red">纬圆</span>，纬圆与轴线垂直。过$l$的半平面与旋转曲面的交线称为<span style="color:red">经线</span>。经线可以作为母线，但母线不一定是经线。
 
 <center>
   <a href="https://www.geogebra.org/3d/gpyagmtp">
