@@ -378,11 +378,9 @@ $
 
 <details>
 <summary>⬇️ Click to expand!</summary>
-解：三角形的面积为$\|\vec{AB} \times \vec{AC}\|$
+解：三角形的面积为$\dfrac{1}{2}\|\vec{AB} \times \vec{AC}\|$
 
 </details>
-
----
 
 ---
 **📌3.三个向量的混合积**
@@ -401,6 +399,12 @@ b_x & b_y & b_z \newline
 c_x & c_y & c_z
 \end{array}\right|$
 </center>
+
+<center>
+  <a href="https://www.geogebra.org/3d/kegrnjnc">
+    <img src="./imags/scalar_trip_prod.png"  width="400" height="400" />
+  </a>
+</center> 
 
 ---
 **例子**
