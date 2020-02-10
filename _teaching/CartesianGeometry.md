@@ -1,11 +1,11 @@
 ---
-title: "CartesianGeometry"
+title: "解析几何初步"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/CartesianGeometry
 venue: "China University of Petroleum at Beijing, Department of Science"
 date: 2020-02-02
-location: "City, Country"
+location: "Beijing, CN"
 ---
 
 这部分内容为空间几何初步.
