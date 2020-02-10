@@ -346,6 +346,7 @@ $\begin{split}
     & \left(\bf{i}\times\bf{i} = \bf{j}\times\bf{j} = \bf{k}\times\bf{k} = \bf{0}\right)\newline
     & \left(\bf{i}\times\bf{j} = \bf{k}, \bf{j}\times\bf{k} = \bf{i}, \bf{k}\times\bf{i} = \bf{j}\right),\newline
     & \left(\bf{i}\times\bf{k} = -\bf{j},\bf{j}\times\bf{i} = -\bf{k},\bf{k}\times\bf{j} = -\bf{i}\right)
+ \end{split}
 $
 </details>
 
