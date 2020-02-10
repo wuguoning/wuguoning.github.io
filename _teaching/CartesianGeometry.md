@@ -366,9 +366,9 @@ $
 </center>
 
 <center>
-<a href="https://www.geogebra.org/material/edit/id/yxadpqun#bookcontent">
-<img src="./imags/cross_prod.png"  width="400" height="300" />
-</a>
+  <a href="https://www.geogebra.org/3d/kvtmmqex">
+    <img src="./imags/cross_prod.png"  width="500" height="400" />
+  </a>
 </center> 
 
 
