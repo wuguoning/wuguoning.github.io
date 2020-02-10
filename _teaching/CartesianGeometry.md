@@ -302,8 +302,9 @@ $$\angle{AMB} = \dfrac{\pi}{3}$$
  > "给我一个支点我将反转地球！"-阿基米德。
 
 设$\bf{O}$为一根杠杆的支点。有一个力$\bf{F}$作用在这根杠杆的$P$点处夹角为$\theta$，由力学规定，力$\bf{F}$对支点$\bf{O}$的力矩是一个向量$\bf{M}$，该向量的长度为：
-
-$$\|\bf{M}\| = \|\vec{OP}\|\|\bf{F}\|\sin <\widehat{\vec{OP}, \bf{F}}>$$
+<center>
+$\|\bf{M}\| = \|\vec{OP}\|\|\bf{F}\|\sin <\widehat{\vec{OP}, \bf{F}}> $
+</center>
 
 $\bf{M}$所在的方向垂直于$\vec{OP}$和$\bf{F}$所决定的平面，它的方向为按照右手规则从$\vec{OP}$以不超过$\pi$的角度转向$\bf{F}$来确定。受此启发我们定义两个向量的向量积如下：
 
@@ -501,7 +502,7 @@ $$
 
 **📌一般式**
 
-因为平面方程为一个**三元一次方程**，反过来，设有一个三元一次方程：
+因为平面方程为一个<span style="color:red">**三元一次方程**</span>，反过来，设有一个三元一次方程：
 
 $$Ax + By + Cz + D = 0$$
 
@@ -595,9 +596,9 @@ $
 在直角坐标系中，两张平面：
 $\Pi_i: A_ix + B_iy + C_iz + D_i = 0, i=1,2$
 
-  1. $\Pi_1$平行于$\Pi_2$的充分必要条件为：$\dfrac{A_1}{A_2} = \dfrac{B_1}{B_2} = \dfrac{C_1}{C_2}$;
+  + $\Pi_1$平行于$\Pi_2$的充分必要条件为：$\dfrac{A_1}{A_2} = \dfrac{B_1}{B_2} = \dfrac{C_1}{C_2}$;
 
-  2. $\Pi_1$等于$\Pi_2$的充分必要条件为：$\dfrac{A_1}{A_2} = \dfrac{B_1}{B_2} = \dfrac{C_1}{C_2} = \dfrac{D_1}{D_2}$.
+  + $\Pi_1$等于$\Pi_2$的充分必要条件为：$\dfrac{A_1}{A_2} = \dfrac{B_1}{B_2} = \dfrac{C_1}{C_2} = \dfrac{D_1}{D_2}$.
 
 在直角坐标系中，三张平面：
 $\Pi_i: A_ix + B_iy + C_iz + D_i = 0, i=1,2,3$
@@ -653,11 +654,12 @@ $\cos \theta = \dfrac{|1 \times 2 + (-1) \times 1 + 2 \times 1 }{\sqrt{1^2 + (-1
 在平面$\Pi$上任取一点$P(x_0, y_0, z_0)$，距离为：
 
 $$
-d = \dfrac{\vec{PQ} \cdot \bf{n}}{\|\bf{n}\|} = 
+d = \dfrac{|\vec{PQ} \cdot \bf{n}|}{\|\bf{n}\|} = 
   = \dfrac{|Ax_0 + By_0 + Cz_0 + D|}{\sqrt{A^2 + B^2 + C^2}}
 $$
 
 见下图：
+
 <center>
   <a href="https://www.geogebra.org/3d/vnazjmse">
     <img src="./imags/point_2plane_dist.png"  width="500" height="400" />
