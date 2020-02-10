@@ -900,9 +900,9 @@ $$
 $$
 
 <center>
-<a href="https://www.geogebra.org/m/nfQDEbeh">
-<img src="./imags/angle_2lines.png"  width="700" height="300" />
-</a>
+  <a href="https://www.geogebra.org/3d/fjrx7vcj">
+    <img src="./imags/angle_2lines.png"  width="500" height="400" />
+  </a>
 </center> 
 
 
