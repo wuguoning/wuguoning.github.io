@@ -196,14 +196,12 @@ $$\alpha = \dfrac{2\pi}{3}, \beta = \dfrac{\pi}{3}, \gamma = \dfrac{3\pi}{4}$$
 **投影**
 
 <center>
-<a href="https://www.geogebra.org/material/edit/id/yxadpqun#bookcontent">
-<img src="./imags/vector_proj.png"  width="300" height="200" />
-</a>
+  <a href="https://www.geogebra.org/graphing/zg5s38n4">
+    <img src="./imags/vector_proj.png"  width="400" height="300" />
+  </a>
 </center> 
 
-
- > 注意：
- 
+---
    + 同济大学高等数学书中的投影是一个标量，也就这上图中的分数$\dfrac{35}{49}$。其实，向量$Proj_{\vec{v}}\vec{u}$若看成一个向量更符合实际的几何意义。
  
    + 若按照同济大学教科书，投影的计算方法为：$$Proj_{\vec{v}}\vec{u} = \dfrac{\vec{u}\cdot \vec{v}}{\|\vec{v}\|}$$
