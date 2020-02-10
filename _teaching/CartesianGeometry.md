@@ -717,7 +717,7 @@ $
 $\vec{M_0M} \parallel \bf{u}$
 </center>
 
-写成坐标的形式，记得到了<span style="color:red">直线的标准方程:</span>
+写成坐标的形式，得到了<span style="color:red">直线的标准方程:</span>
 
 $$\dfrac{x - x_0}{X} = \dfrac{y - y_0}{Y} = \dfrac{z - z_0}{Z}$$
 
