@@ -32,9 +32,7 @@ location: "City, Country"
 
 向量的表示：$\bf{a, b, c,} \cdots $
 
-或者:
-
-$\vec{a}, \vec{b}, \vec{c}, \cdots$
+或者: $\vec{a}, \vec{b}, \vec{c}, \cdots$
 
 两个向量的夹角:  $<\widehat{\bf{a},\bf{b}}> = \phi$
 
@@ -76,7 +74,7 @@ $\vec{a}, \vec{b}, \vec{c}, \cdots$
 
 **📌3. 空间直角坐标系**
 
-在空间取定一定点$O$和三个两两相互垂直的单位向量$\bf{i, j, k}$就确定了三条都以$O$为原点的两两相互垂直的数轴，依次记为$x$轴(横轴)，$y$轴(纵轴)，$z$轴(竖轴)，统称为<span style="colr:red">**坐标轴**</span>。它们构成空间的一个<span style="color:red">**直角坐标系**</span>，如下图所示：
+在空间取定一定点$O$和三个两两相互垂直的单位向量$\bf{i, j, k}$就确定了三条都以$O$为原点的两两相互垂直的数轴，依次记为$x$轴(横轴)，$y$轴(纵轴)，$z$轴(竖轴)，统称为<span style="color:red">**坐标轴**</span>。它们构成空间的一个<span style="color:red">**直角坐标系**</span>，如下图所示：
 
 <center>
   <a href="https://www.geogebra.org/classic/pmheaygy">
@@ -133,13 +131,6 @@ $M \leftrightarrow \bf{r} \leftrightarrow \vec{OM} = x^1\bf{e_1} + x^2\bf{e_2} +
   + $\lambda (a_x, a_y, a_z)  = (\lambda a_x, \lambda a_y, \lambda a_z)$
 
 <center>
-  <a href="https://www.geogebra.org/classic/rjccuqws">
-    <img src="./imags/vector_add.png"  width="400" height="300" />
-  </a>
-</center> 
-
-
-<center>
   <a href="https://www.geogebra.org/3d/vdheapjg">
     <img src="./imags/scalar_mult.png"  width="400" height="300" />
   </a>
@@ -167,18 +158,21 @@ $$\vec{OM} = \dfrac{1}{1+\lambda}\left(\vec{OA} + \lambda \vec{OB}\right)$$
 $$\vec{OM} = \left(\dfrac{x_1 + \lambda x_2}{1 + \lambda}, \dfrac{y_1 + \lambda y_2}{1 + \lambda}, \dfrac{z_1 + \lambda z_2}{1 + \lambda}\right)$$
 </details>
 
+---
 **向量长度**
 
 设向量$\bf{a} = (a_x, a_y, a_z)$，则向量的长度为：
 
 $$\|\bf{a}\| = \sqrt{a_x^2 + a_y^2 + a_z^2}$$
 
+---
 **方向余弦**
 
 $$\left(\cos \alpha, \cos \beta, \cos \gamma\right) = \left(\dfrac{a_x}{\|a\|}, \dfrac{a_y}{\|a\|}, \dfrac{a_z}{\|a\|}\right) = \dfrac{1}{\|a\|}\left(a_x, a_y, a_z\right)$$
 
 $$\cos^2 \alpha + \cos^2 \beta + \cos^2 \gamma = \dfrac{\|a\|^2}{\|a\|^2} = 1 $$
 
+---
 **方向角**
 
 上式中的$\alpha, \beta, \gamma$称为向量$\bf{a}$的方向角。
