@@ -130,11 +130,14 @@ $M \leftrightarrow \bf{r} \leftrightarrow \vec{OM} = x^1\bf{e_1} + x^2\bf{e_2} +
 
   + $\lambda (a_x, a_y, a_z)  = (\lambda a_x, \lambda a_y, \lambda a_z)$
 
+
+
 <center>
   <a href="https://www.geogebra.org/3d/vdheapjg">
     <img src="./imags/scalar_mult.png"  width="400" height="300" />
   </a>
 </center> 
+
 
 
 ---
@@ -225,18 +228,19 @@ $$\alpha = \dfrac{2\pi}{3}, \beta = \dfrac{\pi}{3}, \gamma = \dfrac{3\pi}{4}$$
 <a name="cotes2"></a>
 ### 第二节 数量积、向量积、混合积
 ---
-**📌. 数量积**
+**📌 数量积**
 由物理学知识知道：物体在常力$\bf{F}$的作用下产生了直线位移$\bf{S}$，则力所做的功为：
 
-$$W = \|\bf{F}\|\|\bf{S}\|\cos (\widehat{\bf{F},\bf{S}})$$
+$$W = \|\bf{F}\|\|\bf{S}\|\cos <\widehat{\bf{F},\bf{S}}>$$
 
 受此启发，我们定义向量 $\bf{a}$ 和 $\bf{b}$ 的数量积(内积, scalar product)为: 
-
-$$\|\bf{a}\|\|\bf{b}\|\cos (\widehat{\bf{a},\bf{b}})$$, 
+<center>
+$\|\bf{a}\|\|\bf{b}\|\cos <\widehat{\bf{a},\bf{b}}>$
+</center>
 
 记为：
 
-$$\bf{a} \cdot \bf{b} = \|\bf{a}\|\|\bf{b}\|\cos (\widehat{\bf{a},\bf{b}})$$
+$$\bf{a} \cdot \bf{b} = \|\bf{a}\|\|\bf{b}\|\cos <\widehat{\bf{a},\bf{b}}>$$
 
 **由定义可以推出数量积具有以下性质**：
 
@@ -255,18 +259,23 @@ $$\bf{a} \cdot \bf{b} = (a_x \bf{i} + a_y \bf{j} + a_z \bf{k}) \cdot (b_x \bf{i}
 
 <details>
 <summary>⬇️ Click to expand!</summary>
-$$ = a_xb_x\bf{i}\cdot\bf{i} + a_xb_y\bf{i}\cdot\bf{j} + a_xb_z\bf{i}\cdot\bf{k}
-  +  a_yb_x\bf{j}\cdot\bf{i} + a_yb_y\bf{j}\cdot\bf{j} + a_yb_z\bf{j}\cdot\bf{k}
-  + a_zb_x\bf{k}\cdot\bf{i} + a_zb_y\bf{k}\cdot\bf{j} + a_zb_z\bf{k}\cdot\bf{k}
-$$
+$
+\begin{split} & = a_xb_x\bf{i}\cdot\bf{i} + a_xb_y\bf{i}\cdot\bf{j} + a_xb_z\bf{i}\cdot\bf{k} \newline
+               & +  a_yb_x\bf{j}\cdot\bf{i} + a_yb_y\bf{j}\cdot\bf{j} + a_yb_z\bf{j}\cdot\bf{k} \newline
+               & + a_zb_x\bf{k}\cdot\bf{i} + a_zb_y\bf{k}\cdot\bf{j} + a_zb_z\bf{k}\cdot\bf{k}
+\end{split}
+$
 </details>
+<center>
+$=(a_xb_x + a_yb_y + a_zb_z)$
+</center>
 
-$$=(a_xb_x + a_yb_y + a_zb_z)$$
+下图展示了向量的数量积概念。
 
 <center>
-<a href="https://www.geogebra.org/material/edit/id/yxadpqun#bookcontent">
-<img src="./imags/vector_scalar_prod.png"  width="300" height="200" />
-</a>
+  <a href="https://www.geogebra.org/graphing/ux9zuwtd">
+    <img src="./imags/vector_scalar_prod.png"  width="500" height="400" />
+  </a>
 </center> 
 
 
