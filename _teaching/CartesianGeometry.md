@@ -13,13 +13,13 @@ location: "City, Country"
 # 第八章 向量代数与空间解析几何
 
 ## 目录
-1. [第一节 向量及其运算](#cotes1)
-2. [第二节 数量积、向量积、混合积](#cotes2)
-3. [第三节 空间平面](#cotes3)
-4. [第四节 空间直线及其方程](#cotes4)
-5. [第五节 旋转曲面、柱面和锥面](#cotes5)
-6. [第六节 三元二次曲面](#cotes6)
-7. [第七节 空间曲线](#cotes7)
++ [第一节 向量及其运算](#cotes1)
++ [第二节 数量积、向量积、混合积](#cotes2)
++ [第三节 空间平面](#cotes3)
++ [第四节 空间直线及其方程](#cotes4)
++ [第五节 旋转曲面、柱面和锥面](#cotes5)
++ [第六节 三元二次曲面](#cotes6)
++ [第七节 空间曲线](#cotes7)
 
 
 <a name="cotes1"></a>
@@ -30,13 +30,13 @@ location: "City, Country"
 
 “速度”和“位移”是向量，“速率”和“长度”是标量。几何上向量是有大小和方向的有向线段。向量描述事物间的位移和相对位置，向量不包括“位置”的概念。“点”有位置，但没有大小和厚度。
 
-向量的表示：
-$$\bf{a, b, c,} \cdots $$
-或者
-$$\vec{a}, \vec{b}, \vec{c}, \cdots$$
+向量的表示：$\bf{a, b, c,} \cdots $
 
-两个向量的夹角:
-$$(\widehat{a,b}) = \phi$$
+或者:
+
+$\vec{a}, \vec{b}, \vec{c}, \cdots$
+
+两个向量的夹角:  $<\widehat{\bf{a},\bf{b}}> = \phi$
 
 ---
 
@@ -62,7 +62,7 @@ $$(\widehat{a,b}) = \phi$$
 
   + 结合律：$\lambda (\mu \bf{a}) = (\lambda \mu)\bf{a}$;
 
-  + 分配律：$(\lambda + \mu)\bf{a} = \lambda \bf{a} + \mu \bf{a}$, $\lambda (\bf{a + b}) = \lambda \bf{a} + \lambda \bf{b}$.
+  + 分配律：$(\lambda + \mu)\bf{a} = \lambda \bf{a} + \mu \bf{a}$,  $\lambda (\bf{a + b}) = \lambda \bf{a} + \lambda \bf{b}$.
 
 
 ---
@@ -76,7 +76,7 @@ $$(\widehat{a,b}) = \phi$$
 
 **📌3. 空间直角坐标系**
 
-在空间取定一定点$O$和三个两两相互垂直的单位向量$\bf{i, j, k}$就确定了三条都以$O$为原点的两两相互垂直的数轴，依次记为$x$轴(横轴)，$y$轴(纵轴)，$z$轴(竖轴)，统称为坐标轴。它们构成空间的一个直角坐标系，如下图所示：
+在空间取定一定点$O$和三个两两相互垂直的单位向量$\bf{i, j, k}$就确定了三条都以$O$为原点的两两相互垂直的数轴，依次记为$x$轴(横轴)，$y$轴(纵轴)，$z$轴(竖轴)，统称为<span style="colr:red">**坐标轴**</span>。它们构成空间的一个<span style="color:red">**直角坐标系**</span>，如下图所示：
 
 <center>
   <a href="https://www.geogebra.org/classic/pmheaygy">
@@ -85,7 +85,7 @@ $$(\widehat{a,b}) = \phi$$
 </center>
 
 
-三条坐标轴的任意两条可以确定一个平面，这样确定的三个坐标平面统称为坐标平面。$x$轴及$y$轴所确定的坐标平面叫做$xOy$面等等。坐标平面把空间分割为8个卦限。如下图所示：
+三条坐标轴的任意两条可以确定一个平面，这样确定的三个坐标平面统称为<span style="color:red">**坐标平面**</span>。$x$轴及$y$轴所确定的坐标平面叫做<span style="color:red">$xOy$面</span>等等。坐标平面把空间分割为8个<span style="color:red">**卦限**</span>。如下图所示：
 
 <center>
   <img src="./imags/eight_parts.png"  width="400" height="600" />
@@ -108,8 +108,10 @@ $$M \leftrightarrow \bf{r} \leftrightarrow \vec{OM} = x\bf{i} + y\bf{j} + z\bf{k
 
 
 
-$n$维空间向量的Enstein表示为：
-$$M \leftrightarrow \bf{r} \leftrightarrow \vec{OM} = x^1\bf{e_1} + x^2\bf{e_2} + \cdots +  x^n\bf{e_n} \leftrightarrow (x^1, x^2, \cdots, x^n) = x^i \bf{e_i}$$
+$n$维空间向量的<span style="color:red">Enstein表示</span>为：
+<center>
+$M \leftrightarrow \bf{r} \leftrightarrow \vec{OM} = x^1\bf{e_1} + x^2\bf{e_2} + \cdots +  x^n\bf{e_n} \leftrightarrow (x^1, x^2, \cdots, x^n) = x^i \bf{e_i}$
+</center>
 
 
 ---
@@ -122,19 +124,25 @@ $$M \leftrightarrow \bf{r} \leftrightarrow \vec{OM} = x^1\bf{e_1} + x^2\bf{e_2} 
   
   + $\bf{a} - \bf{b}= (a_x - b_x)\bf{i} + (a_y - b_y)\bf{j} + (a_z - b_z)\bf{k}$;
   
-  + $\lambda\bf{a} = (\lambda a_x )\bf{i} + (\lambda a_y +b_y)\bf{j} + (\lambda a_z )\bf{k}$;
+  + $\lambda\bf{a} = (\lambda a_x )\bf{i} + (\lambda a_y )\bf{j} + (\lambda a_z )\bf{k}$;
   
   + $(a_x, a_y, a_z) + (b_x, b_y, b_z) = (a_x+b_x, a_y+b_y, a_z+b_z)$;
 
-  + $(a_x, a_y, a_z) + (b_x, b_y, b_z) = (a_x+b_x, a_y+b_y, a_z+b_z)$;
+  + $(a_x, a_y, a_z) - (b_x, b_y, b_z) = (a_x-b_x, a_y-b_y, a_z-b_z)$;
 
   + $\lambda (a_x, a_y, a_z)  = (\lambda a_x, \lambda a_y, \lambda a_z)$
 
 <center>
-<a href="https://www.geogebra.org/material/edit/id/yxadpqun#bookcontent">
-<img src="./imags/vector_add.png"  width="300" height="200" />
-<img src="./imags/scalar_mult.png"  width="300" height="200" />
-</a>
+  <a href="https://www.geogebra.org/classic/rjccuqws">
+    <img src="./imags/vector_add.png"  width="400" height="300" />
+  </a>
+</center> 
+
+
+<center>
+  <a href="https://www.geogebra.org/3d/vdheapjg">
+    <img src="./imags/scalar_mult.png"  width="400" height="300" />
+  </a>
 </center> 
 
 
