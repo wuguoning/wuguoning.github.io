@@ -737,6 +737,12 @@ $$
 
 直线的这两种方程虽然在形式上不同，但它们的直接表现处出直线的几何意义，即它的方向和所经过的点。我们把这两种方法统称为<span style="color:red">**直线的点向式方程**。</span>
 
+<center>
+  <a href="https://www.geogebra.org/3d/kfcyckrg">
+    <img src="./imags/point_vector_line.png"  width="500" height="400" />
+  </a>
+</center> 
+
 确定直线的另外一种方法是把它作为两张平面的交线，即三元一次方程组：
 
 $$
@@ -746,13 +752,6 @@ $$
 $$
 
 以上方程为直线的<span style="color:red">**一般方程**</span>.
-
-<center>
-<a href="https://www.geogebra.org/m/Zrch46XS">
-<img src="./imags/point_vector_line.png"  width="700" height="300" />
-</a>
-</center> 
-
 
 ---
 **例子**
@@ -804,7 +803,16 @@ $
 ---
 
 **📌空间直线与平面**
-直线于平面的位置关系有：相交(只有一个交点)、直线在平面上、以及没有交点三种情况，后两种统称为平行。
+
+直线与平面的位置关系有：
+  + 相交(只有一个交点);
+
+  + 直线在平面上;
+
+  + 以及没有交点.
+
+三种情况，后两种统称为平行。
+
 设平面$\Pi$的方程为$Ax + By + Cz + D = 0$。直线$l$过点$M_0(x_0, y_0, z_0)$，平行于非零向量$\bf{u}(X, Y, Z)$。则$l$平行于$\Pi$;$l$在$\Pi$上的条件为：
 
 $$
@@ -840,11 +848,11 @@ $ Ax + By + Cz + D = 0$
 
   3. 直线$l$在平面$\Pi$上的充分必要条件为：线形方程组<center>$\left\{\begin{array}{l} A_1x + B_1y + C_1z + D_1 = 0 \newline A_2x + B_2y + C_2z + D_2 = 0 \newline Ax + By + Cz + D = 0\end{array}\right.$</center>有无穷多解。
 
-我们把经过同一条直线的所有平面构成的集合称为以$l$为轴的<span style="color:red">共轴平面系</span>。如果$l$的一般方程为
+我们把经过同一条直线的所有平面构成的集合称为以$l$为轴的<span style="color:red">**共轴平面系**</span>。如果$l$的一般方程为
 
 <center>
 $
-\left\{\begin{array}{c} A_1x + B_1y + C_1z + D_1 = 0 \newline A_2x + B_2y + C_2z + D_2 =0 \end{array}\right.
+\left\{\begin{array}{l} A_1x + B_1y + C_1z + D_1 = 0 \newline A_2x + B_2y + C_2z + D_2 =0 \end{array}\right.
 $
 </center>
 
@@ -864,7 +872,7 @@ $
 已知$l$在$\Pi$上，其中$l$的一般方程为：
 <center>
 $
-\left\{\begin{array}{c} 3x + 2y - z + 1 = 0 \newline x - 2z = 0 \end{array}\right.
+\left\{\begin{array}{l} 3x + 2y - z + 1 = 0 \newline x - 2z = 0 \end{array}\right.
 $</center>
 平面$\Pi$的方程为$4x + ay + 2z + b = 0$，求$a, b$.
 
@@ -916,7 +924,7 @@ $$
 直线与平面的夹角，即直线与它在平面上正射影的夹角。设直线$l$平行于非零向量$\bf{u}(X, Y, Z)$，平面$\Pi$的法向量为$\bf{n}(A, B, C)$，则它们的夹角为：
 
 $$
-\theta = arccos(|\sin (\widehat{\bf{u}, \bf{n}})|)
+\theta = arccos(|\sin <\widehat{\bf{u}, \bf{n}}>|)
 $$
 
 $$
@@ -924,9 +932,9 @@ $$
 $$
 
 <center>
-<a href="https://www.geogebra.org/3d/bnxrq9ad">
-<img src="./imags/angle_line_plane.png"  width="700" height="300" />
-</a>
+  <a href="https://www.geogebra.org/3d/bnxrq9ad">
+    <img src="./imags/angle_line_plane.png"  width="700" height="300" />
+  </a>
 </center> 
 
 
@@ -942,10 +950,11 @@ $$
 $$
 d = \dfrac{|\bf{u} \times \vec{M_0P}|}{|\bf{u}|}
 $$
+
 <center>
-<a href="https://www.geogebra.org/m/qcNwb4bk">
-<img src="./imags/dist_point_line.png" width="200" height="200"/>
-</a>
+  <a href="https://www.geogebra.org/m/qcNwb4bk">
+    <img src="./imags/dist_point_line.png" width="200" height="200"/>
+  </a>
 </center>
 
 
@@ -988,9 +997,9 @@ $$
 
 **📌旋转曲面**
 
-一条曲线$\Gamma$绕一条直线$l$旋转所得的曲面称为<span style="color:red">旋转曲面</span>。$l$称为<span style="color:red">轴</span>，$\Gamma$称为<span style="color:red">母线</span>。
+一条曲线$\Gamma$绕一条直线$l$旋转所得的曲面称为<span style="color:red">**旋转曲面**</span>。$l$称为<span style="color:red">**轴**</span>，$\Gamma$称为<span style="color:red">**母线**</span>。
 
-母线$\Gamma$上每个点$M_0$绕$l$旋转得到的圆，称为<span style="color:red">纬圆</span>，纬圆与轴线垂直。过$l$的半平面与旋转曲面的交线称为<span style="color:red">经线</span>。经线可以作为母线，但母线不一定是经线。
+母线$\Gamma$上每个点$M_0$绕$l$旋转得到的圆，称为<span style="color:red">**纬圆**</span>，纬圆与轴线垂直。过$l$的半平面与旋转曲面的交线称为<span style="color:red">**经线**</span>。经线可以作为母线，但母线不一定是经线。
 
 <center>
   <a href="https://www.geogebra.org/3d/gpyagmtp">
@@ -1004,7 +1013,7 @@ $$
 $\left\{\begin{array}{l} f(y,z) = 0 \newline x = 0 \end{array}\right.$
 </center>
 
-则点$M(x, y, z)$在旋转曲面上的充分条件为
+则点$M(x, y, z)$在旋转曲面上的充分条件为:
 
 <center>
 $\left\{\begin{array}{l} f(y_0,z_0) = 0 \newline x_0 = 0 \newline x^2 + y^2 = x_0^2 + y_0^2 \newline 1 \cdot (z - z_0) = 0 \end{array}\right.$
@@ -1118,7 +1127,7 @@ $\left\{\begin{array}{l} F(x_0, y_0, z_0) = 0 \newline G(x_0, y_0, z_0) = 0 \new
 
 圆柱面有一条对称轴$l$，圆柱面上每一点到轴的距离相等，这个距离称为圆柱面面的半径。如果知道圆柱面的半径为$r$，母线的方向为$\bf{v}(l, m, n)$以及圆柱面的对称轴$l_0$经过$M_0(x_0, y_0, z_0)$，则点$M(x,y,z)$在圆柱面上的充分且必要条件为$M$到轴$l_0$的距离等于$r$，即
 <center>
-$\dfrac{\|\vec{MM_0} \times \bf{v}\|}{\|v\|} = r.$
+$\dfrac{\|\vec{MM_0} \times \bf{v}\|}{\|\bf{v}\|} = r$
 </center>
 
 特别的，若圆柱面的半径为$r$，对称轴为$z$轴，则这个圆柱面的方程为：
@@ -1162,12 +1171,17 @@ $\left\{\begin{array}{l} x = r\cos \theta \newline y = r \sin \theta \newline z 
 ---
 **例子**
 
-下图分别为椭圆柱面($\dfrac{x^2}{2^2} + \dfrac{y^2}{3^2} = 1$)、抛物柱面($z = x^2$)和双曲柱面($\dfrac{x^2}{4} - \dfrac{y^2}{2} = 1$)。
+下图分别为:
++ 椭圆柱面($\dfrac{x^2}{2^2} + \dfrac{y^2}{3^2} = 1$);
+
++ 抛物柱面($z = x^2$);
+
++ 双曲柱面($\dfrac{x^2}{4} - \dfrac{y^2}{2} = 1$)。
 
 <center>
-<a href="https://www.geogebra.org/m/sk9n55wr">
-<img src="./imags/cylinders2.png" width="400" height="400"/>
-</a>
+  <a href="https://www.geogebra.org/m/sk9n55wr">
+    <img src="./imags/cylinders2.png" width="400" height="400"/>
+  </a>
 </center>
 
 ---
@@ -1183,6 +1197,13 @@ $<\vec{M_0M}, \bf{v}> = \alpha$或者$\pi - \alpha$,
 
 <center>
 $|\cos <\vec{M_0M}, \bf{v}>| = \cos \alpha $
+</center>
+
+
+<center>
+  <a href="https://www.geogebra.org/3d/hnxdn7az">
+    <img src="./imags/rotational_cone.png" width="500" height="400"/>
+  </a>
 </center>
 
 ---
