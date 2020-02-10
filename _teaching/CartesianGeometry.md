@@ -464,9 +464,9 @@ $$A(x - x_0) + B(y - y_0) + C(z - z_0) = 0$$
 下图为点法式建立平面示意图
 
 <center>
-<a href="https://www.geogebra.org/material/edit/id/yxadpqun#bookcontent">
-<img src="./imags/plane_equa.png"  width="400" height="300" />
-</a>
+  <a href="https://www.geogebra.org/3d/wx2brsg7">
+    <img src="./imags/plane_equa.png"  width="400" height="300" />
+  </a>
 </center> 
 
 
