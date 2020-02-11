@@ -144,13 +144,12 @@ location: "Beijing, CN"
 </center>
 
 <span style="color:red">
-**数学逻辑语言为**
-
-<center>
-  $\lim\limits_{P \to P_0}f(P) = A \iff \forall \epsilon > 0 \thereexists \delta > 0, \forall P \in \mathring{U}(P_0, \delta) \Rightarrow \vert f(P) - A \vert < \epsilon.$
-</center>
+**数学逻辑语言为:**
 </span>
 
+<center>
+  $\lim\limits_{P \to P_0}f(P) = A \iff \forall \epsilon > 0 \exists \delta > 0, \forall P \in \mathring{U}(P_0, \delta) \Rightarrow \vert f(P) - A \vert < \epsilon.$
+</center>
 ---
 **例子**
 
