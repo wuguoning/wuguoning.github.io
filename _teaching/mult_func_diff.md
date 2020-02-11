@@ -135,7 +135,7 @@ location: "Beijing, CN"
 
 ---
 <a name="cotes2"></a>
-### 📌**1. 二元函数的极限**
+### 📌**2. 二元函数的极限**
 
 ---
 设二元函数$f(x,y)$的定义域为$D \subset \mathcal{R}^2$, $P_0$为$D$的一个聚点，$A$是一个确定的实数。如果对于任意的$\epsilon > 0$，总存在某一个正数$\delta > 0$，使得当$P \in \mathring{U}(P_0, \delta)$时($\|P - P_0\| < \delta$)时，有$\vert f(P) - A \vert < \epsilon$。则称$f(x, y)$当$P \to P_0$时极限为$A$，记为：
@@ -143,6 +143,13 @@ location: "Beijing, CN"
   $\lim\limits_{P \to P_0}f(P) = A.$
 </center>
 
+<span style="color:red">
+**数学逻辑语言为**
+
+<center>
+  $\lim\limits_{P \to P_0}f(P) = A \iff \forall \epsilon > 0 \thereexists \delta > 0, \forall P \in \mathring{U}(P_0, \delta) \Rightarrow \vert f(P) - A \vert < \epsilon.$
+</center>
+</span>
 ---
 
 
