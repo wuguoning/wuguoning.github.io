@@ -228,9 +228,20 @@ $
 ---
 设函数$f$为定义在点集$D \subset \mathcal{R}^2$上的二元函数，$P_0 \in D$(它或者是$D$的聚点，或者是$D$的孤立点)，对于任意的$\epsilon > 0$，总存在相应的$\delta > 0$，只要$P \in \mathring{U}(P_0, \delta) \cap D$，有：
 <center>
-  |f(P) - f(P_0)| \le \epsilon
+  $\vert f(P) - f(P_0)\vert \le \epsilon
 </center>
 则称<span style="color:red">$f$在$P_0$点连续</span>。
+
+---
+<span style="color:red">
+**数学逻辑语言为:**
+</span>
+
+<center>
+  $\lim\limits_{P \to P_0}f(P) = f(P_0)  \iff \forall \epsilon > 0, \exists \delta > 0, \forall P \in U(P_0, \delta) \Rightarrow \vert f(P) - f(P_0) \vert < \epsilon.$
+</center>
+
+---
 
 
 
