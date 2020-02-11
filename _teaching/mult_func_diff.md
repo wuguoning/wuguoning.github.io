@@ -160,7 +160,7 @@ location: "Beijing, CN"
 $
 \begin{split}
 & \because \left| (x^2 + y^2)\sin \dfrac{1}{\sqrt{x^2 + y^2}} - 0 \right| \le x^2 + y^2 \newline
-& \therefore \delta = \sqrt{\epsion}, \forall \vert (x,y) - (0, 0) \vert \le \epsilon \Rightarrow 
+& \therefore \delta = \sqrt{\epsilon}, \forall \vert (x,y) - (0, 0) \vert \le \epsilon \Rightarrow 
   \vert f(x,y) - f(0, 0) \vert \epsilon
 \end{split}
 $
@@ -176,13 +176,18 @@ $
 $
 \begin{split}
 &\because \lim\limits_{\substack{(x, y) \to (0, 0)\newline y =kx}} = \dfrac{1 + k}{1 + k^2} \newline
-& \therefor 极限不存在
+& \therefore
 \end{split}
-$
+$ 极限不存在，极限依赖与路径。
 
 
 </details>
 
+<center>
+  <a href="https://www.geogebra.org/3d/pwqr5yuz">
+  <img src="./imags/calculus/no__limit_func1.png"  width="400" height="400" />
+  </a>
+</center>
 
 
 
