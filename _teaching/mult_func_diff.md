@@ -36,7 +36,7 @@ location: "Beijing, CN"
 
   + 欧几里德距离: $Dist(P_1(x_1, y_1), P_2(x_2, y_2)) = \sqrt{(x_1 - x^2)^2 + (y_1 - y_2)^2}$;
 
-  + 切比雪夫距离: $Dist(P_1(x_1, y_1), P_2(x_2, y_2)) = \max\left\{\vert x_1 - x^2\vert, \vert y_1 - y_2\vert\right\}$;
+  + 切比雪夫距离: $Dist(P_1(x_1, y_1), P_2(x_2, y_2)) = \max \left(\vert x_1 - x_2 \vert, \vert y_1 - y_2\vert \right)$;
 
   + 曼哈顿德距离: $Dist(P_1(x_1, y_1), P_2(x_2, y_2)) = \vert x_1 - x^2\vert + \vert y_1 - y_2\vert$;
 
