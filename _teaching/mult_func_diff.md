@@ -137,11 +137,12 @@ location: "Beijing, CN"
 <a name="cotes2"></a>
 ### 📌**2. 二元函数的极限**
 
----
-设二元函数$f(x,y)$的定义域为$D \subset \mathcal{R}^2$, $P_0$为$D$的一个聚点，$A$是一个确定的实数。如果对于任意的$\epsilon > 0$，总存在某一个正数$\delta > 0$，使得当$P \in \mathring{U}(P_0, \delta)$时($\|P - P_0\| < \delta$)时，有$\vert f(P) - A \vert < \epsilon$。则称$f(x, y)$当$P \to P_0$时极限为$A$，记为：
+设二元函数$f(x,y)$的定义域为$D \subset \mathcal{R}^2$, $P_0$为$D$的一个聚点，$A$是一个确定的实数。如果对于任意的$\epsilon > 0$，总存在某一个正数$\delta > 0$，使得当$P \in \mathring{U}(P_0, \delta)$时($0 < \|P - P_0\| < \delta$)时，有$\vert f(P) - A \vert < \epsilon$。则称$f(x, y)$当$P \to P_0$时极限为$A$，记为：
 <center>
   $\lim\limits_{P \to P_0}f(P) = A.$
 </center>
+
+---
 
 <span style="color:red">
 **数学逻辑语言为:**
@@ -160,8 +161,8 @@ location: "Beijing, CN"
 $
 \begin{split}
 & \because \left| (x^2 + y^2)\sin \dfrac{1}{\sqrt{x^2 + y^2}} - 0 \right| \le x^2 + y^2 \newline
-& \therefore \delta = \sqrt{\epsilon}, \forall \vert (x,y) - (0, 0) \vert \le \epsilon \Rightarrow 
-  \vert f(x,y) - f(0, 0) \vert \epsilon
+& \therefore \delta = \sqrt{\epsilon}, \forall \vert (x,y) - (0, 0) \vert \le \delta \Rightarrow 
+  \vert f(x,y) - f(0, 0) \vert \le \epsilon
 \end{split}
 $
 </details>
@@ -177,10 +178,8 @@ $
 \begin{split}
 &\because \lim\limits_{\substack{(x, y) \to (0, 0)\newline y =kx}} = \dfrac{1 + k}{1 + k^2} \newline
 & \therefore
-\end{split}
+\end{split} 极限不存在，极限依赖与路径。
 $
-
-极限不存在，极限依赖与路径。
 </details>
 
 <center>
@@ -192,13 +191,13 @@ $
 ---
 **例子**
 
-讨论极限$\lim\limits_{(x, y) \to (0, 0)} \dfrac{x^2 + y^2}{\sqrt{x^2 + y^2} + 1}$
+讨论极限$\lim\limits_{(x, y) \to (0, 0)} \dfrac{x^2 + y^2}{\sqrt{x^2 + y^2 + 1} - 1}$
 
 <details>
 解： 
 $
 \begin{split}
-\lim\limits_{(x, y) \to (0, 0)} \dfrac{x^2 + y^2}{\sqrt{1 + x^2 + y^2} + 1} & = \lim\limits_{t \to 0}\dfrac{t}{\sqrt{(1 + t) - 1}}\newline 
+\lim\limits_{(x, y) \to (0, 0)} \dfrac{x^2 + y^2}{\sqrt{1 + x^2 + y^2} - 1} & = \lim\limits_{t \to 0}\dfrac{t}{\sqrt{(1 + t) - 1}}\newline 
 & \lim\limits_{t \to 0}\dfrac{t}{1/2 t} = 2.
 \end{split}
 $
@@ -224,9 +223,9 @@ $
 **二元函数连续性定义**
 
 ---
-设函数$f$为定义在点集$D \subset \mathcal{R}^2$上的二元函数，$P_0 \in D$(它或者是$D$的聚点，或者是$D$的孤立点)，对于任意的$\epsilon > 0$，总存在相应的$\delta > 0$，只要$P \in \mathring{U}(P_0, \delta) \cap D$，有：
+设函数$f$为定义在点集$D \subset \mathcal{R}^2$上的二元函数，$P_0 \in D$(它或者是$D$的聚点，或者是$D$的孤立点)，对于任意的$\epsilon > 0$，总存在相应的$\delta > 0$，只要$P \in U(P_0, \delta) \cap D$，有：
 <center>
-  $\vert f(P) - f(P_0)\vert \le \epsilon
+  $\vert f(P) - f(P_0)\vert \le \epsilon$
 </center>
 则称<span style="color:red">$f$在$P_0$点连续</span>。
 
