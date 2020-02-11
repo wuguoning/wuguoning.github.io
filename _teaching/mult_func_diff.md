@@ -27,9 +27,18 @@ location: "Beijing, CN"
 当平面上确定一个坐标系后，所有的有序二元数组$(x,y)$与平面上的点之间建立了一一对应关系(数形对应)，这种确定了坐标系的平面称为<span style="color:red">**坐标平面**</span>。
 
 坐标平面上满足某些条件$P$的点的集合称为平面点集，记作
+
 <center>
   $\bf{E} = \left\{(x,y) \vert (x,y)满足条件P\right\}$
 </center>
+
+下图为平面上三个不同<span style="color:red">**距离**</span>定义下的单位圆：
+
++ 欧几里德距离：$Dist(P_1(x_1, y_1), P_2(x_2, y_2)) = \sqrt{(x_1 - x^2)^2 + (y_1 - y_2)^2}$;
+
++ 切比雪夫距离：$Dist(P_1(x_1, y_1), P_2(x_2, y_2)) = \max{|x_1 - x^2|, |y_1 - y_2|}$;
+
++ 曼哈顿德距离：$Dist(P_1(x_1, y_1), P_2(x_2, y_2)) = |x_1 - x^2| + |y_1 - y_2|$;
 
 <center>
   <a href="https://www.geogebra.org/geometry/dedtwqnf">
