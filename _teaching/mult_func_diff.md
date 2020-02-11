@@ -18,7 +18,7 @@ location: "Beijing, CN"
 
 
 <a name="cotes1"></a>
-### 📌**1. 平面点集**
+### 📌**1. 平面点集与多元函数**
 
 <span style="color:red">**多元函数**</span>是指自变量为两个或两个以上的函数。作为一元函数的推广自身保留了一元函数的许多性质，但是也产生了许多新的不同于一元函数的性质。本章主要针对于二元函数展开讨论，在掌握了二元函数的理论后可以推广到$n$元函数中去。
 
@@ -91,7 +91,7 @@ location: "Beijing, CN"
 
 ---
 
-### 📌**2. 多元函数**
+**多元函数**
 
 ---
 设$D \subset \mathcal{R}^2$，若按照某个对应法则$f$，$D$中的每一个点$P(x,y)$都有一个确定的实数$z$与之对应，则称$f$
@@ -102,6 +102,14 @@ location: "Beijing, CN"
 </center>
 
 称$D$为$f$的<span style="color:red">**定义域**</span>。若$P \in D$称与$P$所对应的$z$为点$P$的<span style="color:red">**函数值**</span>，记为$z = f(P)$。全体函数值的集合为$f$的<span style="color:red">**值域**</span>。$(x,y)$称为$f$的<span style="color:red">**自变量**</span>，而把$z$称为<span style="color:red">**因变量**</span>。
+
+
+<center>
+  <a href="https://www.geogebra.org/3d/svpcxqhq">
+  <img src="./imags/calculus/2d_func.png"  width="400" height="400" />
+  </a>
+</center>
+
 
 ---
 
