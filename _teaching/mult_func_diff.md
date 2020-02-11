@@ -163,7 +163,9 @@ $
 & \therefor \delta = \sqrt{\epsion}, \forall \vert (x,y) - (0, 0) \vert \le \epsilon \Rightarrow 
 
   \vert f(x,y) - f(0, 0) \vert \epsilon
+\end{split}
 $
+
 </details>
 
 ---
