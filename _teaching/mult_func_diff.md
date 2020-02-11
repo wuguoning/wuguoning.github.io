@@ -167,8 +167,18 @@ $
 </details>
 
 ---
-
 **例子**
+
+    讨论极限$\lim\limits_{(x, y) \to (0, 0)} \dfrac{xy}{x^2 + y^2}$
+<details>
+<summary>Click to expand!</summary>
+$
+    \begin{split}
+        \because \lim\limits_{(x, y) \to (0, 0) \newline  y =kx } 
+    \end{split}
+$
+
+</details>
 
 
 
