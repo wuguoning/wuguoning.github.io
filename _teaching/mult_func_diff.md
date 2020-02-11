@@ -294,12 +294,18 @@ $df|_{x_0}(\Delta x) = f'(x_0)\Delta x$
 
 <center>
 <span style="color:red">
-$$P(x_0 + \Delta x, y_0 + \Delta y) - f(x_0, y_0) = A\Delta x + B\Delta y + o(\rtho)$$
+$$P(x_0 + \Delta x, y_0 + \Delta y) - f(x_0, y_0) = A\Delta x + B\Delta y + o(\rho)$$
 </span>
 </center>
 
-其中$A, B$仅与$P_0$有关，$\rtho = \sqrt{\Delta x^2 + \Delta y^2}$，$o(\rtho)$为$\rtho$的高阶无穷小量。
+其中$A, B$仅与$P_0$有关，$\rho = \sqrt{\Delta x^2 + \Delta y^2}$，$o(\rho)$为$\rho$的高阶无穷小量，则称函数$f$在$P_0$点<span style="color:red">**可微**</span>，并称线形函数$A\Delta x + B\Delta y$为函数$f$的<span style="color:red">**全微分**</span>，记作：
 
+
+<center>
+<span style="color:red">
+$$df|_{P_0}*(\Delta x, \Delta y) = A\Delta x + B\Delta y $$
+</span>
+</center>
 
 
 ---
