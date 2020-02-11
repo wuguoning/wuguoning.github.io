@@ -270,8 +270,7 @@ $
 + 讨论下列函数的连续性：
   
 - $f(x, y) = \lfloor x + y \rfloor$(取整函数)；
-
-- $f(x, y) = \left\{\begin{array}{ll} & \dfrac{\sin xy}{\sqrt{x^2 + y^2}}, & x^2 + y^2 \ne 0 \newline & 0, & x^2 + y^2 = 0 \end{array} \right. $
+- $f(x, y) = \left\{\begin{array}{cl}  \dfrac{\sin xy}{\sqrt{x^2 + y^2}}, & x^2 + y^2 \ne 0 \newline  0, & x^2 + y^2 = 0 \end{array} \right. $
 
 
 
