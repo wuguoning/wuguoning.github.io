@@ -54,6 +54,21 @@ location: "Beijing, CN"
 
 **点集与集合之间的关系**
 
+假设$E \subset \mathcal{R}^2$, 有：
+
++ 内点: 若存在点$P$的邻域$U(P)$，使得$U(P) \subset E$;
+
++ 边界点: 若$P$的任何一个邻域既含有$E$中的点，又含有不属于$E$中的点；
+
++ 外点: 若存在$P$的一个邻域$U(P)$，使得$U(P) \cap E = \emptyset$
+
+
+<center>
+  <a href="https://www.geogebra.org/geometry/nkjmkqvy">
+  <img src="./imags/calculus/point_2set.png"  width="400" height="400" />
+  </a>
+</center>
+
 
 
 ---
