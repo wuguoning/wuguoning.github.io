@@ -153,17 +153,22 @@ location: "Beijing, CN"
 ---
 **例子**
 
-设$f(x,y) = (x^2 + y^2)\sin \dfrac{1}{\sqrt{x^2 + y^2}}$，证明$\lim\limits_{(x,y)\to(0,0)}f(x,y) = 0$
+设$f(x,y) = (x^2 + y^2)\sin \dfrac{1}{\sqrt{x^2 + y^2}}$，证明$\lim\limits_{(x,y) \to (0,0)}f(x,y) = 0$
 <details>
 <summary>⬇️Click to expand!</summary>
-\because \left| (x^2 + y^2)\sin \dfrac{1}{\sqrt{x^2 + y^2}} - 0 \right \le x^2 + y^2
+$
+\begin{split}
+& \because \left| (x^2 + y^2)\sin \dfrac{1}{\sqrt{x^2 + y^2}} - 0 \right \le x^2 + y^2 \newline
 
-\therefor \delta = \sqrt{\epsion}, \forall \vert (x,y) - (0, 0) \vert \le \epsilon \Rightarrow 
+& \therefor \delta = \sqrt{\epsion}, \forall \vert (x,y) - (0, 0) \vert \le \epsilon \Rightarrow 
 
-\vert f(x,y) - f(0, 0) \vert \epsilon
+  \vert f(x,y) - f(0, 0) \vert \epsilon
+$
 </details>
 
 ---
+
+**例子**
 
 
 
