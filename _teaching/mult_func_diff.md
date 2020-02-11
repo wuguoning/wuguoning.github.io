@@ -18,7 +18,7 @@ location: "Beijing, CN"
 
 
 <a name="cotes1"></a>
-### 📌**1. 平面点集与多元函数**
+### 📌**1. 平面点集**
 
 <span style="color:red">**多元函数**</span>是指自变量为两个或两个以上的函数。作为一元函数的推广自身保留了一元函数的许多性质，但是也产生了许多新的不同于一元函数的性质。本章主要针对于二元函数展开讨论，在掌握了二元函数的理论后可以推广到$n$元函数中去。
 
@@ -50,6 +50,25 @@ location: "Beijing, CN"
 
 若$P(x_0, y_0) \in \mathbf{R}^2$，我们称到点$P_0$的距离小于$\delta$的所有点的集合称为$P_0$的$\delta$邻域，记作$U(P_0, \delta)$.
 
+---
+
+**点集与集合之间的关系**
+
+假设$E \subset \mathcal{R}^2$, 有：
+
++ 内点: 若存在点$P$的邻域$U(P)$，使得$U(P) \subset E$;
+
++ 边界点: 若$P$的任何一个邻域既含有$E$中的点，又含有不属于$E$中的点；
+
++ 外点: 若存在$P$的一个邻域$U(P)$，使得$U(P) \cap E = \emptyset$
+
+
+<center>
+  <a href="https://www.geogebra.org/geometry/nkjmkqvy">
+  <img src="./imags/calculus/point_2set.png"  width="400" height="400" />
+  </a>
+</center>
+
 另外点$P$与集合$E$的另一种关系为：
 
 + 聚点: 若点$P$的任何一个空心邻域$\mathring{U}(P, \delta)$都含有$E$中的点，则$P$称为$E$的聚点；
@@ -70,31 +89,22 @@ location: "Beijing, CN"
 
 + 区域: 开域、闭域、或者开域连同一部分边界点形成的点集。
 
-
 ---
 
-**点集与集合之间的关系**
+### 📌**2. 多元函数**
 
-假设$E \subset \mathcal{R}^2$, 有：
-
-+ 内点: 若存在点$P$的邻域$U(P)$，使得$U(P) \subset E$;
-
-+ 边界点: 若$P$的任何一个邻域既含有$E$中的点，又含有不属于$E$中的点；
-
-+ 外点: 若存在$P$的一个邻域$U(P)$，使得$U(P) \cap E = \emptyset$
-
-
-
-
+---
+设$D \subset \mathcal{R}^2$，若按照某个对应法则$f$，$D$中的每一个点$P(x,y)$都有一个确定的实数$z$与之对应，则称$f$
+为定义在$D$上的一个<span style="color:red">**二元函数**</span>，记作
 <center>
-  <a href="https://www.geogebra.org/geometry/nkjmkqvy">
-  <img src="./imags/calculus/point_2set.png"  width="400" height="400" />
-  </a>
+  $f: D \to \mathcal{R}$
 </center>
 
+---
 
 
 ---
+
 ## 📚参考书目
 📖1. 《高等数学》上下册（第七版），同济大学，高等教育出版社，2014.7.
 
