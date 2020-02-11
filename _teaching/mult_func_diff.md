@@ -298,6 +298,8 @@ $$P(x_0 + \Delta x, y_0 + \Delta y) - f(x_0, y_0) = A\Delta x + B\Delta y + o(\r
 </span>
 </center>
 
+其中$A, B$仅与$P_0$有关，$\rtho = \sqrt{\Delta x^2 + \Delta y^2}$，$o(\rtho)$为$\rtho$的高阶无穷小量。
+
 
 
 ---
