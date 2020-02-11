@@ -34,11 +34,11 @@ location: "Beijing, CN"
 
 下图为平面上三个不同<span style="color:red">**距离**</span>定义下的单位圆：
 
-  + 欧几里德距离：$Dist(P_1(x_1, y_1), P_2(x_2, y_2)) = \sqrt{(x_1 - x^2)^2 + (y_1 - y_2)^2}$;
+  + 欧几里德距离: $Dist(P_1(x_1, y_1), P_2(x_2, y_2)) = \sqrt{(x_1 - x^2)^2 + (y_1 - y_2)^2}$;
 
-  + 切比雪夫距离：$Dist(P_1(x_1, y_1), P_2(x_2, y_2)) = \max{|x_1 - x^2|, |y_1 - y_2|}$;
+  + 切比雪夫距离: $Dist(P_1(x_1, y_1), P_2(x_2, y_2)) = \max{\vertx_1 - x^2\vert, \vert y_1 - y_2\vert}$;
 
-  + 曼哈顿德距离：$Dist(P_1(x_1, y_1), P_2(x_2, y_2)) = |x_1 - x^2| + |y_1 - y_2|$;
+  + 曼哈顿德距离: $Dist(P_1(x_1, y_1), P_2(x_2, y_2)) = \vert x_1 - x^2\vert + \vert y_1 - y_2\vert$;
 
 <center>
   <a href="https://www.geogebra.org/geometry/dedtwqnf">
@@ -50,6 +50,7 @@ location: "Beijing, CN"
 
 若$P(x_0, y_0) \in \mathbf{R}^2$，我们称到点$P_0$的距离小于$\delta$的所有点的集合称为$P_0$的$\delta$邻域，记作$U(P_0, \delta)$.
 
+---
 
 **点集与集合之间的关系**
 
