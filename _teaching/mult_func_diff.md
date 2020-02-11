@@ -22,7 +22,7 @@ location: "Beijing, CN"
 <a name="cotes1"></a>
 ### 📌**1. 平面点集与多元函数**
 
-<span style="color:red">**多元函数**</span>是指自变量为两个或两个以上的函数。作为一元函数的推广自身保留了一元函数的许多性质，但是也产生了许多新的不同于一元函数的性质。本章主要针对于二元函数展开讨论，在掌握了二元函数的理论后可以推广到$n$元函数中去。
+<span style="color:red">**多元函数**</span>是指自变量为两个或两个以上的函数。作为一元函数的推广，自身保留了一元函数的许多性质，但是也产生了许多新的不同于一元函数的性质。本章主要针对于二元函数展开讨论，在掌握了二元函数的理论后可以推广到$n$元函数中去。
 
 **平面点集**
 
@@ -40,7 +40,7 @@ location: "Beijing, CN"
 
   + 切比雪夫距离: $Dist(P_1(x_1, y_1), P_2(x_2, y_2)) = \max \left(\vert x_1 - x_2 \vert, \vert y_1 - y_2\vert \right)$;
 
-  + 曼哈顿德距离: $Dist(P_1(x_1, y_1), P_2(x_2, y_2)) = \vert x_1 - x_2\vert + \vert y_1 - y_2\vert$;
+  + 曼哈顿距离: $Dist(P_1(x_1, y_1), P_2(x_2, y_2)) = \vert x_1 - x_2\vert + \vert y_1 - y_2\vert$;
 
 <center>
   <a href="https://www.geogebra.org/geometry/dedtwqnf">
@@ -48,7 +48,7 @@ location: "Beijing, CN"
   </a>
 </center>
 
-如果不作声明，我们一般🈯️欧几里得距离。
+如果不作声明，我们一般🈯️欧几里德距离。
 
 若$P(x_0, y_0) \in \mathbf{R}^2$，我们称到点$P_0$的距离小于$\delta$的所有点的集合称为$P_0$的$\delta$邻域，记作$U(P_0, \delta)$.
 
@@ -83,9 +83,9 @@ location: "Beijing, CN"
 
 + <span style="color:red">**闭集**</span>: 若点集$E$中的所有聚点都属于$E$，或者$E^C$($E$的补集)为开集；
 
-+ <span style="color:red">**有界集**</span>: 若集合$E$中的点到$O(0,)$的最大距离为一个有限数；
++ <span style="color:red">**有界集**</span>: 若集合$E$中的点到$O(0,0)$的最大距离为一个有限数；
 
-+ <span style="color:red">**开域**</span>: 若非空开集合$E$具有<span style="color:red">**连通性**</span>即$E$中的任意两点都可以用属于$E$中的折线相连接；
++ <span style="color:red">**开域**</span>: 若非空开集合$E$具有<span style="color:red">**连通性**</span>，即$E$中的任意两点都可以用属于$E$中的折线相连接；
 
 + <span style="color:red">**闭域**</span>: 开域连同其边界形成的点集；
 
@@ -93,9 +93,8 @@ location: "Beijing, CN"
 
 ---
 
-**多元函数**
+**二元函数**
 
----
 设$D \subset \mathcal{R}^2$，若按照某个对应法则$f$，$D$中的每一个点$P(x,y)$都有一个确定的实数$z$与之对应，则称$f$
 为定义在$D$上的一个<span style="color:red">**二元函数**</span>，记作
 
@@ -112,7 +111,6 @@ location: "Beijing, CN"
   </a>
 </center>
 
----
 
 **$n$元函数**
 
