@@ -110,8 +110,28 @@ location: "Beijing, CN"
   </a>
 </center>
 
+---
+
+**$n$元函数**
+
+设$D \subset \mathcal{R}^n$，若按照某个对应法则$f$，$D$中的每一个点$P(x_1, x_2, \cdots, x_n)$都有一个确定的实数$z$与之对应，则称$f$
+为定义在$D$上的一个<span style="color:red">**$n$元函数**</span>，记作
+
+<center>
+  $f: D \to \mathcal{R}$
+</center>
 
 ---
+<span style="color:red"> 
+📚**第一次作业:**
+</span>
+
++ 求下列函数的定义域：
+  - $f(x,y) = \sqrt{x^2 + y^2}$
+
+  - $f(x, y) = \ln (y - x)$
+
+  - $f(x, y, z) = \sqrt{R^2 - x^2 - y^2} + \dfrac{1}{\sqrt(x^2 + y^2 + z^2)}(R > r)$
 
 
 ---
