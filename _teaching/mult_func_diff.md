@@ -148,14 +148,14 @@ location: "Beijing, CN"
 </span>
 
 <center>
-  $\lim\limits_{P \to P_0}f(P) = A \iff \forall \epsilon > 0 \exists \delta > 0, \forall P \in \mathring{U}(P_0, \delta) \Rightarrow \vert f(P) - A \vert < \epsilon.$
+  $\lim\limits_{P \to P_0}f(P) = A \iff \forall \epsilon > 0, \exists \delta > 0, \forall P \in \mathring{U}(P_0, \delta) \Rightarrow \vert f(P) - A \vert < \epsilon.$
 </center>
 ---
 **例子**
 
 设$f(x,y) = (x^2 + y^2)\sin \dfrac{1}{\sqrt{x^2 + y^2}}$，证明$\lim\limits_{(x,y)\to(0,0)}f(x,y) = 0$
 <details>
-<summary>Click to expand!</summary>
+<summary>⬇️Click to expand!</summary>
 
 </details>
 
