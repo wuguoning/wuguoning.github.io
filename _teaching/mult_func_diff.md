@@ -200,7 +200,7 @@ $
 解： 
 $
 \begin{split}
-\lim\limits_{(x, y) \to (0, 0)} \dfrac{x^2 + y^2}{\sqrt{x^2 + y^2} + 1} & = \lim\limits_{t \to 0}\dfrac{t}\sqrt{(1 + t) - 1}\newline 
+\lim\limits_{(x, y) \to (0, 0)} \dfrac{x^2 + y^2}{\sqrt{x^2 + y^2} + 1} & = \lim\limits_{t \to 0}\dfrac{t}{\sqrt{(1 + t) - 1}}\newline 
 & \lim\limits_{t \to 0}\dfrac{t}{1/2 t} = 2.
 \end{split}
 $
@@ -212,7 +212,7 @@ $
 
 + 重极限：$\lim\limits_{(x,y) \to (x_0, y_0)} f(x,y)$;
 
-+ 累次极限：$\lim\limits_{x \to x_0}\lim\limits_{y \to y_0} f(x, y)$ 或者 $\lim\limits_{y \to y_0}\lim\limits_{x \to x_0}$
++ 累次极限：$\lim\limits_{x \to x_0}\lim\limits_{y \to y_0} f(x, y)$ 或者 $\lim\limits_{y \to y_0}\lim\limits_{x \to x_0}f(x, y)$
 
 ---
 🛠<span style="color:red">**思考题**</span>
@@ -221,7 +221,11 @@ $
 
 ---
 <a name="cotes3"></a>
-### 📌**3. 多元函数的连续**
+### 📌**3. 二元函数的连续**
+
+**二元函数连续性定义**
+
+
 
 
 
