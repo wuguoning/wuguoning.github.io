@@ -200,7 +200,7 @@ $
 解： 
 $
 \begin{split}
-\lim\limits_{(x, y) \to (0, 0)} \dfrac{x^2 + y^2}{\sqrt{x^2 + y^2} + 1} & = \lim\limits_{t \to 0}\dfrac{t}{\sqrt{(1 + t) - 1}}\newline 
+\lim\limits_{(x, y) \to (0, 0)} \dfrac{x^2 + y^2}{\sqrt{1 + x^2 + y^2} + 1} & = \lim\limits_{t \to 0}\dfrac{t}{\sqrt{(1 + t) - 1}}\newline 
 & \lim\limits_{t \to 0}\dfrac{t}{1/2 t} = 2.
 \end{split}
 $
@@ -225,6 +225,12 @@ $
 
 **二元函数连续性定义**
 
+---
+设函数$f$为定义在点集$D \subset \mathcal{R}^2$上的二元函数，$P_0 \in D$(它或者是$D$的聚点，或者是$D$的孤立点)，对于任意的$\epsilon > 0$，总存在相应的$\delta > 0$，只要$P \in \mathring{U}(P_0, \delta) \cap D$，有：
+<center>
+  |f(P) - f(P_0)| \le \epsilon
+</center>
+则称<span style="color:red">$f$在$P_0$点连续</span>。
 
 
 
