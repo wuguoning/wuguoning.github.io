@@ -10,10 +10,15 @@ location: "Beijing, CN"
 
 这部分介绍多元函数微分及其应用。
 
+## 目录
++ [第一节 平面点集与多元函数](#cotes1)
+
+
 ## 多元函数的基本概念
 
 
-###📌**1. 平面点集与多元函数**
+<a name="cotes1"></a>
+### 📌**1. 平面点集与多元函数**
 
 <span style="color:red">**多元函数**</span>是指自变量为两个或两个以上的函数。作为一元函数的推广自身保留了一元函数的许多性质，但是也产生了许多新的不同于一元函数的性质。本章主要针对于二元函数展开讨论，在掌握了二元函数的理论后可以推广到$n$元函数中去。
 
@@ -23,8 +28,15 @@ location: "Beijing, CN"
 
 坐标平面上满足某些条件$P$的点的集合称为平面点集，记作
 <center>
-  \bf{E} = \left\{(x,y) \vert (x,y)满足条件P\right\}
+  $\bf{E} = \left\{(x,y) \vert (x,y)满足条件P\right\}$
 </center>
+
+<center>
+  <a href="https://www.geogebra.org/geometry/dedtwqnf">
+  <img src="./imags/calculus/unit_set.png"  width="400" height="400" />
+  </a>
+</center>
+
 
 ---
 ## 📚参考书目
