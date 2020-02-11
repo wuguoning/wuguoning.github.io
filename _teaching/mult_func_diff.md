@@ -160,7 +160,7 @@ location: "Beijing, CN"
 $
 \begin{split}
 & \because \left| (x^2 + y^2)\sin \dfrac{1}{\sqrt{x^2 + y^2}} - 0 \right| \le x^2 + y^2 \newline
-& \therefor \delta = \sqrt{\epsion}, \forall \vert (x,y) - (0, 0) \vert \le \epsilon \Rightarrow 
+& \therefore \delta = \sqrt{\epsion}, \forall \vert (x,y) - (0, 0) \vert \le \epsilon \Rightarrow 
   \vert f(x,y) - f(0, 0) \vert \epsilon
 \end{split}
 $
@@ -175,7 +175,7 @@ $
 <summary>Click to expand!</summary>
 $
 \begin{split}
-&\because \lim\limits_{(x, y) \to (0, 0) \newline  y =kx } = \dfrac{1 + k}{1 + k^2} \newline
+&\because \lim\limits_{\substack{(x, y) \to (0, 0)\newline y =kx}} = \dfrac{1 + k}{1 + k^2} \newline
 & \therefor 极限不存在
 \end{split}
 $
