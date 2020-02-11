@@ -196,7 +196,7 @@ $ 极限不存在，极限依赖与路径。
 
 + 重极限：$\lim\limits_{(x,y) \to (x_0, y_0)} f(x,y)$;
 
-+ 累次极限：$\lim\limits_{x \to x_0}\lim\limits_{y \to y_0}$ 或者 $\lim\limits_{y \to y__0}\lim\limits_{x \to x_0}$
++ 累次极限：$\lim\limits_{x \to x_0}\lim\limits_{y \to y_0} f(x, y)$ 或者 $\lim\limits_{y \to y_0}\lim\limits_{x \to x_0}$
 
 
 
