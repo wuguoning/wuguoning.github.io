@@ -14,6 +14,7 @@ location: "Beijing, CN"
 + [第一节 平面点集与多元函数](#cotes1)
 + [第二节 二元函数的极限](#cotes2)
 + [第三节 二元函数的连续](#cotes3)
++ [第四节 二元函数可微性](#cotes4)
 
 
 ## 多元函数的基本概念
@@ -227,7 +228,7 @@ $
 
   - $\lim\limits_{(x,y) \to (0, 0)}\dfrac{x + y}{x - y}$
 
-+ 函数$\z = \dfrac{y^2 + 2x}{y^2 - 2x}$在何处间断？
++ 函数$z = \dfrac{y^2 + 2x}{y^2 - 2x}$在何处间断？
 
 ---
 <a name="cotes3"></a>
@@ -271,6 +272,22 @@ $
   
 - $f(x, y) = \lfloor x + y \rfloor$(取整函数)；
 - $f(x, y) = \left\{\begin{array}{cl}  \dfrac{\sin xy}{\sqrt{x^2 + y^2}}, & x^2 + y^2 \ne 0 \newline  0, & x^2 + y^2 = 0 \end{array} \right. $
+
+---
+<a name="cotes4"></a>
+### 📌**1. 二元函数可微性**
+
+**可微与全微分**
+
+在一元函数中，函数可微的几何意义为函数在给定点的切线存在，函数在给定点处的微分其实为函数对应点的线形映射。
+<span style="color:red">
+$df|_{x_0}(\Delta x) = f'(x_0)\Delta x$
+</span>
+
+---
+
+
+---
 
 
 
