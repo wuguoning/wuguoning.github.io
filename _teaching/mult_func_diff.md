@@ -96,9 +96,12 @@ location: "Beijing, CN"
 ---
 设$D \subset \mathcal{R}^2$，若按照某个对应法则$f$，$D$中的每一个点$P(x,y)$都有一个确定的实数$z$与之对应，则称$f$
 为定义在$D$上的一个<span style="color:red">**二元函数**</span>，记作
+
 <center>
   $f: D \to \mathcal{R}$
 </center>
+
+称$D$为$f$的<span style="color:red">**定义域**</span>。若$P \in D$称与$P$所对应的$z$为点$P$的<span style="color:red">**函数值**</span>，记为$z = f(P)$。全体函数值的集合为$f$的<span style="color:red">**值域**</span>。$(x,y)$称为$f$的<span style="color:red">**自变量**</span>，而把$z$称为<span style="color:red">**因变量**</span>。
 
 ---
 
