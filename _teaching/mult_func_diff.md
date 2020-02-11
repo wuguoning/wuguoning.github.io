@@ -178,9 +178,9 @@ $
 &\because \lim\limits_{\substack{(x, y) \to (0, 0)\newline y =kx}} = \dfrac{1 + k}{1 + k^2} \newline
 & \therefore
 \end{split}
-$ 极限不存在，极限依赖与路径。
+$
 
-
+极限不存在，极限依赖与路径。
 </details>
 
 <center>
@@ -189,6 +189,21 @@ $ 极限不存在，极限依赖与路径。
   </a>
 </center>
 
+---
+**例子**
+
+讨论极限$\lim\limits_{(x, y) \to (0, 0)} \dfrac{x^2 + y^2}{\sqrt{x^2 + y^2} + 1}$
+
+<details>
+解： 
+$
+\begin{split}
+\lim\limits_{(x, y) \to (0, 0)} \dfrac{x^2 + y^2}{\sqrt{x^2 + y^2} + 1} & = \lim\limits_{t \to 0}\dfrac{t}\sqrt{(1 + t) - 1}\newline 
+& \lim\limits_{t \to 0}\dfrac{t}{1/2 t} = 2.
+\end{split}
+$
+
+</details>
 ---
 **累次极限**
 
@@ -201,7 +216,7 @@ $ 极限不存在，极限依赖与路径。
 ---
 🛠<span style="color:red">**思考题**</span>
 
-    思考重极限和累次极限的关系是什么？
+思考重极限和累次极限的关系是什么？
 
 ---
 
