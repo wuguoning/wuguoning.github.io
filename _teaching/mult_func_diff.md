@@ -159,7 +159,7 @@ location: "Beijing, CN"
 <summary>⬇️Click to expand!</summary>
 $
 \begin{split}
-& \because \left| (x^2 + y^2)\sin \dfrac{1}{\sqrt{x^2 + y^2}} - 0 \right \le x^2 + y^2 \newline
+& \because \left| (x^2 + y^2)\sin \dfrac{1}{\sqrt{x^2 + y^2}} - 0 \right| \le x^2 + y^2 \newline
 & \therefor \delta = \sqrt{\epsion}, \forall \vert (x,y) - (0, 0) \vert \le \epsilon \Rightarrow 
   \vert f(x,y) - f(0, 0) \vert \epsilon
 \end{split}
