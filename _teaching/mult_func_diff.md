@@ -283,11 +283,21 @@ $
 **可微与全微分**
 
 在一元函数中，函数可微的几何意义为函数在给定点的切线存在，函数在给定点处的微分其实为函数对应点的线形映射。
+<center>
 <span style="color:red">
 $df|_{x_0}(\Delta x) = f'(x_0)\Delta x$
 </span>
+</center>
 
 ---
+设函数$z = f(x, y)$在$P(x_0, y_0)$点的某邻域$U(P_0)$上有定义，对于$P(x_0 + \Delta x, y_0 + \Delta y) \in U(P_0)$，如果有：
+
+<center>
+<span style="color:red">
+$$P(x_0 + \Delta x, y_0 + \Delta y) - f(x_0, y_0) = A\Delta x + B\Delta y + o(\rtho)$$
+</span>
+</center>
+
 
 
 ---
