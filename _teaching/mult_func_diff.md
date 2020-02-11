@@ -185,7 +185,7 @@ $ 极限不存在，极限依赖与路径。
 
 <center>
   <a href="https://www.geogebra.org/3d/pwqr5yuz">
-  <img src="./imags/calculus/no__limit_func1.png"  width="400" height="400" />
+  <img src="./imags/calculus/no_limit_func1.png"  width="400" height="400" />
   </a>
 </center>
 
