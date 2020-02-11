@@ -189,6 +189,15 @@ $ 极限不存在，极限依赖与路径。
   </a>
 </center>
 
+---
+**累次极限**
+
+几种极限：
+
++ 重极限：$\lim\limits_{(x,y) \to (x_0, y_0)} f(x,y)$;
+
++ 累次极限：$\lim\limits_{x \to x_0}\lim\limits_{y \to y_0}$ 或者 $\lim\limits_{y \to y__0}\lim\limits_{x \to x_0}$
+
 
 
 ---
