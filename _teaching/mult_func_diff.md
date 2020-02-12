@@ -152,7 +152,7 @@ location: "Beijing, CN"
   $\lim\limits_{P \to P_0}f(P) = A \iff \forall \epsilon > 0, \exists \delta > 0, \forall P \in \mathring{U}(P_0, \delta) \Rightarrow \vert f(P) - A \vert < \epsilon.$
 </center>
 ---
-**例子**
+**✏️例子**
 
   设$f(x,y) = (x^2 + y^2)\sin \dfrac{1}{\sqrt{x^2 + y^2}}$，证明$\lim\limits_{(x,y) \to (0,0)} f(x,y) = 0$
 
@@ -168,7 +168,7 @@ $
 </details>
 
 ---
-**例子**
+**✏️例子**
 
   讨论极限$\lim\limits_{(x, y) \to (0, 0)} \dfrac{xy}{x^2 + y^2}$
 
@@ -189,7 +189,7 @@ $
 </center>
 
 ---
-**例子**
+**✏️例子**
 
 讨论极限$\lim\limits_{(x, y) \to (0, 0)} \dfrac{x^2 + y^2}{\sqrt{x^2 + y^2 + 1} - 1}$
 
@@ -344,7 +344,7 @@ $$df|_{P_0}(\Delta x, \Delta y) = A\Delta x + B\Delta y $$
 </center>
 
 ---
-**例子**
+**✏️例子**
 
 求函数$f(x, y) = x^3 + 2x^2y - y^3$在点$(1,3)$关于$x$和关于$y$的偏导数。
 
@@ -394,7 +394,7 @@ $f_x(x, y) = \dfrac{\textrm{d} f(x, y)}{\textrm{d} x} = 3x^2 + 4xy$
 </center>
 
 ---
-**例子**
+**✏️例子**
 设$z = x^3y^2 - 3xy^3 - xy + 1$求 $\dfrac{\partial^2 z}{\partial x^2}, \dfrac{\partial^2 z}{\partial x \partial y}$
 <details>
 解： $\dfrac{\partial z}{\partial x} = 3x^2y^2 - 3y^3 - y, \dfrac{\partial z}{\partial y} = 2x^3y - 9xy^2 - x$
@@ -464,7 +464,7 @@ $\textrm{d} z = \dfrac{\partial z}{\partial x} \textrm{d}x + \dfrac{\partial z}{
 如果函数$z = f(x,y)$的偏导数$\dfrac{\partial z}{\partial x}, \dfrac{\partial z}{\partial y}$在点$(x,y)$连续，则函数在$(x,y)$点处可微分。
 
 ---
-**例子**
+**✏️例子**
 
 讨论函数
 <center>
@@ -492,7 +492,14 @@ $\dfrac{f(\Delta x, \Delta y) - f(0, 0)- 0\Delta x - 0\Delta y}{\sqrt{(\Delta x)
 
 </details>
 
+---
+**✏️例子**
+求函数$u = x - \cos \dfrac{y}{2} + \arctan \dfrac{z}{y}$的全微分。
 
+
+
+
+---
 
 
 ## 📚参考书目
