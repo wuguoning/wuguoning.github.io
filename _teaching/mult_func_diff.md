@@ -344,7 +344,7 @@ $$df|_{P_0}(\Delta x, \Delta y) = A\Delta x + B\Delta y $$
 
 <details>
 <summary>Click to expand!</summary>
-$f_x(1, 3) = \dfrac{\rm{d}f(x, 3)}{\rm{d}x}$
+$f_x(1, 3) = \dfrac{\textrm{d} f(x, 3)}{\textrm{d} x}$
 
 </details>
 
