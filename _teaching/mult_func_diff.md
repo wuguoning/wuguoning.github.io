@@ -296,7 +296,7 @@ $$P(x_0 + \Delta x, y_0 + \Delta y) - f(x_0, y_0) = A\Delta x + B\Delta y + o(\r
 $$P(x_0 + \Delta x, y_0 + \Delta y) - f(x_0, y_0) = A\Delta x + B\Delta y + \epsilon_1 \Delta x + \epsilon_2 \Delta y$$
 </center>
 
-其中$A, B$仅与$P_0$有关，$\rho = \sqrt{\Delta x^2 + \Delta y^2}$，$o(\rho)$为$\rho$的高阶无穷小量(第二种情形，$\epsilon_1, epsilon_2$为随着$\Delta x, \Delta y \to 0$的无穷小量)，则称函数$f$在$P_0$点<span style="color:red">**可微**</span>，并称线形函数$A\Delta x + B\Delta y$为函数$f$的<span style="color:red">**全微分**</span>，记作：
+其中$A, B$仅与$P_0$有关，$\rho = \sqrt{\Delta x^2 + \Delta y^2}$，$o(\rho)$为$\rho$的高阶无穷小量(第二种情形，$\epsilon_1, \epsilon_2$为随着$\Delta x, \Delta y \to 0$的无穷小量)，则称函数$f$在$P_0$点<span style="color:red">**可微**</span>，并称线形函数$A\Delta x + B\Delta y$为函数$f$的<span style="color:red">**全微分**</span>，记作：
 
 
 <center>
@@ -423,6 +423,11 @@ $
 + 连续:  $\lim\limits_{(\Delta x, \Delta y) \to (0, 0)}P(x_0 + \Delta x, y_0 + \Delta y) = f(x_0, y_0)$;
 
 + 偏导数存在：$\lim\limits_{\Delta x \to 0 }\dfrac{P(x_0 + \Delta x, y_0) - f(x_0, y_0)}{\Delta x} = 存在$ 和 $\lim\limits_{\Delta y \to 0 }\dfrac{P(x_0, y_0 + \Delta y) - f(x_0, y_0)}{\Delta y} = 存在$
+
+::: success
+We provide email support to those who have purchased the apps: **service@tylingsoft.com**
+:::
+
 
 
 ---
