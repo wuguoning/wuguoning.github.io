@@ -391,6 +391,10 @@ $f_x(x, y) = \dfrac{\textrm{d} f(x, y)}{\textrm{d} x} = 3x^2 + 4xy$
   $\dfrac{\partial^2 f}{\partial y\partial x} = \dfrac{\partial}{\partial y}\left(\dfrac{\partial f}{\partial x}\right)$ 或者$f_{yx} = (f_y)_x$
 </center>
 
+---
+**例子**
+
+
 
 
 
@@ -406,6 +410,9 @@ $f_x(x, y) = \dfrac{\textrm{d} f(x, y)}{\textrm{d} x} = 3x^2 + 4xy$
 📖4.  Mathematical Analysis I,II, 2nd ed. V. A. Zorich,  Springer, 2015.
 
 📖5.  数学分析中的典型问题与方法, 裴礼文, 高等教育出版社, 2015.
+
+📖6.  Thomas's Calculus, Weir, Maurice D etc., Addison-Wesley, 2010.
+
 
 ---
 # Calculus and its Visualization: an Introduction
