@@ -157,7 +157,7 @@ location: "Beijing, CN"
   设$f(x,y) = (x^2 + y^2)\sin \dfrac{1}{\sqrt{x^2 + y^2}}$，证明$\lim\limits_{(x,y) \to (0,0)} f(x,y) = 0$
 
 <details>
-<summary>⬇️Click to expand!</summary>
+<summary>⬇️ Click to expand!</summary>
 $
 \begin{split}
 & \because \left| (x^2 + y^2)\sin \dfrac{1}{\sqrt{x^2 + y^2}} - 0 \right| \le x^2 + y^2 \newline
@@ -173,7 +173,7 @@ $
   讨论极限$\lim\limits_{(x, y) \to (0, 0)} \dfrac{xy}{x^2 + y^2}$
 
 <details>
-<summary>Click to expand!</summary>
+<summary>⬇️ Click to expand!</summary>
 $
 \begin{split}
 &\because \lim\limits_{\substack{(x, y) \to (0, 0)\newline y =kx}} = \dfrac{1 + k}{1 + k^2} \newline
@@ -349,7 +349,7 @@ $$df|_{P_0}(\Delta x, \Delta y) = A\Delta x + B\Delta y $$
 求函数$f(x, y) = x^3 + 2x^2y - y^3$在点$(1,3)$关于$x$和关于$y$的偏导数。
 
 <details>
-<summary>Click to expand!</summary>
+<summary>⬇️ Click to expand!</summary>
 $f_x(1, 3) = \dfrac{\textrm{d} f(x, 3)}{\textrm{d} x} = 3x^2 + 12x\vert_{x=1} = 15$
 另外一个偏导数为
 $f_y(1, 3) = \dfrac{\textrm{d} f(1, y)}{\textrm{d} x} = 2 - 3y^2\vert_{y=3} = -25$
@@ -427,7 +427,6 @@ $
 ---
 <span style="background-color:lightblue">
    💡可微===>连续，但是连续不一定可微。
-
 </span> 
 
 ---
@@ -465,7 +464,17 @@ $\textrm{d} z = \dfrac{\partial z}{\partial x} \textrm{d}x + \dfrac{\partial z}{
 如果函数$z = f(x,y)$的偏导数$\dfrac{\partial z}{\partial x}, \dfrac{\partial z}{\partial y}$在点$(x,y)$连续，则函数在$(x,y)$点处可微分。
 
 ---
+**例子**
 
+讨论函数
+<center>
+$f(x,y) = \left\{\begin{array}{ll} \dfrac{xy}{\sqrt{x^2 + y^2}}, & x^2 + y^2 \ne 0 \newline 0, & x^2 + y^2 = 0 \end{array}\right.$
+</center>
+
+<details>
+<summary>⬇️ Click to expand!</summary>
+
+</details>
 
 
 
