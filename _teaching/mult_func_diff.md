@@ -396,6 +396,16 @@ $f_x(x, y) = \dfrac{\textrm{d} f(x, y)}{\textrm{d} x} = 3x^2 + 4xy$
 设$z = x^3y^2 - 3xy^3 - xy + 1$求 $\dfrac{\partial^2 z}{\partial x^2}, \dfrac{\partial^2 z}{\partial x \partial y}$
 <details>
 解： $\dfrac{\partial z}{\partial x} = 3x^2y^2 - 3y^3 - y, \dfrac{\partial z}{\partial y} = 2x^3y - 9xy^2 - x$
+所以，
+$
+\begin{split}
+& \dfrac{\partial^2 z}{\partial x^2} = 6xy^2, \newline
+&\dfrac{\partial^2 z}{\partial x \partial y} = 6x^2y - 9y^2 - 1\newline
+&\dfrac{\partial^2 z}{\partial y \partial x} = 6x^2y - 9y^2 - 1\newline
+&\dfrac{\partial^2 z}{\partial y^2} = 2x^3 - 18xy
+\end{split}
+$
+
 </details>
 
 
