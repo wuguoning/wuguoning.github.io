@@ -478,8 +478,13 @@ $f(x,y) = \left\{\begin{array}{ll} \dfrac{xy}{\sqrt{x^2 + y^2}}, & x^2 + y^2 \ne
 $f_x(0, 0) = f_y(0, 0) = 0$
 所以有，
 <center>
-\Delta z - \mathrm{d}z\vert|_{(0, 0)}(\Delta x, \Delta y)= f(\Delta x, \Delta y) - f(0, 0)- 0\Delta x - 0\Delta y
- = \dfrac{\Dleta x \cdot \Delta y}{\sqrt{(\Delta x)^2} + (\Delta y)^2}
+$\Delta z - \mathrm{d}z\vert|_{(0, 0)}(\Delta x, \Delta y)= f(\Delta x, \Delta y) - f(0, 0)- 0\Delta x - 0\Delta y
+ = \dfrac{\Dleta x \cdot \Delta y}{\sqrt{(\Delta x)^2} + (\Delta y)^2}$
+</center>
+
+从而有：
+<center>
+$\dfrac{f(\Delta x, \Delta y) - f(0, 0)- 0\Delta x - 0\Delta y}{\sqrt{(\Delta x)^2 + (\Delta y)^2}} \nrightarrow 0, (\Delta x, \Delta y) \to (0, 0)$ 
 </center>
 
 </details>
