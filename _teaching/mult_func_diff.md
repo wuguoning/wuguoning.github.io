@@ -413,12 +413,16 @@ $
 </details>
 
 ---
-如果函数$z = f(x,y)$的两个混合偏导数$\dfrac{\partial^f}{\partial x \partialy}, \dfrac{\partial^2f}{\partial y \partial x}$连续，则两个混合偏导数相等。
+如果函数$z = f(x,y)$的两个混合偏导数$\dfrac{\partial^f}{\partial x \partial}, \dfrac{\partial^2f}{\partial y \partial x}$连续，则两个混合偏导数相等。
 
 ---
 **可微、连续和偏导的关系探讨**
 
-+ 可微：
++ 可微:  $P(x_0 + \Delta x, y_0 + \Delta y) - f(x_0, y_0) = A\Delta x + B\Delta y + \epsilon_1 \Delta x + \epsilon_2 \Delta y$;
+
++ 连续:  $\lim\limits_{(\Delta x, \Delta y) \to (0, 0)}P(x_0 + \Delta x, y_0 + \Delta y) = f(x_0, y_0)$;
+
++ 偏导数存在：$\lim\limits_{\Delta x \to 0 }\dfrac{P(x_0 + \Delta x, y_0) - f(x_0, y_0)}{\Delta x} = 存在$ 和 $\lim\limits_{\Delta y \to 0 }\dfrac{P(x_0, y_0 + \Delta y) - f(x_0, y_0)}{\Delta y} = 存在$
 
 
 ---
