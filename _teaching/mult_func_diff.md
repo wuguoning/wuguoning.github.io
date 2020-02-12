@@ -539,6 +539,12 @@ $\dfrac{\partial f}{\partial \mathbf{v}}\vert_{(x_0, y_0)}$
 </center>
 
 
+<center>
+  <a href="https://www.geogebra.org/3d/c6umjdmd">
+    <img src="./imags/calculus/directional_deri_exp1.png" width="500" height="400"/>
+  </a>
+</center>
+
 
 ---
 
