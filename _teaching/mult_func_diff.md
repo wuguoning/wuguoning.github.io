@@ -15,6 +15,7 @@ location: "Beijing, CN"
 + [第二节 二元函数的极限](#cotes2)
 + [第三节 二元函数的连续](#cotes3)
 + [第四节 二元函数可微性](#cotes4)
++ [第五节 方向导数与梯度](#cotes5)
 
 
 ## 多元函数的基本概念
@@ -513,7 +514,7 @@ $\mathrm{d}u = \mathrm{d}x + \left(\dfrac{1}{2}\sin \dfrac{y}{2} - \dfrac{z}{y^2
 
 偏导数研究的是二元函数沿着$x$轴方向或者$y$轴方向的变化率。我们可以更一般的讨论函数沿着任一射线方向的变化率。
 
-以$P_0(x_0, y_0)$为起点，方向为$mathbf{v}$的射线的参数方程为:
+以$P_0(x_0, y_0)$为起点，方向为$\mathbf{v}$的射线的参数方程为:
 <center>
 $\vec{OP_0} + \rho \mathbf{v} = (x_0 + \rho \cos \alpha, y_0 + \rho \sin \alpha), \rho \ge 0$.
 </center>
@@ -531,6 +532,11 @@ $\dfrac{\partial f}{\partial \mathbf{v}}\vert_{(x_0, y_0)}$
 </center>
 
 ---
+<center>
+  <a href="https://www.geogebra.org/3d/qxuq4ats">
+    <img src="./imags/calculus/directional_deri.png" width="500" height="400"/>
+  </a>
+</center>
 
 
 
