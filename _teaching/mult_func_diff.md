@@ -528,16 +528,24 @@ $\lim\limits_{\rho \to 0+}\dfrac{f(x_0 + \rho \cos \alpha, y_0 + \rho \sin \alph
 存在，则称此极限为函数$f$在点$P_0(x_0, y_0)$点沿方向$\mathbf{v}$的<span style="color:red">**方向导数**</span>，记为
 
 <center>
-$\dfrac{\partial f}{\partial \mathbf{v}}\vert_{(x_0, y_0)}$
+$\dfrac{\partial f}{\partial \mathbf{v}}\left\vert_{(x_0, y_0)}$
 </center>
 
----
 <center>
   <a href="https://www.geogebra.org/3d/qxuq4ats">
     <img src="./imags/calculus/directional_deri.png" width="500" height="400"/>
   </a>
 </center>
 
+---
+**✏️例子**
+
+讨论函数$z = \sqrt{x^2 + y^2}$在$(0, 0)$点，沿着任一方向$\mathbf{v} = (\cos \alpha, \sin \alpha)$的方向导数。
+
+<details>
+解：$\dfrac{\partial f}{\partial \mathbf{v}}\left\vert_{(0, 0)} = \lim\limits_{\rho \to 0+}\dfrac{f(0 + \rho \cos \alpha, 0 + \rho \sin \alpha) - f(0, 0)}{\rho} = 1$
+
+所以函数在$(0, 0)$点沿着任一方向的方向导数为常数1，见下图：
 
 <center>
   <a href="https://www.geogebra.org/3d/c6umjdmd">
@@ -545,6 +553,7 @@ $\dfrac{\partial f}{\partial \mathbf{v}}\vert_{(x_0, y_0)}$
   </a>
 </center>
 
+</details>
 
 ---
 
