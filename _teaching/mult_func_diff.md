@@ -284,32 +284,35 @@ $
 
 在一元函数中，函数可微的几何意义为函数在给定点的切线存在，函数在给定点处的微分其实为函数对应点的线形映射。
 <center>
-<span style="color:red">
 $df|_{x_0}(\Delta x) = f'(x_0)\Delta x$
-</span>
 </center>
 
 ---
 设函数$z = f(x, y)$在$P(x_0, y_0)$点的某邻域$U(P_0)$上有定义，对于$P(x_0 + \Delta x, y_0 + \Delta y) \in U(P_0)$，如果有：
 
 <center>
-<span style="color:red">
 $$P(x_0 + \Delta x, y_0 + \Delta y) - f(x_0, y_0) = A\Delta x + B\Delta y + o(\rho)$$
-</span>
 </center>
 
 其中$A, B$仅与$P_0$有关，$\rho = \sqrt{\Delta x^2 + \Delta y^2}$，$o(\rho)$为$\rho$的高阶无穷小量，则称函数$f$在$P_0$点<span style="color:red">**可微**</span>，并称线形函数$A\Delta x + B\Delta y$为函数$f$的<span style="color:red">**全微分**</span>，记作：
 
 
 <center>
-<span style="color:red">
-$$df|_{P_0}*(\Delta x, \Delta y) = A\Delta x + B\Delta y $$
-</span>
+$$df|_{P_0}(\Delta x, \Delta y) = A\Delta x + B\Delta y $$
 </center>
 
+---
+**偏导数**
+
+对于二元函数，固定其中的一个变量，考察二元函数对其中一个变量的变化率，这就是偏导数。
 
 ---
+设函数$z = f(x,y), (x,y) \in D$，若$(x_0, y_0) \in D$，且$f(x, y_0)$在$x_0$的某邻域内有定义，则当极限
+<center>
+  $\lim\limits_{\Delta x \to 0} \dfrac{\Delta_x f(x_0, y_0)}{\Delta x} = \lim\limits_{\Delta x \to 0} \dfrac{f(x_0+\Delta x, y_0) - f(x_0, y_0)}{\Delta x}$
+</center>
 
+---
 
 
 ---
