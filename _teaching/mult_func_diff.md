@@ -351,6 +351,7 @@ $$df|_{P_0}(\Delta x, \Delta y) = A\Delta x + B\Delta y $$
 $f_x(1, 3) = \dfrac{\textrm{d} f(x, 3)}{\textrm{d} x} = 3x^2 + 12x\vert_{x=1} = 15$
 另外一个偏导数为
 $f_y(1, 3) = \dfrac{\textrm{d} f(1, y)}{\textrm{d} x} = 2 - 3y^2\vert_{y=3} = -25$
+
 偏导函数
 $f_x(x, y) = \dfrac{\textrm{d} f(x, y)}{\textrm{d} x} = 3x^2 + 4xy$
 
@@ -373,7 +374,22 @@ $f_x(x, y) = \dfrac{\textrm{d} f(x, y)}{\textrm{d} x} = 3x^2 + 4xy$
   $\dfrac{\partial^2 f}{\partial yx}$ 或者$f_{yx}$
 </center>
 
+这里二阶偏导数的计算过程为：
+<center>
+  $\dfrac{\partial^2 f}{\partial x^2} = \dfrac{\partial}{\partial x}\dfrac{\partial f}{\partial x}$ 或者$f_{xx} = (f_x)_x$
+</center>
 
+<center>
+  $\dfrac{\partial^2 f}{\partial y^2} = \dfrac{\partial}{\partial y}\dfrac{\partial f}{\partial y}$ 或者$f_{yy} = (f_y)_y$
+</center>
+
+<center>
+  $\dfrac{\partial^2 f}{\partial xy} = \dfrac{\partial}{\partial x}\dfrac{\partial f}{\partial y}$ 或者$f_{xy} = (f_x)_y$
+</center>
+
+<center>
+  $\dfrac{\partial^2 f}{\partial yx} = \dfrac{\partial}{\partial y}\dfrac{\partial f}{\partial x}$ 或者$f_{yx} = (f_y}_x$
+</center>
 
 
 
