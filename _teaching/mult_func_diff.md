@@ -413,7 +413,7 @@ $
 </details>
 
 ---
-如果函数$z = f(x,y)$的两个混合偏导数$\dfrac{\partial^f}{\partial x \partial}, \dfrac{\partial^2f}{\partial y \partial x}$连续，则两个混合偏导数相等。
+如果函数$z = f(x,y)$的两个混合偏导数$\dfrac{\partial f}{\partial x \partial y}, \dfrac{\partial^2f}{\partial y \partial x}$连续，则两个混合偏导数相等。
 
 ---
 **可微、连续和偏导的关系探讨**
