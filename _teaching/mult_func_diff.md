@@ -555,6 +555,14 @@ $\dfrac{\partial f}{\partial \mathbf{v}}\left|_{(x_0, y_0)}\right.$
 ---
 **✏️例子**
 
+讨论函数$f(x, y) = \vert x^2 - y^2 \vert^{1/2}$在原点的方向导数。
+
+<center>
+  <a href="https://www.geogebra.org/3d/xfezhpvs">
+    <img src="./imags/calculus/directional_deri_exp2.png" width="500" height="400"/>
+  </a>
+</center>
+
 
 
 
