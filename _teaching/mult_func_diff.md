@@ -486,6 +486,7 @@ $\Delta z - \mathrm{d}z\vert|_{(0, 0)}(\Delta x, \Delta y)= f(\Delta x, \Delta y
 <center>
 $\dfrac{f(\Delta x, \Delta y) - f(0, 0)- 0\Delta x - 0\Delta y}{\sqrt{(\Delta x)^2 + (\Delta y)^2}} \nrightarrow 0, (\Delta x, \Delta y) \to (0, 0)$ 
 </center>
+所以函数在$(0, 0)$点不可微。
 
 </details>
 
