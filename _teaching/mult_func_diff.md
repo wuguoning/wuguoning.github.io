@@ -524,6 +524,12 @@ $\vec{OP_0} + \rho \mathbf{v} = (x_0 + \rho \cos \alpha, y_0 + \rho \sin \alpha)
 $\lim\limits_{\rho \to 0+}\dfrac{f(x_0 + \rho \cos \alpha, y_0 + \rho \sin \alpha) - f(x_0, y_0)}{\rho}$
 </center>
 
+存在，则称此极限为函数$f$在点$P_0(x_0, y_0)$点沿方向$\mathbf{v}$的<span style="color:red">**方向导数**</span>，记为
+
+<center>
+$\dfrac{\partial f}{\partial \mathbf{v}}\vert_{(x_0, y_0)}$
+</center>
+
 ---
 
 
