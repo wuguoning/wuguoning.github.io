@@ -384,11 +384,11 @@ $f_x(x, y) = \dfrac{\textrm{d} f(x, y)}{\textrm{d} x} = 3x^2 + 4xy$
 </center>
 
 <center>
-  $\dfrac{\partial^2 f}{\partial xy} = \dfrac{\partial}{\partial x}\dfrac{\partial f}{\partial y}$ 或者$f_{xy} = (f_x)_y$
+  $\dfrac{\partial^2 f}{\partial x\partial y} = \dfrac{\partial}{\partial x}\dfrac{\partial f}{\partial y}$ 或者$f_{xy} = (f_x)_y$
 </center>
 
 <center>
-  $\dfrac{\partial^2 f}{\partial yx} = \dfrac{\partial}{\partial y}\dfrac{\partial f}{\partial x}$ 或者$f_{yx} = (f_y}_x$
+  $\dfrac{\partial^2 f}{\partial y\partial x} = \dfrac{\partial}{\partial y}\dfrac{\partial f}{\partial x}$ 或者$f_{yx} = (f_y)_x$
 </center>
 
 
