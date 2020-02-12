@@ -368,10 +368,10 @@ $f_x(x, y) = \dfrac{\textrm{d} f(x, y)}{\textrm{d} x} = 3x^2 + 4xy$
   $\dfrac{\partial^2 f}{\partial y^2}$ 或者$f_{yy}$
 </center>
 <center>
-  $\dfrac{\partial^2 f}{\partial xy}$ 或者$f_{xy}$
+  $\dfrac{\partial^2 f}{\partial x \partial y}$ 或者$f_{xy}$
 </center>
 <center>
-  $\dfrac{\partial^2 f}{\partial yx}$ 或者$f_{yx}$
+  $\dfrac{\partial^2 f}{\partial y\partial x}$ 或者$f_{yx}$
 </center>
 
 这里二阶偏导数的计算过程为：
