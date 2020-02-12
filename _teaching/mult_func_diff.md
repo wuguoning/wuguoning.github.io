@@ -317,7 +317,7 @@ $$df|_{P_0}(\Delta x, \Delta y) = A\Delta x + B\Delta y $$
 记作
 
 <center>
-  f_x(x_0, y_0), z_x(x_0, y_0), \dfrac{\partial f}{\partial x}\right|_{(x_0, y_0)}, \dfrac{\partial z}{\partial x}\right|_{(x_0, y_0)}
+  $f_x(x_0, y_0), z_x(x_0, y_0), \dfrac{\partial f}{\partial x}\right|_{(x_0, y_0)}, \dfrac{\partial z}{\partial x}\right|_{(x_0, y_0)}$
 </center>
 
 同样可以定义$f$关于点$(x_0, y_0)$关于$y$的偏导数$f_y(x_0, y_0), \dfrac{\partial f}{\partial x}\right|_{(x_0,y_0)}$
