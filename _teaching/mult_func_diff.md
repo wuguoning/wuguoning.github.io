@@ -424,13 +424,27 @@ $
 
 + 偏导数存在：$\lim\limits_{\Delta x \to 0 }\dfrac{P(x_0 + \Delta x, y_0) - f(x_0, y_0)}{\Delta x} = 存在$ 和 $\lim\limits_{\Delta y \to 0 }\dfrac{P(x_0, y_0 + \Delta y) - f(x_0, y_0)}{\Delta y} = 存在$
 
-::: success
-We provide email support to those who have purchased the apps: **service@tylingsoft.com**
-:::
+  可微===>连续，但是连续不一定可微。
+
+---
+如果函数$f$在$P_0(x_0, y_0)$点可微，则有：
+<center>
+$P(x_0 + \Delta x, y_0 + \Delta y) - f(x_0, y_0) = A\Delta x + B\Delta y + \epsilon_1 \Delta x + \epsilon_2 \Delta y$;
+</center>
+在上面等式中令$\Delta y = 0$，则有：
+<center>
+$\lim\limits_{\Delta x \to 0 }\dfrac{P(x_0 + \Delta x, y_0) - f(x_0, y_0)}{\Delta x} = A$
+</center>
+同理，在上面可微分等式中令$\Delta x = 0$，则有：
+<center>
+$\lim\limits_{\Delta y \to 0 }\dfrac{P(x_0, y_0 + \Delta y) - f(x_0, y_0)}{\Delta y} = B$
+</center>
 
 
 
 ---
+
+
 
 ## 📚参考书目
 📖1. 《高等数学》上下册（第七版），同济大学，高等教育出版社，2014.7.
