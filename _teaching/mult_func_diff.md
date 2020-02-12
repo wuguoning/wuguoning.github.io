@@ -292,9 +292,11 @@ $df|_{x_0}(\Delta x) = f'(x_0)\Delta x$
 
 <center>
 $$P(x_0 + \Delta x, y_0 + \Delta y) - f(x_0, y_0) = A\Delta x + B\Delta y + o(\rho)$$
+或者
+$$P(x_0 + \Delta x, y_0 + \Delta y) - f(x_0, y_0) = A\Delta x + B\Delta y + \epsilon_1 \Delta x + \epsilon_2 \Delta y$$
 </center>
 
-其中$A, B$仅与$P_0$有关，$\rho = \sqrt{\Delta x^2 + \Delta y^2}$，$o(\rho)$为$\rho$的高阶无穷小量，则称函数$f$在$P_0$点<span style="color:red">**可微**</span>，并称线形函数$A\Delta x + B\Delta y$为函数$f$的<span style="color:red">**全微分**</span>，记作：
+其中$A, B$仅与$P_0$有关，$\rho = \sqrt{\Delta x^2 + \Delta y^2}$，$o(\rho)$为$\rho$的高阶无穷小量(第二种情形，$\epsilon_1, epsilon_2$为随着$\Delta x, \Delta y \to 0$的无穷小量)，则称函数$f$在$P_0$点<span style="color:red">**可微**</span>，并称线形函数$A\Delta x + B\Delta y$为函数$f$的<span style="color:red">**全微分**</span>，记作：
 
 
 <center>
@@ -396,6 +398,8 @@ $f_x(x, y) = \dfrac{\textrm{d} f(x, y)}{\textrm{d} x} = 3x^2 + 4xy$
 设$z = x^3y^2 - 3xy^3 - xy + 1$求 $\dfrac{\partial^2 z}{\partial x^2}, \dfrac{\partial^2 z}{\partial x \partial y}$
 <details>
 解： $\dfrac{\partial z}{\partial x} = 3x^2y^2 - 3y^3 - y, \dfrac{\partial z}{\partial y} = 2x^3y - 9xy^2 - x$
+
+
 所以，
 $
 \begin{split}
@@ -408,7 +412,13 @@ $
 
 </details>
 
+---
+如果函数$z = f(x,y)$的两个混合偏导数$\dfrac{\partial^f}{\partial x \partialy}, \dfrac{\partial^2f}{\partial y \partial x}$连续，则两个混合偏导数相等。
 
+---
+**可微、连续和偏导的关系探讨**
+
++ 可微：
 
 
 ---
