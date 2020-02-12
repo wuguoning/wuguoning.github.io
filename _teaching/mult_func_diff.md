@@ -331,6 +331,10 @@ $$df|_{P_0}(\Delta x, \Delta y) = A\Delta x + B\Delta y $$
   </a>
 </center>
 
+<center>
+  <img src="./imags/calculus/partial_deri1.png" width="400" height="400"/>
+</center>
+
 若函数$z = f(x,y)$在区域$D$上的每一点$(x,y)$都存在对$x$(或对$y$)的偏导数，则得到函数$z = f(x, y)$在区域$D$上对$x$(或对$y$)的<span style="color:red">**偏导函数**</span>，记作
 
 <center>
@@ -352,8 +356,14 @@ $f_x(x, y) = \dfrac{\textrm{d} f(x, y)}{\textrm{d} x} = 3x^2 + 4xy$
 
 </details>
 
-
 ---
+
+
+
+
+
+
+
 ## 📚参考书目
 📖1. 《高等数学》上下册（第七版），同济大学，高等教育出版社，2014.7.
 
