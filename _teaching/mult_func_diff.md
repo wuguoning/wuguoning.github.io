@@ -424,9 +424,8 @@ $
 
 + 偏导数存在：$\lim\limits_{\Delta x \to 0 }\dfrac{P(x_0 + \Delta x, y_0) - f(x_0, y_0)}{\Delta x} = 存在$ 和 $\lim\limits_{\Delta y \to 0 }\dfrac{P(x_0, y_0 + \Delta y) - f(x_0, y_0)}{\Delta y} = 存在$
 
-'''
+
   可微===>连续，但是连续不一定可微。
-'''
 
 ---
 如果函数$f$在$P_0(x_0, y_0)$点可微，则有：
@@ -448,9 +447,11 @@ $\lim\limits_{\Delta y \to 0 }\dfrac{P(x_0, y_0 + \Delta y) - f(x_0, y_0)}{\Delt
 $\mathrm{d}z\vert_{P_0}(\Delta x, \Delta y) = \dfrac{\partial z}{\partial x}\vert_{(x_0, y_0)}\Delta x + \dfrac{\partial z}{\partial y}\vert_{(x_0, y_0)}\Delta y $
 </center>
 
-'''
-   可微===>偏导数存在，但是偏导数存在不一定可微。
-'''
+
+     可微===>偏导数存在，但是偏导数存在不一定可微。
+
+---
+如果函数$z = f(x,y)$的偏导数$\dfrac{\partial z}{\partial x}, \dfrac{\partial z}{\partial y}$在点$(x,y)$连续，则函数在$(x,y)$点处可微分。
 
 ---
 
