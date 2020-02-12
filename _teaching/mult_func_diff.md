@@ -571,6 +571,14 @@ $\dfrac{\partial f}{\partial \mathbf{v}}\left|_{(x_0, y_0)}\right.$
   </a>
 </center>
 
+---
+**可微与方向导数的关系**
+
+设函数$f(x,y)$在$P_0(x_0, y_0)$点可微分，那么对于任一方向$\mathbf{v} = (\cos \alpha, \sin \alpha)$，$f$在$P_0(x_0, y_0)$点沿方向$\mathbf{v}$的方向导数存在，且有
+<center>
+$\dfrac{\partial f}{\partial \mathbf{v}}\vert_{(x_0, y_0)} = \dfrac{\partial f}{\partial x}\vert_{(x_0, y_0)} \cos \alpha + \dfrac{\partial f}{\partial y}\vert_{(x_0, y_0)} \sin \alpha $
+</center>
+
 
 
 
