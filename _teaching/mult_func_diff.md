@@ -496,6 +496,16 @@ $\dfrac{f(\Delta x, \Delta y) - f(0, 0)- 0\Delta x - 0\Delta y}{\sqrt{(\Delta x)
 **✏️例子**
 求函数$u = x - \cos \dfrac{y}{2} + \arctan \dfrac{z}{y}$的全微分。
 
+<details>
+<summary>Click to expand!</summary>
+解：由于
+$\dfrac{\partial u}{\partial x} = 1, \dfrac{\partial u}{\partial y} = \dfrac{1}{2}\sin \dfrac{y}{2} - \dfrac{z}{y^2 + z^2}, \dfrac{\partial u}{\partial z} = \dfrac{y}{y^2 + z^2}$
+
+所以有：
+
+$\mathrm{d}u = \mathrm{d}x + \left(\dfrac{1}{2}\sin \dfrac{y}{2} - \dfrac{z}{y^2 + z^2}\right)\mathrm{d}y + \dfrac{y}{y^2 + z^2}\mathrm{d}z$
+
+</details>
 
 
 
