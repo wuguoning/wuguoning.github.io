@@ -376,19 +376,19 @@ $f_x(x, y) = \dfrac{\textrm{d} f(x, y)}{\textrm{d} x} = 3x^2 + 4xy$
 
 这里二阶偏导数的计算过程为：
 <center>
-  $\dfrac{\partial^2 f}{\partial x^2} = \dfrac{\partial}{\partial x}\dfrac{\partial f}{\partial x}$ 或者$f_{xx} = (f_x)_x$
+  $\dfrac{\partial^2 f}{\partial x^2} = \dfrac{\partial}{\partial x}\left(\dfrac{\partial f}{\partial x}\right)$ 或者$f_{xx} = (f_x)_x$
 </center>
 
 <center>
-  $\dfrac{\partial^2 f}{\partial y^2} = \dfrac{\partial}{\partial y}\dfrac{\partial f}{\partial y}$ 或者$f_{yy} = (f_y)_y$
+  $\dfrac{\partial^2 f}{\partial y^2} = \dfrac{\partial}{\partial y}\left(\dfrac{\partial f}{\partial y}\right)$ 或者$f_{yy} = (f_y)_y$
 </center>
 
 <center>
-  $\dfrac{\partial^2 f}{\partial x\partial y} = \dfrac{\partial}{\partial x}\dfrac{\partial f}{\partial y}$ 或者$f_{xy} = (f_x)_y$
+  $\dfrac{\partial^2 f}{\partial x\partial y} = \dfrac{\partial}{\partial x}\left(\dfrac{\partial f}{\partial y}\right)$ 或者$f_{xy} = (f_x)_y$
 </center>
 
 <center>
-  $\dfrac{\partial^2 f}{\partial y\partial x} = \dfrac{\partial}{\partial y}\dfrac{\partial f}{\partial x}$ 或者$f_{yx} = (f_y)_x$
+  $\dfrac{\partial^2 f}{\partial y\partial x} = \dfrac{\partial}{\partial y}\left(\dfrac{\partial f}{\partial x}\right)$ 或者$f_{yx} = (f_y)_x$
 </center>
 
 
