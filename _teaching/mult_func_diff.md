@@ -557,6 +557,14 @@ $\dfrac{\partial f}{\partial \mathbf{v}}\left|_{(x_0, y_0)}\right.$
 
 讨论函数$f(x, y) = \vert x^2 - y^2 \vert^{1/2}$在原点的方向导数。
 
+解：$\dfrac{\partial f}{\partial \mathbf{v}}\vert_{(0, 0)} = \lim\limits_{\rho \to 0+}\dfrac{f(0 + \rho \cos \alpha, 0 + \rho \sin \alpha) - f(0, 0)}{\rho} = \vert \cos^2 \alpha - \sin \alpha^2 \vert^{1/2}$
+
++ 当$\cos^2 \alpha = \sin^2 \alpha$时，沿着这样的方向，方向导数为零；
+
++ 当$\cos^2 \alpha \ne \sin^2 \alpha$时，沿着这样的方向，方向导数为$\vert \cos^2 \alpha  - \sin^2 \alpha \vert^{1/2}$；
+
+见下图：
+
 <center>
   <a href="https://www.geogebra.org/3d/xfezhpvs">
     <img src="./imags/calculus/directional_deri_exp2.png" width="500" height="400"/>
