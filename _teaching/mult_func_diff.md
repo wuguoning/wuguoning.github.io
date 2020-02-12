@@ -320,7 +320,21 @@ $$df|_{P_0}(\Delta x, \Delta y) = A\Delta x + B\Delta y $$
   f_x(x_0, y_0), z_x(x_0, y_0), \dfrac{\partial f}{\partial x}\right|_{(x_0, y_0)}, \dfrac{\partial z}{\partial x}\right|_{(x_0, y_0)}
 </center>
 
----
+同样可以定义$f$关于点$(x_0, y_0)$关于$y$的偏导数$f_y(x_0, y_0), \dfrac{\partial f}{\partial x}\right|_{(x_0,y_0)}$
+
+二元函数偏导数$f_x(x_0, y_0)$是曲面$z = f(x, y)$与平面$y = y_0$的交线在$x = x_0$点的导数。
+
+<center>
+  <a href="https://www.geogebra.org/3d/bk2tdtxf">
+    <img src="./imags/calculus/partial_deri.png" width="400" height="400"/>
+  </a>
+</center>
+
+若函数$z = f(x,y)$在区域$D$上的每一点$(x,y)$都存在对$x$(或对$y$)的偏导数，则得到函数$z = f(x, y)$在区域$D$上对$x$(或对$y$)的<span style="color:red"**偏导函数**</span>，记作
+
+<center>
+  $f_x(x, y), \dfrac{\partial f}{\partial x}$
+</center>
 
 
 ---
