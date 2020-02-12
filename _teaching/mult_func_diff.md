@@ -344,7 +344,11 @@ $$df|_{P_0}(\Delta x, \Delta y) = A\Delta x + B\Delta y $$
 
 <details>
 <summary>Click to expand!</summary>
-$f_x(1, 3) = \dfrac{\textrm{d} f(x, 3)}{\textrm{d} x}$
+$f_x(1, 3) = \dfrac{\textrm{d} f(x, 3)}{\textrm{d} x} = 3x^2 + 12x\vert_{x=1} = 15$
+另外一个偏导数为
+$f_y(1, 3) = \dfrac{\textrm{d} f(1, y)}{\textrm{d} x} = 2 - 3y^2\vert_{y=3} = -25$
+偏导函数
+$f_x(x, y) = \dfrac{\textrm{d} f(x, y)}{\textrm{d} x} = 3x^2 + 4xy$
 
 </details>
 
