@@ -507,6 +507,10 @@ $\mathrm{d}u = \mathrm{d}x + \left(\dfrac{1}{2}\sin \dfrac{y}{2} - \dfrac{z}{y^2
 
 </details>
 
+---
+<a name="cotes5"></a>
+### 📌**5. 方向导数与梯度**
+
 
 
 ---
