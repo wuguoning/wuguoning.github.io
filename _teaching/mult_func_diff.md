@@ -330,11 +330,22 @@ $$df|_{P_0}(\Delta x, \Delta y) = A\Delta x + B\Delta y $$
   </a>
 </center>
 
-若函数$z = f(x,y)$在区域$D$上的每一点$(x,y)$都存在对$x$(或对$y$)的偏导数，则得到函数$z = f(x, y)$在区域$D$上对$x$(或对$y$)的<span style="color:red"**偏导函数**</span>，记作
+若函数$z = f(x,y)$在区域$D$上的每一点$(x,y)$都存在对$x$(或对$y$)的偏导数，则得到函数$z = f(x, y)$在区域$D$上对$x$(或对$y$)的<span style="color:red">**偏导函数**</span>，记作
 
 <center>
   $f_x(x, y), \dfrac{\partial f}{\partial x}$
 </center>
+
+---
+**例子**
+
+求函数$f(x, y) = x^3 + 2x^2y - y^3$在点$(1,3)$关于$x$和关于$y$的偏导数。
+
+<details>
+<summary>Click to expand!</summary>
+$f_x(1, 3) = \dfrac{\rm{d}f(x, 3)}{\rm{d}x}$
+
+</details>
 
 
 ---
