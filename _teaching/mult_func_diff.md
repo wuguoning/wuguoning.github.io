@@ -308,8 +308,16 @@ $$df|_{P_0}(\Delta x, \Delta y) = A\Delta x + B\Delta y $$
 
 ---
 设函数$z = f(x,y), (x,y) \in D$，若$(x_0, y_0) \in D$，且$f(x, y_0)$在$x_0$的某邻域内有定义，则当极限
+
 <center>
   $\lim\limits_{\Delta x \to 0} \dfrac{\Delta_x f(x_0, y_0)}{\Delta x} = \lim\limits_{\Delta x \to 0} \dfrac{f(x_0+\Delta x, y_0) - f(x_0, y_0)}{\Delta x}$
+</center>
+
+存在时，称这个极限为函数$f$在$(x_0,y_0)$关于$x$的<span style="color:red">**偏导数**</span>，
+记作
+
+<center>
+  f_x(x_0, y_0), z_x(x_0, y_0), \dfrac{\partial f}{\partial x}\right|_{(x_0, y_0)}, \dfrac{\partial z}{\partial x}\right|_{(x_0, y_0)}
 </center>
 
 ---
