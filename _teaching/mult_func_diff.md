@@ -452,7 +452,7 @@ $\mathrm{d}z\vert_{P_0}(\Delta x, \Delta y) = \dfrac{\partial z}{\partial x}\ver
 
 习惯上，我们把自变量的增量$\Delta x$和$\Delta y$分别记为$\textrm{d}x$和$\textrm{d}y$，这样函数的全微分为：
 <center>
-$\textrm{d} z = \dfrac{\partial z}{\partial x} \textrm{d}x + \dfrac{\partial z}{\partial y}\textbf{d}y$ 
+$\textrm{d} z = \dfrac{\partial z}{\partial x} \textrm{d}x + \dfrac{\partial z}{\partial y}\textrm{d}y$ 
 </center>
 
 ---
