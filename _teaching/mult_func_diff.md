@@ -511,6 +511,21 @@ $\mathrm{d}u = \mathrm{d}x + \left(\dfrac{1}{2}\sin \dfrac{y}{2} - \dfrac{z}{y^2
 <a name="cotes5"></a>
 ### 📌**5. 方向导数与梯度**
 
+偏导数研究的是二元函数沿着$x$轴方向或者$y$轴方向的变化率。我们可以更一般的讨论函数沿着任一射线方向的变化率。
+
+以$P_0(x_0, y_0)$为起点，方向为$mathbf{v}$的射线的参数方程为:
+<center>
+$\vec{OP_0} + \rho \mathbf{v} = (x_0 + \rho \cos \alpha, y_0 + \rho \sin \alpha), \rho \ge 0$.
+</center>
+
+---
+设$D \subset \mathcal{R}^2$为开集，$f(x,y)$为定义在$D$上的二元函数，$(x_0, y_0) \in D$，$\mathbf{v} = (\cos \alpha, \sin \alpha)$为一个方向向量，如果极限
+<center>
+$\lim\limits_{\rho \to 0+}\dfrac{f(x_0 + \rho \cos \alpha, y_0 + \rho \sin \alpha) - f(x_0, y_0)}{\rho}$
+</center>
+
+---
+
 
 
 ---
