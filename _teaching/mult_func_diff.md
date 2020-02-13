@@ -360,10 +360,8 @@ $f_y(1, 3) = \dfrac{\textrm{d} f(1, y)}{\textrm{d} x} = 2 - 3y^2\vert_{y=3} = -2
 $f_x(x, y) = \dfrac{\textrm{d} f(x, y)}{\textrm{d} x} = 3x^2 + 4xy$
 
 </details>
+
 ---
-
-    #python
-
     import sympy as sym
     x, y = sym.symbols('x y')
 
