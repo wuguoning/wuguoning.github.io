@@ -578,7 +578,7 @@ $\dfrac{\partial f}{\partial \mathbf{v}}\left|_{(x_0, y_0)}\right.$
 <center>
 $\begin{split}
 \left.\dfrac{\partial f}{\partial \mathbf{v}}\right|_{(x_0, y_0)} &  = \left.\dfrac{\partial f}{\partial x}\right|_{(x_0, y_0)} \cos \alpha + \left.\dfrac{\partial f}{\partial y}\right|_{(x_0, y_0)} \sin \alpha \newline
-& = <span style="color:red">\left(\left.\dfrac{\partial f}{\partial x}\right|_{(x_0, y_0)}</span>, <span: style="color:blue">\left.\dfrac{\partial f}{\partial y}\right|_{(x_0, y_0)}\right) \cdot (\cos \alpha, \sin \alpha)</span>
+& = \left(\left.\dfrac{\partial f}{\partial x}\right|_{(x_0, y_0)}, \left.\dfrac{\partial f}{\partial y}\right|_{(x_0, y_0)}\right) \cdot (\cos \alpha, \sin \alpha)
 \end{split}
 $
 </center>
