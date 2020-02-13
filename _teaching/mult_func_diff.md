@@ -782,7 +782,16 @@ $\left[\begin{array}{c} \dfrac{\partial z}{\partial u} \newline \dfrac{\partial 
   </a>
 </center>
 ---
+**✏️例子**
 
+设$z = ax + by, x = cu + dv, y = eu + fv (a, b, c, d \in \mathcal{R})$，求$\dfrac{\partial z}{\partial u}, \dfrac{\partial z}{\partial v}$
+
+<details>
+
+</details>
+
+
+---
 ## 📚参考书目
 
 📖1. 《高等数学》上下册（第七版），同济大学，高等教育出版社，2014.7.
