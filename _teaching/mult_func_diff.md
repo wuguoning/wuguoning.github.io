@@ -646,7 +646,7 @@ $f(x,y) = \dfrac{-x^2(x+1)\dfrac{x-2}{4} - \dfrac{y^4 - 2y^2 + y + 2}{3}+2xy}{2}
 ---
 **✏️例子**
 
-设$z = x^2 - xy + y^2$，求它在$(1,1)$点的沿方向$\mathbf{v} = (\cos \alpha, \sin alpha)$的方向导数，并指出：
+设$z = x^2 - xy + y^2$，求它在$(1,1)$点的沿方向$\mathbf{v} = (\cos \alpha, \sin \alpha)$的方向导数，并指出：
 
   + 沿着哪个方向的方向导数最大？
 
@@ -668,13 +668,13 @@ $\dfrac{\partial f}{\partial \mathbf{v}}(1, 1) \cdot (\cos \alpha, \sin \alpha) 
 
 所以，函数沿着:
 
-  + $\alpha = \dfrac{\pi}{4}$方向导数最大，且最大值为$\Vert \nabla f(1,1) \Vert = \sqrt{2}$
+  (1) $\alpha = \dfrac{\pi}{4}$方向导数最大，且最大值为$\Vert \nabla f(1,1) \Vert = \sqrt{2}$
 
 
-  + $\alpha = \dfrac{5\pi}{4}$方向导数最小，且最大值为$-\Vert \nabla f(1,1) \Vert = -\sqrt{2}$
+  (2) $\alpha = \dfrac{5\pi}{4}$方向导数最小，且最大值为$-\Vert \nabla f(1,1) \Vert = -\sqrt{2}$
 
 
-  + $\alpha = \dfrac{5\pi}{4}, \dfrac{7\pi}{4}$方向导数为零。
+  (3) $\alpha = \dfrac{5\pi}{4}, \dfrac{7\pi}{4}$方向导数为零。
 
 <center>
   <a href="https://www.geogebra.org/3d/btfavuk5">
@@ -690,6 +690,20 @@ $\dfrac{\partial f}{\partial \mathbf{v}}(1, 1) \cdot (\cos \alpha, \sin \alpha) 
 </center>
 
 </details>
+
+---
+**💡几几个重要的定义：**
+
+<span style="color:red">
+偏导数、微分、方向导数、梯度。
+
++ 🤔你可以写出这些概念的定义么？
+
++ 🤔它们的几何意义是什么？
+
++ 🤔相互逻辑关系是什么？
+</span> 
+
 ---
 
 ## 📚参考书目
