@@ -370,13 +370,13 @@ s = "Python syntax highlighting"
 # import modules
 import sympy as sym
 
-
+# Define the symbol function
 x, y = sym.symbols('x y')
 f = x**3 + 2*x**2*y - y**3
 f_x = sym.diff(f, x)
 f_x = sym.diff(f, y)
 
-# values
+# Compute the values
 f_x.subs([(x,1),(y,3)])
 f_y.subs([(x,1),(y,3)])
 
@@ -714,7 +714,7 @@ $\dfrac{\partial f}{\partial \mathbf{v}}(1, 1) \cdot (\cos \alpha, \sin \alpha) 
 </details>
 
 ---
-**💡几几个重要的定义：**
+**💡几个重要的定义：**
 
 <span style="color:red">
 偏导数、微分、方向导数、梯度。
