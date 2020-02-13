@@ -590,8 +590,15 @@ $
 若函数$f(x,y)$在点$P_(x_0, y_0)$对所有自变量的偏导数存在，则称向量$(f_x(x_0, y_0), f_y(x_0, y_0))$为函数在点$P_0$点处的<span style="color:red">**梯度**</span>。记作：
 
 <center>
-$\textbf{grad} f  = (f_x(P_0), f_y(P_0)$
+$\textbf{grad} f  = (f_x(P_0), f_y(P_0))$
 </center>
+或者
+
+<center>
+$\nabla f  = (f_x(P_0), f_y(P_0))$
+</center>
+
+
 
 
 
