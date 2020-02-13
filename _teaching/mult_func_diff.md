@@ -362,15 +362,20 @@ $f_x(x, y) = \dfrac{\textrm{d} f(x, y)}{\textrm{d} x} = 3x^2 + 4xy$
 </details>
 
 ---
-<<engine='python', engine.path='python3'>>=
 # python code
 
-    import sympy as sym
-    x, y = sym.symbols('x y')
+```python
+s = "Python syntax highlighting"
 
-    sys.diff(x**3 + 2*x**2*y - y**3, x)
-    sys.diff(x**3 + 2*x**2*y - y**3, y)
-@
+import sympy as sym
+
+x, y = sym.symbols('x y')
+f_x = sym.diff(x**2*y, x)
+f_y = sym.diff(x**2*y, y)
+
+print(f_x)
+print(f_y)
+```
 
 ---
 
