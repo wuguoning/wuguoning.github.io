@@ -773,7 +773,7 @@ $\dfrac{\partial z}{\partial v}(u_0, v_0) = \dfrac{\partial z}{\partial x}(x_0, 
 采用矩阵的写法为：
 
 <center>
-$\left[\begin{array}{c} \dfrac{\partial z}{\partial u} \newline \dfrac{\partial z}{\partial v} \end{array}\right]\intercal_{(u_0, v_0)}  = \left[ \dfrac{\partial z}{\partial x},  \dfrac{\partial z}{\partial y} \right]_{(x_0, y_0)} \left[\begin{array}{cc} \dfrac{\partial x}{\partial u} & \dfrac{\partial x}{\partial v} \newline  \dfrac{\partial y}{\partial u} & \dfrac{\partial y}{\partial v}\end{array}\right]_{(u_0, v_0)}$
+$\left[\dfrac{\partial z}{\partial u}, \dfrac{\partial z}{\partial v} \right]_{(u_0, v_0)}  = \left[ \dfrac{\partial z}{\partial x},  \dfrac{\partial z}{\partial y} \right]_{(x_0, y_0)} \left[\begin{array}{cc} \dfrac{\partial x}{\partial u} & \dfrac{\partial x}{\partial v} \newline  \dfrac{\partial y}{\partial u} & \dfrac{\partial y}{\partial v}\end{array}\right]_{(u_0, v_0)}$
 </center>
 
 <center>
@@ -799,7 +799,7 @@ $\dfrac{\partial z}{\partial v} = \dfrac{\partial z}{\partial x}\dfrac{\partial 
 或者
 
 <center>
-$\left[\begin{array}{c} \dfrac{\partial z}{\partial u} \newline \dfrac{\partial z}{\partial v} \end{array}\right]\intercal_  = \left[ \dfrac{\partial z}{\partial x},  \dfrac{\partial z}{\partial y} \right] \left[\begin{array}{cc} \dfrac{\partial x}{\partial u} & \dfrac{\partial x}{\partial v} \newline  \dfrac{\partial y}{\partial u} & \dfrac{\partial y}{\partial v}\end{array}\right]_ = \left[a, b\right]\left[\begin{array}{cc} c & d \newline e & f\end{array}\right] = \left[ac+be, ad+bf\right]$
+$\left[\dfrac{\partial z}{\partial u}, \dfrac{\partial z}{\partial v}\right]  = \left[ \dfrac{\partial z}{\partial x},  \dfrac{\partial z}{\partial y} \right] \left[\begin{array}{cc} \dfrac{\partial x}{\partial u} & \dfrac{\partial x}{\partial v} \newline  \dfrac{\partial y}{\partial u} & \dfrac{\partial y}{\partial v}\end{array}\right] = \left[a, b\right]\left[\begin{array}{cc} c & d \newline e & f\end{array}\right] = \left[ac+be, ad+bf\right]$
 </center>
 
 </details>
