@@ -773,7 +773,7 @@ $\dfrac{\partial z}{\partial v}(u_0, v_0) = \dfrac{\partial z}{\partial x}(x_0, 
 采用矩阵的写法为：
 
 <center>
-$\left[\begin{array}{c} \dfrac{\partial z}{\partial u}(u_0, v_0) \newline \dfrac{\partial z}{\partial v}(u_0, v_0) \end{array}\right]  = \left[ \dfrac{\partial z}{\partial x}(x_0, y_0),  \dfrac{\partial z}{\partial y}(x_0, y_0) \right] \left[\begin{array}{cc} \dfrac{\partial x}{\partial u}(u_0, v_0) & \dfrac{\partial x}{\partial v} \newline  \dfrac{\partial y}{\partial u}(u_0, v_0) & \dfrac{\partial y}{\partial v}\end{array}\right]$
+$\left[\begin{array}{c} \dfrac{\partial z}{\partial u} \newline \dfrac{\partial z}{\partial v} \end{array}\right]_{(u_0, v_0)}  = \left[ \dfrac{\partial z}{\partial x},  \dfrac{\partial z}{\partial y} \right]_{(x_0, y_0)} \left[\begin{array}{cc} \dfrac{\partial x}{\partial u} & \dfrac{\partial x}{\partial v} \newline  \dfrac{\partial y}{\partial u} & \dfrac{\partial y}{\partial v}\end{array}\right]_{(u_0, v_0)}$
 </center>
 
 ---
