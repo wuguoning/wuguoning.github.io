@@ -16,6 +16,7 @@ location: "Beijing, CN"
 + [第三节 二元函数的连续](#cotes3)
 + [第四节 二元函数可微性](#cotes4)
 + [第五节 方向导数与梯度](#cotes5)
++ [第六节 复合函数求导法则](#cotes6)
 
 
 ## 多元函数的基本概念
@@ -361,6 +362,13 @@ $f_x(x, y) = \dfrac{\textrm{d} f(x, y)}{\textrm{d} x} = 3x^2 + 4xy$
 </details>
 
 ---
+'''python
+  
+  import sympy as sym
+
+'''
+
+---
 **高阶偏导数**
 
 对一阶偏导函数求偏导数，或者是对函数求两次偏导数得到函数的二阶偏导数。二阶偏导数记作，
@@ -696,13 +704,18 @@ $\dfrac{\partial f}{\partial \mathbf{v}}(1, 1) \cdot (\cos \alpha, \sin \alpha) 
 
 <span style="color:red">
 偏导数、微分、方向导数、梯度。
+</span> 
 
 + 🤔你可以写出这些概念的定义么？
 
 + 🤔它们的几何意义是什么？
 
 + 🤔相互逻辑关系是什么？
-</span> 
+
+---
+<a name="cotes2"></a>
+### 📌**6. 复合函数求导法则**
+
 
 ---
 
