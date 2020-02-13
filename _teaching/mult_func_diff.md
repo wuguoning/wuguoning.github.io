@@ -635,15 +635,61 @@ $f(x,y) = \dfrac{-x^2(x+1)\dfrac{x-2}{4} - \dfrac{y^4 - 2y^2 + y + 2}{3}+2xy}{2}
 
   + 首先梯度为一个向量，不是一个标量;
 
-  + 如果在一点处的方向导数的方向选择为梯度方向，则方向导数最大，且值为梯度的模;
+  + 如果在一点处方向导数的方向选择为梯度方向，则方向导数最大，且值为梯度的模;
 
-  + 如果在一点处的方向导数的方向选择为负梯度方向，则方向导数最小，且值为梯度的模的相反数;
+  + 如果在一点处方向导数的方向选择为负梯度方向，则方向导数最小，且值为梯度的模的相反数;
 
-  + 如果在一点处的方向导数的方向选择为和梯度垂直的方向，则方向导数的值为零;
+  + 如果在一点处方向导数的方向选择为和梯度垂直的方向，则方向导数的值为零;
 
   + 梯度方向和等值线相互垂直，且从等值线小值指向大值.
 
 ---
+**✏️例子**
+
+设$z = x^2 - xy + y^2$，求它在$(1,1)$点的沿方向$\mathbf{v} = (\cos \alpah, \sin alpha)$的方向导数，并指出：
+
+  + 沿着哪个方向的方向导数最大？
+
+  + 沿着哪个方向的方向导数最下？
+
+  + 沿着那个方向的方向导数为零。
+
+<details>
+解：函数在$P_0(1,1)$处的梯度为：
+<center>
+$\nabla f(1,1) = \left(2x - y, 2y - x\right)_{(1,1)} = (1, 1)$
+</center>
+
+所以，函数在$(1, 1)$处沿着方向$\mathbf{v} = (\cos \alpha, \sin \alpha)$的方向导数为：
+
+<center>
+$\dfrac{\partial f}{\partial \mathbf{v}}(1, 1) \cdot (\cos \alpha, \sin \alpha) = \cos \alpha + \sin \alpha = \sqrt{2}(\sin (\alpha + \dfrac{\pi}{4}))$
+</center>
+
+所以，函数沿着:
+
+  + $\alpha = \dfrac{\pi}{4}$方向导数最大，且最大值为$\Vert \nabla f(1,1) \Vert = \sqrt{2}$
+
+  + $\alpha = \dfrac{5\pi}{4}$方向导数最小，且最大值为$-\Vert \nabla f(1,1) \Vert = -\sqrt{2}$
+
+  + $\alpha = \dfrac{5\pi}{4}, \dfrac{7\pi}{4}$方向导数为零。
+
+<center>
+  <a href="https://www.geogebra.org/3d/btfavuk5">
+    <img src="./imags/calculus/directional_deri_exp3.png" width="500" height="400"/>
+  </a>
+</center>
+
+
+<center>
+  <a href="https://www.geogebra.org/3d/sskkyrp3">
+    <img src="./imags/calculus/gradient_directional_derivative.png" width="500" height="400"/>
+  </a>
+</center>
+</details>
+
+---
+
 ## 📚参考书目
 
 📖1. 《高等数学》上下册（第七版），同济大学，高等教育出版社，2014.7.
