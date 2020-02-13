@@ -778,7 +778,7 @@ $\left[\begin{array}{c} \dfrac{\partial z}{\partial u} \newline \dfrac{\partial 
 
 <center>
   <a href="https://www.geogebra.org/geometry/ngzxkxgw">
-    <img src="./imags/calculus/chain_rule.png" width="500" height="400"/>
+    <img src="./imags/calculus/chain_rule.png" width="600" height="500"/>
   </a>
 </center>
 ---
