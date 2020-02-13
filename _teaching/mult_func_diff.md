@@ -359,17 +359,16 @@ $f_y(1, 3) = \dfrac{\textrm{d} f(1, y)}{\textrm{d} x} = 2 - 3y^2\vert_{y=3} = -2
 偏导函数
 $f_x(x, y) = \dfrac{\textrm{d} f(x, y)}{\textrm{d} x} = 3x^2 + 4xy$
 
+
+    #python
+
+    import sympy as sym
+    x, y = sym.symbols('x y')
+
+    sys.diff(x**3 + 2*x**2*y - y**3, x)
+    sys.diff(x**3 + 2*x**2*y - y**3, y)
+
 </details>
-
----
-'''python
-  import sympy as sym
-  x, y = sym.symbols('x y')
-
-  sys.diff(x**3 + 2*x**2*y - y**3, x)
-  sys.diff(x**3 + 2*x**2*y - y**3, y)
-'''
-
 ---
 **高阶偏导数**
 
