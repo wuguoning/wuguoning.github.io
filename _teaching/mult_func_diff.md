@@ -624,7 +624,7 @@ $f(x,y) = \dfrac{-x^2(x+1)\dfrac{x-2}{4} - \dfrac{y^4 - 2y^2 + y + 2}{3}+2xy}{2}
 </center>
 
 ---
- 💡 从上面分析可以看出：<span style="color:red">方向导数为梯度在所求方向上的投影</span>。
+ 💡 从上面分析可以看出：<span style="color:red">**方向导数为梯度在所求方向上的投影**</span>。
 
   + 首先梯度为一个向量，不是一个标量;
 
