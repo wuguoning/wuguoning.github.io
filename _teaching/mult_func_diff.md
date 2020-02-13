@@ -734,16 +734,25 @@ $\dfrac{\partial f}{\partial \mathbf{v}}(1, 1) \cdot (\cos \alpha, \sin \alpha) 
 多元函数的导数，更一般的应该为一个矩阵(Jacobi Matrix)。例如：
 </span>
 
-+  如果$f: D \subset \mathcal{R}^2 \to \mathcal{R}$，则$f'(x,y) = (f_x(x,y), f_y(x,y))$
++  如果$f: D \subset \mathcal{R} \to \mathcal{R}$，则$f'(x)$为一个函数(导函数);
 
-+  如果$f: D \subset \mathcal{R}^n \to \mathcal{R}$，则$f'(x_1,x_2, \cdots, x_n) = (f_{x_1}, f_{x_2}, \cdots, f_{x_n})\vert_{(x_1, x_2, \cdots, x_n)} $
+
++  如果$f: D \subset \mathcal{R}^2 \to \mathcal{R}$，则$f'(x,y) = (f_x(x,y), f_y(x,y))$;
+
+
++  如果$f: D \subset \mathcal{R}^n \to \mathcal{R}$，则$f'(x_1,x_2, \cdots, x_n) = (f_{x_1}, f_{x_2}, \cdots, f_{x_n})\vert_{(x_1, x_2, \cdots, x_n)} $;
+
 
 +  如果$f: D \subset \mathcal{R}^n \to \mathcal{R}^m$，那么$f = (f_1, f_2, \cdots, f_m)^\intercal$，其中$f_i: D \to \mathcal{R}$，这时$f'(x_1, x_2, \cdots, x_n) = \left[\begin{array}{cccc} \dfrac{\partial f_1}{\partial x_1} & \dfrac{\partial f_1}{\partial x_2} & \cdots & \dfrac{\partial f_1}{\partial x_n} \newline \dfrac{\partial f_2}{\partial x_1} & \dfrac{\partial f_2}{\partial x_2} & \cdots & \dfrac{\partial f_2}{\partial x_n} \newline 
-\vdots & \vdots & \cdots & \vdots \newline \dfrac{\partial f_m}{\partial x_1} & \dfrac{\partial f_m}{\partial x_2} & \cdots & \dfrac{\partial f_m}{\partial x_n}\end{array} \right]$
+\vdots & \vdots & \cdots & \vdots \newline \dfrac{\partial f_m}{\partial x_1} & \dfrac{\partial f_m}{\partial x_2} & \cdots & \dfrac{\partial f_m}{\partial x_n}\end{array} \right]$.
 
 ---
 <a name="cotes2"></a>
 ### 📌**6. 复合函数求导法则**
+
+**链式规则(chain rule)**
+
+
 
 
 ---
