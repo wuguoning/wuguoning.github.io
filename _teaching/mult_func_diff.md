@@ -608,13 +608,15 @@ $\nabla f  = (f_x(P_0), f_y(P_0))$
 <center>
 $f(x,y) = \dfrac{-x^2(x+1)\dfrac{x-2}{4} - \dfrac{y^4 - 2y^2 + y + 2}{3}+2xy}{2} + 1$
 </center>
-该函数在$(x, y)$处的梯度为：$(f_x(x,y), f_y(x,y)) = (\dfrac{-4x^3 + 3x^2 + 4x + 8y}{8}, \dfrac{-4y^3 + 6x + 4y - 1}{6})$，<span style="color:red">**等值线**</span>($f(x,y) = c$)见下图：
 
 <center>
   <a href="https://www.geogebra.org/3d/wafxpnzu">
     <img src="./imags/calculus/grad_def1.png" width="500" height="400"/>
   </a>
 </center>
+
+该函数在$(x, y)$处的梯度为：$(f_x(x,y), f_y(x,y)) = (\dfrac{-4x^3 + 3x^2 + 4x + 8y}{8}, \dfrac{-4y^3 + 6x + 4y - 1}{6})$，<span style="color:red">**等值线**</span>($f(x,y) = c$)见下图：
+
 <center>
   <a href="https://www.geogebra.org/3d/wafxpnzu">
     <img src="./imags/calculus/grad_def2.png" width="500" height="400"/>
@@ -624,14 +626,15 @@ $f(x,y) = \dfrac{-x^2(x+1)\dfrac{x-2}{4} - \dfrac{y^4 - 2y^2 + y + 2}{3}+2xy}{2}
 ---
 从上面分析可以看出：<span style="color:red">方向导数为梯度在所求方向上的投影</span>。
 
-+ 首先梯度为一个向量，不是一个标量;
+  + 首先梯度为一个向量，不是一个标量;
 
-+ 如果在一点处的方向导数的方向选择为梯度方向，则方向导数最大，且值为梯度的模;
+  + 如果在一点处的方向导数的方向选择为梯度方向，则方向导数最大，且值为梯度的模;
 
-+ 如果在一点处的方向导数的方向选择为负梯度方向，则方向导数最小，且值为梯度的模的相反数;
+  + 如果在一点处的方向导数的方向选择为负梯度方向，则方向导数最小，且值为梯度的模的相反数;
 
-+ 如果在一点处的方向导数的方向选择为和梯度垂直的方向，则方向导数的值为零。
+  + 如果在一点处的方向导数的方向选择为和梯度垂直的方向，则方向导数的值为零;
 
+  + 梯度方向和等值线相互垂直，且从等值线小值指向大值.
 
 
 
