@@ -788,6 +788,50 @@ $\left[\begin{array}{c} \dfrac{\partial z}{\partial u} \newline \dfrac{\partial 
 
 <details>
 
+<center>
+$\dfrac{\partial z}{\partial u} = \dfrac{\partial z}{\partial x}\dfrac{\partial x}{\partial u} + \dfrac{\partial z}{\partial y}\dfrac{\partial y}{\partial u} = ac + be$
+</center>
+
+<center>
+$\dfrac{\partial z}{\partial v} = \dfrac{\partial z}{\partial x}\dfrac{\partial x}{\partial v} + \dfrac{\partial z}{\partial y}\dfrac{\partial y}{\partial v} = ad + bf$
+</center>
+
+或者
+
+<center>
+$\left[\begin{array}{c} \dfrac{\partial z}{\partial u} \newline \dfrac{\partial z}{\partial v} \end{array}\right]_{(u_0, v_0)}  = \left[ \dfrac{\partial z}{\partial x},  \dfrac{\partial z}{\partial y} \right]_{(x_0, y_0)} \left[\begin{array}{cc} \dfrac{\partial x}{\partial u} & \dfrac{\partial x}{\partial v} \newline  \dfrac{\partial y}{\partial u} & \dfrac{\partial y}{\partial v}\end{array}\right]_{(u_0, v_0)} = \left[a, b\right]\left[\begin{array}{cc} c & d \newline e & f\end{array}\right] = \left[ac+be, ad+bf\right]$
+</center>
+
+<center>
+  <a href="https://www.geogebra.org/geometry/ngzxkxgw">
+    <img src="./imags/calculus/chain_rule.png" width="600" height="500"/>
+  </a>
+</center>
+---
+**✏️例子**
+
+设$z = ax + by, x = cu + dv, y = eu + fv (a, b, c, d \in \mathcal{R})$，求$\dfrac{\partial z}{\partial u}, \dfrac{\partial z}{\partial v}$
+
+<details>
+
+<center>
+$\dfrac{\partial z}{\partial u} = \dfrac{\partial z}{\partial x}\dfrac{\partial x}{\partial u} + \dfrac{\partial z}{\partial y}\dfrac{\partial y}{\partial u} = ac + be$
+</center>
+
+<center>
+$\dfrac{\partial z}{\partial v} = \dfrac{\partial z}{\partial x}\dfrac{\partial x}{\partial v} + \dfrac{\partial z}{\partial y}\dfrac{\partial y}{\partial v} = ad + bf$
+</center>
+
+或者
+
+
+
+</details>
+
+
+---
+## 📚参考书目
+
 </details>
 
 
