@@ -359,6 +359,8 @@ $f_y(1, 3) = \dfrac{\textrm{d} f(1, y)}{\textrm{d} x} = 2 - 3y^2\vert_{y=3} = -2
 偏导函数
 $f_x(x, y) = \dfrac{\textrm{d} f(x, y)}{\textrm{d} x} = 3x^2 + 4xy$
 
+</details>
+---
 
     #python
 
@@ -368,8 +370,8 @@ $f_x(x, y) = \dfrac{\textrm{d} f(x, y)}{\textrm{d} x} = 3x^2 + 4xy$
     sys.diff(x**3 + 2*x**2*y - y**3, x)
     sys.diff(x**3 + 2*x**2*y - y**3, y)
 
-</details>
 ---
+
 **高阶偏导数**
 
 对一阶偏导函数求偏导数，或者是对函数求两次偏导数得到函数的二阶偏导数。二阶偏导数记作，
