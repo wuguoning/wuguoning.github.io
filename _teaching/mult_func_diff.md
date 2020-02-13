@@ -598,6 +598,23 @@ $\textbf{grad} f  = (f_x(P_0), f_y(P_0))$
 $\nabla f  = (f_x(P_0), f_y(P_0))$
 </center>
 
+---
+<span style="background-color:lightblue">
+   💡 "$\nabla$"读作纳布拉，称为梯度运算符。
+</span> 
+
+---
+
+<center>
+  <a href="https://www.geogebra.org/3d/wafxpnzu">
+    <img src="./imags/calculus/grad_def1.png" width="500" height="400"/>
+  </a>
+</center>
+<center>
+  <a href="https://www.geogebra.org/3d/wafxpnzu">
+    <img src="./imags/calculus/grad_def2.png" width="500" height="400"/>
+  </a>
+</center>
 
 
 
