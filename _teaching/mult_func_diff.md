@@ -750,7 +750,15 @@ $\dfrac{\partial f}{\partial \mathbf{v}}(1, 1) \cdot (\cos \alpha, \sin \alpha) 
 <a name="cotes2"></a>
 ### 📌**6. 复合函数求导法则**
 
-**链式规则(chain rule)**
+**⛓链式规则(chain rule)**
+
+设$z = f(x,y): D_f \subset \mathcal{R}^2 \to \mathcal{R}$，而$g: D_g \subset \mathcal{R}^2 \to \mathcal{R}^$，如果$g(D_g) \subset D_f$，那么可以构成符合函数：
+
+<center>
+z = f \circ g = f[x(u,v), y(u,v)]
+</center>
+
+这里$g$表示为：$(u, v) \to (x(u, v), y(u, v))$.
 
 
 
