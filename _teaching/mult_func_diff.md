@@ -608,7 +608,7 @@ $\nabla f  = (f_x(P_0), f_y(P_0))$
 <center>
 $f(x,y) = \dfrac{-x^2(x+1)\dfrac{x-2}{4} - \dfrac{y^4 - 2y^2 + y + 2}{3}+2xy}{2} + 1$
 </center>
-该函数在$(x, y)$处的梯度为：$(f_x(x,y), f_y(x,y)) = (\dfrac{-4x^3 + 3x^2 + 4x + 8y}{8}, \dfrac{-4y^3 + 6x + 4y - 1}{6})$，等直线见下图：
+该函数在$(x, y)$处的梯度为：$(f_x(x,y), f_y(x,y)) = (\dfrac{-4x^3 + 3x^2 + 4x + 8y}{8}, \dfrac{-4y^3 + 6x + 4y - 1}{6})$，<span style="color:red">**等值线**</span>($f(x,y) = c$)见下图：
 
 <center>
   <a href="https://www.geogebra.org/3d/wafxpnzu">
