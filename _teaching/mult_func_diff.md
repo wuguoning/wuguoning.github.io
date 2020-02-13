@@ -763,11 +763,17 @@ $z = f \circ g = f[x(u,v), y(u,v)]$
 ---
 设$g$在$(u_0, v_0) \in D_g$点可导，即$x = x(u, v), y = y(u, v)$在$(u_0, v_0)$点可偏导。记$x_0 = x(u_0, v_0), y_0 = y(u_0, v_0)$，如果$f$在$(x_0, y_0)$点可微，则有：
 <center>
-$\dfrac{\partial z}{\partial u}(u_0, v_0) = \dfrac{\partial z}{\partial x}(x_0, y_0)\dfrac{\partial x}{\partial u}(u_0, v_0) + \dfrac{\partial z}{y}(x_0, y_0)\dfrac{\partial y}{\partial u}(u_0, v_0)$
+$\dfrac{\partial z}{\partial u}(u_0, v_0) = \dfrac{\partial z}{\partial x}(x_0, y_0)\dfrac{\partial x}{\partial u}(u_0, v_0) + \dfrac{\partial z}{\partial y}(x_0, y_0)\dfrac{\partial y}{\partial u}(u_0, v_0)$
 </center>
 
 <center>
-$\dfrac{\partial z}{\partial v}(u_0, v_0) = \dfrac{\partial z}{\partial x}(x_0, y_0)\dfrac{\partial x}{\partial v}(u_0, v_0) + \dfrac{\partial z}{y}(x_0, y_0)\dfrac{\partial y}{\partial v}(u_0, v_0)$
+$\dfrac{\partial z}{\partial v}(u_0, v_0) = \dfrac{\partial z}{\partial x}(x_0, y_0)\dfrac{\partial x}{\partial v}(u_0, v_0) + \dfrac{\partial z}{\partial y}(x_0, y_0)\dfrac{\partial y}{\partial v}(u_0, v_0)$
+</center>
+
+采用矩阵的写法为：
+
+<center>
+$\left[\begin{array}{c} \dfrac{\partial z}{\partial u}(u_0, v_0) \newline \dfrac{\partial z}{\partial v}(u_0, v_0) \end{array}\right]  = \left[ \dfrac{\partial z}{\partial x}(x_0, y_0),  \dfrac{\partial z}{\partial y}(x_0, y_0) \right] \left[\begin{array}{cc} \dfrac{\partial x}{\partial u}(u_0, v_0) & \dfrac{\partial x}{\partial v} \newline  \dfrac{\partial y}{\partial u}(u_0, v_0) & \dfrac{\partial y}{\partial v}\end{array}\right]$
 </center>
 
 ---
