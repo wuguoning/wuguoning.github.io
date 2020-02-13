@@ -367,16 +367,20 @@ $f_x(x, y) = \dfrac{\textrm{d} f(x, y)}{\textrm{d} x} = 3x^2 + 4xy$
 ```python
 s = "Python syntax highlighting"
 
+# import modules
 import sympy as sym
 
+
 x, y = sym.symbols('x y')
-f_x = sym.diff(x**2*y, x)
-f_y = sym.diff(x**2*y, y)
+f = x**3 + 2*x**2*y - y**3
+f_x = sym.diff(f, x)
+f_x = sym.diff(f, y)
 
-print(f_x)
-print(f_y)
+# values
+f_x.subs([(x,1),(y,3)])
+f_y.subs([(x,1),(y,3)])
+
 ```
-
 ---
 
 **高阶偏导数**
