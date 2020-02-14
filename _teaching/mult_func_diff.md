@@ -1278,7 +1278,7 @@ $\dfrac{x - x_0}{\left.\dfrac{\partial (F, G)}{\partial (y, z)}\right\vert_{P_0}
 $\left.\dfrac{\partial (F, G)}{\partial (y, z)}\right\vert_{P_0}(x - x_0) + \left.\dfrac{\partial (F, G)}{\partial (z, x)}\right\vert_{P_0}(y - y_0) + \left.\dfrac{\partial (F, G)}{\partial (x, y)}\right\vert_{P_0}(z - z_0) = 0$
 </center>
 
-<span style="color:red">**空间曲线的切向量</span>为：
+<span style="color:red">**空间曲线的切向量**</span>为：
 
 <center>
 $\left\vert\begin{array}{ccc} i & j & k \newline F_x & F_y & F_z \newline G_x & G_y & G_z \end{array}\right\vert_{P_0}$
