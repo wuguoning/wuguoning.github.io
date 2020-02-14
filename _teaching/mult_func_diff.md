@@ -1147,6 +1147,7 @@ $ \dfrac{\partial y}{\partial u} = - \left.\dfrac{\partial v}{\partial x}\right/
 $ \dfrac{\partial (u, v)}{\partial (x, y)}\cdot \dfrac{\partial (x,y)}{\partial (u,v)} = 1$
 </center>
 
+---
 😓😓😓 A lot of math!
 
 ---
@@ -1169,9 +1170,10 @@ $\rho = \sqrt{x^2 + y^2}$
 </center>
 
 <center>
-$ \theta = \left\{\begin{array}{ll} \arctan \dfrac{y}{x}, & x > 0 \newline \pi + \arctan \dfrac{y}{x}, & x < 0  end{array}\right.$
+$ \theta = \left\{\begin{array}{ll} \arctan \dfrac{y}{x}, & x > 0 \newline \pi + \arctan \dfrac{y}{x}, & x < 0  \end{array}\right.$
 </center>
 
+---
 😓😓😓 A lot of math!
 
 ---
