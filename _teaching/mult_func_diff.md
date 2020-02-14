@@ -787,7 +787,7 @@ $\left[\dfrac{\partial z}{\partial u}, \dfrac{\partial z}{\partial v} \right]_{(
 设$z = ax + by, x = cu + dv, y = eu + fv (a, b, c, d \in \mathcal{R})$，求$\dfrac{\partial z}{\partial u}, \dfrac{\partial z}{\partial v}$
 
 <details>
-
+<summary>Click to expand!</summary>
 <center>
 $\dfrac{\partial z}{\partial u} = \dfrac{\partial z}{\partial x}\dfrac{\partial x}{\partial u} + \dfrac{\partial z}{\partial y}\dfrac{\partial y}{\partial u} = ac + be$
 </center>
@@ -806,16 +806,16 @@ $\left[\dfrac{\partial z}{\partial u}, \dfrac{\partial z}{\partial v}\right]  = 
 
 ---
 **🤔思考**
-+ <span style="color:red">两个线形变换符合的导数对应于导数的乘积</span>
++ <span style="color:red">两个线形变换复合的导数对应于导数的乘积</span>
 
-+ <span style="color:red">两个非线形变换符合的导数对应于❓❓的❓❓</span>
++ <span style="color:red">两个非线形变换复合的导数对应于❓❓的❓❓</span>
 
 ---
 **✏️例子**
 
 设$z = \dfrac{x^2}{y}, x = u - 2v, y = 2u + v $，求$\dfrac{\partial z}{\partial u}, \dfrac{\partial z}{\partial v}$
 <details>
-
+<summary>Click to expand!</summary>
 <center>
 $\dfrac{\partial z}{\partial u} = \dfrac{\partial z}{\partial x}\dfrac{\partial x}{\partial u} + \dfrac{\partial z}{\partial y}\dfrac{\partial y}{\partial u} = \dfrac{2x}{y}1 + \left(-\dfrac{x^2}{y^2}\right)2$
 </center>
@@ -831,6 +831,27 @@ $\left[\dfrac{\partial z}{\partial u}, \dfrac{\partial z}{\partial v}\right]  = 
 </center>
 </details>
 
+---
+**✏️例子**
+
+设$w = f(x^2 + y^2 + z^2, xyz) $，$f$具有连续的二阶偏导数，求$\dfrac{\partial f}{\partial x}, \dfrac{\partial^2 f}{\partial x \parital z}$
+
+<details>
+<summary>Click to expand!</summary>
+解：
+另$u = x^2 + y^2 + z^2, v = xyz$,且记$f_1 = \dfrac{\partial f}{\partial u}, f_2 = \dfrac{\partial f}{\partial v}, f_{12} = \dfrac{\partial^2 f}{\partial u \partial v}$ 等等，有：
+
+<center>
+$\dfrac{\partial w}{\partial x} = f_1 2x + f_2yz$
+</center>
+
+<center>
+$\dfrac{\partial^2 w}{\partial x \partial z} = \dfrac{\partial}{\partial z}\left(f_1 2x + f_2yz\right) = f_{11}(4xz) + f_{12}(4x^2y) + f_{22}(y^2xz) + yf_2$
+</center>
+
+</details>
+
+---
 ## 📚参考书目
 
 📖1. 《高等数学》上下册（第七版），同济大学，高等教育出版社，2014.7.
