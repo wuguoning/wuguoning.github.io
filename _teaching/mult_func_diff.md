@@ -919,7 +919,7 @@ $0.44 = 3(1-x^2)e^{-(x - 0.5)^2 - (y + 1)^2} - 2(\dfrac{x}{5} - x^3 - y^5)e^{-x^
 ---
 **✏️例子**
 
-**笛卡尔叶形线(folim of Descartes)**首先由笛卡尔在1638年提出。笛卡尔叶形线的隐式方程为：
+**笛卡尔叶形线(folium of Descartes)**首先由笛卡尔在1638年提出。笛卡尔叶形线的隐式方程为：
 <center>
 $x^3 + y^3 - 3axy = 0$
 </center>
@@ -932,7 +932,6 @@ $x^3 + y^3 - 3axy = 0$
 
 下面我们来求解该曲线$x^3 + y^3 - 6xy = 0$的在$(3, 3)$点的切线和法线方程。
 
-<details>
 解：
 
 首先可以验证该曲线在$(3,3)$点附近确定了一个函数$y = f(x)$，因为若令$F(x,y) = x^3 + y^3 - 6xy$.可以验证$F(3,3) = 0, F_y(3,3) = (3y^2 - 6x)_{(3,3)} = 9 \ne 0$.
@@ -960,12 +959,15 @@ $6x + 6y\left(\dfrac{\mathrm{d}y}{\mathrm{d}x}\right)^2 + 3y^2\dfrac{\mathrm{d}^
 </center>
 
 从上式中可得到$\dfrac{\mathrm{d}^2y}{\mathrm{d}x^2}$
-</details>
+
+
 <center>
   <a href="https://www.geogebra.org/geometry/jwqpwrsk">
     <img src="./imags/calculus/implicit_disc.png" width="500" height="400"/>
   </a>
 </center>
+
+---
 
 
 ---
