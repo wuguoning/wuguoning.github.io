@@ -1146,7 +1146,27 @@ $ \dfrac{\partial (u, v)}{\partial (x, y)}\cdot \dfrac{\partial (x,y)}{\partial 
 </center>
 
 ---
+**✏️例子**
 
+平面上的点$P$的直角坐标$(x, y)$与极坐标$(\rho, \theta)$之间的坐标变换公式为：
+<center>
+$ \left\{\begin{array}{l} x = \rho \cos \theta \newline y = \rho \sin \theta \end{array}\right.$
+</center>
+
+由于
+<center>
+$ \dfrac{\partial (x,y)}{\partial (\rho, \theta)} = \left\vert\begin{array}{cc} \cos \theta & -\rho \sin \theta \newline \sin \theta & \rho \cos \theta \end{array}\right\vert = r$
+</center>
+
+所以除原点外，方程组存在反变换方程组：
+
+<center>
+$\rho = \sqrt{x^2 + y^2}$
+</center>
+
+<center>
+$ \theta = \left\{\begin{array}{ll} \arctan \dfrac{y}{x}, & x > 0 \newline \pi + \arctan \dfrac{y}{x}, & x < 0  end{array}\right.$
+</center>
 
 
 
