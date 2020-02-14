@@ -944,7 +944,11 @@ $x^3 + y^3 - 3axy = 0$
 
 + 法线方程为： $y - 3 = (x - 3)$.
 
-
+<center>
+  <a href="https://www.geogebra.org/geometry/jwqpwrsk">
+    <img src="./imags/calculus/implicit_disc.png" width="500" height="400"/>
+  </a>
+</center>
 
 
 ---
