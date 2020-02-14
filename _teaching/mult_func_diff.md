@@ -1059,7 +1059,7 @@ $\dfrac{\partial u}{\partial y} = -\dfrac{1}{J}\dfrac{\partial (F,G)}{\partial (
 讨论方程组
 
 <center>
-$ \left\{\begin{array}{l} F(x,y,u,v) = u^2 + v^2 - x^2 - y = 0 \newline -u + v - xy + 1 = 0 \end{array}\right.$
+$ \left\{\begin{array}{l} F(x,y,u,v) = u^2 + v^2 - x^2 - y = 0 \newline G(x,y,u,v) =  -u + v - xy + 1 = 0 \end{array}\right.$
 </center>
 
 在$P_0(2,1,1,2)$近旁确定怎样的隐函数组，并求其偏导数。
@@ -1069,13 +1069,14 @@ $ \left\{\begin{array}{l} F(x,y,u,v) = u^2 + v^2 - x^2 - y = 0 \newline -u + v -
 解： 首先$F(P_0) = G(P_0) = 0$，满足初始条件。其次
 <center>
 $F_x = -2x, F_y = -1, F_u = 2u, F_v = 2v$
+
 $G_x = -y, G_y = -x, G_u = -1, G_v = 1$
 </center>
 
 容易计算，在$P_0$点的六个雅可比行列式中只有：
 <center>
 $\dfrac{\partial (F, G)}{\partial (x,v)}(P_0) = 0$
-<center>
+</center>
 
 因此，只有$x,v$难以肯定是否确定以$y, u$为自变量的隐函数。除此之外，在$P_0$的近旁任何两个变量都可以作为其余两个变量为自变量的隐函数。
 
@@ -1083,11 +1084,13 @@ $\dfrac{\partial (F, G)}{\partial (x,v)}(P_0) = 0$
 
 <center>
 $ \left\{\begin{array}{l} F(x,y,u,v) = 2u - 2xx_u - y_u = 0 \newline -1 - yx_u - xy_u = 0 \end{array}\right.$
+
 $ \left\{\begin{array}{l} F(x,y,u,v) = 2v - 2xx_v - y_v = 0 \newline 1 - yx_v - xy_v = 0 \end{array}\right.$
 </center>
 </details>
 
 ---
+
 ## 📚参考书目
 
 📖1. 《高等数学》上下册（第七版），同济大学，高等教育出版社，2014.7.
