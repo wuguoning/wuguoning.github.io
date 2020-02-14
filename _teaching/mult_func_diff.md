@@ -19,10 +19,8 @@ location: "Beijing, CN"
 + [第六节 复合函数求导法则](#cotes6)
 
 
-## 多元函数的基本概念
-
 <a name="cotes1"></a>
-### 📌**1. 平面点集与多元函数**
+## 📌**1. 平面点集与多元函数**
 
 <span style="color:red">**多元函数**</span>是指自变量为两个或两个以上的函数。作为一元函数的推广，自身保留了一元函数的许多性质，但是也产生了许多新的不同于一元函数的性质。本章主要针对于二元函数展开讨论，在掌握了二元函数的理论后可以推广到$n$元函数中去。
 
@@ -137,7 +135,7 @@ location: "Beijing, CN"
 
 ---
 <a name="cotes2"></a>
-### 📌**2. 二元函数的极限**
+## 📌**2. 二元函数的极限**
 
 设二元函数$f(x,y)$的定义域为$D \subset \mathcal{R}^2$, $P_0$为$D$的一个聚点，$A$是一个确定的实数。如果对于任意的$\epsilon > 0$，总存在某一个正数$\delta > 0$，使得当$P \in \mathring{U}(P_0, \delta)$时($0 < \|P - P_0\| < \delta$)时，有$\vert f(P) - A \vert < \epsilon$。则称$f(x, y)$当$P \to P_0$时极限为$A$，记为：
 <center>
@@ -234,7 +232,7 @@ $
 
 ---
 <a name="cotes3"></a>
-### 📌**3. 二元函数的连续**
+## 📌**3. 二元函数的连续**
 
 **二元函数连续性定义**
 
@@ -280,7 +278,7 @@ $
 
 ---
 <a name="cotes4"></a>
-### 📌**1. 二元函数可微性**
+## 📌**1. 二元函数可微性**
 
 **可微与全微分**
 
@@ -532,7 +530,7 @@ $\mathrm{d}u = \mathrm{d}x + \left(\dfrac{1}{2}\sin \dfrac{y}{2} - \dfrac{z}{y^2
 
 ---
 <a name="cotes5"></a>
-### 📌**5. 方向导数与梯度**
+## 📌**5. 方向导数与梯度**
 
 偏导数研究的是二元函数沿着$x$轴方向或者$y$轴方向的变化率。我们可以更一般的讨论函数沿着任一射线方向的变化率。
 
@@ -748,7 +746,7 @@ $\dfrac{\partial f}{\partial \mathbf{v}}(1, 1) \cdot (\cos \alpha, \sin \alpha) 
 
 ---
 <a name="cotes2"></a>
-### 📌**6. 复合函数求导法则**
+## 📌**6. 复合函数求导法则**
 
 **⛓链式规则(chain rule)**
 
@@ -862,6 +860,11 @@ $\dfrac{\partial^2 w}{\partial x \partial z} = \dfrac{\partial}{\partial z}\left
 $\dfrac{\mathrm{d}z}{\mathrm{d}t} = \dfrac{\partial f}{\partial u}\dfrac{\mathrm{d}u}{\mathrm{d}t} + \dfrac{\partial f}{\partial v}\dfrac{\mathrm{d}v}{\mathrm{d}t} = ve^t - u\sin t + \cos t$
 
 </details>
+
+---
+<a name="cotes7"></a>
+## 📌**7. 隐函数求导法则**
+
 
 ---
 
