@@ -938,13 +938,30 @@ $x^3 + y^3 - 3axy = 0$
 
 斜率：$k = -\dfrac{F_x}{F_y}(3,3) = -\dfrac{3x^2 - 6y}{3y^2 - 6x} = -1$
 
-或者对于方程的两边关于$x$求导数得到：$3x^2 + 3y^2\dfrac{\mathrm{d}y}{\mathrm{d}x} - 6y - 6x\dfrac{\mathrm{d}y}{\mathrm{d}x} = 0$得到$k = -1$
+或者对于方程的两边关于$x$求导数得到：
+
+<center>
+$3x^2 + 3y^2\dfrac{\mathrm{d}y}{\mathrm{d}x} - 6y - 6x\dfrac{\mathrm{d}y}{\mathrm{d}x} = 0$
+</center>
+
+得到$k = -1$
 
 所以：
 
 + 切线方程为： $y - 3 = -(x - 3)$;
 
 + 法线方程为： $y - 3 = (x - 3)$.
+
+上式关于$x$继续求导数，得到；
+
+<center>
+$6x + 6y\left(\dfrac{\mathrm{d}y}{\mathrm{d}x}\right)^2 - 6\dfrac{\mathrm{d}y}{\mathrm{d}x} - 6\dfrac{\mathrm{d}y}{\mathrm{d}x}  - 6x\left(\dfrac{\mathrm{d}y}{\mathrm{d}x}\right)^2 = 0$
+</center>
+
+从上式中可得到$\dfrac{\mathrm{d}^2y}{\mathrm{d}x^2}$
+
+
+
 
 <center>
   <a href="https://www.geogebra.org/geometry/jwqpwrsk">
