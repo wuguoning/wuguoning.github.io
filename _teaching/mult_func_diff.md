@@ -902,7 +902,7 @@ $0.44 = 3(1-x^2)e^{-(x - 0.5)^2 - (y + 1)^2} - 2(\dfrac{x}{5} - x^3 - y^5)e^{-x^
 </center>
 
 ---
-**一个方程的情形**
+**隐式方程定理**
 
 设函数$F(x,y)$在点$P_0(x_0, y_0)$的某一邻域内具有连续的偏导数，且满足：
   
@@ -1021,6 +1021,38 @@ $
 $
 </center>
 
+---
+**隐式方程组定理**
+
+若
++ $F(x, y, u, v)$与$G(x, y, u, v)$在以$P_0(x_0, y_0, u_0, v_0)$为内点的区域$D \subset \mathcal{R}^4$上连续；
+
++ $F(x_0, y_0, u_0, v_0) = 0, G(x_0, y_0, u_0, v_0) = 0$(初始条件)；
+
++ 在$D$上$F, G$具有连续的一阶偏导数；
+
++ $J = \dfrac{\partial (F, G)}{\partial (u, v)} = \left|\begin{array}{cc} F_u & F_v \newline G_u & G_v \end{array}\right| \ne 0$
+
+则：
+
++ 在点$P_0$的某一邻域内方程组确定了定义在$Q_0(x_0, y_0)$的某一(二维空间)邻域$U(Q_0)$的两个二元隐函数$u = f(x, y), v = g(x, y)$，使得
+  - $(x, y, f(x,y), g(x,y)) \in U(P_0)$;
+  
+  - $F(x, y, f(x,y), g(x,y)) \equiv 0$
+  
+  - $G(x, y, f(x,y), g(x,y)) \equiv 0$
+
++ $f(x,y), g(x,y)$在$U(Q_0)$上连续；
+
++ $f(x,y), g(x,y)$在$U(Q_0)$上具有连续偏导数，且有
+
+<center>
+$\dfrac{\partial u}{\partial x} = -\dfrac{1}{J}\dfrac{\partial (F,G)}{\partial (x,v)}, \dfrac{\partial v}{\partial x} = -\dfrac{1}{J}\dfrac{\partial (F,G)}{\partial (u,x)}$
+</center>
+
+<center>
+$\dfrac{\partial u}{\partial y} = -\dfrac{1}{J}\dfrac{\partial (F,G)}{\partial (y,v)}, \dfrac{\partial v}{\partial y} = -\dfrac{1}{J}\dfrac{\partial (F,G)}{\partial (u,y)}$
+</center>
 ---
 
 ## 📚参考书目
