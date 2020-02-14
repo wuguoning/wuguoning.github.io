@@ -832,7 +832,7 @@ $\left[\dfrac{\partial z}{\partial u}, \dfrac{\partial z}{\partial v}\right]  = 
 ---
 **✏️例子**
 
-设$w = f(x^2 + y^2 + z^2, xyz) $，$f$具有连续的二阶偏导数，求$\dfrac{\partial f}{\partial x}, \dfrac{\partial^2 f}{\partial x \parital z}$
+设$w = f(x^2 + y^2 + z^2, xyz) $，$f$具有连续的二阶偏导数，求$\dfrac{\partial f}{\partial x}, \dfrac{\partial^2 f}{\partial x \partial z}$
 
 <details>
 <summary>Click to expand!</summary>
@@ -844,7 +844,7 @@ $\dfrac{\partial w}{\partial x} = f_1 2x + f_2yz$
 </center>
 
 <center>
-$\dfrac{\partial^2 w}{\partial x \partial z} = \dfrac{\partial}{\partial z}\left(f_1 2x + f_2yz\right) = f_{11}(4xz) + f_{12}(4x^2y) + f_{22}(y^2xz) + yf_2$
+$\dfrac{\partial^2 w}{\partial x \partial z} = \dfrac{\partial}{\partial z}\left(f_1 2x + f_2yz\right) = f_{11}(4xz) + f_{12}(2x^2y + 2yz^2) + f_{22}(y^2xz) + yf_2$
 </center>
 
 </details>
