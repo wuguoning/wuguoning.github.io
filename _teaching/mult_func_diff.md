@@ -1232,7 +1232,7 @@ $\dfrac{x - x_0}{\dfrac{\Delta x}{\Delta t}} = \dfrac{y - y_0}{\dfrac{\Delta y}{
 $\dfrac{x - x_0}{x'(t_0)} = \dfrac{y - y_0}{y'(t_0)} = \dfrac{z - z_0}{z'(t_0)}$
 </center>
 
-在$P_0$点的<span style="color=red">**法平面方程**</span>为：
+在$P_0$点的<span style="color:red">**法平面方程**</span>为：
 
 <center>
 $x'(t_0)(x - x_0) + y'(t_0)(y - y_0) + z'(t_0)(z - z_0) = 0$
