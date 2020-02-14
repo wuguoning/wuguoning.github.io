@@ -1083,9 +1083,17 @@ $\dfrac{\partial (F, G)}{\partial (x,v)}(P_0) = 0$
 如果我们想求得$x = x(u, v), y = y(u,v)$的偏导数，我们只需对方程组的两边关于$u,v$求偏导数，得到
 
 <center>
-$ \left\{\begin{array}{l} F(x,y,u,v) = 2u - 2xx_u - y_u = 0 \newline -1 - yx_u - xy_u = 0 \end{array}\right.$
+$ \left\{\begin{array}{l} 2u - 2xx_u - y_u = 0 \newline -1 - yx_u - xy_u = 0 \end{array}\right.$
 
-$ \left\{\begin{array}{l} F(x,y,u,v) = 2v - 2xx_v - y_v = 0 \newline 1 - yx_v - xy_v = 0 \end{array}\right.$
+$ \left\{\begin{array}{l} 2v - 2xx_v - y_v = 0 \newline 1 - yx_v - xy_v = 0 \end{array}\right.$
+</center>
+
+得到，
+
+<center>
+$x_u = \dfrac{2xu + 1}{2x^2 - y}, y_u = -\dfrac{2x + 2yu}{2x^2 - y}$ 
+
+$x_v = \dfrac{2xv + 1}{2x^2 - y}, y_v = \dfrac{2x - 2yv}{2x^2 - y}$
 </center>
 </details>
 
