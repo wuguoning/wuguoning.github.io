@@ -968,7 +968,25 @@ $6x + 6y\left(\dfrac{\mathrm{d}y}{\mathrm{d}x}\right)^2 + 3y^2\dfrac{\mathrm{d}^
 </center>
 
 ---
+**✏️例子(反函数求导公式)**
 
+设$y = f(x)$在$x_0$的某邻域上具有连续的导数$f'(x)$，且$f(x_0) = y_0$，考虑方程
+
+<center>
+$F(x,y) = y - f(x) = 0$
+</center>
+
+由于
+
+<center>
+$F(x_0,y_0) = y_0 - f(x_0) = 0, F'_y(x, y) = 1, F_x'(x_0, y_0) = -f'(x_0)$
+</center>
+
+所以只要$f'(x_0) \ne 0$得到隐函数$x = g(y)$为$y = f(x)$的反函数。且有：
+
+<center>
+$g'(y) = - \dfrac{F_y}{F_x} = -\dfrac{1}{-f'(x)} = \dfrac{1}{f'(x)}$
+</center>
 
 ---
 
