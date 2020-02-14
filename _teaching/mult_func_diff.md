@@ -1265,6 +1265,24 @@ $x = \varphi(z), y = \psi(z), z = z$.
 $\dfrac{x - x_0}{\left.\dfrac{\mathrm{d}x}{\mathrm{d}z}\right\vert_{P_0}} = \dfrac{y - y_0}{\left.\dfrac{\mathrm{d}y}{\mathrm{d}z}\right\vert_{P_0}}  = \dfrac{z - z_0}{1}$
 </center>
 
+即，整理后的<span style="color:red">**切线方程**</span>
+
+<center>
+$\dfrac{x - x_0}{\left.\dfrac{\partial (F, G)}{\partial (y, z)}\right\vert_{P_0}} = \dfrac{y - y_0}{\left.\dfrac{\partial (F, G)}{\partial (z, x)}\right\vert_{P_0}}  = \dfrac{z - z_0}{\left.\dfrac{\partial (F, G)}{\partial (x, y)}\right\vert_{P_0}}$
+</center>
+
+整理后的<span style="color:red">**法平面方程**</span>
+
+<center>
+$\left.\dfrac{\partial (F, G)}{\partial (y, z)}\right\vert_{P_0}(x - x_0) + \left.\dfrac{\partial (F, G)}{\partial (z, x)}\right\vert_{P_0}(y - y_0) + \left.\dfrac{\partial (F, G)}{\partial (x, y)}\right\vert_{P_0}(z - z_0) = 0$
+</center>
+
+<span style="color:red">**空间曲线的切向量</span>为：
+
+<center>
+$\left\vert\begin{array}{ccc} i & j & k \newline F_x & F_y & F_z \newline G_x & G_y & G_z \end{array}\right\vert_{P_0}$
+</center>
+
 
 
 
