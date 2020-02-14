@@ -852,6 +852,19 @@ $\dfrac{\partial^2 w}{\partial x \partial z} = \dfrac{\partial}{\partial z}\left
 </details>
 
 ---
+**✏️例子**
+
+设$z = f(u, v, t) = uv + \sin t$，而$u = e^t, u = \cos t$，求导数$\dfrac{\mathrm{d}z}{\mathrm{d}t}$
+
+<details>
+解：
+
+$\dfrac{\mathrm{d}z}{\mathrm{d}t} = \dfrac{\partial f}{\partial u}\dfrac{\mathrm{d}u}{\mathrm{d}t} + \dfrac{\partial f}{\partial v}\dfrac{\mathrm{d}v}{\mathrm{d}t} = ve^t - u\sin t + \cos t$
+
+</details>
+
+---
+
 ## 📚参考书目
 
 📖1. 《高等数学》上下册（第七版），同济大学，高等教育出版社，2014.7.
