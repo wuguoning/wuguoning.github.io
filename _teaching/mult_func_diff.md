@@ -1083,19 +1083,77 @@ $\dfrac{\partial (F, G)}{\partial (x,v)}(P_0) = 0$
 如果我们想求得$x = x(u, v), y = y(u,v)$的偏导数，我们只需对方程组的两边关于$u,v$求偏导数，得到
 
 <center>
-$ \left\{\begin{array}{l} 2u - 2xx_u - y_u = 0 \newline -1 - yx_u - xy_u = 0 \end{array}\right.$
-
 $ \left\{\begin{array}{l} 2v - 2xx_v - y_v = 0 \newline 1 - yx_v - xy_v = 0 \end{array}\right.$
+</center>
+<center>
+$ \left\{\begin{array}{l} 2u - 2xx_u - y_u = 0 \newline -1 - yx_u - xy_u = 0 \end{array}\right.$
 </center>
 
 得到，
 
 <center>
 $x_u = \dfrac{2xu + 1}{2x^2 - y}, y_u = -\dfrac{2x + 2yu}{2x^2 - y}$ 
-
+</center>
+<center>
 $x_v = \dfrac{2xv + 1}{2x^2 - y}, y_v = \dfrac{2x - 2yv}{2x^2 - y}$
 </center>
 </details>
+
+---
+**反函数组与坐标变换**
+
+设函数组
+
+<center>
+$ \left\{\begin{array}{l} u = u(x,y) \newline v = v(x,y) \end{array}\right.$
+</center>
+确定了一个从二维空间到二维空间的变换，把该方程组改写为：
+
+<center>
+$ \left\{\begin{array}{l} F(x,y,u,v) = u - u(x,y) = 0 \newline G(x,y,u,v) = v - v(x,y) = 0 \end{array}\right.$
+</center>
+
+如果在$P_0(x_0, y_0)$点满足：
+
+<center>
+$ u_0 = u(x_0, y_0), v_0 = v(x_0, y_0), \left.\dfrac{\partial (u,v)}{\partial (x, y)}\right\vert_{P_0} \ne 0$
+</center>
+
+则在$P'_0(u_0, v_0)$的某一邻域内$U(P'_0)$上存在唯一的反函数组
+
+<center>
+$ \left\{\begin{array}{l} x = x(u,v) \newline y = y(u,v) \end{array}\right.$
+</center>
+
+使得$x_0 = x(u_0, v_0), y_0 = y(u_0, v_0)$
+
+此外，反函数方程组存在连续的一阶偏导数，且有：
+
+<center>
+$ \dfrac{\partial x}{\partial u} =   \left.\dfrac{\partial v}{\partial y}\right/\dfrac{\partial (u, v)}{\partial (x, y)},
+  \dfrac{\partial x}{\partial v} = - \left.\dfrac{\partial u}{\partial y}\right/\dfrac{\partial (u, v)}{\partial (x, y)}$
+</center>
+
+<center>
+$ \dfrac{\partial y}{\partial u} = - \left.\dfrac{\partial v}{\partial x}\right/\dfrac{\partial (u, v)}{\partial (x, y)},
+  \dfrac{\partial x}{\partial v} =   \left.\dfrac{\partial u}{\partial x}\right/\dfrac{\partial (u, v)}{\partial (x, y)}$
+</center>
+
+另有：
+
+<center>
+$ \dfrac{\partial (u, v)}{\partial (x, y)}\cdot \dfrac{\partial (x,y)}{\partial (u,v)} = 1
+</center>
+
+---
+
+
+
+
+
+
+
+
 
 ---
 
