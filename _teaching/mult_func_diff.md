@@ -1174,13 +1174,20 @@ $ \theta = \left\{\begin{array}{ll} \arctan \dfrac{y}{x}, & x > 0 \newline \pi +
 </center>
 
 ---
-😓😓😓 A lot of math!
+<center>
+# 😓😓😓 A lot of math!
+</center>
 
 ---
+<a name="cotes1"></a>
+## 📌**8. 多元函数微分几何应用**
+
+---
+**空间曲线的切线与法平面**
 
 
-
-
+---
+**空间曲面的切平面与法向量**
 
 ---
 
