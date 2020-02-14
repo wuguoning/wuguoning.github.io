@@ -886,7 +886,7 @@ $\dfrac{\mathrm{d}z}{\mathrm{d}t} = \dfrac{\partial f}{\partial u}\dfrac{\mathrm
 <center>
 $y = x^2 + 1, w = xyz + \sin yz + e^{xy}, \cdots$
 </center>
-这种形式的函数称为<span style="color:red">**显函数**。但是在不少情况下常常会遇到另一种形式的函数，其自变量与因变量之间的对应法则有一个方程所确定，通常称为<span style="color:red">**隐函数**</span>。例如：$z = x^2 + y^2$这个二元函数，当确定$z = 1$时，确定了一个隐函数：$x^2 + y^2 = 1$。例如曲面
+这种形式的函数称为<span style="color:red">**显函数**</span>。但是在不少情况下常常会遇到另一种形式的函数，其自变量与因变量之间的对应法则有一个方程所确定，通常称为<span style="color:red">**隐函数**</span>。例如：$z = x^2 + y^2$这个二元函数，当确定$z = 1$时，确定了一个隐函数：$x^2 + y^2 = 1$。例如曲面
 <center>
 $z = 3(1-x^2)e^{-(x - 0.5)^2 - (y + 1)^2} - 2(\dfrac{x}{5} - x^3 - y^5)e^{-x^2-y^2 - \dfrac{1}{3}e^{-(x+1)^2-(y-1)^2}}$
 </center>
@@ -897,13 +897,25 @@ $0.44 = 3(1-x^2)e^{-(x - 0.5)^2 - (y + 1)^2} - 2(\dfrac{x}{5} - x^3 - y^5)e^{-x^
 
 <center>
   <a href="https://www.geogebra.org/3d/wart6zgs">
-    <img src="./imags/calculus/implicit_exp1.png" width="500" height="400"/>
-    <img src="./imags/calculus/implicit_exp2.png" width="500" height="400"/>
+    <img src="./imags/calculus/implicit_exp1.png" width="500" height="300"/>
+    <img src="./imags/calculus/implicit_exp2.png" width="500" height="300"/>
   </a>
 </center>
 
+---
+**一个方程的情形**
 
+设函数$F(x,y)$在点$P_0(x_0, y_0)$的某一邻域内具有连续的偏导数，且满足：
+  
+  + $F(x_0, y_0) = 0$(初始条件)；
 
+  + $F_y(x_0, y_0) \ne =$(偏导数不为零)；
+
+则方程$F(x, y) = 0$在点$P_0(x_0, y_0)$的某一邻域内能唯一确定✅一个连续且具有连续导数的函数$y = f(x)$，它满足：
+
+  + $y_0 = f(x_0)$;
+
+  + $\dfrac{\mathrm{d}f}{\mathrm{d}x} = \dfrac{-F_x}{F_y}$(<span style="color:red">**求导公式**</span>)
 
 ---
 
