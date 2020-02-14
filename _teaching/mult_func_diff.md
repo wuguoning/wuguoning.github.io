@@ -1099,6 +1099,8 @@ $x_v = \dfrac{2xv + 1}{2x^2 - y}, y_v = \dfrac{2x - 2yv}{2x^2 - y}$
 </center>
 </details>
 
+😓😓😓 A lot of math!
+
 ---
 **反函数组与坐标变换**
 
@@ -1142,8 +1144,10 @@ $ \dfrac{\partial y}{\partial u} = - \left.\dfrac{\partial v}{\partial x}\right/
 另有：
 
 <center>
-$ \dfrac{\partial (u, v)}{\partial (x, y)}\cdot \dfrac{\partial (x,y)}{\partial (u,v)} = 1
+$ \dfrac{\partial (u, v)}{\partial (x, y)}\cdot \dfrac{\partial (x,y)}{\partial (u,v)} = 1$
 </center>
+
+😓😓😓 A lot of math!
 
 ---
 **✏️例子**
@@ -1168,8 +1172,9 @@ $\rho = \sqrt{x^2 + y^2}$
 $ \theta = \left\{\begin{array}{ll} \arctan \dfrac{y}{x}, & x > 0 \newline \pi + \arctan \dfrac{y}{x}, & x < 0  end{array}\right.$
 </center>
 
+😓😓😓 A lot of math!
 
-
+---
 
 
 
