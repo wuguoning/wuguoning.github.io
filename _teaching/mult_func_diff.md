@@ -1185,6 +1185,57 @@ $ \theta = \left\{\begin{array}{ll} \arctan \dfrac{y}{x}, & x > 0 \newline \pi +
 ---
 **空间曲线的切线与法平面**
 
+首先设平面曲线由方程$F(x,y) = 0$给出，它在$P_0(x_0, y_0)$点的某个邻域内满足隐函数存在条件，于是在$P_0$点附近确定一个连续可微函数$y = f(x)$(或者$x = g(y)$),其切线和法线方程为：
+
+<center>
+$y - y_0 = f'(x_0)(x - x_0)$
+</center>
+
+<center>
+$y - y_0 = -\dfrac{1}{f'(x_0)}(x - x_0)$
+</center>
+由于$f'(x) = -\dfrac{F_x}{F_y}$
+所以曲线$F(x,y) = 0$ 在$P_0(x_0, y_0)$点的切线和法线方程为：
+
+<center>
+$F_x(x_0, y_0)(x - x_0) + F_y(x_0, y_0)(y - y_0) 0$
+</center>
+
+<center>
+$F_x(x_0, y_0)(x - x_0) - F_y(x_0, y_0)(y - y_0) 0$
+</center>
+
+下面讨论曲线由参数方程$x = x(t), y = y(t), z = z(t), \alpha \le t \le \beta$表示的空间曲线在$P_0(x_0, y_0, z_0)$点的切线和法平面方程，这里$x_0 = x(t_0), y_0 = y(t_0), z_0 = z(t_0)$.
+
+我们知道空间曲线在一点的切线可以看作割线的极限，对于上述参数方程假设：
+<center>
+$[x'(t_0)]^2 + [y'(t_0)]^2 + [z'(t_0)]^2 \ne 0$
+</center>
+
+在曲线上$P_0(x_0, y_0, z_0)$点的附近选取一点$P(x, y, z)$，于是连接$P_0P$的割线方程为：
+
+<center>
+$\dfrac{x - x_0}{\Delta x} = \dfrac{y - y_0}{\Delta y} = \dfrac{z - z_0}{\Delta z}$
+</center>
+
+上式同除以$\Delta t$得到：
+
+<center>
+$\dfrac{x - x_0}{\dfrac{\Delta x}{\Delta t}} = \dfrac{y - y_0}{\dfrac{\Delta y}{\Delta t}} = \dfrac{z - z_0}{\dfrac{\Delta z}{\Delta t}}$
+</center>
+
+当$\Delta t \to 0$,得到在$P_0$点的切线方程为：
+
+<center>
+$\dfrac{x - x_0}{x'(t_0)} = \dfrac{y - y_0}{y'(t_0)} = \dfrac{z - z_0}{z'(t_0)}$
+</center>
+
+在$P_0$点的发平面方程为：
+
+<center>
+$x'(t_0)(x - x_0) + y'(t_0)(y - y_0) + z'(t_0)(z - z_0) = 0$
+</center>
+
 
 ---
 **空间曲面的切平面与法向量**
