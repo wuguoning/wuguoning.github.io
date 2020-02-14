@@ -18,6 +18,7 @@ location: "Beijing, CN"
 + [第五节 方向导数与梯度](#cotes5)
 + [第六节 复合函数求导法则](#cotes6)
 
+===
 
 <a name="cotes1"></a>
 ## 📌**1. 平面点集与多元函数**
@@ -133,7 +134,8 @@ location: "Beijing, CN"
 
   - $f(x, y, z) = \sqrt{R^2 - x^2 - y^2} + \dfrac{1}{\sqrt{x^2 + y^2 + z^2}}(R > r)$
 
----
+===
+
 <a name="cotes2"></a>
 ## 📌**2. 二元函数的极限**
 
@@ -230,7 +232,8 @@ $
 
 + 函数$z = \dfrac{y^2 + 2x}{y^2 - 2x}$在何处间断？
 
----
+===
+
 <a name="cotes3"></a>
 ## 📌**3. 二元函数的连续**
 
@@ -276,7 +279,8 @@ $
     $f(x, y) = \left\{\begin{array}{cl}  \dfrac{\sin xy}{\sqrt{x^2 + y^2}}, & x^2 + y^2 \ne 0 \newline  0, & x^2 + y^2 = 0 \end{array} \right. $
     </center>
 
----
+===
+
 <a name="cotes4"></a>
 ## 📌**1. 二元函数可微性**
 
@@ -528,7 +532,8 @@ $\mathrm{d}u = \mathrm{d}x + \left(\dfrac{1}{2}\sin \dfrac{y}{2} - \dfrac{z}{y^2
 
 </details>
 
----
+===
+
 <a name="cotes5"></a>
 ## 📌**5. 方向导数与梯度**
 
@@ -744,7 +749,8 @@ $\dfrac{\partial f}{\partial \mathbf{v}}(1, 1) \cdot (\cos \alpha, \sin \alpha) 
 +  如果$f: D \subset \mathcal{R}^n \to \mathcal{R}^m$，那么$f = (f_1, f_2, \cdots, f_m)^\intercal$，其中$f_i: D \to \mathcal{R}$，这时$f'(x_1, x_2, \cdots, x_n) = \left[\begin{array}{cccc} \dfrac{\partial f_1}{\partial x_1} & \dfrac{\partial f_1}{\partial x_2} & \cdots & \dfrac{\partial f_1}{\partial x_n} \newline \dfrac{\partial f_2}{\partial x_1} & \dfrac{\partial f_2}{\partial x_2} & \cdots & \dfrac{\partial f_2}{\partial x_n} \newline 
 \vdots & \vdots & \cdots & \vdots \newline \dfrac{\partial f_m}{\partial x_1} & \dfrac{\partial f_m}{\partial x_2} & \cdots & \dfrac{\partial f_m}{\partial x_n}\end{array} \right]$.
 
----
+===
+
 <a name="cotes2"></a>
 ## 📌**6. 复合函数求导法则**
 
@@ -861,12 +867,15 @@ $\dfrac{\mathrm{d}z}{\mathrm{d}t} = \dfrac{\partial f}{\partial u}\dfrac{\mathrm
 
 </details>
 
----
+
+
+===
+
 <a name="cotes7"></a>
 ## 📌**7. 隐函数求导法则**
 
 
----
+===
 
 ## 📚参考书目
 
@@ -883,7 +892,8 @@ $\dfrac{\mathrm{d}z}{\mathrm{d}t} = \dfrac{\partial f}{\partial u}\dfrac{\mathrm
 📖6.  Thomas's Calculus, Weir, Maurice D etc., Addison-Wesley, 2010.
 
 
----
+===
+
 # Calculus and its Visualization: an Introduction
 
 <center>
@@ -893,7 +903,8 @@ $\dfrac{\mathrm{d}z}{\mathrm{d}t} = \dfrac{\partial f}{\partial u}\dfrac{\mathrm
 </center>
 
 
----
+===
+
 # 👏 THANKS
 
 <center>
