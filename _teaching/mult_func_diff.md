@@ -1031,7 +1031,7 @@ $
 
 + 在$D$上$F, G$具有连续的一阶偏导数；
 
-+ $J = \dfrac{\partial (F, G)}{\partial (u, v)} = \left|\begin{array}{cc} F_u & F_v \newline G_u & G_v \end{array}\right| \ne 0$
++ $J = \dfrac{\partial (F, G)}{\partial (u, v)} = \left\vert\begin{array}{cc} F_u & F_v \newline G_u & G_v \end{array}\right\vert \ne 0$
 
 则：
 
