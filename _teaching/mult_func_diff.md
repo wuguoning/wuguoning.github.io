@@ -1136,7 +1136,7 @@ $ \dfrac{\partial x}{\partial u} =   \left.\dfrac{\partial v}{\partial y}\right/
 
 <center>
 $ \dfrac{\partial y}{\partial u} = - \left.\dfrac{\partial v}{\partial x}\right/\dfrac{\partial (u, v)}{\partial (x, y)},
-  \dfrac{\partial x}{\partial v} =   \left.\dfrac{\partial u}{\partial x}\right/\dfrac{\partial (u, v)}{\partial (x, y)}$
+  \dfrac{\partial y}{\partial v} =   \left.\dfrac{\partial u}{\partial x}\right/\dfrac{\partial (u, v)}{\partial (x, y)}$
 </center>
 
 另有：
