@@ -1240,6 +1240,12 @@ $x'(t_0)(x - x_0) + y'(t_0)(y - y_0) + z'(t_0)(z - z_0) = 0$
 
 ---
 
+当空间曲线由方程
+<center>
+$L: \left\{\begin{array}{l}F(x,y,z) = 0 \newline G(x,y,z) = 0\end{array}\right. $
+</center>
+给出。若它在$P_0(x_0, y_0, z_0)$点的某邻域上满足隐函数存在的条件。这里不妨假设$\left.\dfrac{\partial (F, G)}{\partial (x, y)}\right\vert_{P_0} \ne 0$。
+
 
 
 ---
