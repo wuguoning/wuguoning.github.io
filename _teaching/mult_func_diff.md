@@ -17,8 +17,9 @@ location: "Beijing, CN"
 + [第四节 二元函数可微性](#cotes4)
 + [第五节 方向导数与梯度](#cotes5)
 + [第六节 复合函数求导法则](#cotes6)
++ [第七节 隐函数求导法则](#cotes7)
 
-===
+---
 
 <a name="cotes1"></a>
 ## 📌**1. 平面点集与多元函数**
@@ -134,7 +135,7 @@ location: "Beijing, CN"
 
   - $f(x, y, z) = \sqrt{R^2 - x^2 - y^2} + \dfrac{1}{\sqrt{x^2 + y^2 + z^2}}(R > r)$
 
-===
+---
 
 <a name="cotes2"></a>
 ## 📌**2. 二元函数的极限**
@@ -196,6 +197,7 @@ $
 讨论极限$\lim\limits_{(x, y) \to (0, 0)} \dfrac{x^2 + y^2}{\sqrt{x^2 + y^2 + 1} - 1}$
 
 <details>
+<summary>⬇️ Click to expand!</summary>
 解： 
 $
 \begin{split}
@@ -232,7 +234,7 @@ $
 
 + 函数$z = \dfrac{y^2 + 2x}{y^2 - 2x}$在何处间断？
 
-===
+---
 
 <a name="cotes3"></a>
 ## 📌**3. 二元函数的连续**
@@ -279,7 +281,7 @@ $
     $f(x, y) = \left\{\begin{array}{cl}  \dfrac{\sin xy}{\sqrt{x^2 + y^2}}, & x^2 + y^2 \ne 0 \newline  0, & x^2 + y^2 = 0 \end{array} \right. $
     </center>
 
-===
+---
 
 <a name="cotes4"></a>
 ## 📌**1. 二元函数可微性**
@@ -422,6 +424,7 @@ f_y.subs([(x,1),(y,3)])
 **✏️例子**
 设$z = x^3y^2 - 3xy^3 - xy + 1$求 $\dfrac{\partial^2 z}{\partial x^2}, \dfrac{\partial^2 z}{\partial x \partial y}$
 <details>
+<summary>⬇️ Click to expand!</summary>
 解： $\dfrac{\partial z}{\partial x} = 3x^2y^2 - 3y^3 - y, \dfrac{\partial z}{\partial y} = 2x^3y - 9xy^2 - x$
 
 
@@ -522,7 +525,7 @@ $\dfrac{f(\Delta x, \Delta y) - f(0, 0)- 0\Delta x - 0\Delta y}{\sqrt{(\Delta x)
 求函数$u = x - \cos \dfrac{y}{2} + \arctan \dfrac{z}{y}$的全微分。
 
 <details>
-<summary>Click to expand!</summary>
+<summary>⬇️ Click to expand!</summary>
 解：由于
 $\dfrac{\partial u}{\partial x} = 1, \dfrac{\partial u}{\partial y} = \dfrac{1}{2}\sin \dfrac{y}{2} - \dfrac{z}{y^2 + z^2}, \dfrac{\partial u}{\partial z} = \dfrac{y}{y^2 + z^2}$
 
@@ -532,7 +535,7 @@ $\mathrm{d}u = \mathrm{d}x + \left(\dfrac{1}{2}\sin \dfrac{y}{2} - \dfrac{z}{y^2
 
 </details>
 
-===
+---
 
 <a name="cotes5"></a>
 ## 📌**5. 方向导数与梯度**
@@ -680,6 +683,7 @@ $f(x,y) = \dfrac{-x^2(x+1)\dfrac{x-2}{4} - \dfrac{y^4 - 2y^2 + y + 2}{3}+2xy}{2}
   + 沿着那个方向的方向导数为零。
 
 <details>
+<summary>⬇️ Click to expand!</summary>
 解：函数在$P_0(1,1)$处的梯度为：
 <center>
 $\nabla f(1,1) = \left(2x - y, 2y - x\right)_{(1,1)} = (1, 1)$
@@ -749,7 +753,7 @@ $\dfrac{\partial f}{\partial \mathbf{v}}(1, 1) \cdot (\cos \alpha, \sin \alpha) 
 +  如果$f: D \subset \mathcal{R}^n \to \mathcal{R}^m$，那么$f = (f_1, f_2, \cdots, f_m)^\intercal$，其中$f_i: D \to \mathcal{R}$，这时$f'(x_1, x_2, \cdots, x_n) = \left[\begin{array}{cccc} \dfrac{\partial f_1}{\partial x_1} & \dfrac{\partial f_1}{\partial x_2} & \cdots & \dfrac{\partial f_1}{\partial x_n} \newline \dfrac{\partial f_2}{\partial x_1} & \dfrac{\partial f_2}{\partial x_2} & \cdots & \dfrac{\partial f_2}{\partial x_n} \newline 
 \vdots & \vdots & \cdots & \vdots \newline \dfrac{\partial f_m}{\partial x_1} & \dfrac{\partial f_m}{\partial x_2} & \cdots & \dfrac{\partial f_m}{\partial x_n}\end{array} \right]$.
 
-===
+---
 
 <a name="cotes2"></a>
 ## 📌**6. 复合函数求导法则**
@@ -791,7 +795,7 @@ $\left[\dfrac{\partial z}{\partial u}, \dfrac{\partial z}{\partial v} \right]_{(
 设$z = ax + by, x = cu + dv, y = eu + fv (a, b, c, d \in \mathcal{R})$，求$\dfrac{\partial z}{\partial u}, \dfrac{\partial z}{\partial v}$
 
 <details>
-<summary>Click to expand!</summary>
+<summary>⬇️ Click to expand!</summary>
 <center>
 $\dfrac{\partial z}{\partial u} = \dfrac{\partial z}{\partial x}\dfrac{\partial x}{\partial u} + \dfrac{\partial z}{\partial y}\dfrac{\partial y}{\partial u} = ac + be$
 </center>
@@ -819,7 +823,7 @@ $\left[\dfrac{\partial z}{\partial u}, \dfrac{\partial z}{\partial v}\right]  = 
 
 设$z = \dfrac{x^2}{y}, x = u - 2v, y = 2u + v $，求$\dfrac{\partial z}{\partial u}, \dfrac{\partial z}{\partial v}$
 <details>
-<summary>Click to expand!</summary>
+<summary>⬇️ Click to expand!</summary>
 <center>
 $\dfrac{\partial z}{\partial u} = \dfrac{\partial z}{\partial x}\dfrac{\partial x}{\partial u} + \dfrac{\partial z}{\partial y}\dfrac{\partial y}{\partial u} = \dfrac{2x}{y}1 + \left(-\dfrac{x^2}{y^2}\right)2$
 </center>
@@ -841,7 +845,7 @@ $\left[\dfrac{\partial z}{\partial u}, \dfrac{\partial z}{\partial v}\right]  = 
 设$w = f(x^2 + y^2 + z^2, xyz) $，$f$具有连续的二阶偏导数，求$\dfrac{\partial f}{\partial x}, \dfrac{\partial^2 f}{\partial x \partial z}$
 
 <details>
-<summary>Click to expand!</summary>
+<summary>⬇️ Click to expand!</summary>
 解：
 另$u = x^2 + y^2 + z^2, v = xyz$,且记$f_1 = \dfrac{\partial f}{\partial u}, f_2 = \dfrac{\partial f}{\partial v}, f_{12} = \dfrac{\partial^2 f}{\partial u \partial v}$ 等等，有：
 
@@ -861,6 +865,7 @@ $\dfrac{\partial^2 w}{\partial x \partial z} = \dfrac{\partial}{\partial z}\left
 设$z = f(u, v, t) = uv + \sin t$，而$u = e^t, u = \cos t$，求导数$\dfrac{\mathrm{d}z}{\mathrm{d}t}$
 
 <details>
+<summary>⬇️ Click to expand!</summary>
 解：
 
 $\dfrac{\mathrm{d}z}{\mathrm{d}t} = \dfrac{\partial f}{\partial u}\dfrac{\mathrm{d}u}{\mathrm{d}t} + \dfrac{\partial f}{\partial v}\dfrac{\mathrm{d}v}{\mathrm{d}t} = ve^t - u\sin t + \cos t$
@@ -869,13 +874,38 @@ $\dfrac{\mathrm{d}z}{\mathrm{d}t} = \dfrac{\partial f}{\partial u}\dfrac{\mathrm
 
 
 
-===
+---
 
 <a name="cotes7"></a>
 ## 📌**7. 隐函数求导法则**
 
+---
+**隐式函数**
 
-===
+之前我们接触的函数，其表达式大多是自变量的某个算式，如：
+<center>
+$y = x^2 + 1, w = xyz + \sin yz + e^{xy}, \cdots$
+</center>
+这种形式的函数称为<span style="color:red">**显函数**。但是在不少情况下常常会遇到另一种形式的函数，其自变量与因变量之间的对应法则有一个方程所确定，通常称为<span style="color:red">**隐函数**</span>。例如：$z = x^2 + y^2$这个二元函数，当确定$z = 1$时，确定了一个隐函数：$x^2 + y^2 = 1$。例如曲面
+<center>
+$z = 3(1-x^2)e^{-(x - 0.5)^2 - (y + 1)^2} - 2(\dfrac{x}{5} - x^3 - y^5)e^{-x^2-y^2 - \dfrac{1}{3}e^{-(x+1)^2-(y-1)^2}}$
+</center>
+当$z = 0.44$时得到方程，见下图：
+<center>
+$0.44 = 3(1-x^2)e^{-(x - 0.5)^2 - (y + 1)^2} - 2(\dfrac{x}{5} - x^3 - y^5)e^{-x^2-y^2 - \dfrac{1}{3}e^{-(x+1)^2-(y-1)^2}}$
+</center>
+
+<center>
+  <a href="https://www.geogebra.org/3d/wart6zgs">
+    <img src="./imags/calculus/implicit_exp1.png" width="500" height="400"/>
+    <img src="./imags/calculus/implicit_exp2.png" width="500" height="400"/>
+  </a>
+</center>
+
+
+
+
+---
 
 ## 📚参考书目
 
@@ -892,7 +922,7 @@ $\dfrac{\mathrm{d}z}{\mathrm{d}t} = \dfrac{\partial f}{\partial u}\dfrac{\mathrm
 📖6.  Thomas's Calculus, Weir, Maurice D etc., Addison-Wesley, 2010.
 
 
-===
+---
 
 # Calculus and its Visualization: an Introduction
 
@@ -903,7 +933,7 @@ $\dfrac{\mathrm{d}z}{\mathrm{d}t} = \dfrac{\partial f}{\partial u}\dfrac{\mathrm
 </center>
 
 
-===
+---
 
 # 👏 THANKS
 
