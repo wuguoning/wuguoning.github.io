@@ -802,9 +802,13 @@ $\dfrac{\partial z}{\partial v} = \dfrac{\partial z}{\partial x}\dfrac{\partial 
 $\left[\dfrac{\partial z}{\partial u}, \dfrac{\partial z}{\partial v}\right]  = \left[ \dfrac{\partial z}{\partial x},  \dfrac{\partial z}{\partial y} \right] \left[\begin{array}{cc} \dfrac{\partial x}{\partial u} & \dfrac{\partial x}{\partial v} \newline  \dfrac{\partial y}{\partial u} & \dfrac{\partial y}{\partial v}\end{array}\right] = \left[a, b\right]\left[\begin{array}{cc} c & d \newline e & f\end{array}\right] = \left[ac+be, ad+bf\right]$
 </center>
 
-<span style="color:red">两个线形变换符合的导数对应于导数的乘积</span>
-<span style="color:red">两个非线形变换符合的导数对应于❓❓的❓❓</span>
 </details>
+
+---
+**🤔思考**
++ <span style="color:red">两个线形变换符合的导数对应于导数的乘积</span>
+
++ <span style="color:red">两个非线形变换符合的导数对应于❓❓的❓❓</span>
 
 ---
 **✏️例子**
