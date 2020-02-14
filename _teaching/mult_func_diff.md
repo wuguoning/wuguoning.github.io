@@ -806,8 +806,27 @@ $\left[\dfrac{\partial z}{\partial u}, \dfrac{\partial z}{\partial v}\right]  = 
 <span style="color:red">两个非线形变换符合的导数对应于❓❓的❓❓</span>
 </details>
 
-
 ---
+**✏️例子**
+
+设$z = \dfrac{x^2}{y}, x = u - 2v, y = 2u + v $，求$\dfrac{\partial z}{\partial u}, \dfrac{\partial z}{\partial v}$
+<details>
+
+<center>
+$\dfrac{\partial z}{\partial u} = \dfrac{\partial z}{\partial x}\dfrac{\partial x}{\partial u} + \dfrac{\partial z}{\partial y}\dfrac{\partial y}{\partial u} = \dfrac{2x}{y}1 + \left(-\dfrac{x^2}{y^2}\right)2$
+</center>
+
+<center>
+$\dfrac{\partial z}{\partial v} = \dfrac{\partial z}{\partial x}\dfrac{\partial x}{\partial v} + \dfrac{\partial z}{\partial y}\dfrac{\partial y}{\partial v} = \dfrac{2x}{y}(-2) + \left(-\dfrac{x^2}{y^2}\right)1$
+</center>
+
+或者
+
+<center>
+$\left[\dfrac{\partial z}{\partial u}, \dfrac{\partial z}{\partial v}\right]  = \left[ \dfrac{\partial z}{\partial x},  \dfrac{\partial z}{\partial y} \right] \left[\begin{array}{cc} \dfrac{\partial x}{\partial u} & \dfrac{\partial x}{\partial v} \newline  \dfrac{\partial y}{\partial u} & \dfrac{\partial y}{\partial v}\end{array}\right] = \left[\dfrac{2x}{y}, -\dfrac{x^2}{y^2}\right]\left[\begin{array}{cc} 1 & -2 \newline 2 & 1\end{array}\right] = \left[\dfrac{2x}{y}-\dfrac{x^2}{y^2}, \dfrac{2x}{y}(-2) - \dfrac{x^2}{y^2}\right]$
+</center>
+</details>
+
 ## 📚参考书目
 
 📖1. 《高等数学》上下册（第七版），同济大学，高等教育出版社，2014.7.
