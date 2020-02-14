@@ -1254,6 +1254,18 @@ $x = \varphi(z), y = \psi(z)$
 $\dfrac{\mathrm{d}x}{\mathrm{d}z} = -\dfrac{\dfrac{\partial (F, G)}{\partial (z, y)}}{\dfrac{\partial (F, G)}{\partial (x, y)}}, \dfrac{\mathrm{d}y}{\mathrm{d}z} = -\dfrac{\dfrac{\partial (F, G)}{\partial (x, z)}}{\dfrac{\partial (F, G)}{\partial (x, y)}}$
 </center>
 
+在$P_0$点附近，得到空间曲线的参数方程为：
+<center>
+$x = \varphi(z), y = \psi(z), z = z$.
+</center>
+
+所以切线方程为：
+
+<center>
+$\dfrac{x - x_0}{\left.\dfrac{\mathrm{d}x}{\mathrm{d}z}\right\vert_{P_0}} = \dfrac{y - y_0}{\left.\dfrac{\mathrm{d}y}{\mathrm{d}z}\right\vert_{P_0}}  = \dfrac{z - z_0}{1}$
+</center>
+
+
 
 
 ---
