@@ -996,6 +996,32 @@ $g'(y) = - \dfrac{F_y}{F_x} = -\dfrac{1}{-f'(x)} = \dfrac{1}{f'(x)}$
 </center>
 
 ---
+**隐式方程组**
+
+设有方程组
+<center>
+$
+  \left\{\begin{array}{l} F(x, y, u, v) = 0 \newline G(x, y, u, v) = 0 \end{array}\right.
+$
+</center>
+其中$F(x, y, u, v), G(x, y, u, v)$为定义在$D \subset \mathcal{R}^4$上的4元函数。若存在平面区域$E, F \subset \mathcal{R}^2$，对于$E$中的每一个点$(x, y)$，有唯一的$(u, v) \in F$，使得$(x, y, u, v) \in D$，且满足上方程组，则称有方程组确定了✅<span style="color:red">**隐式方程组**</span>
+
+<center>
+$
+  \left\{\begin{array}{l} u = f(x, y) \newline v = g(x, y) \end{array}\right.
+$
+</center>
+并在$D$上成立恒等式
+
+
+<center>
+$
+  \left\{\begin{array}{l} F(x, y, f(x, y), g(x, y)) = 0 \newline G(x, y, f(x, y), g(x, y)) = 0 \end{array}\right.
+  (x, y) \in E
+$
+</center>
+
+---
 
 ## 📚参考书目
 
