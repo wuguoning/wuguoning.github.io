@@ -989,6 +989,12 @@ $F(x_0,y_0) = y_0 - f(x_0) = 0, F'_y(x, y) = 1, F_x'(x_0, y_0) = -f'(x_0)$
 $g'(y) = - \dfrac{F_y}{F_x} = -\dfrac{1}{-f'(x)} = \dfrac{1}{f'(x)}$
 </center>
 
+<center>
+  <a href="https://www.geogebra.org/geometry/ywspypad">
+    <img src="./imags/calculus/inverse_deri.png" width="500" height="400"/>
+  </a>
+</center>
+
 ---
 
 ## 📚参考书目
