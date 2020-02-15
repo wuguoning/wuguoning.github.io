@@ -1285,6 +1285,7 @@ $\left\vert\begin{array}{ccc} i & j & k \newline F_x & F_y & F_z \newline G_x & 
 </center>
 
 ---
+**✏️例子**
 
 <center>
 <a href="https://www.geogebra.org/3d/rmvfa2uk">
