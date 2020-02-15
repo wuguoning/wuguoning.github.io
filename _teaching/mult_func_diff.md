@@ -1313,10 +1313,10 @@ $F_x(P_0)x'(t_0) + F_y(P_0)y'(t_0) + F_z(P_0)z'(t_0) = 0$
 这说明，曲面$S$上过$P_0$的任意一条光滑曲线$\Gamma$在$P_0$点的切线都与向量：
 
 <center>
-$\bf{n} = (F_x(P_0), F_y(P_0), F_z(P_0))$
+$\mathbf{n} = (F_x(P_0), F_y(P_0), F_z(P_0))$
 </center>
 
-垂直，因此这些切线都在一张平面$\Pi$上。平面$\Pi$称为曲面$S$在$P_0$点的<span style="color:red">**切平面**</span>,它的法向量$\bf{n}$为曲面$S$在$P_0$点的<span style="color:red">**法向量**</span>。
+垂直，因此这些切线都在一张平面$\Pi$上。平面$\Pi$称为曲面$S$在$P_0$点的<span style="color:red">**切平面**</span>,它的法向量$\mathbf{n}$为曲面$S$在$P_0$点的<span style="color:red">**法向量**</span>。
 
 <span style="color:red">**空间曲面$S$在$P_0$点处的切平面方程为**</span>：
 
@@ -1334,7 +1334,7 @@ $\dfrac{x - x_0}{F_x(P_0)} = \dfrac{y - y_0}{F_y(P_0)} = \dfrac{z - z_0}{F_z(P_0
 ☘︎ 若空间曲面由方程$z = f(x,y)$给出，也就是$F(x, y, z) = z - f(x, y) = 0$，则曲面在$P_0(x_0, y_0, z_0)$点处的法向量为：
 
 <center>
-$\bf{n} = (\dfrac{\partial f}{\partial x}(x_0, y_0), \dfrac{\partial f}{\partial y}(x_0, y_0), -1)$
+$\mathbf{n} = (\dfrac{\partial f}{\partial x}(x_0, y_0), \dfrac{\partial f}{\partial y}(x_0, y_0), -1)$
 </center>
 
 所以曲面$z = f(x, y)$在$P_0(x_0, y_0, z_0)$点处的<span style="color:red">**切平面和法向量为**</span>：
