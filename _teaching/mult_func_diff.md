@@ -1287,7 +1287,7 @@ $\left\vert\begin{array}{ccc} i & j & k \newline F_x & F_y & F_z \newline G_x & 
 ---
 **空间曲面的切平面与法向量**
 
-设曲面$S$方程的一般表示为：
+☘︎ 设曲面$S$方程的一般表示为：
 <center>
 $F(x, y, z) = 0$
 </center>
@@ -1327,8 +1327,27 @@ $F_x(P_0)(x - x_0) + F_y(P_0)(y - y_0) + F_z(P_0)(z - z_0) = 0 $
 <span style="color:red">**空间曲面$S$在$P_0$点处的法向量为**</span>：
 
 <center>
-$\dfrac{x - x_0}{F_x(P_0)} + \dfrac{y - y_0}{F_y(P_0)} + \dfrac{z - z_0}{F_z(P_0)} = 0 $
+$\dfrac{x - x_0}{F_x(P_0)} = \dfrac{y - y_0}{F_y(P_0)} = \dfrac{z - z_0}{F_z(P_0)} $
 </center>
+
+---
+☘︎ 若空间曲面由方程$z = f(x,y)$给出，也就是$F(x, y, z) = z - f(x, y) = 0$，则曲面在$P_0(x_0, y_0, z_0)$点处的法向量为：
+
+<center>
+$\bf{n} = (\dfrac{\partial f}{\partial x}(x_0, y_0), \dfrac{\partial f}{\partial y}(x_0, y_0), -1)$
+</center>
+
+所以曲面$z = f(x, y)$在$P_0(x_0, y_0, z_0)$点处的<span style="color:red">**切平面和法向量为**</span>：
+
+
+<center>
+$\dfrac{\partial f}{\partial x}(x_0, y_0)(x - x_0) + \dfrac{\partial f}{\partial y}(x_0, y_0)(y - y_0) - (z - z_0) = 0$
+</center>
+
+<center>
+$\dfrac{x - x_0}{\dfrac{\partial f}{\partial x}(x_0, y_0)} = \dfrac{y - y_0}{\dfrac{\partial f}{\partial y}(x_0, y_0)} = \dfrac{z - z_0}{-1} $
+</center>
+
 
 ---
 
