@@ -1285,6 +1285,14 @@ $\left\vert\begin{array}{ccc} i & j & k \newline F_x & F_y & F_z \newline G_x & 
 </center>
 
 ---
+
+<center>
+<a href="https://www.geogebra.org/3d/rmvfa2uk">
+   <img src="./imags/calculus/diff_line_exp1.png" width="400" height="500"/>
+</a>
+</center>
+
+---
 **空间曲面的切平面与法向量**
 
 ☘︎ 设曲面$S$方程的一般表示为：
