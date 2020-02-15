@@ -1290,10 +1290,22 @@ $\left\vert\begin{array}{ccc} i & j & k \newline F_x & F_y & F_z \newline G_x & 
 求球面$x^2 + y^2 + z^2 = 50$与锥面$x^2 + y^2 = z^2$所截出的曲线在$(3,4,5)$的切线和法平面方程。
 
 解：
-令$F(x, y, z) = x^2 + y^2 + z^2 -50, G(x, y, z) = x^2 + y^2 - z^2$，则有
+令$F(x, y, z) = x^2 + y^2 + z^2 -50, G(x, y, z) = x^2 + y^2 - z^2$，则有曲线在该点的切向量为：
 
 <center>
 $\left\vert\begin{array}{ccc} i & j & k \newline F_x & F_y & F_z \newline G_x & G_y & G_z \end{array}\right\vert_{P_0} = \left\vert\begin{array}{ccc} i & j & k \newline 6 & 8 & 10 \newline 6 & 8 & -10 \end{array}\right\vert$
+</center>
+
+所以法平面方程为：
+
+<center>
+$\left\vert\begin{array}{ccc} x-3 & y-4 & z-5 \newline 6 & 8 & 10 \newline 6 & 8 & -10 \end{array}\right\vert$
+</center>
+
+切线方程为：
+
+<center>
+$\dfrac{x - 3}{-4} = \dfrac{y - 4}{3} = \dfrac{y - 5}{0} $
 </center>
 
 <center>
