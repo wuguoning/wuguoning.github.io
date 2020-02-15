@@ -1287,6 +1287,15 @@ $\left\vert\begin{array}{ccc} i & j & k \newline F_x & F_y & F_z \newline G_x & 
 ---
 **✏️例子**
 
+求球面$x^2 + y^2 + z^2 = 50$与锥面$x^2 + y^2 = z^2$所截出的曲线在$(3,4,5)$的切线和法平面方程。
+
+解：
+令$F(x, y, z) = x^2 + y^2 + z^2 -50, G(x, y, z) = x^2 + y^2 - z^2$，则有
+
+<center>
+$\left\vert\begin{array}{ccc} i & j & k \newline F_x & F_y & F_z \newline G_x & G_y & G_z \end{array}\right\vert_{P_0} = \left\vert\begin{array}{ccc} i & j & k \newline 6 & 8 & 10 \newline 6 & 8 & -10 \end{array}\right\vert$
+</center>
+
 <center>
 <a href="https://www.geogebra.org/3d/rmvfa2uk">
    <img src="./imags/calculus/diff_line_exp1.png" width="400" height="500"/>
