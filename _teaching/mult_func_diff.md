@@ -1421,6 +1421,12 @@ $(x - 1) + 2(y - 1) + 3(z - 1) = 0$
 $\dfrac{x - 1}{1} = \dfrac{y - 1}{2} = \dfrac{z - 1}{3}$
 </center>
 
+<center>
+<a href="https://www.geogebra.org/3d/nw76ectw">
+   <img src="./imags/calculus/diff_surf_exp1.png" width="600" height="500"/>
+</a>
+</center>
+
 
 ---
 
