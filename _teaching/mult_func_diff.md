@@ -1450,6 +1450,38 @@ $\dfrac{x - 1}{1} = \dfrac{y - 1}{2} = \dfrac{z - 1}{3}$
 $f_x(x_0, y_0) = 0, f_y(x_0, y_0) = 0$
 </center>
 
+---
+设$z = f(x,y)$在点$(x_0, y_0)$点的某邻域内连续且具有一阶及二阶连续偏导数，又$f_x(x_0, y_0) = f_y(x_0, y_0) = 0$，令$A = f_{xx}(x_0, y_0), B = f_{xy}(x_0, y_0), C = f_{yy}(x_0, y_0)$，则$f(x,y)$在$(x_0, y_0)$是否取得极值的条件如下：
+
+  + $AC - B^2 > 0$时具有极值，且当$A > 0$时为极小值；当$A < 0$时为极大值。
+
+  + $AC - B^2 < 0$时没有极值。
+
+  + $AC - B^2 = 0$时可能有极值，也可能没有极值。
+
+---
+**条件极值与拉格朗日乘数法**
+
+欲求函数
+
+<center>
+$z = f(x, y)$
+</center>
+
+在约束条件
+<center>
+$C: \varphi(x, y) = 0$
+</center>
+
+的极值。
+
+
+<center>
+<a href="https://www.geogebra.org/3d/pfaxgcfc">
+   <img src="./imags/calculus/Lagrange_Multiplier.png" width="600" height="500"/>
+</a>
+</center>
+
 
 ---
 
