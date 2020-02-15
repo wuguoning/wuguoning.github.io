@@ -10,7 +10,7 @@ location: "Beijing, CN"
 
 这部分介绍多元函数微分及其应用。
 
-## 目录 🀦
+## 目录
 + [第一节 平面点集与多元函数](#cotes1)
 + [第二节 二元函数的极限](#cotes2)
 + [第三节 二元函数的连续](#cotes3)
@@ -19,7 +19,7 @@ location: "Beijing, CN"
 + [第六节 复合函数求导法则](#cotes6)
 + [第七节 隐函数求导法则](#cotes7)
 + [第八节 多元函数微分几何应用](#cotes8)
-+ [第九节 极值与拉格朗日乘数法](#cotes9)🀦
++ [第九节 极值与拉格朗日乘数法](#cotes9)
 
 ---
 
@@ -1435,13 +1435,21 @@ $\dfrac{x - 1}{1} = \dfrac{y - 1}{2} = \dfrac{z - 1}{3}$
 **无条件极值**
 
 ---
-对于二元函数$z = f(x,y)$，若存在$P_0(x_0, y_0)$的某个邻域$U(P_0)$使得$\forall (x, y) \in \mathring{U}(P_0)$，有$f(x, y) < f(x_0, y_0)$($f(x, y)>f(x_0, y_0)$)，则称$P_0(x_0, y_0)$为函数的<span style="color:red">**极大值点(极小值点)**</span>，$f(x_0, y_0)$为<span style="color:red">**极大值(极小值)**</span>。
+对于二元函数$z = f(x,y)$，若存在$P_0(x_0, y_0)$的某个邻域$U(P_0)$，使得$\forall (x, y) \in \mathring{U}(P_0)$，有$f(x, y) < f(x_0, y_0)$($f(x, y)>f(x_0, y_0)$)，则称$P_0(x_0, y_0)$为函数的<span style="color:red">**极大值点(极小值点)**</span>，$f(x_0, y_0)$为<span style="color:red">**极大值(极小值)**</span>。
 
 <center>
 <a href="https://www.geogebra.org/3d/nppwncny">
    <img src="./imags/calculus/local_extrema.png" width="600" height="500"/>
 </a>
 </center>
+
+---
+设$z = f(x,y)$在点$P_0(x_0, y_0)$具有偏导数，且在$P_(x_0, y_0)$处有极值，则有：
+
+<center>
+$f_x(x_0, y_0) = 0, f_y(x_0, y_0) = 0$
+</center>
+
 
 ---
 
