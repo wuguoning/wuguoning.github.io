@@ -1284,11 +1284,51 @@ $\left.\dfrac{\partial (F, G)}{\partial (y, z)}\right\vert_{P_0}(x - x_0) + \lef
 $\left\vert\begin{array}{ccc} i & j & k \newline F_x & F_y & F_z \newline G_x & G_y & G_z \end{array}\right\vert_{P_0}$
 </center>
 
-
-
-
 ---
 **空间曲面的切平面与法向量**
+
+设曲面$S$方程的一般表示为：
+<center>
+$F(x, y, z) = 0$
+</center>
+这里考虑$F$具有连续的偏导数，且$F_x^2 + F_y^2 + F_z^2 \ne 0$，$P_0(x_0, y_0, z_0)$为曲面$S$上的一点。考察曲面$S$上过点$P_0$
+的任意一条光滑曲线$\Gamma$:
+
+<center>
+$\left\vert\begin{array}{l} x = x(t) \newline y = y(t) \newline z = z(t)\end{array}\right.$
+</center>
+
+并设$x_0 = x(t_0), y_0 = y(t_0), z_0 = z(t_0)$，由于$\Gamma$在曲面$S$上，所以有：
+
+<center>
+$F(x(t), y(t), z(t)) \equiv 0$
+</center>
+
+对$t$在$t_0$处求导得到：
+
+<center>
+$F_x(P_0)x'(t_0) + F_y(P_0)y'(t_0) + F_z(P_0)z'(t_0) = 0$
+</center>
+
+这说明，曲面$S$上过$P_0$的任意一条光滑曲线$\Gamma$在$P_0$点的切线都与向量：
+
+<center>
+$\bf{n} = (F_x(P_0), F_y(P_0), F_z(P_0))$
+</center>
+
+垂直，因此这些切线都在一张平面$\Pi$上。平面$\Pi$称为曲面$S$在$P_0$点的<span style="color:red">**切平面**</span>,它的法向量$\bf{n}$为曲面$S$在$P_0$点的<span style="color:red">**法向量**</span>。
+
+<span style="color:red">**空间曲面$S$在$P_0$点处的切平面方程为**</span>：
+
+<center>
+$F_x(P_0)(x - x_0) + F_y(P_0)(y - y_0) + F_z(P_0)(z - z_0) = 0 $
+</center>
+
+<span style="color:red">**空间曲面$S$在$P_0$点处的法向量为**</span>：
+
+<center>
+$\dfrac{x - x_0}{F_x(P_0)} + \dfrac{y - y_0}{F_y(P_0)} + \dfrac{z - z_0}{F_z(P_0)} = 0 $
+</center>
 
 ---
 
