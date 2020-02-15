@@ -1357,17 +1357,17 @@ $\dfrac{x - x_0}{\dfrac{\partial f}{\partial x}(x_0, y_0)} = \dfrac{y - y_0}{\df
 $z = f(x_0, y_0) + f_x(x_0, y_0)(x - x_0) + f_y(x_0, y_0)(y - y_0)$
 </center>
 
-所以在该切平面上：
+所以在该<span style="color:red">**切平面上(注意是切平面，不是曲面)**</span>：
 
 <center>
 $z - f(x_0, y_0) = f_x(x_0, y_0)(x - x_0) + f_y(x_0, y_0)(y - y_0) = \mathrm{d}f\vert_{P_0}(\Delta x, \Delta y)$
 </center>
 
----
-  + 曲面$z = f(x,y)$在$P_0$点的全微分$\mathrm{d}f\vert_{P_0}(\Delta x, Delta y)$表示切平面从$(x_0, y_0)$到$(x_0 + \Delta x, y_0 + \Delta y)$的增量；
+  + 曲面$z = f(x,y)$在$P_0$点的全微分$\mathrm{d}f\vert_{P_0}(\Delta x, \Delta y)$表示切平面从$(x_0, y_0)$到$(x_0 + \Delta x, y_0 + \Delta y)$的增量；
 
   + $f(x_0 + \Delta x, y_0 + \Delta y) - f(x_0, y_0)$表示曲面的增量。
 
+见下图：
 
 <center>
 <a href="https://www.geogebra.org/3d/vcqyewuj">
