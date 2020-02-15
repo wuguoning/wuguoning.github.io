@@ -1490,7 +1490,7 @@ $g'(x_0) = - \dfrac{\varphi_x(x_0, y_0)}{\varphi_y(x_0, y_0)}$
 
 <center>
 $f_x(P_0)\varphi_y(P_0) - f_y(P_0)\varphi_x(P_0) = 0$
-<center>
+</center>
 
 上式的几何意义为曲面$z = f(x,y)$的等高线$f(x,y) = f(P_0)$与曲线$C$在$P_0$处具有公共的切线，从而存在某一个常数$\lambda_0$在$P_0$处满足
 
