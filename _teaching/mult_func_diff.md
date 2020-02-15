@@ -1475,6 +1475,7 @@ $C: \varphi(x, y) = 0$
 
 的极值。
 
+若把条件$\varphi = 0$看作$(x,y)$满足的曲线方程，并假设$C$上的点$P_0(x_0, y_0)$为$f$在条件$\varphi(x_0, y_0) = 0$下的极值点，且该条件能够确定一个可微的隐函数$y = g(x)$，则$x_0$
 
 <center>
 <a href="https://www.geogebra.org/3d/pfaxgcfc">
