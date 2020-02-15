@@ -1348,6 +1348,32 @@ $\dfrac{\partial f}{\partial x}(x_0, y_0)(x - x_0) + \dfrac{\partial f}{\partial
 $\dfrac{x - x_0}{\dfrac{\partial f}{\partial x}(x_0, y_0)} = \dfrac{y - y_0}{\dfrac{\partial f}{\partial y}(x_0, y_0)} = \dfrac{z - z_0}{-1} $
 </center>
 
+---
+☘︎ **强调一点**
+
+空间曲面$z = f(x,y)$在$P_0(x_0, y_0, z_0$点的切平面方程为：
+
+<center>
+$z = f(x_0, y_0) + f_x(x_0, y_0)(x - x_0) + f_y(x_0, y_0)(y - y_0)$
+</center>
+
+所以在该切平面上：
+
+<center>
+$z - f(x_0, y_0) = f_x(x_0, y_0)(x - x_0) + f_y(x_0, y_0)(y - y_0) = \mathrm{d}f\vert_{P_0}(\Delta x, \Delta y)$
+</center>
+
+---
+  + 曲面$z = f(x,y)$在$P_0$点的全微分$\mathrm{d}f\vert_{P_0}(\Delta x, Delta y)$表示切平面从$(x_0, y_0)$到$(x_0 + \Delta x, y_0 + \Delta y)$的增量；
+
+  + $f(x_0 + \Delta x, y_0 + \Delta y) - f(x_0, y_0)$表示曲面的增量。
+
+
+<center>
+<a href="https://www.geogebra.org/3d/vcqyewuj">
+   <img src="./imags/calculus/diff_tang_plane.png" width="600" height="500"/>
+</a>
+</center>
 
 ---
 
