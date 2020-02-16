@@ -26,6 +26,12 @@ location: "Beijing, CN"
 ## 📌**1. 二重积分的概念**
 
 
+<center>
+<a href="https://www.geogebra.org/3d/mrqw8ehc">
+   <img src="./imags/Double_Integral.png" width="500" height="500"/>
+</a>
+</center>
+
 ---
 
 ## 📚参考书目
