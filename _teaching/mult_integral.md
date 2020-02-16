@@ -116,6 +116,21 @@ $\iint\limits_{D} f(x, y)\mathrm{d}A$ 或者 $\iint\limits_{D} f(x, y)\mathrm{d}
 $V = \int_{-1}^3 A(x)\mathrm{d}x$
 </center>
 
+其中$A(x)$为：
+
+<center>
+$A(x) = \int_{-2}^3 f(x,y)\mathrm{d}y$
+</center>
+
+见下图：
+
+  <center>
+  <a href=""https://www.geogebra.org/3d/hmb9zbyq>
+     <img src="./imags/calculus/Iterated_Double_Integrals.png" width="800" height="600"/>
+  </a>
+  </center>
+
+
 
 
 
