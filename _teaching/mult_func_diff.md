@@ -286,7 +286,7 @@ $
 ---
 
 <a name="cotes4"></a>
-## 📌**1. 二元函数可微性**
+## 📌**4. 二元函数可微性**
 
 **可微与全微分**
 
@@ -327,7 +327,7 @@ $$df|_{P_0}(\Delta x, \Delta y) = A\Delta x + B\Delta y $$
 记作
 
 <center>
-  $f_x(x_0, y_0), z_x(x_0, y_0), \dfrac{\partial f}{\partial x}\vert_{(x_0, y_0)}, \dfrac{\partial z}{\partial x}\vert_{(x_0, y_0)}$
+  $f_x(x_0, y_0), z_x(x_0, y_0), \left.\dfrac{\partial f}{\partial x}\right\vert_{(x_0, y_0)}, \left.\dfrac{\partial z}{\partial x}\right\vert_{(x_0, y_0)}$
 </center>
 
 
