@@ -331,7 +331,7 @@ $$df|_{P_0}(\Delta x, \Delta y) = A\Delta x + B\Delta y $$
 </center>
 
 
-同样可以定义$f$关于点$(x_0, y_0)$关于$y$的偏导数$f_y(x_0, y_0), \left.\dfrac{\partial f}{\partial x}\right\vert_{(x_0,y_0)}$
+同样可以定义$f$关于点$(x_0, y_0)$关于$y$的偏导数$f_y(x_0, y_0), \left.\dfrac{\partial f}{\partial y}\right\vert_{(x_0,y_0)}$
 
 二元函数偏导数$f_x(x_0, y_0)$是曲面$z = f(x, y)$与平面$y = y_0$的交线在$x = x_0$点的导数。
 
