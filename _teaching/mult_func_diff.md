@@ -398,15 +398,9 @@ f_y.subs([(x,1),(y,3)])
 
 对一阶偏导函数求偏导数，或者是对函数求两次偏导数得到函数的二阶偏导数。二阶偏导数记作，
 <center>
-  $\dfrac{\partial^2 f}{\partial x^2}$ 或者$f_{xx}$
-</center>
-<center>
-  $\dfrac{\partial^2 f}{\partial y^2}$ 或者$f_{yy}$
-</center>
-<center>
-  $\dfrac{\partial^2 f}{\partial x \partial y}$ 或者$f_{xy}$
-</center>
-<center>
+  $\dfrac{\partial^2 f}{\partial x^2}$ 或者$f_{xx}$, 
+  $\dfrac{\partial^2 f}{\partial y^2}$ 或者$f_{yy}$, 
+  $\dfrac{\partial^2 f}{\partial x \partial y}$ 或者$f_{xy}$,
   $\dfrac{\partial^2 f}{\partial y\partial x}$ 或者$f_{yx}$
 </center>
 
