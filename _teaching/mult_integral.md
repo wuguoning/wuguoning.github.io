@@ -88,9 +88,9 @@ $\iint\limits_{D} f(x, y)\mathrm{d}A$ 或者 $\iint\limits_{D} f(x, y)\mathrm{d}
 
 二重积分$\iint\limits_{D} f(x, y)\mathrm{d}x \mathrm{d}y$具有以下性质：
   
-  + 线性： $\iint\limits_{D} \left(\alphaf(x, y) + \beta g(x,y)\right)\mathrm{d}x \mathrm{d}y = \alpha \iint\limits_{D} f(x,y) \mathrm{d}x \mathrm{d}y+ \beta \iint\limits_{D} g(x,y)\mathrm{d}x \mathrm{d}y$;
+  + 线性： $\iint\limits_{D} \left(\alpha f(x, y) + \beta g(x,y)\right)\mathrm{d}x \mathrm{d}y = \alpha \iint\limits_{D} f(x,y) \mathrm{d}x \mathrm{d}y+ \beta \iint\limits_{D} g(x,y)\mathrm{d}x \mathrm{d}y$;
 
-  + 区域可加性：$\iint\limits_{\substack{D_1 \cup D_2 \\ D_1 \cap D_2 = \emptyset}} f(x, y)\mathrm{d}x \mathrm{d}y = \iint\limits_{D_1} f(x, y)\mathrm{d}x \mathrm{d}y +  \iint\limits_{D_2} f(x, y)\mathrm{d}x \mathrm{d}y $;
+  + 区域可加性：$\iint\limits_{\substack{D_1 \cup D_2 \newline D_1 \cap D_2 = \emptyset}} f(x, y)\mathrm{d}x \mathrm{d}y = \iint\limits_{D_1} f(x, y)\mathrm{d}x \mathrm{d}y +  \iint\limits_{D_2} f(x, y)\mathrm{d}x \mathrm{d}y $;
 
   + 保号性：如果在$D$上，$f(x,y) \le g(x,y)$，那么有：$\iint\limits_{D} f(x, y)\mathrm{d}x \mathrm{d}y \le \iint\limits_{D} g(x, y)\mathrm{d}x \mathrm{d}y$;
 
@@ -98,7 +98,7 @@ $\iint\limits_{D} f(x, y)\mathrm{d}A$ 或者 $\iint\limits_{D} f(x, y)\mathrm{d}
 
   + 设$M \ge f(x,y) \ge m$，则有：$ms(D) \le \iint\limits_{D} f(x, y)\mathrm{d}x \mathrm{d}y \le Ms(D)$，其中$s(D)$表示区域$D$的面积;
 
-  + 中值定理：设函数$f(x,y)$在闭区域$D$上连续，$s(D)$表示区域$D$的面积，则至少存在一点$(\xi, \eta) \in D$满足：$\iint\limits_{D} f(x, y)\mathrm{d}x \mathrm{d}y = \f(\xi,\eta)s(D)$.
+  + 中值定理：设函数$f(x,y)$在闭区域$D$上连续，$s(D)$表示区域$D$的面积，则至少存在一点$(\xi, \eta) \in D$满足：$\iint\limits_{D} f(x, y)\mathrm{d}x \mathrm{d}y = f(\xi,\eta)s(D)$.
 
 
 
