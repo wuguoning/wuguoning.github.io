@@ -1475,7 +1475,7 @@ $C: \varphi(x, y) = 0$
 
 的极值。
 
-若把条件$\varphi = 0$看作$(x,y)$满足的曲线方程，并假设$C$上的点$P_0(x_0, y_0)$为$f$在条件$\varphi(x_0, y_0) = 0$下的极值点，且该条件能够确定一个可微的隐函数$y = g(x)$，则$x_0$必定也是$z = f(x, g(x)) = h(x)$的极值。故由$f$在$P_0$点可微，得到：
+若把条件$\varphi(x,y) = 0$看作$(x,y)$满足的曲线方程，并假设$C$上的点$P_0(x_0, y_0)$为$f$在条件$\varphi(x_0, y_0) = 0$下的极值点，且该条件能够确定一个可微的隐函数$y = g(x)$，则$x_0$必定也是$z = f(x, g(x)) = h(x)$的极值。故由$f$在$P_0$点可微，得到：
 
 <center>
 $h'(x_0) = f_x(x_0, y_0) + f_y(x_0, y_0)g'(x_0) = 0$
@@ -1495,7 +1495,7 @@ $f_x(P_0)\varphi_y(P_0) - f_y(P_0)\varphi_x(P_0) = 0$
 上式的几何意义为曲面$z = f(x,y)$的等高线$f(x,y) = f(P_0)$与曲线$C$在$P_0$处具有公共的切线，从而存在某一个常数$\lambda_0$在$P_0$处满足
 
 <center>
-$\left\{\begin{array}{l} f_x(P_0) + \lambda_0 \varphi_x(P_0) = 0 \newlin f_y(P_0) + \lambda_0 \varphi_y(P_0) = 0 \newline \varphi(P_0) = 0 \end{array}\right.$
+$\left\{\begin{array}{l} f_x(P_0) + \lambda_0 \varphi_x(P_0) = 0 \newline f_y(P_0) + \lambda_0 \varphi_y(P_0) = 0 \newline \varphi(P_0) = 0 \end{array}\right.$
 </center>
 
 
@@ -1504,6 +1504,25 @@ $\left\{\begin{array}{l} f_x(P_0) + \lambda_0 \varphi_x(P_0) = 0 \newlin f_y(P_0
    <img src="./imags/calculus/Lagrange_Multiplier.png" width="600" height="500"/>
 </a>
 </center>
+
+
+---
+**小结**
+
+拉格朗日乘数法为，首先由目标函数$f(x,y)$和条件函数$\varphi(x,y) = 0$构造拉格朗日乘数函数：
+
+<center>
+$L(x, y, \lambda) = f(x,y) + \lambda \varphi(x,y)$
+</center>
+
+求解方程组
+
+<center>
+$\left\{\begin{array}{l} f_x(x, y) + \lambda \varphi_x(x, y) = 0 \newlin f_y(x, y) + \lambda \varphi_y(x, y) = 0 \newline \varphi(x, y) = 0 \end{array}\right.$
+</center>
+
+求得问题的解即可。
+
 
 
 ---
