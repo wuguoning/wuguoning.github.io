@@ -28,7 +28,7 @@ location: "Beijing, CN"
 
 <center>
 <a href="https://www.geogebra.org/3d/mrqw8ehc">
-   <img src="./imags/Double_Integral.png" width="500" height="500"/>
+   <img src="./imags/calculus/Double_Integral.png" width="500" height="500"/>
 </a>
 </center>
 
