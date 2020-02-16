@@ -77,9 +77,9 @@ location: "Beijing, CN"
 
 另外点$P$与集合$E$的另一种关系为：
 
-+ 聚点: 若点$P$的任何一个空心邻域$\mathring{U}(P, \delta)$都含有$E$中的点，则$P$称为$E$的聚点；
++ <span style="color:red">**聚点**</span>: 若点$P$的任何一个空心邻域$\mathring{U}(P, \delta)$都含有$E$中的点，则$P$称为$E$的聚点；
 
-+ 孤立点: 若$P \in E$但不是$E$的聚点。
++ <span style="color:red">**孤立点**</span>: 若$P \in E$但不是$E$的聚点。
 
 **一些重要的平面点集的定义**
 
