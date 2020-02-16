@@ -45,13 +45,13 @@ location: "Beijing, CN"
 </a>
 </center>
 
-+ 在第$k$个小矩形上任意去一点$(x_k, y_k) \in A_k(k=1,2,cdots,n)$，然后求和(黎曼和)得到：
++ 在第$k$个小矩形上任意去一点$(x_k, y_k) \in A_k(k=1,2,\cdots,n)$，然后求和(黎曼和)得到：
 
   <center>
   $S_n = \sum\limits_{k=1}^n f(x_k, y_k)\Delta A_k$
   </center>
 
-+ 把每个小矩形的<span style="color:red">**直径**</span>记为$\lambda_k$，这里直径指的是小矩形中两点连线最长的长度。令$\Vert P \Vert = \max\limits_{1 \le k \le n}\left\{\lambda_k\right\}$，称为<span style="color:red">**分割细度**</span>。黎曼和对分割的细度去极限，讨论：
++ 把每个小矩形的<span style="color:red">**直径**</span>记为$\lambda_k$，这里直径指的是小矩形中两点连线最长的长度。令$\Vert P \Vert = \mathbf{max}\limits_{1 \le k \le n}\left\{\lambda_k\right\}$，称为<span style="color:red">**分割细度**</span>。黎曼和对分割的细度去极限，讨论：
 
   <center>
   $\lim\limits_{\Vert P \Vert} \sum\limits_{k=1}^n f(x_k,y_k)\Delta A_k$
