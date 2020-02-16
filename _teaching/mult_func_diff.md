@@ -591,7 +591,7 @@ $\lim\limits_{\rho \to 0+}\dfrac{f(x_0 + \rho \cos \alpha, y_0 + \rho \sin \alph
 存在，则称此极限为函数$f$在点$P_0(x_0, y_0)$点沿方向$\mathbf{v}$的<span style="color:red">**方向导数**</span>，记为
 
 <center>
-$\dfrac{\partial f}{\partial \mathbf{v}}\left|_{(x_0, y_0)}\right.$
+$\left.\dfrac{\partial f}{\partial \mathbf{v}}\right\vert_{(x_0, y_0)}$
 </center>
 
 曲面$z = f(x, y)$在$(x_0, y_0)$
