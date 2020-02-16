@@ -564,7 +564,11 @@ $\mathrm{d}u = \mathrm{d}x + \left(\dfrac{1}{2}\sin \dfrac{y}{2} - \dfrac{z}{y^2
 
   - $z = y^x$
 
-+ 曲线$\left\{\begin{array}{l} z = \dfrac{x^2 + y^2}{4}\newline y = 4 \end{array}\right.$ 在点$(2, 4, 5)$处的切线对于$x$轴的倾角是多少？
++ 曲线
+<center>
+$\left\{\begin{array}{l} z = \dfrac{x^2 + y^2}{4}\newline y = 4 \end{array}\right.$ 
+</center>
+在点$(2, 4, 5)$处的切线对于$x$轴的倾角是多少？
 
 + 求下列函数的全微分：
 
