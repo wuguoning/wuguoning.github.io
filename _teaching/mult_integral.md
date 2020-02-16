@@ -122,6 +122,13 @@ $$V = \int_{-1}^3 A(x)\mathrm{d}x$$
 $$A(x) = \int_{-2}^3 f(x,y)\mathrm{d}y$$
 </center>
 
+将(2)式代入(1)式得到：
+
+
+<center>
+$$V = \int_{-1}^3 A(x)\mathrm{d}x = \int_{-1}^3 \left(\int_{-2}^3 f(x,y)\mathrm{d}y\right)\mathrm{d}x $$
+</center>
+
 见下图：
 
   <center>
