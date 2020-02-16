@@ -151,6 +151,15 @@ $$V = \int_{-2}^3 A(y)\mathrm{d}y = \int_{-2}^3 \left(\int_{-1}^3 f(x,y)\mathrm{
   </a>
   </center>
 
+---
+<span style="color:red">**Fubini定理1**</span>
+
+设$z = f(x,y)$在区域$D: a \le x \le b, c \le y \le d$上连续，则有：
+<center>
+$$\iint\limits_{D}f(x,y)\mathrm{d}x\mathrm{d}y = \int_{c}^d \left(\int_{a}^b f(x,y)\mathrm{d}x\right)\mathrm{d}y = \int_{a}^b \left(\int_{c}^d f(x,y)\mathrm{d}x\right)\mathrm{d}y  \tag {5}$$
+</center>
+
+---
 
 
 
