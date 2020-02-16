@@ -808,7 +808,6 @@ $\dfrac{\partial f}{\partial \mathbf{v}}(1, 1) \cdot (\cos \alpha, \sin \alpha) 
 ---
 <span style="color:red"> 
 📚**第五次作业:**
-<a name="cotes2"></a>
 
 + 求函数$z = x^2 + y^2$在点$(1,2)$处沿着从点$(1,2)$到点$(2, 2+\sqrt{3})$的方向的方向导数。
 
@@ -817,6 +816,8 @@ $\dfrac{\partial f}{\partial \mathbf{v}}(1, 1) \cdot (\cos \alpha, \sin \alpha) 
 + 设$f(x,y,z) = x^2 + 2y^2 + 3z^2 + xy + 3x - 2y - 6z$，求$\nabla f(0, 0, 0), \nabla f(1, 1, 1)$
 
 ---
+
+<a name="cotes6"></a>
 ## 📌**6. 复合函数求导法则**
 
 **⛓链式规则(chain rule)**
@@ -933,7 +934,15 @@ $\dfrac{\mathrm{d}z}{\mathrm{d}t} = \dfrac{\partial f}{\partial u}\dfrac{\mathrm
 
 </details>
 
+---
+<span style="color:red"> 
+📚**第六次作业:**
 
++ 设$z = u^2 + v^2, u = x + y, v = x - y$，求$\dfrac{\partial z}{\partial x}, \dfrac{\partial z}{\partial y}$.
+
++ 求函数$u = f(x^2 - y^2, e^{xy})$的一阶偏导数.
+
++ 设$z = f(xy^2, x^2y)$求$\dfrac{\partial^2 z}{\partial x^2}, \dfrac{\partial^2 z}{\partial x \partial y},\dfrac{\partial^2 z}{\partial y^2} $
 
 ---
 
@@ -1240,7 +1249,23 @@ $ \theta = \left\{\begin{array}{ll} \arctan \dfrac{y}{x}, & x > 0 \newline \pi +
 </center>
 
 ---
-<a name="cotes1"></a>
+
+<span style="color:red"> 
+📚**第七次作业:**
+
++ 设$\ln \sqrt{x^2 + y^2} = \arctan\dfrac{y}{x}$，求$\dfrac{\mathrm{d}y}{\mathrm{d}x}$
+
++ 设$x + 2y +z - 2\sqrt{xyz} = 0$，求$\dfrac{\partial z}{\partial x}, \dfrac{\partial^2 z}{\partial x \partial y}$
+
++ 设
+  <center>
+  $\left\{\begin{array}{l} x = e^u + u\sin v \newline y = e^u - u\cos v \end{array}\right.$
+  </center>
+  求$\dfrac{\partial u}{\partial x}, \dfrac{\partial u}{\partial y}, \dfrac{\partial v}{\partial x}, \dfrac{\partial u}{\partial y}$
+
+---
+
+<a name="cotes8"></a>
 ## 📌**8. 多元函数微分几何应用**
 
 ---
