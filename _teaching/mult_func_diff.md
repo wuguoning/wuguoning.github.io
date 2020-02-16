@@ -709,18 +709,21 @@ $\nabla f(1,1) = \left(2x - y, 2y - x\right)_{(1,1)} = (1, 1)$
 所以，函数在$(1, 1)$处沿着方向$\mathbf{v} = (\cos \alpha, \sin \alpha)$的方向导数为：
 
 <center>
-$\dfrac{\partial f}{\partial \mathbf{v}}(1, 1) \cdot (\cos \alpha, \sin \alpha) = \cos \alpha + \sin \alpha = \sqrt{2}(\sin (\alpha + \dfrac{\pi}{4}))$
+$\dfrac{\partial f}{\partial \mathbf{v}}(1, 1) \cdot (\cos \alpha, \sin \alpha) = \cos \alpha + \sin \alpha = \sqrt{2}\sin (\alpha + \dfrac{\pi}{4})$
 </center>
 
 所以，函数沿着:
-
+<center>
   (1) $\alpha = \dfrac{\pi}{4}$方向导数最大，且最大值为$\Vert \nabla f(1,1) \Vert = \sqrt{2}$
+</center>
 
-
+<center>
   (2) $\alpha = \dfrac{5\pi}{4}$方向导数最小，且最大值为$-\Vert \nabla f(1,1) \Vert = -\sqrt{2}$
+</center>
 
-
+<center>
   (3) $\alpha = \dfrac{5\pi}{4}, \dfrac{7\pi}{4}$方向导数为零。
+</center>
 
 <center>
   <a href="https://www.geogebra.org/3d/btfavuk5">
