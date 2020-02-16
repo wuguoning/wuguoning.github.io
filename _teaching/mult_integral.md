@@ -51,6 +51,13 @@ location: "Beijing, CN"
   $S_n = \sum\limits_{k=1}^n f(x_k, y_k)\Delta A_k$
   </center>
 
+  <center>
+  <a href="https://www.geogebra.org/3d/mrqw8ehc">
+     <img src="./imags/calculus/Double_Integral.png" width="500" height="500"/>
+     <img src="./imags/calculus/Double_Integral_all_colo.png" width="500" height="500"/>
+  </a>
+  </center>
+
 + 把每个小矩形的<span style="color:red">**直径**</span>记为$\lambda_k$，这里直径指的是小矩形中两点连线最长的长度。令
   <center>
   $\Vert P \Vert = \mathbf{max}_{1 \le k \le n}\left\{\lambda_k\right\}$
@@ -61,17 +68,16 @@ location: "Beijing, CN"
   $\lim\limits_{\Vert P \Vert \to 0} \sum\limits_{k=1}^n f(x_k,y_k)\Delta A_k$
   </center>
 
-<center>
-<a href="https://www.geogebra.org/3d/mrqw8ehc">
-   <img src="./imags/calculus/double_stacks.png" width="800" height="500"/>
-</a>
-</center>
+  <center>
+  <a href="https://www.geogebra.org/3d/mrqw8ehc">
+     <img src="./imags/calculus/double_stacks.png" width="800" height="500"/>
+  </a>
+  </center>
+
+如果随着分割细度趋于零，黎曼和的极限存在，我们称此极限值为$f(x,y)$在$D$上的<span style="color:red">**定积分**</span>。记为：
 
 <center>
-<a href="https://www.geogebra.org/3d/mrqw8ehc">
-   <img src="./imags/calculus/Double_Integral.png" width="500" height="500"/>
-   <img src="./imags/calculus/Double_Integral_all_colo.png" width="500" height="500"/>
-</a>
+$\iint\limits_{D} f(x, y)\mathrm{d}A$ 或者 $\iint\limits_{D} f(x, y)\mathrm{d}x\mathrm{d}y$  
 </center>
 
 ---
