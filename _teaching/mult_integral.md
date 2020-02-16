@@ -113,20 +113,20 @@ $\iint\limits_{D} f(x, y)\mathrm{d}A$ 或者 $\iint\limits_{D} f(x, y)\mathrm{d}
 假设我们计算由$z = f(x,y)$在区域$D: -1 \le x \le 3, -2 \le y \le 3$上围成的曲顶柱体的体积。由截面法求体积得到，该曲顶柱体的体积为：
 
 <center>
-$$V = \int_{-1}^3 A(x)\mathrm{d}x$$
+$$V = \int_{-1}^3 A(x)\mathrm{d}x \tag {1}$$
 </center>
 
 其中$A(x)$为：
 
 <center>
-$$A(x) = \int_{-2}^3 f(x,y)\mathrm{d}y$$
+$$A(x) = \int_{-2}^3 f(x,y)\mathrm{d}y \tag {2}$$
 </center>
 
-将(2)式代入(1)式得到：
+将$(2)$式代入$(1)$式得到：
 
 
 <center>
-$$V = \int_{-1}^3 A(x)\mathrm{d}x = \int_{-1}^3 \left(\int_{-2}^3 f(x,y)\mathrm{d}y\right)\mathrm{d}x $$
+$$V = \int_{-1}^3 A(x)\mathrm{d}x = \int_{-1}^3 \left(\int_{-2}^3 f(x,y)\mathrm{d}y\right)\mathrm{d}x \tag {3}$$
 </center>
 
 见下图：
@@ -140,7 +140,7 @@ $$V = \int_{-1}^3 A(x)\mathrm{d}x = \int_{-1}^3 \left(\int_{-2}^3 f(x,y)\mathrm{
 对称地，先对坐标$x$积分，然后对坐标$y$积分，得到：
 
 <center>
-$$V = \int_{-2}^3 A(y)\mathrm{d}y = \int_{-2}^3 \left(\int{-1}^3 f(x,y)\mathrm{d}x\right)\mathrm{d}y $$
+$$V = \int_{-2}^3 A(y)\mathrm{d}y = \int_{-2}^3 \left(\int_{-1}^3 f(x,y)\mathrm{d}x\right)\mathrm{d}y \tag {4}$$
 </center>
 
 见下图：
