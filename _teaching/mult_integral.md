@@ -137,6 +137,19 @@ $$V = \int_{-1}^3 A(x)\mathrm{d}x = \int_{-1}^3 \left(\int_{-2}^3 f(x,y)\mathrm{
   </a>
   </center>
 
+对称地，先对坐标$x$积分，然后对坐标$y$积分，得到：
+
+<center>
+$$V = \int_{-2}^3 A(y)\mathrm{d}y = \int_{-2}^3 \left(\int{-1}^3 f(x,y)\mathrm{d}x\right)\mathrm{d}y $$
+</center>
+
+见下图：
+
+  <center>
+  <a href="https://www.geogebra.org/3d/hmb9zbyq">
+     <img src="./imags/calculus/Iterated_Double_Integrals_1.png" width="800" height="600"/>
+  </a>
+  </center>
 
 
 
