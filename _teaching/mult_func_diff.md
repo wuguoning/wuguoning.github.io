@@ -875,9 +875,9 @@ $\left[\dfrac{\partial z}{\partial u}, \dfrac{\partial z}{\partial v}\right]  = 
 
 ---
 **🤔思考**
-+ <span style="color:red">两个线形变换复合的导数对应于导数的乘积</span>
++ <span style="color:red">两个线形变换复合函数的导数对应于导数的乘积</span>
 
-+ <span style="color:red">两个非线形变换复合的导数对应于❓❓的❓❓</span>
++ <span style="color:red">两个非线形变换复合函数的导数对应于❓❓的❓❓</span>
 
 ---
 **✏️例子**
@@ -929,7 +929,7 @@ $\dfrac{\partial^2 w}{\partial x \partial z} = \dfrac{\partial}{\partial z}\left
 <summary>⬇️ Click to expand!</summary>
 解：
 
-$\dfrac{\mathrm{d}z}{\mathrm{d}t} = \dfrac{\partial f}{\partial u}\dfrac{\mathrm{d}u}{\mathrm{d}t} + \dfrac{\partial f}{\partial v}\dfrac{\mathrm{d}v}{\mathrm{d}t} = ve^t - u\sin t + \cos t$
+$\dfrac{\mathrm{d}z}{\mathrm{d}t} = \dfrac{\partial f}{\partial u}\dfrac{\mathrm{d}u}{\mathrm{d}t} +  \dfrac{\partial f}{\partial v}\dfrac{\mathrm{d}v}{\mathrm{d}t} + \dfrac{\partial f}{\partial t} \dfrac{\mathrm{d}t}{\mathrm{d}t} = ve^t - u\sin t + \cos t$
 
 </details>
 
