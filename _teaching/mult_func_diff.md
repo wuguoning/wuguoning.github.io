@@ -335,6 +335,8 @@ $$df|_{P_0}(\Delta x, \Delta y) = A\Delta x + B\Delta y $$
 
 二元函数偏导数$f_x(x_0, y_0)$是曲面$z = f(x, y)$与平面$y = y_0$的交线在$x = x_0$点的导数。
 
+关于偏导数的几何意义，见下图：
+
 <center>
   <a href="https://www.geogebra.org/3d/bk2tdtxf">
     <img src="./imags/calculus/partial_deri.png" width="400" height="400"/>
@@ -351,6 +353,9 @@ $$df|_{P_0}(\Delta x, \Delta y) = A\Delta x + B\Delta y $$
   $f_x(x, y), \dfrac{\partial f}{\partial x}$
 </center>
 
+<center>
+  $f_y(x, y), \dfrac{\partial f}{\partial y}$
+</center>
 ---
 **✏️例子**
 
@@ -477,7 +482,7 @@ $\lim\limits_{\Delta y \to 0 }\dfrac{P(x_0, y_0 + \Delta y) - f(x_0, y_0)}{\Delt
 ---
 如果函数$f(x, y)$在点$P_0(x_0, y_0)$点可微分，那么该函数在点$P_0(x_0, y_0)$的偏导数存在，且有：
 <center>
-$\mathrm{d}z\vert_{P_0}(\Delta x, \Delta y) = \dfrac{\partial z}{\partial x}\vert_{(x_0, y_0)}\Delta x + \dfrac{\partial z}{\partial y}\vert_{(x_0, y_0)}\Delta y $
+$\left.\mathrm{d}z\right\vert_{P_0}(\Delta x, \Delta y) = \left.\dfrac{\partial z}{\partial x}\right\vert_{(x_0, y_0)}\Delta x + \left.\dfrac{\partial z}{\partial y}\right\vert_{(x_0, y_0)}\Delta y $
 </center>
 
 习惯上，我们把自变量的增量$\Delta x$和$\Delta y$分别记为$\textrm{d}x$和$\textrm{d}y$，这样函数的全微分为：
