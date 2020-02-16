@@ -58,7 +58,7 @@ location: "Beijing, CN"
   称$\Vert P \Vert$为<span style="color:red">**分割细度**</span>。黎曼和对分割的细度取极限，讨论：
 
   <center>
-  $\lim\limits_{\Vert P \Vert} \sum\limits_{k=1}^n f(x_k,y_k)\Delta A_k$
+  $\lim\limits_{\Vert P \Vert \to 0} \sum\limits_{k=1}^n f(x_k,y_k)\Delta A_k$
   </center>
 
 
