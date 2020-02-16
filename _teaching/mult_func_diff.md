@@ -545,6 +545,34 @@ $\mathrm{d}u = \mathrm{d}x + \left(\dfrac{1}{2}\sin \dfrac{y}{2} - \dfrac{z}{y^2
 
 ---
 
+<span style="color:red"> 
+📚**第四次作业:**
+
++ 求下列函数的偏导数
+  
+  - $z = \sin(xy) + \cos^2(xy)$
+
+  - $z = x^{\dfrac{y}{z}}$
+
+  - $u = \arctan(x - y)^z$
+
++ 求下列函数的$\dfrac{\partial^2 z}{\partial x^2}, \dfrac{\partial^2 z}{\partial y^2}, \dfrac{\partial^2 z}{\partial x \partial y} $
+
+  - $z = x^4 + y^4 - 4x^2y^2$
+
+  - $z = \arctan\dfrac{y}{x}$
+
+  - $z = y^x$
+
++ 曲线$\left\{\begin{array}{l} z = \dfrac{x^2 + y^2}{4}\newline y = 4 \end{array}\right.$ 在点$(2, 4, 5)$处的切线对于$x$轴的倾角是多少？
+
++ 求下列函数的全微分：
+
+  - $z = xy + \dfrac{x}{y}$
+
+  - $z = \dfrac{y}{\sqrt{x^2 + y^2}}$
+---
+
 <a name="cotes5"></a>
 ## 📌**5. 方向导数与梯度**
 
