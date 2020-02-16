@@ -45,7 +45,7 @@ location: "Beijing, CN"
 </a>
 </center>
 
-+ 在第$k$个小矩形上任意去一点$(x_k, y_k) \in A_k(k=1,2,\cdots,n)$，然后求和(黎曼和)得到：
++ 在第$k$个小矩形上任意去一点$(x_k, y_k) \in A_k(k=1,2,\cdots,n)$，然后求和(<span style="color:red">**黎曼和**</span>)得到：
 
   <center>
   $S_n = \sum\limits_{k=1}^n f(x_k, y_k)\Delta A_k$
