@@ -806,8 +806,17 @@ $\dfrac{\partial f}{\partial \mathbf{v}}(1, 1) \cdot (\cos \alpha, \sin \alpha) 
 \vdots & \vdots & \cdots & \vdots \newline \dfrac{\partial f_m}{\partial x_1} & \dfrac{\partial f_m}{\partial x_2} & \cdots & \dfrac{\partial f_m}{\partial x_n}\end{array} \right]$.
 
 ---
-
+<span style="color:red"> 
+📚**第五次作业:**
 <a name="cotes2"></a>
+
++ 求函数$z = x^2 + y^2$在点$(1,2)$处沿着从点$(1,2)$到点$(2, 2+\sqrt{3})$的方向的方向导数。
+
++ 求函数$z = 1 - \dfrac{x^2}{a^2} - \dfrac{y^2}{b^2}$在点$(\dfrac{a}{\sqrt{2}}, \dfrac{b}{\sqrt{2}})$c处沿曲线$\dfrac{x^2}{a^2} + \dfrac{y^2}{b^2} = 1$在这点的内法线方向的方向导数。
+
++ 设$f(x,y,z) = x^2 + 2y^2 + 3z^2 + xy + 3x - 2y - 6z$，求$\nabla f(0, 0, 0), \nabla f(1, 1, 1)$
+
+---
 ## 📌**6. 复合函数求导法则**
 
 **⛓链式规则(chain rule)**
