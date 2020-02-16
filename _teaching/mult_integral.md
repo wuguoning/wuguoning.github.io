@@ -27,7 +27,7 @@ location: "Beijing, CN"
 
 ☘︎ **二重积分的概念**
 
-考察一个<span style="color:red">**曲顶柱体**</span>: 它的底是$xOy$面上的具有零边界的有界区域$D$，顶是非负连续函数$z = f(x,y), (x,y) \in D$所确定的曲面，侧面是以$D$的边界曲线为准线，母线平行于$z$轴的柱面。如下图所示(本图来源于Thomas' Calculus, 13/e)：
+考察一个<span style="color:red">**曲顶柱体**</span>: 它的底是$xOy$面上的具有零边界的有界区域$D$，顶是非负连续函数$z = f(x,y), (x,y) \in D$所确定的曲面，侧面是以$D$的边界曲线为准线，母线平行于$z$轴的柱面。如下图所示(![本图来源于Thomas' Calculus, 13/e](https://www.pearsonhighered.com/thomas13einfo/))：
 
 <center>
 <a href="https://www.pearsonhighered.com/thomas13einfo/">
