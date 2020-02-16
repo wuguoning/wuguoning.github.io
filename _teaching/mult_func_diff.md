@@ -567,6 +567,7 @@ $\lim\limits_{\rho \to 0+}\dfrac{f(x_0 + \rho \cos \alpha, y_0 + \rho \sin \alph
 $\dfrac{\partial f}{\partial \mathbf{v}}\left|_{(x_0, y_0)}\right.$
 </center>
 
+曲面$z = f(x, y)$在$(x_0, y_0)$
 <center>
   <a href="https://www.geogebra.org/3d/qxuq4ats">
     <img src="./imags/calculus/directional_deri.png" width="500" height="400"/>
@@ -578,7 +579,7 @@ $\dfrac{\partial f}{\partial \mathbf{v}}\left|_{(x_0, y_0)}\right.$
 
 讨论函数$z = \sqrt{x^2 + y^2}$在$(0, 0)$点，沿着任一方向$\mathbf{v} = (\cos \alpha, \sin \alpha)$的方向导数。
 
-解：$\dfrac{\partial f}{\partial \mathbf{v}}\vert_{(0, 0)} = \lim\limits_{\rho \to 0+}\dfrac{f(0 + \rho \cos \alpha, 0 + \rho \sin \alpha) - f(0, 0)}{\rho} = 1$
+解：$\left.\dfrac{\partial f}{\partial \mathbf{v}}\right\vert_{(0, 0)} = \lim\limits_{\rho \to 0+}\dfrac{f(0 + \rho \cos \alpha, 0 + \rho \sin \alpha) - f(0, 0)}{\rho} = 1$
 
 所以函数在$(0, 0)$点沿着任一方向的方向导数为常数1，见下图：
 
@@ -631,7 +632,7 @@ $\textbf{grad} f  = (f_x(P_0), f_y(P_0))$
 或者
 
 <center>
-$\nabla f  = (f_x(P_0), f_y(P_0))$
+$\nabla f(P_0)  = (f_x(P_0), f_y(P_0))$
 </center>
 
 ---
@@ -653,8 +654,14 @@ $f(x,y) = \dfrac{-x^2(x+1)\dfrac{x-2}{4} - \dfrac{y^4 - 2y^2 + y + 2}{3}+2xy}{2}
 
 该函数在$(x, y)$处的梯度为：$(f_x(x,y), f_y(x,y)) = (\dfrac{-4x^3 + 3x^2 + 4x + 8y}{8}, \dfrac{-4y^3 + 6x + 4y - 1}{6})$.
 
-等值线为函数的取值为常数的自变量的范围：对于二元函数来讲，等值线的表达式为:
-<span style="color:red">**等值线**</span>($f(x,y) = c$)见下图：
+等值线为函数的取值为常数的自变量的范围：对于二元函数来讲，:
+<span style="color:red">**等值线的表达式为:**</span>
+
+<center>
+$f(x,y) = c$
+</center>
+
+下图展示了上面曲面的等值线。
 
 <center>
   <a href="https://www.geogebra.org/3d/wafxpnzu">
@@ -663,13 +670,15 @@ $f(x,y) = \dfrac{-x^2(x+1)\dfrac{x-2}{4} - \dfrac{y^4 - 2y^2 + y + 2}{3}+2xy}{2}
 </center>
 
 ---
- 💡 从上面分析可以看出：<span style="color:red">**方向导数为梯度在所求方向上的投影**</span>。
+ 💡 从上面分析可以看出：
+
+   + <span style="color:red">**方向导数为梯度在所求方向上的投影**</span>;
 
  <center>
  $\left.\dfrac{\partial f}{\partial \mathbf{v}}\right|_{P_0}  = \nabla f(P_0) \cdot \dfrac{\mathbf{v}}{\Vert \mathbf{v}\Vert}$
  </center>
 
-  + 首先梯度为一个向量，不是一个标量;
+  + 梯度为一个向量，不是一个标量;
 
   + 如果在一点处方向导数的方向选择为梯度方向，则方向导数最大，且值为梯度的模;
 
