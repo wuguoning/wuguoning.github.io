@@ -547,6 +547,7 @@ $\mathrm{d}u = \mathrm{d}x + \left(\dfrac{1}{2}\sin \dfrac{y}{2} - \dfrac{z}{y^2
 
 <span style="color:red"> 
 📚**第四次作业:**
+</span>
 
 + 求下列函数的偏导数
   
@@ -808,6 +809,7 @@ $\dfrac{\partial f}{\partial \mathbf{v}}(1, 1) \cdot (\cos \alpha, \sin \alpha) 
 ---
 <span style="color:red"> 
 📚**第五次作业:**
+</span>
 
 + 求函数$z = x^2 + y^2$在点$(1,2)$处沿着从点$(1,2)$到点$(2, 2+\sqrt{3})$的方向的方向导数。
 
@@ -937,6 +939,7 @@ $\dfrac{\mathrm{d}z}{\mathrm{d}t} = \dfrac{\partial f}{\partial u}\dfrac{\mathrm
 ---
 <span style="color:red"> 
 📚**第六次作业:**
+</span>
 
 + 设$z = u^2 + v^2, u = x + y, v = x - y$，求$\dfrac{\partial z}{\partial x}, \dfrac{\partial z}{\partial y}$.
 
@@ -1252,6 +1255,7 @@ $ \theta = \left\{\begin{array}{ll} \arctan \dfrac{y}{x}, & x > 0 \newline \pi +
 
 <span style="color:red"> 
 📚**第七次作业:**
+</span>
 
 + 设$\ln \sqrt{x^2 + y^2} = \arctan\dfrac{y}{x}$，求$\dfrac{\mathrm{d}y}{\mathrm{d}x}$
 
@@ -1268,7 +1272,6 @@ $ \theta = \left\{\begin{array}{ll} \arctan \dfrac{y}{x}, & x > 0 \newline \pi +
 <a name="cotes8"></a>
 ## 📌**8. 多元函数微分几何应用**
 
----
 **空间曲线的切线与法平面**
 
 ☘︎ 首先设平面曲线由方程$F(x,y) = 0$给出，它在$P_0(x_0, y_0)$点的某个邻域内满足隐函数存在条件，于是在$P_0$点附近确定一个连续可微函数$y = f(x)$(或者$x = g(y)$),其切线和法线方程为：
@@ -1513,6 +1516,23 @@ $\dfrac{x - 1}{1} = \dfrac{y - 1}{2} = \dfrac{z - 1}{3}$
 </center>
 
 ---
+
+<span style="color:red"> 
+📚**第八次作业:**
+</span>
+
++ 求曲线$\mathbf{r}(t) = (t - \sin t)\mathbf{i} + (1 - \cos t)\mathbf{j} + (4 \sin \dfrac{t}{2})\mathbf{k}$在$t_0 = \dfrac{\pi}{2}$相应点处的切线和法线方程。
+
++ 求曲线
+  <center>
+  $\left\{\begin{array}{l} x^2 + y^2 + z^2 - 3x = 0 \newline 2x - 3y + 5z - 4 = 0  \end{array}\right.$
+  </center>
+  在点$(1,1,1)$处的切线和法平面方程。
+
++ 求旋转椭球面$3x^2 + y^2 + z^2 = 6$上点$(-1, -2, 3)$处的切平面与$xOy$面的夹角的余弦。
+
+---
+
 <a name="cotes9"></a>
 ## 📌**9. 极值与拉格朗日乘数法**
 
@@ -1602,12 +1622,17 @@ $L(x, y, \lambda) = f(x,y) + \lambda \varphi(x,y)$
 求解方程组
 
 <center>
-$\left\{\begin{array}{l} f_x(x, y) + \lambda \varphi_x(x, y) = 0 \newlin f_y(x, y) + \lambda \varphi_y(x, y) = 0 \newline \varphi(x, y) = 0 \end{array}\right.$
+$\left\{\begin{array}{l} f_x(x, y) + \lambda \varphi_x(x, y) = 0 \newline f_y(x, y) + \lambda \varphi_y(x, y) = 0 \newline \varphi(x, y) = 0 \end{array}\right.$
 </center>
 
 求得问题的解即可。
 
 
+---
+
+<span style="color:red"> 
+📚**第九次作业:**
+</span>
 
 ---
 
