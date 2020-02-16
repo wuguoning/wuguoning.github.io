@@ -27,7 +27,7 @@ location: "Beijing, CN"
 
 ☘︎ **二重积分的概念**
 
-考察一个**曲顶柱体**: 它的底是$xOy$面上的具有零边界的有界区域$D$，顶是非负连续函数$z = f(x,y), (x,y) \in D$所确定的曲面，侧面是以$D$的边界曲线为准线，母线平行于$z$轴的柱面。如下图所示(本图来源于Thomas' Calculus, 13/e)：
+考察一个<span style="color:red">**曲顶柱体**</span>: 它的底是$xOy$面上的具有零边界的有界区域$D$，顶是非负连续函数$z = f(x,y), (x,y) \in D$所确定的曲面，侧面是以$D$的边界曲线为准线，母线平行于$z$轴的柱面。如下图所示(本图来源于Thomas' Calculus, 13/e)：
 
 <center>
 <a href="https://www.pearsonhighered.com/thomas13einfo/">
@@ -35,13 +35,27 @@ location: "Beijing, CN"
 </a>
 </center>
 
-为了得到该曲顶柱体的体积，我们采用一系列平行于坐标轴的直线把区域$D$分割为一系列的小矩形。见下图：
+为了得到该曲顶柱体的体积:
+
++ 我们采用一系列平行于坐标轴的直线把区域$D$分割为一系列的小矩形(这个分割记为$P$)。第$k$个小矩形的面积为$\Delta A = \Delta x \Delta y (k=1,2,\cdots,n)$，见下图：
 
 <center>
 <a href="https://www.pearsonhighered.com/thomas13einfo/">
    <img src="./imags/calculus/double_inte_grid.png" width="400" height="400"/>
 </a>
 </center>
+
++ 在第$k$个小矩形上任意去一点$(x_k, y_k) \in A_k(k=1,2,cdots,n)$，然后求和(黎曼和)得到：
+
+  <center>
+  $S_n = \sum\limits_{k=1}^n f(x_k, y_k)\Delta A_k$
+  </center>
+
++ 把每个小矩形的<span style="color:red">**直径**</span>记为$\lambda_k$，这里直径指的是小矩形中两点连线最长的长度。令$\Vert P \Vert = \max\limits_{1 \le k \le n}\left\{\lambda_k\right\}$，称为<span style="color:red">**分割细度**</span>。黎曼和对分割的细度去极限，讨论：
+
+  <center>
+  $\lim\limits_{\Vert P \Vert} \sum\limits_{k=1}^n f(x_k,y_k)\Delta A_k$
+  </center>
 
 
 <center>
