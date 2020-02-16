@@ -62,11 +62,11 @@ location: "Beijing, CN"
 
 假设$E \subset \mathcal{R}^2$, 有：
 
-+ 内点: 若存在点$P$的邻域$U(P)$，使得$U(P) \subset E$;
++ <span style="color:red">**内点**</span>: 若存在点$P$的邻域$U(P)$，使得$U(P) \subset E$;
 
-+ 边界点: 若$P$的任何一个邻域既含有$E$中的点，又含有不属于$E$中的点；
++ <span style="color:red">**边界点**</span>: 若$P$的任何一个邻域既含有$E$中的点，又含有不属于$E$中的点；
 
-+ 外点: 若存在$P$的一个邻域$U(P)$，使得$U(P) \cap E = \emptyset$
++ <span style="color:red">**外点**</span>: 若存在$P$的一个邻域$U(P)$，使得$U(P) \cap E = \emptyset$
 
 
 <center>
