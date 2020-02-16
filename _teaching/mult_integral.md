@@ -55,12 +55,17 @@ location: "Beijing, CN"
   <center>
   $\Vert P \Vert = \mathbf{max}_{1 \le k \le n}\left\{\lambda_k\right\}$
   </center>
-  称$\Vert P \Vert$为<span style="color:red">**分割细度**</span>。黎曼和对分割的细度取极限，讨论：
+  称$\Vert P \Vert$为<span style="color:red">**分割细度**</span>。黎曼和对分割的细度取极限，讨论极限：
 
   <center>
   $\lim\limits_{\Vert P \Vert \to 0} \sum\limits_{k=1}^n f(x_k,y_k)\Delta A_k$
   </center>
 
+<center>
+<a href="https://www.geogebra.org/3d/mrqw8ehc">
+   <img src="./imags/calculus/double_stacks.png" width="800" height="500"/>
+</a>
+</center>
 
 <center>
 <a href="https://www.geogebra.org/3d/mrqw8ehc">
@@ -115,3 +120,4 @@ location: "Beijing, CN"
    <img src="./imags/wiki.png" width="200" height="50"/>
 </a>
 </center>
+
