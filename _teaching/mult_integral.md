@@ -160,6 +160,30 @@ $$\iint\limits_{D}f(x,y)\mathrm{d}x\mathrm{d}y = \int_{c}^d \left(\int_{a}^b f(x
 </center>
 
 ---
+对于一般性区域$D$，分析以下两种情形：
+
++ 情形一： $D: a \le x \le b, g_1(x) \le y \le g_2(x)$. 对于该类型区域积分可以表示为：
+
+  <center>
+    $$\iint\limits_{D}f(x,y)\mathrm{d}x\mathrm{d}y = \int_{a}^b \left(\int_{g_1(x)}^{g_2(x)} f(x,y)\mathrm{d}y\right)\mathrm{d}x  \tag {6}$$
+  </center>
+
++ 情形二： $D: c \le y \le d, h_1(y) \le x \le h_2(y)$. 对于该类型区域积分可以表示为：
+
+  <center>
+    $$\iint\limits_{D}f(x,y)\mathrm{d}x\mathrm{d}y = \int_{c}^d \left(\int_{h_1(y)}^{h_2(y)} f(x,y)\mathrm{d}x\right)\mathrm{d}y  \tag {7}$$
+  </center>
+
+见下图([本图来源于Thomas' Calculus, 13/e](https://www.pearsonhighered.com/thomas13einfo/))：
+
+  <center>
+  <a href="https://www.pearsonhighered.com/thomas13einfo/">
+     <img src="./imags/calculus/Iterated_Double_Integrals_2.png" width="800" height="500"/>
+  </a>
+  </center>
+
+
+
 
 
 
