@@ -89,8 +89,8 @@ $$r = a(1 - \sin \theta)$$
  
 ## 參考文獻
 
-1. https://wiki.mbalib.com/zh-tw/%E5%8B%92%E5%86%85%C2%B7%E7%AC%9B%E5%8D%A1%E5%B0%94 
-2. http://math1.ck.tp.edu.tw/%E6%9E%97%E4%BF%A1%E5%AE%89/%E5%AD%B8%E8%A1%93%E7%A0%94%E7%A9%B6/%E6%95%B8%E5%AD%B8%E5%B0%88%E9%A1%8C/%E6%B7%BA%E8%AB%87%E5%B9%BE%E5%80%8B%E6%95%B8%E5%AD%B8%E8%A7%A3%E9%A1%8C%E7%9A%84%E7%AD%96%E7%95%A5.doc
+1. [link](https://wiki.mbalib.com/zh-tw/%E5%8B%92%E5%86%85%C2%B7%E7%AC%9B%E5%8D%A1%E5%B0%94)
+2. [link](http://math1.ck.tp.edu.tw/%E6%9E%97%E4%BF%A1%E5%AE%89/%E5%AD%B8%E8%A1%93%E7%A0%94%E7%A9%B6/%E6%95%B8%E5%AD%B8%E5%B0%88%E9%A1%8C/%E6%B7%BA%E8%AB%87%E5%B9%BE%E5%80%8B%E6%95%B8%E5%AD%B8%E8%A7%A3%E9%A1%8C%E7%9A%84%E7%AD%96%E7%95%A5.doc)
 
 
  
