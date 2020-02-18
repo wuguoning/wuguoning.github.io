@@ -384,6 +384,13 @@ $\Delta A_k = \dfrac{1}{2}\left(r_k + \dfrac{\Delta r}{2}\right) - \dfrac{1}{2}\
   $S_n = \sum\limits_{k=1}^n f(r_k, \theta_k)r_k \Delta r \Delta \theta$
   </center>
 
+故
+
+<center>
+  $$\lim\limits_{n \to \infty}S_n = \iint\limits_{R}f(r,\theta)\mathrm{d}r r \mathrm{d}\theta \tag {9}$$
+</center>
+
+
 ---
 
 ## 📚参考书目
