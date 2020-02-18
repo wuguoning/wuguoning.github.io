@@ -8,7 +8,11 @@ date: 2020-02-02
 location: "Beijing, CN"
 ---
 
-这部分内容为空间几何初步.
+教学日历:
+
+  + [2019-2020-2高等数学A](http://wuguoning.github.io/_teaching/doc/2019-2020-2-A-syllabus.docx)
+
+  + [2019-2020-2高等数学B](http://wuguoning.github.io/_teaching/doc/2019-2020-2-B-syllabus.pdf)
 
 ## 目录
 + [第一节 向量及其运算](#cotes1)
