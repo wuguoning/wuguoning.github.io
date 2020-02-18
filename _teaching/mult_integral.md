@@ -203,7 +203,7 @@ $$\iint\limits_{D}f(x,y)\mathrm{d}x\mathrm{d}y = \int_{c}^d \left(\int_{a}^b f(x
 ---
 **✏️例子**
 
-计算$\iint\limits_{D}xy\mathrm{d}x\mathrm{d}y$
+计算$\iint\limits_{D}xy\mathrm{d}x\mathrm{d}y$，其中$D$是由直线$y = 1, x = 2, y = x$所围成的闭区域。
 
 <details>
 解法1. 
