@@ -219,7 +219,7 @@ $
 解法2. 
 <center>
 $\begin{split}
-\iint\limits_{D}xy\mathrm{d}x\mathrm{d}y &= \int_1^2 \left(\int_y^2 xy\mathrm{d}x\right)\mathrm{d}y = \int_1^2\left[y\cdot \dfrac{x^2}{2}\right]_1^x\mathrm{d}y \\
+\iint\limits_{D}xy\mathrm{d}x\mathrm{d}y &= \int_1^2 \left(\int_y^2 xy\mathrm{d}x\right)\mathrm{d}y = \int_1^2\left[y\cdot \dfrac{x^2}{2}\right]_y^2\mathrm{d}y \\
 & = \int_1^2 \left(2y - \dfrac{y^3}{2}\right)\mathrm{d}y = \left[y^2 - \dfrac{y^4}{8}\right]_1^2 = \dfrac{9}{8}
 \end{split}
 $
