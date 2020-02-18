@@ -230,6 +230,7 @@ $
   </a>
   </center>
 
+💡<span style="color:red">**积分顺序：先$x$后$y$还是先$y$后$x$与积分区域又关系。**</span>
 </details>
 
 
