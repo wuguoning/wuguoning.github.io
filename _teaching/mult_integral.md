@@ -340,15 +340,20 @@ $\int_0^2 \int_{x^2}^{2x}(4x + 2)\mathrm{d}y \mathrm{d}x = \int_0^4 \int_{y/2}^{
 
 **极坐标下求二重积**
   
-  首先推导一下极坐标下面积微元。设区域$R: \alpha \le \theta \le \beta, g_1(\theta) \le r \le g_2(\theta)$。采用
+  首先推导一下极坐标下求二重积分。设区域$R: \alpha \le \theta \le \beta, g_1(\theta) \le r \le g_2(\theta)$。采用
   <center>
   $\Delta r, 2\Delta r, 3\Delta r, \cdots, m \Delta r$
   </center>
   <center>
   $\alpha = \theta, \theta = \alpha + \Delta \theta, \theta = \alpha + 2\Delta \theta, \cdots, \theta = \alpha +  m'\Delta \theta = \beta$
   </center>
-  分割该区域，则
+  分割该区域，则定义在区域$R$上的二重积分可以近似的表示为：
 
+  <center>
+  S_n = \sum\limits_{k=1}^n f(r_k, \theta_k)\Delta A_k
+  </center>
+
+这里$\Delta A_k$表示第$k$块小区域的面积，$r_k, \theta_k$为在地$k$块区域上的取值。见下图：
   <center>
   <a href="https://www.pearsonhighered.com/thomas13einfo/">
      <img src="./imags/calculus/Polar__Double_elem.png" width="600" height="500"/>
