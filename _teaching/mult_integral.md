@@ -250,12 +250,6 @@ $\int_1^2 \left(\int_y^2 xy\mathrm{d}x\right)\mathrm{d}y = \int_1^2 \left(\int_y
 $\iint\limits_{R} \dfrac{\sin x}{x}\mathrm{d}x\mathrm{d}y = \int_0^1\left(\int_0^x\dfrac{\sin x}{x}\mathrm{d}y\right)\mathrm{d}x = \int_0^1\left[y\dfrac{\sin x}{x}\right]_0^x\mathrm{d}x = \int_0^1 \sin x\mathrm{d}x = 1 - \cos 1$
 </center>
 
-  <center>
-  <a href="https://www.geogebra.org/geometry/mhdnucpv">
-     <img src="./imags/calculus/Double_Integral_exp2.png" width="600" height="500"/>
-  </a>
-  </center>
-
 💡<span style="color:red">积分顺序可以是先$x$后$y$么？积分顺序和哪些因素有关？</span>
 
 </details>
