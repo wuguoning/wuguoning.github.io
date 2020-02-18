@@ -354,6 +354,7 @@ $\int_0^2 \int_{x^2}^{2x}(4x + 2)\mathrm{d}y \mathrm{d}x = \int_0^4 \int_{y/2}^{
   </center>
 
 这里$\Delta A_k$表示第$k$块小区域的面积，$r_k, \theta_k$为在地$k$块区域上的取值。见下图：
+
   <center>
   <a href="https://www.pearsonhighered.com/thomas13einfo/">
      <img src="./imags/calculus/Polar__Double_elem.png" width="600" height="500"/>
@@ -362,10 +363,16 @@ $\int_0^2 \int_{x^2}^{2x}(4x + 2)\mathrm{d}y \mathrm{d}x = \int_0^4 \int_{y/2}^{
 
 二重积分可表示为：
 <center>
-  $\lim\limits_{n \to \infty}S_n = \iint\limits_{R}f(r,\theta)\mathrm{d}A$
+  $$\lim\limits_{n \to \infty}S_n = \iint\limits_{R}f(r,\theta)\mathrm{d}A \tag {8}$$
 </center>
 
+接下来我们来分析$(8)$式中$\mathrm{d}A$的表示。
 
+  <center>
+  <a href="https://www.pearsonhighered.com/thomas13einfo/">
+     <img src="./imags/calculus/Polar__Double_elem1.png" width="600" height="500"/>
+  </a>
+  </center>
 ---
 
 ## 📚参考书目
