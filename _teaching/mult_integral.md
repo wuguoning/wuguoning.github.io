@@ -230,7 +230,13 @@ $
   </a>
   </center>
 
-💡<span style="color:red">**积分顺序：先$x$后$y$还是先$y$后$x$与积分区域又关系。**</span>
+💡<span style="color:red">积分顺序：先$x$后$y$还是先$y$后$x$与积分区域又关系</span>
+
+从该题目还可以得到：
+
+<center>
+$\int_1^2 \left(\int_y^2 xy\mathrm{d}x\right)\mathrm{d}y = \int_1^2 \left(2y - \dfrac{y^3}{2}\right)\mathrm{d}y$
+</center>
 </details>
 
 
