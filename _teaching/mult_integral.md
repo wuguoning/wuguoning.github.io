@@ -206,6 +206,29 @@ $$\iint\limits_{D}f(x,y)\mathrm{d}x\mathrm{d}y = \int_{c}^d \left(\int_{a}^b f(x
 计算$\iint\limits_{D}xy\mathrm{d}x\mathrm{d}y$
 
 <details>
+解法1. 
+<center>
+$\begin{split}
+\iint\limits_{D}xy\mathrm{d}x\mathrm{d}y &= \int_1^2 \left(\int_1^x xy\mathrm{d}y\right)\mathrm{d}x = \int_1^2\left[x\cdot \dfrac{y^2}{2}\right]_1^x\mathrm{d}x \\
+& = \int_1^2 \left(\dfrac{x^3}{2} - \dfrac{x}{2}\right)\mathrm{d}x = \left[\dfrac{x^4}{8} - \dfrac{x^2}{4}\right]_1^2 = \dfrac{9}{8}
+\end{split}
+$
+</center>
+
+
+解法2. 
+<center>
+$\begin{split}
+\iint\limits_{D}xy\mathrm{d}x\mathrm{d}y &= \int_1^2 \left(\int_y^2 xy\mathrm{d}x\right)\mathrm{d}y = \int_1^2\left[y\cdot \dfrac{x^2}{2}\right]_1^x\mathrm{d}y \\
+& = \int_1^2 \left(2y - \dfrac{y^3}{2}\right)\mathrm{d}y = \left[y^2 - \dfrac{y^4}{8}\right]_1^2 = \dfrac{9}{8}
+\end{split}
+$
+</center>
+  <center>
+  <a href="https://www.geogebra.org/geometry/mhdnucpv">
+     <img src="./imags/calculus/Double_Integral_exp1" width="600" height="500"/>
+  </a>
+  </center>
 
 </details>
 
