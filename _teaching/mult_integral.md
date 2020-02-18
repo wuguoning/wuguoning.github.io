@@ -298,7 +298,20 @@ $\int_0^2 \int_{x^2}^{2x}(4x + 2)\mathrm{d}y \mathrm{d}x = \int_0^4 \int_{y/2}^{
 ---
 **极坐标下二重积分的计算**
 
+---
+**极坐标**
 
+平面上的点可以用直角坐标$(x,y)$表示，也可以用极坐标$(r, \theta)$表示，见下图：
+
+  <center>
+  <a href="https://www.geogebra.org/geometry/yjnsjwv7">
+     <img src="./imags/calculus/polar__coordinate.png" width="600" height="600"/>
+     <img src="./imags/calculus/Polar_Coordinates_1.png" width="600" height="600"/>
+     <img src="./imags/calculus/Polar_Coordinates_2.png" width="600" height="600"/>
+     <img src="./imags/calculus/Polar_Coordinates_3.png" width="600" height="600"/>
+     <img src="./imags/calculus/Polar_Coordinates_4.png" width="600" height="600"/>
+  </a>
+  </center>
 
 
 
