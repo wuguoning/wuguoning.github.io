@@ -313,6 +313,13 @@ $\int_0^2 \int_{x^2}^{2x}(4x + 2)\mathrm{d}y \mathrm{d}x = \int_0^4 \int_{y/2}^{
   </a>
   </center>
 
+  <center>
+  <a href="https://www.geogebra.org/geometry/qbmcdeun">
+     <img src="./imags/calculus/Polar_Coordinates_5.png" width="600" height="500"/>
+     <img src="./imags/calculus/Polar_Coordinates_6.png" width="600" height="500"/>
+     <img src="./imags/calculus/Polar_Coordinates_7.png" width="600" height="500"/>
+  </a>
+  </center>
 
 
 
