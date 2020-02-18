@@ -370,9 +370,20 @@ $\int_0^2 \int_{x^2}^{2x}(4x + 2)\mathrm{d}y \mathrm{d}x = \int_0^4 \int_{y/2}^{
 
   <center>
   <a href="https://www.pearsonhighered.com/thomas13einfo/">
-     <img src="./imags/calculus/Polar_Double_elem1.png" width="600" height="500"/>
+     <img src="./imags/calculus/Polar_Double_elem1.png" width="300" height="500"/>
   </a>
   </center>
+
+<center>
+$\Delta A_k = \dfrac{1}{2}\left(r_k + \dfrac{\Delta r}{2}\right) - \dfrac{1}{2}\left(r_k - \dfrac{\Delta r}{2}\right) = r_k \Delta r \Delta \theta$
+</center>
+
+所以有：
+
+  <center>
+  $S_n = \sum\limits_{k=1}^n f(r_k, \theta_k)r_k \Delta r \Delta \theta$
+  </center>
+
 ---
 
 ## 📚参考书目
