@@ -305,19 +305,19 @@ $\int_0^2 \int_{x^2}^{2x}(4x + 2)\mathrm{d}y \mathrm{d}x = \int_0^4 \int_{y/2}^{
 
   <center>
   <a href="https://www.geogebra.org/geometry/yjnsjwv7">
-     <img src="./imags/calculus/polar__coordinate.png" width="600" height="600"/>
-     <img src="./imags/calculus/Polar_Coordinates_1.png" width="600" height="600"/>
-     <img src="./imags/calculus/Polar_Coordinates_2.png" width="600" height="600"/>
-     <img src="./imags/calculus/Polar_Coordinates_3.png" width="600" height="600"/>
-     <img src="./imags/calculus/Polar_Coordinates_4.png" width="600" height="600"/>
+     <img src="./imags/calculus/polar_coordinate.png" width="600" height="600"/>
+     <img src="./imags/calculus/Polar_Coordinates_1.png" width="300" height="200"/>
+     <img src="./imags/calculus/Polar_Coordinates_2.png" width="300" height="200"/>
+     <img src="./imags/calculus/Polar_Coordinates_3.png" width="300" height="200"/>
+     <img src="./imags/calculus/Polar_Coordinates_4.png" width="300" height="200"/>
   </a>
   </center>
 
   <center>
   <a href="https://www.geogebra.org/geometry/qbmcdeun">
-     <img src="./imags/calculus/Polar_Coordinates_5.png" width="600" height="500"/>
-     <img src="./imags/calculus/Polar_Coordinates_6.png" width="600" height="500"/>
-     <img src="./imags/calculus/Polar_Coordinates_7.png" width="600" height="500"/>
+     <img src="./imags/calculus/Polar_Coordinates_5.png" width="300" height="200"/>
+     <img src="./imags/calculus/Polar_Coordinates_6.png" width="300" height="200"/>
+     <img src="./imags/calculus/Polar_Coordinates_7.png" width="300" height="200"/>
   </a>
   </center>
 
