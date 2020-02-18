@@ -184,12 +184,21 @@ $$\iint\limits_{D}f(x,y)\mathrm{d}x\mathrm{d}y = \int_{c}^d \left(\int_{a}^b f(x
   </center>
 
 ---
+<span style="color:red">**Fubini定理**</span>
 
+设$z = f(x,y)$在区域$D$上连续，如果
 
++ $D: a \le x \le b, g_1(x) \le y \le g_2(x)$，这里$g_1(x), g_2(x)$为$[a,b]$上的连续函数， 则有：
 
+  <center>
+    $\iint\limits_{D}f(x,y)\mathrm{d}x\mathrm{d}y = \int_{a}^b \left(\int_{g_1(x)}^{g_2(x)} f(x,y)\mathrm{d}y\right)\mathrm{d}x$
+  </center>
 
++ $D: c \le y \le d, h_1(y) \le x \le h_2(y)$，这里$h_1(x), h_2(x)$为$[c,d]$上的连续函数，则有：
 
-
+  <center>
+    $\iint\limits_{D}f(x,y)\mathrm{d}x\mathrm{d}y = \int_{c}^d \left(\int_{h_1(y)}^{h_2(y)} f(x,y)\mathrm{d}x\right)\mathrm{d}y$
+  </center>
 
 ---
 
