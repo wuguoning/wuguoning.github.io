@@ -8,11 +8,13 @@ date: 2020-02-02
 location: "Beijing, CN"
 ---
 
-教学日历:
+这部分主要介绍笛卡尔解析几何。
 
-  + [2019-2020-2高等数学A](http://wuguoning.github.io/teaching/docs/2019-2020-2-A-syllabus.docx)
+## 教学日历:
 
-  + [2019-2020-2高等数学B](http://wuguoning.github.io/teaching/docs/2019-2020-2-B-syllabus.pdf)
+  + [2019-2020-2高等数学A](http://wuguoning.github.io/files/calculus/docs/2019-2020-2-A-syllabus.docx)
+
+  + [2019-2020-2高等数学B](http://wuguoning.github.io/files/calculus/docs/2019-2020-2-B-syllabus.pdf)
 
 ## 目录
 + [第一节 向量及其运算](#cotes1)
