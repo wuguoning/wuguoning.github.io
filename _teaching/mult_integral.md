@@ -235,7 +235,7 @@ $
 从该题目还可以得到：
 
 <center>
-$\int_1^2 \left(\int_y^2 xy\mathrm{d}x\right)\mathrm{d}y = \int_1^2 \left(2y - \dfrac{y^3}{2}\right)\mathrm{d}y$
+$\int_1^2 \left(\int_y^2 xy\mathrm{d}x\right)\mathrm{d}y = \int_1^2 \left(\int_y^2 xy\mathrm{d}x\right)\mathrm{d}y$
 </center>
 </details>
 
