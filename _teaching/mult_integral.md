@@ -339,6 +339,15 @@ $\int_0^2 \int_{x^2}^{2x}(4x + 2)\mathrm{d}y \mathrm{d}x = \int_0^4 \int_{y/2}^{
   $S = \int_{\alpha}^{\beta}\dfrac{1}{2}r^2(\theta)\mathrm{d}\theta$
 
 + 极坐标下求二重积分：
+  
+  首先推导一下极坐标下面积微分。
+
+
+  <center>
+  <a href="https://www.pearsonhighered.com/thomas13einfo/">
+     <img src="./imags/calculus/Polar__Double_elem.png" width="600" height="500"/>
+  </a>
+  </center>
 
 
 ---
