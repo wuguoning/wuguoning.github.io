@@ -239,6 +239,17 @@ $\int_1^2 \left(\int_y^2 xy\mathrm{d}x\right)\mathrm{d}y = \int_1^2 \left(2y - \
 </center>
 </details>
 
+---
+**✏️例子**
+
+计算积分$\iint\limits_{R} \dfrac{\sin x}{x}\mathrm{d}x\mathrm{d}y$，其中$R$由$x$轴$y=x$及$x=1$围成的闭区域。
+
+<details>
+解： 
+<center>
+$\iint\limits_{R} \dfrac{\sin x}{x}\mathrm{d}x\mathrm{d}y = \int_0^1\left(\int_0^x\dfrac{\sin x}{x}\mathrm{d}y\right)\mathrm{d}x = \int_0^1\left[y\dfrac{\sin x}{x}\right]_0^x\mathrm{d}x = \int_0^1 \sin x\mathrm{d}x = 1 - \cos 1$
+</center>
+</details>
 
 ---
 
