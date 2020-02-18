@@ -256,6 +256,8 @@ $\iint\limits_{R} \dfrac{\sin x}{x}\mathrm{d}x\mathrm{d}y = \int_0^1\left(\int_0
   </a>
   </center>
 
+💡<span style="color:red">积分顺序可以是先$x$后$y$么？积分顺序和哪些因素有关？</span>
+
 </details>
 
 ---
