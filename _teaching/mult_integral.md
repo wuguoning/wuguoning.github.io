@@ -226,7 +226,7 @@ $
 </center>
   <center>
   <a href="https://www.geogebra.org/geometry/mhdnucpv">
-     <img src="./imags/calculus/Double_Integral_exp1" width="600" height="500"/>
+     <img src="./imags/calculus/Double_Integral_exp1.png" width="600" height="500"/>
   </a>
   </center>
 
