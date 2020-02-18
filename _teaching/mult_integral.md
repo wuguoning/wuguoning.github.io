@@ -255,6 +255,25 @@ $\iint\limits_{R} \dfrac{\sin x}{x}\mathrm{d}x\mathrm{d}y = \int_0^1\left(\int_0
 </details>
 
 ---
+**✏️例子**
+
+求两个圆柱面$x^2 + y^2 = R^2, x^2 + z^2 = R^2$所围成立体的体积。
+
+<details>
+解： 所围成的立体在第一卦限可以看成一个曲顶柱体，它的底是：
+<center>
+$D \left\{(x,y)\vert 0 \le y \le \sqrt{R^2 - x^2}, 0 \le x \le R$
+</center>
+
+于是有：
+<center>
+$\begin{split}
+V = 8V_1 = \iint\limits_{D}\sqrt{R^2 - x^2} \mathrm{d}x\mathrm{d}y & = 8\int_0^R \left(\int_0^{\sqrt{R^2 - x^2}} \sqrt{R^2 - x^2}\right)\mathrm{d}x \newline & = 8\int_0^R\left[\sqrt{R^2 - x^2}y\right]_0^{\sqrt{R^2 - x^2}} \mathrm{d}x$ = 8\int_0^R R^2 - x^2\mathrm{d}x = \dfrac{16}{3}R^3
+</center>
+</details>
+
+
+---
 
 ## 📚参考书目
 
