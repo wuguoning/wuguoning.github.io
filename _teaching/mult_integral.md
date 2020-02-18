@@ -350,7 +350,7 @@ $\int_0^2 \int_{x^2}^{2x}(4x + 2)\mathrm{d}y \mathrm{d}x = \int_0^4 \int_{y/2}^{
   分割该区域，则定义在区域$R$上的二重积分可以近似的表示为：
 
   <center>
-  S_n = \sum\limits_{k=1}^n f(r_k, \theta_k)\Delta A_k
+  $S_n = \sum\limits_{k=1}^n f(r_k, \theta_k)\Delta A_k$
   </center>
 
 这里$\Delta A_k$表示第$k$块小区域的面积，$r_k, \theta_k$为在地$k$块区域上的取值。见下图：
@@ -359,6 +359,11 @@ $\int_0^2 \int_{x^2}^{2x}(4x + 2)\mathrm{d}y \mathrm{d}x = \int_0^4 \int_{y/2}^{
      <img src="./imags/calculus/Polar__Double_elem.png" width="600" height="500"/>
   </a>
   </center>
+
+二重积分可表示为：
+<center>
+  $\lim\limits_{n \to \infty}S_n = \iint\limits_{R}f(r,\theta)\mathrm{d}A$
+</center>
 
 
 ---
