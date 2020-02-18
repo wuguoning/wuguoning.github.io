@@ -326,7 +326,7 @@ $\int_0^2 \int_{x^2}^{2x}(4x + 2)\mathrm{d}y \mathrm{d}x = \int_0^4 \int_{y/2}^{
 
 定积分为求解不规则问题的一种方法，该方法简而言之可概括为“分割，取近似（微分或者线性化），求和和累加。”
 
-+ 求曲边梯形的面积：$\int_a^b f(x)\mathrm{d}x = \int_a^b \mathrm{d}F(x)$，积分为微分的累加，而微分为所求问题的增量的线形近似。
++ 求曲边梯形的面积：$\int_a^b f(x)\mathrm{d}x = \int_a^b \mathrm{d}F(x)$，积分为微分的累加，而微分为所求问题的增量的线性近似。
 
 + 下面探讨极坐标下图形的面积：
 
@@ -338,10 +338,16 @@ $\int_0^2 \int_{x^2}^{2x}(4x + 2)\mathrm{d}y \mathrm{d}x = \int_0^4 \int_{y/2}^{
 
   $S = \int_{\alpha}^{\beta}\dfrac{1}{2}r^2(\theta)\mathrm{d}\theta$
 
-+ 极坐标下求二重积分：
+**极坐标下求二重积**
   
-  首先推导一下极坐标下面积微分。
-
+  首先推导一下极坐标下面积微元。设区域$R: \alpha \le \theta \le \beta, g_1(\theta) \le r \le g_2(\theta)$。采用
+  <center>
+  $\Delta r, 2\Delta r, 3\Delta r, \cdots, m \Delta r$
+  </center>
+  <center>
+  $\alpha = \theta, \theta = \alpha + \Delta \theta, \theta = \alpha + 2\Delta \theta, \cdots, \theta = \alpha +  m'\Delta \theta = \beta$
+  </center>
+  分割该区域，则
 
   <center>
   <a href="https://www.pearsonhighered.com/thomas13einfo/">
