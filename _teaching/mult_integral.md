@@ -321,6 +321,24 @@ $\int_0^2 \int_{x^2}^{2x}(4x + 2)\mathrm{d}y \mathrm{d}x = \int_0^4 \int_{y/2}^{
   </a>
   </center>
 
+---
+**极坐标系下求区域的面积**
+
+定积分为求解不规则问题的一种方法，该方法简而言之可概括为“分割，取近似（微分或者线性化），求和和累加。”
+
++ 求曲边梯形的面积：$\int_a^b f(x)\mathrm{d}x = \int_a^b \mathrm{d}F(x)$，积分为微分的累加，而微分为所求问题的增量的线形近似。
+
++ 下面探讨极坐标下图形的面积：
+
+  <center>
+  <a href="https://www.geogebra.org/geometry/qwxzcbzc">
+     <img src="./imags/calculus/Polar_Integral_1.png" width="500" height="400"/>
+  </a>
+  </center>
+
+  $S = \int_{\alpha}^{\beta}\dfrac{1}{2}r^2(\theta)\mathrm{d}\theta$
+
++ 极坐标下求二重积分：
 
 
 ---
