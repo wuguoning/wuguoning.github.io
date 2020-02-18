@@ -268,7 +268,8 @@ $D =  \left\{(x,y)\vert 0 \le y \le \sqrt{R^2 - x^2}, 0 \le x \le R\right\}$
 于是有：
 <center>
 $\begin{split}
-V = 8V_1 = \iint\limits_{D}\sqrt{R^2 - x^2} \mathrm{d}x\mathrm{d}y & = 8\int_0^R \left(\int_0^{\sqrt{R^2 - x^2}} \sqrt{R^2 - x^2}\right)\mathrm{d}x \newline & = 8\int_0^R\left[\sqrt{R^2 - x^2}y\right]_0^{\sqrt{R^2 - x^2}} \mathrm{d}x$ = 8\int_0^R R^2 - x^2\mathrm{d}x = \dfrac{16}{3}R^3\end{split}$
+ V = 8V_1 = \iint\limits_{D}\sqrt{R^2 - x^2} \mathrm{d}x\mathrm{d}y & = 8\int_0^R \left(\int_0^{\sqrt{R^2 - x^2}} \sqrt{R^2 - x^2}\right)\mathrm{d}x \newline & = 8\int_0^R\left[\sqrt{R^2 - x^2}y\right]_0^{\sqrt{R^2 - x^2}} \mathrm{d}x = 8\int_0^R R^2 - x^2\mathrm{d}x = \dfrac{16}{3}R^3
+\end{split}$
 </center>
 
   <center>
@@ -293,6 +294,11 @@ V = 8V_1 = \iint\limits_{D}\sqrt{R^2 - x^2} \mathrm{d}x\mathrm{d}y & = 8\int_0^R
 <details>
 $\int_0^2 \int_{x^2}^{2x}(4x + 2)\mathrm{d}y \mathrm{d}x = \int_0^4 \int_{y/2}^{\sqrt{y}}(4x + 2)\mathrm{d}x \mathrm{d}y$
 </details>
+
+---
+**极坐标下二重积分的计算**
+
+
 
 
 
