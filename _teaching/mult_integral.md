@@ -390,6 +390,27 @@ $\Delta A_k = \dfrac{1}{2}\left(r_k + \dfrac{\Delta r}{2}\right) - \dfrac{1}{2}\
   $$\lim\limits_{n \to \infty}S_n = \iint\limits_{R}f(r,\theta) r \mathrm{d}r  \mathrm{d}\theta \tag {9}$$
 </center>
 
+---
+**确定积分范围的步骤**
+
++ 画出图形，写出边界曲线方程和交点的坐标；
+
+  <center>
+  <a href="https://www.pearsonhighered.com/thomas13einfo/">
+     <img src="./imags/calculus/polar_double_step1.png" width="400" height="400"/>
+  </a>
+  </center>
+
++ 找到极坐标中$r$的上下限，通俗的讲，找到极径的起始穿入边界和终止穿出边界。
+
+  <center>
+  <a href="https://www.pearsonhighered.com/thomas13einfo/">
+     <img src="./imags/calculus/polar_double_step2.png" width="500" height="400"/>
+  </a>
+  </center>
+
+
+
 
 ---
 
