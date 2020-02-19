@@ -421,8 +421,20 @@ $\Delta A_k = \dfrac{1}{2}\left(r_k + \dfrac{\Delta r}{2}\right) - \dfrac{1}{2}\
   <center>
   $\iint\limits_{R} f(x,y)\mathrm{d}A = \int_{\dfrac{\pi}{4}}^{\dfrac{\pi}{2}} f(r, \theta) r \mathrm{d}r\mathrm{d}\theta$
   </center>
+---
+**✏️例子**
 
+求位于曲线$r = 1$的外面，$r = 1 + \cos \theta$内部区域的面积。
+  <center>
+  <a href="https://www.geogebra.org/classic/zbmvscgy">
+     <img src="./imags/calculus/polar_double_exp1.png" width="500" height="400"/>
+  </a>
+  </center>
 
+<details>
+解： 
+$S = \iint\limits_{D} d\mathrm{d}A = \int_{\dfrac{-pi}{2}}^{\dfrac{\pi}{2}} \int_{1}^{1+\cos \theta}r \mathrm{d}r\mathrm{d}\theta = \int_{\dfrac{\pi}{2}}^{\dfrac{\pi}{2}} \dfrac{1}{2}(1 + \cos \theta)^2 - \dfrac{1}{2} \mathrm{d}\theta = 2 + \dfrac{\pi}{2}$
+</details>
 
 
 
