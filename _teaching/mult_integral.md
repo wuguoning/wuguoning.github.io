@@ -417,6 +417,11 @@ $\Delta A_k = \dfrac{1}{2}\left(r_k + \dfrac{\Delta r}{2}\right) - \dfrac{1}{2}\
   </a>
   </center>
 
++ 写出积分表达式：
+  <center>
+  $\iint\limits_{R} f(x,y)\mathrm{d}A = \int_{\dfrac{\pi}{4}}^{\dfrac{\pi}{2}} f(r, \theta) r \mathrm{d}r\mathrm{d}\theta$
+  </center>
+
 
 
 
