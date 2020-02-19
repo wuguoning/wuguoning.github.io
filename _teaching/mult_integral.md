@@ -473,13 +473,13 @@ $
 <center>
 $
 \begin{split}
-  \int_0^{+\infty}\int_0^{+\infty} e^{-x^2 - y^2}\,\mathrm{d}x\,\mathrm{d}y & = \left(\int_0^{+\infty} e^{-x^2}\,\mathrm{d}x\right)^2 = \int_0^{\dfrac{\pi}(2)} \int_0^{+\infty} e^{-r^2}r\,\mathrm{d}r\,\mathrm{d}\theta \newline
+  \int_0^{+\infty}\int_0^{+\infty} e^{-x^2 - y^2}\,\mathrm{d}x\,\mathrm{d}y & = \left(\int_0^{+\infty} e^{-x^2}\,\mathrm{d}x\right)^2 = \int_0^{\dfrac{\pi}{2}} \int_0^{+\infty} e^{-r^2}r\,\mathrm{d}r\,\mathrm{d}\theta \newline
    & = \int_0^{\dfrac{\pi}{2}} \left(-\dfrac{1}{2}e^{-r^2}\right)_0^{+\infty}\,\mathrm{d}\theta = \pi
 \end{split}
 $
 
 所以，
-$\int_0^{+\infty} e^{-x^2}\, \mathrm{d}x = \dfrac{\sqrt{\pi}{2}}$
+$\int_0^{+\infty} e^{-x^2}\, \mathrm{d}x = \dfrac{\sqrt{\pi}}{2}$
 
 </center>
 </details>
