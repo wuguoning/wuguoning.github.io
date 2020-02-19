@@ -463,6 +463,15 @@ $
 </center>
 </details>
 
+---
+**✏️例子**
+
+转换直角坐标为极坐标积分$\int_0^{+\infty}\int_0^{+\infty} e^{-x^2 - y^2}\,\mathrm{d}x\,\mathrm{d}y$，并计算泊松积分$\int_0^{+\infty} e^{-x^2}\, \mathrm{d}x$
+
+<details>
+解：
+</details>
+
 
 
 ---
