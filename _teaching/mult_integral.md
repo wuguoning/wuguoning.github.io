@@ -387,7 +387,7 @@ $\Delta A_k = \dfrac{1}{2}\left(r_k + \dfrac{\Delta r}{2}\right) - \dfrac{1}{2}\
 故
 
 <center>
-  $$\lim\limits_{n \to \infty}S_n = \iint\limits_{R}f(r,\theta)\mathrm{d}r r \mathrm{d}\theta \tag {9}$$
+  $$\lim\limits_{n \to \infty}S_n = \iint\limits_{R}f(r,\theta) r \mathrm{d}r  \mathrm{d}\theta \tag {9}$$
 </center>
 
 
