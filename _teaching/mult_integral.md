@@ -453,6 +453,15 @@ $S = \iint\limits_{D} 1\mathrm{d}A = \int_{\dfrac{-\pi}{2}}^{\dfrac{\pi}{2}} \in
   </a>
   </center>
 
+<details>
+解： 根据对称性，有
+
+<center>
+$\begin{split}
+V = 4V_1 = 4 \iint\limits_{D} \sqrt{4R^2 - x^2 - y^2}\mathrm{d}A &  = 4 \int_0^{\dfrac{\pi}{2}}\int_0^{2R\cos \theta} \sqrt{4R^2 - r^2}r\mathrm{d}r \newline & = \dfrac{32}{3}R^3 \int_0^{\dfrac{\pi}{2}}\left(1 - \sin^3\theta\right)\,\mathrm{d}\theta = \dfrac{32}{3}R^3\left(\dfrac{\pi}{2} - \dfrac{2}{3}\right) \end{split}
+$
+</center>
+</details>
 
 
 
