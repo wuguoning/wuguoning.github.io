@@ -397,7 +397,7 @@ $\Delta A_k = \dfrac{1}{2}\left(r_k + \dfrac{\Delta r}{2}\right) - \dfrac{1}{2}\
 
   <center>
   <a href="https://www.pearsonhighered.com/thomas13einfo/">
-     <img src="./imags/calculus/polar_double_step1.png" width="400" height="400"/>
+     <img src="./imags/calculus/double_polar_step1.png" width="400" height="400"/>
   </a>
   </center>
 
@@ -405,9 +405,18 @@ $\Delta A_k = \dfrac{1}{2}\left(r_k + \dfrac{\Delta r}{2}\right) - \dfrac{1}{2}\
 
   <center>
   <a href="https://www.pearsonhighered.com/thomas13einfo/">
-     <img src="./imags/calculus/polar_double_step2.png" width="500" height="400"/>
+     <img src="./imags/calculus/double_polar_step2.png" width="500" height="400"/>
   </a>
   </center>
+
++ 找到极坐标中$\theta$的上下限，找到$\theta$的最小、最大值使积分区域落入该区域中。
+
+  <center>
+  <a href="https://www.pearsonhighered.com/thomas13einfo/">
+     <img src="./imags/calculus/double_polar_step3.png" width="400" height="400"/>
+  </a>
+  </center>
+
 
 
 
