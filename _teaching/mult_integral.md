@@ -397,7 +397,7 @@ $\Delta A_k = \dfrac{1}{2}\left(r_k + \dfrac{\Delta r}{2}\right) - \dfrac{1}{2}\
 
   <center>
   <a href="https://www.pearsonhighered.com/thomas13einfo/">
-     <img src="./imags/calculus/double_polar_step1.png" width="400" height="400"/>
+     <img src="./imags/calculus/double_polar_step1.png" width="300" height="300"/>
   </a>
   </center>
 
@@ -405,7 +405,7 @@ $\Delta A_k = \dfrac{1}{2}\left(r_k + \dfrac{\Delta r}{2}\right) - \dfrac{1}{2}\
 
   <center>
   <a href="https://www.pearsonhighered.com/thomas13einfo/">
-     <img src="./imags/calculus/double_polar_step2.png" width="500" height="400"/>
+     <img src="./imags/calculus/double_polar_step2.png" width="400" height="300"/>
   </a>
   </center>
 
@@ -413,7 +413,7 @@ $\Delta A_k = \dfrac{1}{2}\left(r_k + \dfrac{\Delta r}{2}\right) - \dfrac{1}{2}\
 
   <center>
   <a href="https://www.pearsonhighered.com/thomas13einfo/">
-     <img src="./imags/calculus/double_polar_step3.png" width="400" height="400"/>
+     <img src="./imags/calculus/double_polar_step3.png" width="300" height="300"/>
   </a>
   </center>
 
