@@ -433,8 +433,26 @@ $\Delta A_k = \dfrac{1}{2}\left(r_k + \dfrac{\Delta r}{2}\right) - \dfrac{1}{2}\
 
 <details>
 解： 
-$S = \iint\limits_{D} d\mathrm{d}A = \int_{\dfrac{-pi}{2}}^{\dfrac{\pi}{2}} \int_{1}^{1+\cos \theta}r \mathrm{d}r\mathrm{d}\theta = \int_{\dfrac{\pi}{2}}^{\dfrac{\pi}{2}} \dfrac{1}{2}(1 + \cos \theta)^2 - \dfrac{1}{2} \mathrm{d}\theta = 2 + \dfrac{\pi}{2}$
+$S = \iint\limits_{D} 1\mathrm{d}A = \int_{\dfrac{-\pi}{2}}^{\dfrac{\pi}{2}} \int_{1}^{1+\cos \theta}r \mathrm{d}r\mathrm{d}\theta = \int_{\dfrac{\pi}{2}}^{\dfrac{\pi}{2}} \dfrac{1}{2}(1 + \cos \theta)^2 - \dfrac{1}{2} \mathrm{d}\theta = 2 + \dfrac{\pi}{2}$
 </details>
+
+---
+**✏️例子**
+
+求球体$x^2 + y^2 + z^2 \le 4R^2$被圆柱面$x^2 + y^2=2Rx(R>0)$所截所得的(含在圆柱面内的部分)立体的体积。见下图：
+
+  <center>
+  <a href="https://www.geogebra.org/3d/truf9xmb">
+     <img src="./imags/calculus/polar_double_exp2.png" width="500" height="400"/>
+  </a>
+  </center>
+
+  <center>
+  <a href="https://www.geogebra.org/geometry/f39dg9wx">
+     <img src="./imags/calculus/polar_double_exp2_1.png" width="500" height="400"/>
+  </a>
+  </center>
+
 
 
 
