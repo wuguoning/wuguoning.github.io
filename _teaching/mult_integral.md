@@ -504,6 +504,40 @@ $$\lim\limits_{\Vert P \Vert \to 0}S_n =\lim\limits_{\Vert P \Vert \to 0} \sum\l
 $$\lim\limits_{\Vert P \Vert \to 0} \sum\limits_{k=1}^n F(x_k, y_k, z_k)\Delta V_k = \iiint\limits_{D} F(x,y,z)\,\mathrm{d}x\,\mathrm{d}y\,\mathrm{d}z$$
 </center>
 
+---
+**直角坐标下计算三重积分**
+
+计算步骤如下：
+
++ 画出积分区域，并画出在坐标平面上的投影区域。
+
+  <center>
+  <a href="https://www.pearsonhighered.com/thomas13einfo/">
+     <img src="./imags/calculus/triple_inte_step1.png" width="400" height="300"/>
+  </a>
+  </center>
+
++ 在投影区域上选取一点$(x,y)$，平行于$z$轴作射线，找到区域$D$的传入曲面(积分的下限)和穿出曲面(积分的上限)。
+
+  <center>
+  <a href="https://www.pearsonhighered.com/thomas13einfo/">
+     <img src="./imags/calculus/triple_inte_step2.png" width="400" height="300"/>
+  </a>
+  </center>
+
++ 在投影区域上$R$作射线，找到$y$的传入边界和穿出边界。下图：射线的传入边界为$g_x(x)$，穿出边界为$g_2(x)$。这些是$y$的积分上下限。
+
+  <center>
+  <a href="https://www.pearsonhighered.com/thomas13einfo/">
+     <img src="./imags/calculus/triple_inte_step3.png" width="400" height="300"/>
+  </a>
+  </center>
+
++ 找到$x$的变换范围，最后将重积分转化为累次积分：
+
+  <center>
+    $\iiint\limits_{D}F(x,y,z)\,\mathrm{d}V = \int_a^b \int_{g_1(x)}^{g_2(x)} \int_{f_1(x,y)}^{f_2(x,y)} F(x,y,z)\,\mathrm{d}z\,\mathrm{d}y\,\mathrm{d}x$
+  </center>
 
 
 ---
