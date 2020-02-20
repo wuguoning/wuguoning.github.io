@@ -591,7 +591,7 @@ $$\lim\limits_{\Vert P \Vert \to 0} \sum\limits_{k=1}^n F(x_k, y_k, z_k)\Delta V
 </center>
 
 ---
-设$f(x,y,z)$定义在空间几何题$D$上，采用$r = r_1, r_2, \cdots, r_m, \theta = \theta_1, \theta_2, \cdots, \theta_n, z = z_1, z_2, \cdots, z_k$分割几何体$D$。这是体积元素为:
+设$f(x,y,z)$定义在空间几何题$D$上，采用$r = r_1, r_2, \cdots, r_m, \theta = \theta_1, \theta_2, \cdots, \theta_n, z = z_1, z_2, \cdots, z_k$分割几何体$D$(该分割记为$P$)。这是体积元素为:
 
 <center>
 $\Delta V = r \Delta r \Delta r \Delta z$
@@ -604,6 +604,18 @@ $\Delta V = r \Delta r \Delta r \Delta z$
    <img src="./imags/calculus/triple_polar_elem.png" width="300" height="300"/>
 </a>
 </center>
+
+<center>
+$S_n = \sum\limits_{k=1}^n f(r_k, \theta_k, z_k)r_k \Delta r_k \Delta \theta_k \Delta z_k$
+</center>
+
+当分割的细度趋于零时，若极限存在，记为：
+
+<center>
+$\lim\limits_{\Vert P \Vert \to 0}sum\limits_{k=1}^n f(r_k, \theta_k, z_k)r_k \Delta r_k \Delta \theta_k \Delta z_k = \iiint\limits_{D}f(r, \theta, z)\mathrm{d}z\,r\mathrm{d}r\,\mathrm{d}\theta$
+</center>
+
+
 
 
 ---
