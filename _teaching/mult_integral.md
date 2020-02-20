@@ -601,7 +601,7 @@ $\Delta V = r \Delta r \Delta r \Delta z$
 
 <center>
 <a href="https://www.pearsonhighered.com/thomas13einfo/">
-   <img src="./imags/calculus/triple_polar_elem.png" width="400" height="400"/>
+   <img src="./imags/calculus/triple_polar_elem.png" width="300" height="300"/>
 </a>
 </center>
 
