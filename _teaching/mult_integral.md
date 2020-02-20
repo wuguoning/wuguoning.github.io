@@ -590,6 +590,20 @@ $$\lim\limits_{\Vert P \Vert \to 0} \sum\limits_{k=1}^n F(x_k, y_k, z_k)\Delta V
 </a>
 </center>
 
+---
+设$f(x,y,z)$定义在空间几何题$D$上，采用$r = r_1, r_2, \cdots, r_m, \theta = \theta_1, \theta_2, \cdots, \theta_n, z = z_1, z_2, \cdots, z_k$分割几何体$D$。这是体积元素为:
+
+<center>
+$\Delta V = r \Delta r \Delta r \Delta z$
+</center>
+
+其计算见下图：
+
+<center>
+<a href="https://www.pearsonhighered.com/thomas13einfo/">
+   <img src="./imags/calculus/triple_polar_elem.png" width="400" height="400"/>
+</a>
+</center>
 
 
 ---
