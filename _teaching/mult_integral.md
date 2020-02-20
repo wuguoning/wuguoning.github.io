@@ -566,6 +566,17 @@ $$\lim\limits_{\Vert P \Vert \to 0} \sum\limits_{k=1}^n F(x_k, y_k, z_k)\Delta V
    <img src="./imags/calculus/triple_inte_exp3.png" width="700" height="600"/>
 </a>
 </center>
+
+---
+**✏️例子**
+
+<center>
+<a href="https://www.geogebra.org/3d/xdrxsu7n">
+   <img src="./imags/calculus/triple_inte_exp4.png" width="600" height="700"/>
+</a>
+</center>
+
+
 ---
 
 ## 📚参考书目
