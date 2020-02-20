@@ -492,6 +492,20 @@ $\int_0^{+\infty} e^{-x^2}\, \mathrm{d}x = \dfrac{\sqrt{\pi}}{2}$
 $$S_n = \sum\limits_{k=1}^n F(x_k, y_k, z_k)\Delta V_k$$
 </center>
 
+如果当分割的细度趋于零时，上式的极限存在，即
+
+<center>
+$$\lim\limits_{\Vert P \Vert \to 0}S_n =\lim\limits_{\Vert P \Vert \to 0} \sum\limits_{k=1}^n F(x_k, y_k, z_k)\Delta V_k$$
+</center>
+
+存在，我们称$F(x, y, z)$在$D$上可积，记为：
+
+<center>
+$$\lim\limits_{\Vert P \Vert \to 0} \sum\limits_{k=1}^n F(x_k, y_k, z_k)\Delta V_k = \iiint\limits_{D} F(x,y,z)\,\mathrm{d}x\,\mathrm{d}y\,\mathrm{d}z$$
+</center>
+
+
+
 ---
 
 ## 📚参考书目
