@@ -544,7 +544,7 @@ $$\lim\limits_{\Vert P \Vert \to 0} \sum\limits_{k=1}^n F(x_k, y_k, z_k)\Delta V
 
 <center>
 <a href="https://www.geogebra.org/3d/kvpsxyeq">
-   <img src="./imags/triple_inte_exp1.png" width="700" height="600"/>
+   <img src="./imags/calculus/triple_inte_exp1.png" width="700" height="600"/>
 </a>
 </center>
 
@@ -553,7 +553,7 @@ $$\lim\limits_{\Vert P \Vert \to 0} \sum\limits_{k=1}^n F(x_k, y_k, z_k)\Delta V
 
 <center>
 <a href="https://www.geogebra.org/3d/vyk4pdrg">
-   <img src="./imags/triple_inte_exp2.png" width="700" height="600"/>
+   <img src="./imags/calculus/triple_inte_exp2.png" width="700" height="600"/>
 </a>
 </center>
 
