@@ -578,6 +578,19 @@ $$\lim\limits_{\Vert P \Vert \to 0} \sum\limits_{k=1}^n F(x_k, y_k, z_k)\Delta V
 </a>
 </center>
 
+---
+**柱坐标下三重积分的计算**
+
++ 柱坐标：
+
+
+<center>
+<a href="https://www.geogebra.org/3d/ppb4b6ca">
+   <img src="./imags/calculus/polar_coordinate_new.png" width="600" height="700"/>
+</a>
+</center>
+
+
 
 ---
 
