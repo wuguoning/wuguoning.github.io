@@ -539,6 +539,24 @@ $$\lim\limits_{\Vert P \Vert \to 0} \sum\limits_{k=1}^n F(x_k, y_k, z_k)\Delta V
     $\iiint\limits_{D}F(x,y,z)\,\mathrm{d}V = \int_a^b \int_{g_1(x)}^{g_2(x)} \int_{f_1(x,y)}^{f_2(x,y)} F(x,y,z)\,\mathrm{d}z\,\mathrm{d}y\,\mathrm{d}x$
   </center>
 
+---
+**✏️例子**
+
+<center>
+<a href="https://www.geogebra.org/3d/kvpsxyeq">
+   <img src="./imags/triple_inte_exp1.png" width="700" height="600"/>
+</a>
+</center>
+
+---
+**✏️例子**
+
+<center>
+<a href="https://www.geogebra.org/3d/vyk4pdrg">
+   <img src="./imags/triple_inte_exp2.png" width="700" height="600"/>
+</a>
+</center>
+
 
 ---
 
