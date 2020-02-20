@@ -612,7 +612,7 @@ $S_n = \sum\limits_{k=1}^n f(r_k, \theta_k, z_k)r_k \Delta r_k \Delta \theta_k \
 当分割的细度趋于零时，若极限存在，记为：
 
 <center>
-$\lim\limits_{\Vert P \Vert \to 0}sum\limits_{k=1}^n f(r_k, \theta_k, z_k)r_k \Delta r_k \Delta \theta_k \Delta z_k = \iiint\limits_{D}f(r, \theta, z)\mathrm{d}z\,r\mathrm{d}r\,\mathrm{d}\theta$
+$\lim\limits_{\Vert P \Vert \to 0}\sum\limits_{k=1}^n f(r_k, \theta_k, z_k)r_k \Delta r_k \Delta \theta_k \Delta z_k = \iiint\limits_{D}f(r, \theta, z)\mathrm{d}z\,r\mathrm{d}r\,\mathrm{d}\theta$
 </center>
 
 
