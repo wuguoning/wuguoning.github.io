@@ -525,7 +525,7 @@ $$\lim\limits_{\Vert P \Vert \to 0} \sum\limits_{k=1}^n F(x_k, y_k, z_k)\Delta V
   </a>
   </center>
 
-+ 在投影区域上$R$作射线，找到$y$的穿入边界和穿出边界。下图：射线的传入边界为$g_x(x)$，穿出边界为$g_2(x)$。这些是$y$的积分上下限。
++ 在投影区域上$R$作射线，找到$y$的穿入边界和穿出边界。下图：射线的穿入边界为$g_1(x)$，穿出边界为$g_2(x)$。这些是$y$的积分上下限。
 
   <center>
   <a href="https://www.pearsonhighered.com/thomas13einfo/">
