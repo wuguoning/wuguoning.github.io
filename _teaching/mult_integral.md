@@ -615,6 +615,39 @@ $S_n = \sum\limits_{k=1}^n f(r_k, \theta_k, z_k)r_k \Delta r_k \Delta \theta_k \
 $\lim\limits_{\Vert P \Vert \to 0}\sum\limits_{k=1}^n f(r_k, \theta_k, z_k)r_k \Delta r_k \Delta \theta_k \Delta z_k = \iiint\limits_{D}f(r, \theta, z)\mathrm{d}z\,r\mathrm{d}r\,\mathrm{d}\theta$
 </center>
 
+**柱坐标下积分计算的步骤**
+
++ 画出空间区域$D$,并画出该几何体在坐标平面上的投影，写出边界曲面的方程。
+
+  <center>
+  <a href="https://www.pearsonhighered.com/thomas13einfo/">
+     <img src="./imags/calculus/triple_polar_step1.png" width="300" height="400"/>
+  </a>
+  </center>
+
++ 在投影区域上任取一点，作平行于$z$轴的平行线，找到射线的穿入边界(曲面)和穿出边界(曲面)。注意把边界曲面表达为极坐标的形式。
+
+  <center>
+  <a href="https://www.pearsonhighered.com/thomas13einfo/">
+     <img src="./imags/calculus/triple_polar_step2.png" width="300" height="400"/>
+  </a>
+  </center>
+
++ 对投影区域，找到$r,\theta$的变化范围。在$xOy$平面上从原点出法画射线穿越投影区域，确定$r,\theta$的变换范围。
+
+  <center>
+  <a href="https://www.pearsonhighered.com/thomas13einfo/">
+     <img src="./imags/calculus/triple_polar_step3.png" width="300" height="400"/>
+  </a>
+  </center>
+
++ 把重积分写为累次积分的形式，注意积分元素为：$\mathrm{d}zr\mathrm{d}r\mathrm{d}\theta$.
+
+<center>
+$$\iiint\limits_{D} f(x,y,z)\,\mathrm{d}V = \int_{\alpha}^{\beta}\int_{r = h_(\theta)}^{r = h_2(\theta)}\int_{z = g_1(r, \theta)}^{z = g_2(r,\theta)}\,\mathrm{d}z\,r\mathrm{d}r\,\mathrm{d}\theta$$
+</center>
+
+
 
 
 
