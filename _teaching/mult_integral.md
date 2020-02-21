@@ -750,7 +750,7 @@ $\mathbf{p}$在$T_k(x_k, y_k,z_k)$处垂直与投影平面$R$，$u_k, v_k$为且
 </center>
 
 <center>
-$\Vert \mathbf{u}_k \times \mathbf{v}_k \Vert \cdot \mathbf{p} = \Delta A_k$
+$\Vert \mathbf{u}_k \times \mathbf{v}_k \cdot \mathbf{p} \Vert = \Delta A_k$
 </center>
 
 则有：
