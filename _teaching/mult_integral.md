@@ -656,6 +656,16 @@ $$\iiint\limits_{D} f(x,y,z)\,\mathrm{d}V = \int_{\alpha}^{\beta}\int_{r = h_1(\
 </a>
 </center>
 
+---
+**球坐标系**
+
+<center>
+<a href="https://www.geogebra.org/3d/bwx6xvgv">
+   <img src="./imags/calculus/spherical_coordinate.png" width="600" height="700"/>
+</a>
+</center>
+
+
 
 
 
