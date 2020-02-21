@@ -711,6 +711,16 @@ $$\lim\limits_{\Vert P \Vert \to 0}\sum\limits_{k=1}^n f(\rho_k, \phi_k, \theta_
     $$\iiint\limits_{D}f(x,y,z)\, \mathrm{d}V = \int_{\theta = \alpha}^{\theta = \beta} \mathrm{d}\theta \int_{\phi = \phi_{min}^{\phi = \phi_{max}}\sin \phi\mathrm{d}\phi\int_{\rho = g_1(\phi, \theta)}^{i\rho=g_2(\phi,\theta)}\rho^2\mathrm{d}\rho $$
   </center>
 
+---
+**✏️例子**
+
+<center>
+<a href="https://www.geogebra.org/3d/gsr7bcjj">
+   <img src="./imags/calculus/triple_spherical_exp1.png" width="600" height="700"/>
+</a>
+</center>
+
+
 
 
 
