@@ -741,7 +741,7 @@ $$\lim\limits_{\Vert P \Vert \to 0}\sum\limits_{k=1}^n f(\rho_k, \phi_k, \theta_
 $S = \sum\limits_{k}^n\Delta \sigma_k \approx \sum\limits_{k}^n\Delta P_k$
 </center>
 
-$\mathbf{p}$在$T_k(x_k, y_k,z_k)$处垂直与投影平面$R$，$u_k, v_k$为且平面上截出部分两个变的向量。则有以下关系：
+$\mathbf{p}$在$T_k(x_k, y_k,z_k)$处垂直与投影平面$R$，$u_k, v_k$为且平面上截出部分两个边的向量。则有以下关系：
 
 <center>
   <a href="https://www.pearsonhighered.com/thomas13einfo/">
