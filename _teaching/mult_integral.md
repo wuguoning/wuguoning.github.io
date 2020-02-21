@@ -759,18 +759,15 @@ $\Vert \mathbf{u}_k \times \mathbf{v}_k \Vert \cdot \mathbf{p} = \Delta A_k$
 $\Delta P_k = \dfrac{\Delta A_k}{|\cos \gamma_k|}$
 </center>
 
-所以有曲面的面积为：
-
-$$S = \iint\limits_{R} \dfrac{1}{|\cos \gamma|}\, \mathrm{d}A$$
-
-
-
 <center>
   <a href="https://www.pearsonhighered.com/thomas13einfo/">
    <img src="./imags/calculus/surface_def3.png" width="400" height="400"/>
 </a>
 </center>
 
+所以有曲面的面积为：
+
+$$S = \iint\limits_{R} \dfrac{1}{|\cos \gamma|}\, \mathrm{d}A$$
 
 
 
