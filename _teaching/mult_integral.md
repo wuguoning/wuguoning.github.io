@@ -708,7 +708,7 @@ $$\lim\limits_{\Vert P \Vert \to 0}\sum\limits_{k=1}^n f(\rho_k, \phi_k, \theta_
 + 转换三重积分为球坐标系下的累次积分。
 
   <center>
-    $\iiint\limits_{D}f(x,y,z)\, \mathrm{d}V = \int_{\theta = \alpha}^{\theta = \beta} \mathrm{d}\theta \int_{\phi = \phi_{min}^{\phi = \phi_{max}}}\sin \phi\mathrm{d}\phi\int_{\rho = g_1(\phi, \theta)}^{g_2(\phi,\theta)}\rho^2\mathrm{d}\rho $
+    $$\iiint\limits_{D}f(x,y,z)\, \mathrm{d}V = \int_{\theta = \alpha}^{\theta = \beta} \mathrm{d}\theta \int_{\phi = \phi_{min}^{\phi = \phi_{max}}\sin \phi\mathrm{d}\phi\int_{\rho = g_1(\phi, \theta)}^{i\rho=g_2(\phi,\theta)}\rho^2\mathrm{d}\rho $$
   </center>
 
 
