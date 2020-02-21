@@ -666,7 +666,7 @@ $$\iiint\limits_{D} f(x,y,z)\,\mathrm{d}V = \int_{\alpha}^{\beta}\int_{r = h_1(\
 </center>
 
 ---
-**球坐标下的积分元素**
+**球坐标下的积分计算**
 
 设$f(x,y,z)$定义在空间几何体$D$上，采用$\rho = \rho_1,\rho_2,\cdots,\rho_m, \phi = \phi_1,\phi_2, \cdots, \phi_n, \theta = \theta_1, \theta_2, \cdots, \theta_k$分割几何体(分割记为$P$)。体积元素为：$\Delta V_k = \rho_k^2 \sin \phi_k \Delta \phi_k \Delta \rho_k \Delta \theta_k $
 
