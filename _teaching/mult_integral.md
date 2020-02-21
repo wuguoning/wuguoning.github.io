@@ -633,7 +633,7 @@ $\lim\limits_{\Vert P \Vert \to 0}\sum\limits_{k=1}^n f(r_k, \theta_k, z_k)r_k \
   </a>
   </center>
 
-+ 对投影区域，找到$r,\theta$的变化范围。在$xOy$平面上从原点出法画射线穿越投影区域，确定$r,\theta$的变换范围。
++ 对投影区域，找到$r,\theta$的变化范围。在$xOy$平面上从原点出发画射线穿越投影区域，确定$r,\theta$的变换范围。
 
   <center>
   <a href="https://www.pearsonhighered.com/thomas13einfo/">
@@ -644,8 +644,18 @@ $\lim\limits_{\Vert P \Vert \to 0}\sum\limits_{k=1}^n f(r_k, \theta_k, z_k)r_k \
 + 把重积分写为累次积分的形式，注意积分元素为：$\mathrm{d}zr\mathrm{d}r\mathrm{d}\theta$.
 
 <center>
-$$\iiint\limits_{D} f(x,y,z)\,\mathrm{d}V = \int_{\alpha}^{\beta}\int_{r = h_(\theta)}^{r = h_2(\theta)}\int_{z = g_1(r, \theta)}^{z = g_2(r,\theta)}\,\mathrm{d}z\,r\mathrm{d}r\,\mathrm{d}\theta$$
+$$\iiint\limits_{D} f(x,y,z)\,\mathrm{d}V = \int_{\alpha}^{\beta}\int_{r = h_1(\theta)}^{r = h_2(\theta)}\int_{z = g_1(r, \theta)}^{z = g_2(r,\theta)}\,\mathrm{d}z\,r\mathrm{d}r\,\mathrm{d}\theta$$
 </center>
+
+---
+**✏️例子**
+
+<center>
+<a href="https://www.geogebra.org/3d/wcgtgarn">
+   <img src="./imags/calculus/triple_inte_cylin.png" width="600" height="700"/>
+</a>
+</center>
+
 
 
 
