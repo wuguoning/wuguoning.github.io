@@ -685,6 +685,32 @@ $$\lim\limits_{\Vert P \Vert \to 0}\sum\limits_{k=1}^n f(\rho_k, \phi_k, \theta_
 ---
 **球坐标系积分计算步骤**
 
++ 画出空间积分区域，写出几何体边界曲面的球坐标表达式，并画出在坐标平面上的投影;
+
+<center>
+  <a href="https://www.pearsonhighered.com/thomas13einfo/">
+   <img src="./imags/calculus/triple_spherical_step1.png" width="400" height="400"/>
+</a>
+</center>
+
++ 找出$\rho$的积分上下限。过原点作射线，该射线穿越积分几何体。找到射线的穿入边界(积分下限)和穿出边界(积分上限)。注意：几何体的边界曲面需要用球坐标表示;
+
++ 找到$\phi$的变化范围:从$z$轴的正向开始，向$xOy$面倾斜。找到$\phi$的变化范围，即$\phi$的积分下限和上限；
+
++ 找到$\theta$的变化范围：从$(0,0,0)$点出发，在$xOy$面上作射线穿越投影区域，找到$\theta$的变化范围，即$\theta$积分的下限和上限。
+
+<center>
+  <a href="https://www.pearsonhighered.com/thomas13einfo/">
+   <img src="./imags/calculus/triple_spherical_step2.png" width="400" height="400"/>
+</a>
+</center>
+
++ 转换三重积分为球坐标系下的累次积分。
+
+  <center>
+    $\iiint\limits_{D}f(x,y,z)\, \mathrm{d}V = \int_{\theta = \alpha}^{\theta = \beta} \mathrm{d}\theta \int_{\phi = \phi_{min}^{\phi = \phi_{max}}}\sin \phi\mathrm{d}\phi\int_{\rho = g_1(\phi, \theta)}^{g_2(\phi,\theta)}\rho^2\mathrm{d}\rho $
+  </center>
+
 
 
 
