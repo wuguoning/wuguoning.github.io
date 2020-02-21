@@ -15,7 +15,6 @@ location: "Beijing, CN"
 + [第二节 二重积分计算方法](#cotes2)
 + [第三节 三重积分](#cotes3)
 + [第四节 重积分的应用](#cotes4)
-+ [第五节 复合函数求导法则](#cotes5)
 
 ---
 
@@ -719,6 +718,11 @@ $$\lim\limits_{\Vert P \Vert \to 0}\sum\limits_{k=1}^n f(\rho_k, \phi_k, \theta_
    <img src="./imags/calculus/triple_spherical_exp1.png" width="600" height="700"/>
 </a>
 </center>
+
+---
+
+<a name="cotes4"></a>
+## 📌**4. 重积分的应用**
 
 
 
