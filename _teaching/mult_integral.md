@@ -741,7 +741,7 @@ $$\lim\limits_{\Vert P \Vert \to 0}\sum\limits_{k=1}^n f(\rho_k, \phi_k, \theta_
 $S = \sum\limits_{k}^n\Delta \sigma_k \approx \sum\limits_{k}^n\Delta P_k$
 </center>
 
-$\mathbf{p}$在$T_k(x_k, y_k,z_k)$处垂直与投影平面$R$，$u_k, v_k$为且平面上截出部分两个边的向量。则有以下关系：
++ $\mathbf{p}$在$T_k(x_k, y_k,z_k)$处垂直与投影平面$R$，$u_k, v_k$为且平面上截出部分两个边的向量。则有以下关系：
 
 <center>
   <a href="https://www.pearsonhighered.com/thomas13einfo/">
@@ -765,9 +765,23 @@ $\Delta P_k = \dfrac{\Delta A_k}{|\cos \gamma_k|}$
 </a>
 </center>
 
-所以有曲面的面积为：
++ 所以有曲面的面积为：
 
 $$S = \iint\limits_{R} \dfrac{1}{|\cos \gamma|}\, \mathrm{d}A$$
+
+---
+**空间曲面如果可以表达为$z=f(x,y)$**
+
+若空间曲面的方程为$z = f(x,y),(x,y) \in R$，则
+
+<center>
+$\vert \cos \gamma \vert = \dfrac{1}{\sqrt{1 + f_x^2(x,y)+f_y^2(x,y)}}$
+</center>
+
+这时，曲面的面积表达式为：
+
+$$S = \iint\limits_{R} \sqrt{1+f_x^2(x,y) + f_y^2(x,y)}\, \mathrm{d}A$$
+
 
 
 
