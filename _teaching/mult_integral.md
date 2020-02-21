@@ -668,7 +668,7 @@ $$\iiint\limits_{D} f(x,y,z)\,\mathrm{d}V = \int_{\alpha}^{\beta}\int_{r = h_1(\
 ---
 **球坐标下的积分元素**
 
-设$f(x,y,z)$定义在空间几何体$D$上，采用$rho = \rho_1,\rho_2,\cdots,\rho_m, \phi = \phi_1,\phi_2, \cdots, \phi_n, \theta = \theta_1, \theta_2, \cdots, \theta_k$分割几何体。体积元素为：$\Delta V_k = \rho_k \sin \phi_k \Delta \rho_k \Delta \rho_k \Delta \theta_k $
+设$f(x,y,z)$定义在空间几何体$D$上，采用$rho = \rho_1,\rho_2,\cdots,\rho_m, \phi = \phi_1,\phi_2, \cdots, \phi_n, \theta = \theta_1, \theta_2, \cdots, \theta_k$分割几何体(分割记为$P$)。体积元素为：$\Delta V_k = \rho_k^2 \sin \phi_k \Delta \rho_k \Delta \rho_k \Delta \theta_k $
 
 
 <center>
@@ -676,6 +676,13 @@ $$\iiint\limits_{D} f(x,y,z)\,\mathrm{d}V = \int_{\alpha}^{\beta}\int_{r = h_1(\
    <img src="./imags/calculus/spherical_coordinate_elem.png" width="400" height="400"/>
 </a>
 </center>
+
+若当分割$P$的细度趋于零时，和式极限存在，记为：
+<center>
+$\lim\limits_{\Vert P \Vert \to 0}\sum\limits_{k=1}^n f(\rho_k, \phi_k, \theta_k)\rho_k^2 \sin \phi_k\Delta \rho_k \Delta \phi_k \Delta \theta_k = \iiint\limits_{D}f(\rho, \phi, \theta)\rho^2\mathrm{d}\rho\,\sin \phi\mathrm{d}\phi\,\mathrm{d}\theta$
+</center>
+
+
 
 
 
