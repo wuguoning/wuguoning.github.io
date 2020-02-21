@@ -665,7 +665,17 @@ $$\iiint\limits_{D} f(x,y,z)\,\mathrm{d}V = \int_{\alpha}^{\beta}\int_{r = h_1(\
 </a>
 </center>
 
+---
+**球坐标下的积分元素**
 
+设$f(x,y,z)$定义在空间几何体$D$上，采用$rho = \rho_1,\rho_2,\cdots,\rho_m, \phi = \phi_1,\phi_2, \cdots, \phi_n, \theta = \theta_1, \theta_2, \cdots, \theta_k$分割几何体。体积元素为：$\Delta V_k = \rho_k \sin \phi_k \Delta \rho_k \Delta \rho_k \Delta \theta_k $
+
+
+<center>
+  <a href="https://www.pearsonhighered.com/thomas13einfo/">
+   <img src="./imags/calculus/spherical_coordinate_elem.png" width="400" height="400"/>
+</a>
+</center>
 
 
 
