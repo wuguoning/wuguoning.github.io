@@ -724,6 +724,22 @@ $$\lim\limits_{\Vert P \Vert \to 0}\sum\limits_{k=1}^n f(\rho_k, \phi_k, \theta_
 <a name="cotes4"></a>
 ## 📌**4. 重积分的应用**
 
+---
+**曲面的表面积**
+
+设一空间曲面，其方程为$f(x,y,z)=c$，其在坐标平面上的投影为$R$,见下图。如何求解该曲面的面积？
+
+<center>
+  <a href="https://www.pearsonhighered.com/thomas13einfo/">
+   <img src="./imags/calculus/surface_def1.png" width="400" height="400"/>
+</a>
+</center>
+
++ 对区域$R$进行分割，在第$k$块小区域上向上作柱面截得曲面的面积为$\Delta \sigma_k$，截的曲面在$T_k(x_k,y_k,z_k)$处且平面的面积为$\Delta P_k$。则有
+
+<center>
+$S = \sum\limits_{k}^n\Delta \sigma_k \approx \sum\limits_{k}^n\Delta P_k$
+</center>
 
 
 
