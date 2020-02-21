@@ -741,7 +741,18 @@ $$\lim\limits_{\Vert P \Vert \to 0}\sum\limits_{k=1}^n f(\rho_k, \phi_k, \theta_
 $S = \sum\limits_{k}^n\Delta \sigma_k \approx \sum\limits_{k}^n\Delta P_k$
 </center>
 
+<center>
+  <a href="https://www.pearsonhighered.com/thomas13einfo/">
+   <img src="./imags/calculus/surface_def2.png" width="400" height="400"/>
+</a>
+</center>
 
+
+<center>
+  <a href="https://www.pearsonhighered.com/thomas13einfo/">
+   <img src="./imags/calculus/surface_def3.png" width="400" height="400"/>
+</a>
+</center>
 
 
 
