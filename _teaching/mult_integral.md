@@ -782,6 +782,16 @@ $\vert \cos \gamma \vert = \dfrac{1}{\sqrt{1 + f_x^2(x,y)+f_y^2(x,y)}}$
 
 $$S = \iint\limits_{R} \sqrt{1+f_x^2(x,y) + f_y^2(x,y)}\, \mathrm{d}A$$
 
+---
+
+**✏️例子**
+
+<center>
+<a href="https://www.geogebra.org/classic/nsnu7vqt">
+   <img src="./imags/calculus/surface_exp1.png" width="700" height="700"/>
+</a>
+</center>
+
 
 
 
