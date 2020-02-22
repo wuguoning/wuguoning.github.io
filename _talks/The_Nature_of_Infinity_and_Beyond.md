@@ -11,6 +11,8 @@ author: Jorgen Veisdal
 
 How big is infinity?
 
+For details, click 👇
+
 <center>
   <a href="https://wuguoning.github.io/talks/docs/theNatureofInfinityandBeyond.pdf">
     <img src="./figs/cantor.png" width="300" height="500"/>
