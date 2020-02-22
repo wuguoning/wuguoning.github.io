@@ -10,29 +10,6 @@ location: "Beijing, CN"
 
 这部分主要介绍笛卡尔解析几何。
 
-## 教学日历:
-
-  + [2019-2020-2高等数学A](http://wuguoning.github.io/files/calculus/docs/19-20-2-A-syllabus.pdf)
-
-  + [2019-2020-2高等数学B](http://wuguoning.github.io/files/calculus/docs/19-20-2-B-syllabus.pdf)
-
----
-
-## 讲义幻灯片
-
-  + [解析几何ch08-1](http://wuguoning.github.io/files/calculus/notes/ch08-1.ppt)
-  + [解析几何ch08-2](http://wuguoning.github.io/files/calculus/notes/ch08-2.ppt)
-  + [解析几何ch08-3](http://wuguoning.github.io/files/calculus/notes/ch08-3.ppt)
-  + [解析几何ch08-4](http://wuguoning.github.io/files/calculus/notes/ch08-4.ppt)
-  + [解析几何ch08-5](http://wuguoning.github.io/files/calculus/notes/ch08-5.ppt)
-  + [解析几何ch08-6](http://wuguoning.github.io/files/calculus/notes/ch08-6.ppt)
-  + [解析几何ch08-excise](http://wuguoning.github.io/files/calculus/notes/ch08-excise.ppt)
-
----
-
-  + [解析几何ch08-1-pdf](http://wuguoning.github.io/files/calculus/notes/ch08-1.pdf)
-  + [解析几何ch08-2-pdf](http://wuguoning.github.io/files/calculus/notes/ch08-2.pdf)
-
 ---
 
 ## 目录
@@ -44,6 +21,7 @@ location: "Beijing, CN"
 + [第六节 三元二次曲面](#cotes6)
 + [第七节 空间曲线](#cotes7)
 
+---
 
 <a name="cotes1"></a>
 ### 第一节 向量及其运算
@@ -1500,6 +1478,28 @@ $\Gamma$在$xOz$面上的投影为
 
 📖3. 《解析几何》，尤承业，北京大学出版社，2004.
 
+---
+## 教学日历:
+
+  + [2019-2020-2高等数学A](http://wuguoning.github.io/files/calculus/docs/19-20-2-A-syllabus.pdf)
+  + [2019-2020-2高等数学B](http://wuguoning.github.io/files/calculus/docs/19-20-2-B-syllabus.pdf)
+
+---
+
+## 讲义幻灯片
+
+  + [解析几何ch08-1](http://wuguoning.github.io/files/calculus/notes/ch08-1.ppt)
+  + [解析几何ch08-2](http://wuguoning.github.io/files/calculus/notes/ch08-2.ppt)
+  + [解析几何ch08-3](http://wuguoning.github.io/files/calculus/notes/ch08-3.ppt)
+  + [解析几何ch08-4](http://wuguoning.github.io/files/calculus/notes/ch08-4.ppt)
+  + [解析几何ch08-5](http://wuguoning.github.io/files/calculus/notes/ch08-5.ppt)
+  + [解析几何ch08-6](http://wuguoning.github.io/files/calculus/notes/ch08-6.ppt)
+  + [解析几何ch08-excise](http://wuguoning.github.io/files/calculus/notes/ch08-excise.ppt)
+
+---
+
+  + [解析几何ch08-1-pdf](http://wuguoning.github.io/files/calculus/notes/ch08-1.pdf)
+  + [解析几何ch08-2-pdf](http://wuguoning.github.io/files/calculus/notes/ch08-2.pdf)
 
 ---
 # Calculus and its Visualization: an Introduction
