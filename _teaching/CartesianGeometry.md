@@ -16,6 +16,25 @@ location: "Beijing, CN"
 
   + [2019-2020-2高等数学B](http://wuguoning.github.io/files/calculus/docs/19-20-2-B-syllabus.pdf)
 
+---
+
+## 讲义幻灯片
+
+  + [解析几何ch08-1](http://wuguoning.github.io/files/calculus/notes/ch08-1.ppt)
+  + [解析几何ch08-2](http://wuguoning.github.io/files/calculus/notes/ch08-2.ppt)
+  + [解析几何ch08-3](http://wuguoning.github.io/files/calculus/notes/ch08-3.ppt)
+  + [解析几何ch08-4](http://wuguoning.github.io/files/calculus/notes/ch08-4.ppt)
+  + [解析几何ch08-5](http://wuguoning.github.io/files/calculus/notes/ch08-5.ppt)
+  + [解析几何ch08-6](http://wuguoning.github.io/files/calculus/notes/ch08-6.ppt)
+  + [解析几何ch08-excise](http://wuguoning.github.io/files/calculus/notes/ch08-excise.ppt)
+
+---
+
+  + [解析几何ch08-1-pdf](http://wuguoning.github.io/files/calculus/notes/ch08-1.pdf)
+  + [解析几何ch08-2-pdf](http://wuguoning.github.io/files/calculus/notes/ch08-2.pdf)
+
+---
+
 ## 目录
 + [第一节 向量及其运算](#cotes1)
 + [第二节 数量积、向量积、混合积](#cotes2)
