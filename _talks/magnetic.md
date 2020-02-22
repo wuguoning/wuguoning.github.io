@@ -8,8 +8,6 @@ date: 2019-11-16
 location: "Beijing BJ, CN"
 ---
 
-[![Real Analysis](/images/electromagnetic-field.png)](https://wuguoning.github.io/talks/magnetic)
-
 This paper mainly concentrated on the electricity and magnetism: 
 statics and its visualization. Gradient, divergence and curl are 
 visualized. Hopefully, this paper will give  visualizations of many 
