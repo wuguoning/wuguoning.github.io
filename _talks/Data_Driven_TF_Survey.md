@@ -9,7 +9,6 @@ location: "Beijing, CN"
 author: Guoning Wu
 ---
 
-# Abstract
 This is a **Tutorial** of data-driven time-frequency analysis methods.
 
 # Introduction
