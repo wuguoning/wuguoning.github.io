@@ -31,11 +31,11 @@ location: "Beijing, CN"
 
 “速度”和“位移”是向量，“速率”和“长度”是标量。几何上向量是有大小和方向的有向线段。向量描述事物间的位移和相对位置，向量不包括“位置”的概念。“点”有位置，但没有大小和厚度。
 
-向量的表示：$\bf{a, b, c,} \cdots $
+  + 向量的表示：$\bf{a, b, c,} \cdots $
 
-或者: $\vec{a}, \vec{b}, \vec{c}, \cdots$
+    或者: $\vec{a}, \vec{b}, \vec{c}, \cdots$
 
-两个向量的夹角:  $<\widehat{\bf{a},\bf{b}}> = \phi$
+  + 两个向量的夹角:  $<\widehat{\bf{a},\bf{b}}> = \phi$
 
 ---
 
@@ -55,6 +55,8 @@ location: "Beijing, CN"
 
   + 结合律：$\bf{(a + b) + c = a + (b + c)}$   
 
+---
+
 **数乘**
 
 向量与数的乘积满足以下运算规律：
@@ -69,6 +71,12 @@ location: "Beijing, CN"
 <span style="color:blue">
  **定理1**
 设向量$\bf{a} \ne \bf{0}$，则向量$\bf{b}$平行于$\bf{a}$的充分必要条件为：$\bf{b} = \lambda \bf{a}$.
+
+定理2
+向量$\mathbf{a,b}$共线的充分必要条件为：存在一组不全为零的实数$\lambda, \mu \in \mathbb{R}$使得: $\lambda \mathbf{a} + \mu \mathbf{b} = \mathbf{0}$
+
+定理3
+向量$\mathbf{a,b,c}$共面的充分必要条件为：存在一组不全为零的实数$k_1, k_2, k_3$使得$k_1 \mathbf{a} + k_2\mathbf{b} + k_3\mathbf{c} = \mathbf{0}$
 </span>
 
 ---
