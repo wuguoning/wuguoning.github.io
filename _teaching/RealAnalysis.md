@@ -10,7 +10,7 @@ location: "City, Country"
 These are notes and test papers about real analysis.
 
 ---
-# Table of Contents
+## Table of Contents
 1. [Real Analysis I](#analysis1)
 2. [Real Analysis II](#analysis2)
 3. [Real Analysis III](#analysis3)
@@ -30,7 +30,6 @@ integrability.
 ## Real Analysis I
 <center>
   <img src="./imags/real_analysis_1.png"  width="600" height="300" />
-  </a>
 </center>
 
 1. [<span style="color:blue">**Introduction**</span>](http://wuguoning.github.io/files/analysis/introduction.pdf)
@@ -62,7 +61,6 @@ integrability.
 ## Real Analysis II
 <center>
   <img src="./imags/real_analysis_2.png"  width="600" height="300" />
-  </a>
 </center>
 
 1. [<span style="color:blue">**Multi-variable Function.**</span>](http://wuguoning.github.io/files/analysis/mul_var_fun.pdf)
@@ -84,7 +82,6 @@ integrability.
 ## Real Analysis III
 <center>
   <img src="./imags/real_analysis_3.png"  width="600" height="300" />
-  </a>
 </center>
 
 1. [<span style="color:blue">**Series.**</span>](http://wuguoning.github.io/files/analysis/series.pdf)
@@ -94,13 +91,6 @@ integrability.
 4. [<span style="color:blue">**Fourier Series.**</span>](http://wuguoning.github.io/files/analysis/fourierSeries.pdf)
     * [<span style="color:red">**Homework.**</span>](http://wuguoning.github.io/files/analysis/homework_fourier_series.pdf)
 
-
----
-
-## These are lectures notes and tests for real analysis.
-  1. **Real Analysis I: the first part of the real analysis**
-  2. **Real Analysis II: the second part of the real analysis**
-  3. **Real Analysis III: the third part of the real analysis**
 
 ---
 
@@ -144,3 +134,5 @@ integrability.
    <img src="./imags/wiki.png" width="200" height="50"/>
 </a>
 </center>
+
+---
