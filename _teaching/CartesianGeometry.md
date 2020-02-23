@@ -71,10 +71,14 @@ location: "Beijing, CN"
 <span style="color:blue">
  **定理1**
 设向量$\bf{a} \ne \bf{0}$，则向量$\bf{b}$平行于$\bf{a}$的充分必要条件为：$\bf{b} = \lambda \bf{a}$.
+</span>
 
+<span style="color:blue">
 定理2
 向量$\mathbf{a,b}$共线的充分必要条件为：存在一组不全为零的实数$\lambda, \mu \in \mathbb{R}$使得: $\lambda \mathbf{a} + \mu \mathbf{b} = \mathbf{0}$
+</span>
 
+<span style="color:blue">
 定理3
 向量$\mathbf{a,b,c}$共面的充分必要条件为：存在一组不全为零的实数$k_1, k_2, k_3$使得$k_1 \mathbf{a} + k_2\mathbf{b} + k_3\mathbf{c} = \mathbf{0}$
 </span>
