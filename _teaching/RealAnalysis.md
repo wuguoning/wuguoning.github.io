@@ -29,7 +29,7 @@ integrability.
 <a name="analysis1"></a>
 ## Real Analysis I
 <center>
-  <img src="./imags/real_analysis_1.png"  width="600" height="300" />
+  <img src="./imags/real_analysis_1.png"  width="600" height="200" />
 </center>
 
 1. [<span style="color:blue">**Introduction**</span>](http://wuguoning.github.io/files/analysis/introduction.pdf)
