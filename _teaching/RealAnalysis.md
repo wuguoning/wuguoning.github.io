@@ -40,7 +40,7 @@ integrability.
 4. [<span style="color:blue">**Mean Value Theorem**</span>](http://wuguoning.github.io/files/analysis/meanvalue.pdf)
 5. [<span style="color:blue">**Derivative**</span>](http://wuguoning.github.io/files/analysis/derivative.pdf)
 6. [<span style="color:blue">**Primitive**</span>](http://wuguoning.github.io/files/analysis/primitive.pdf)
-7. [<span style="color:blue">**Definite Integral.**</span>](http://wuguoning.github.io/files/analysis/integral.pdf)
+7. [<span style="color:blue">**Definite Integral.**</span>](http://wuguoning.github.io/files/analysis/integral.pdf),[Slide of Definite Integral](http://wuguoning.github.io/files/analysis/slides/integral.pdf)
 
 ---
 
