@@ -147,7 +147,30 @@ $\mathbf{A} = \begin{bmatrix} 6 & 1 & 1 \newline 4 & -2 & 5 \newline 2 & 8 & 7\e
 </center>
 則
 <center>
-$\vert \mathbf{A} \vert  = 6 \times (-2 \times 7 - 5\times 8) - 1 \times (4 \times 7 - 5 \times 2) + 1 \times (4 \times 8 - (-2) \times 2)$
+$\vert \mathbf{A} \vert  = 6 \times (-2 \times 7 - 5\times 8) - 1 \times (4 \times 7 - 5 \times 2) + 1 \times (4 \times 8 - (-2) \times 2) = -306$
+</center>
+
+---
+
+## 四階行列式
+
+設
+<center>
+$\mathbf{A} = \begin{bmatrix} a & b & c & d \newline e & f & g & h \newline i & j & k & l \newline m & n & o & p\end{bmatrix}$
+</center>
+則
+<center>
+$
+\vert \mathbf{A} \vert  = 
+  a \times \begin{bmatrix} f & g & h  \newline j & k & l \newline n & o & p \end{bmatrix}
+- b \times \begin{bmatrix} e & g & h  \newline i & k & l \newline m & o & p \end{bmatrix}
++ c \times \begin{bmatrix} e & f & h  \newline i & j & l \newline m & n & p \end{bmatrix}
+- d \times \begin{bmatrix} e & f & g  \newline i & j & k \newline m & n & o \end{bmatrix}
+$
+</center>
+
+<center>
+   <img src="./figs/matrix_4x4.png" width="500" height="100"/>
 </center>
 
 
