@@ -124,6 +124,25 @@ $\mathbf{A} = \begin{bmatrix} a & b \newline c & d\end{bmatrix}$
    <img src="./figs/matrix_2x2.png" width="100" height="100"/>
 </center>
 
+---
+
+幾何意義
+<center>
+  <a href="https://www.geogebra.org/m/WjJJvWNC">
+   <img src="./figs/matrix_2x2.png" width="600" height="400"/>
+  </a> 
+</center>
+
+---
+解線性方程組克萊姆法則：
+
+<center>
+  <a href="https://www.geogebra.org/geometry/zjjzpv29">
+   <img src="./figs/determinants_lin_system.png" width="500" height="700"/>
+  </a> 
+</center>
+
+---
 
 ## 三階行列式
 
