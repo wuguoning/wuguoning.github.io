@@ -100,7 +100,7 @@ b_m
 ## 行列式
 
 行列式為數學中的一個函數，該函數將一個$n \times n$的矩陣影射到一個數，
-記作$det(\mathbf{A})$或者$\vert \mathbf{A} \vert$。行列式可以看成是有向面積或者
+記作$\mathrm{det}(\mathbf{A})$或者$\vert \mathbf{A} \vert$。行列式可以看成是有向面積或者
 體積的概念在歐幾里德空間的推廣。
 
 
