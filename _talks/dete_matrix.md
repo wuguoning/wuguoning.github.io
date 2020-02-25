@@ -8,7 +8,7 @@ date: 2020-02-25
 location: "Beijing BJ, CN"
 ---
 
-今天简单谈谈矩阵，行列式。
+今天簡單談談矩陣(Matrix)和行列式(Determinant)。
 
 ## 矩阵Matrix
 
