@@ -1,11 +1,11 @@
 ---
 title: '矩阵与行列式'
+collection: talks
+type: "History"
+permalink: /talks/dete_matrix
+venue: "China University of Petroleum-Beijing"
 date: 2020-02-25
-permalink: /posts/2020/02/blog-post-1/
-tags:
-  - 矩阵
-  - 行列式
-  - 向量
+location: "Beijing BJ, CN"
 ---
 
 今天简单谈谈矩阵，行列式。
@@ -122,7 +122,7 @@ $\mathbf{A} = \begin{bmatrix} a & b \newline c & d\end{bmatrix}$
 下圖表示二階矩陣的運算，藍色為正$ad$，紅色為負$-bc$。
 
 <center>
-   <img src="./imags/matrix_2x2.png" width="100" height="100"/>
+   <img src="./figs/matrix_2x2.png" width="100" height="100"/>
 </center>
 
 
@@ -138,7 +138,7 @@ $\vert \mathbf{A} \vert  = a \times (e \times i - f \times h) - b \times (d \tim
 </center>
 
 <center>
-   <img src="./imags/matrix_3x3.png" width="500" height="100"/>
+   <img src="./figs/matrix_3x3.png" width="500" height="100"/>
 </center>
 
 例如：
