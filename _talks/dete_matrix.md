@@ -129,7 +129,7 @@ $\mathbf{A} = \begin{bmatrix} a & b \newline c & d\end{bmatrix}$
 幾何意義
 <center>
   <a href="https://www.geogebra.org/m/WjJJvWNC">
-   <img src="./figs/matrix_2x2.png" width="600" height="400"/>
+   <img src="./figs/geom_mean_matrix.png" width="600" height="400"/>
   </a> 
 </center>
 
