@@ -61,14 +61,13 @@ $
                      a_{m,1}x_{1} + a_{m,2}x_{2} + \cdots + a_{m,n}x_{n}=  b_{m} 
 \end{cases}
 $
-
+</center>
 
 可以表示為：
 
 <center>
 $\mathbf{A}\mathbf{x} = \mathbf{b}$
 </center>
-
 
 其中，
 
