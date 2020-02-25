@@ -200,6 +200,14 @@ $
 
 <center>
 
+<a href="https://www.geogebra.org">
+   <img src="../teaching/imags/geogebra.png" width="200" height="60"/>
+</a>
+
+<a href="https://www.geogebra.org">
+   <img src="../teaching/imags/github.png" width="200" height="60"/>
+</a>
+
 <a href="https://www.wikipedia.org/">
    <img src="../teaching/imags/wiki.png" width="200" height="50"/>
 </a>
