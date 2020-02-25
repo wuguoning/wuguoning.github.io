@@ -134,6 +134,7 @@ $\mathbf{A} = \begin{bmatrix} a & b \newline c & d\end{bmatrix}$
 </center>
 
 ---
+
 解線性方程組克萊姆法則：
 
 <center>
