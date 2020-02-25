@@ -1,5 +1,5 @@
 ---
-title: '矩阵与行列式'
+title: '矩陣與行列式-Matrix&Determinant'
 collection: talks
 type: "History"
 permalink: /talks/dete_matrix
