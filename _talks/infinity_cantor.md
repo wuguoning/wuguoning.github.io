@@ -11,8 +11,7 @@ location: "Beijing, CN"
 以下三篇小短文介紹無窮和康托的故事，希望對您有所幫助！
 
 <center>
-<img src="./figs/infinity_cantor.png" width="400" height="200"/>
-</a>
+  <img src="./figs/infinity_cantor.png" width="400" height="200"/>
 </center>
 
 + [無窮大也能「比較」大小！（上）——超窮理論的歷史故事!](https://kknews.cc/science/4vrv49g.html)
