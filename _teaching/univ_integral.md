@@ -69,8 +69,15 @@ location: "Beijing, CN"
 <a name="cotes2"></a>
 ## 📌**<span style="color:blue">1. 求界面为已知的几何体的体积</span>**
 
-设一个几何体$S$自变量$x$的变化范围为：$[a,b]$.在$x$处的截面的面积为$A(x)$，当区间$[a,b]$
-被分割为：
+设一个几何体$S$自变量$x$的变化范围为：$[a,b]$.在$x$处的截面的面积为$A(x)$，
+
+  <center>
+  <a href="https://www.pearsonhighered.com/thomas13einfo/">
+     <img src="./imags/calculus/volume_slice1.png" width="400" height="400"/>
+  </a>
+  </center>
+
+当区间$[a,b]$被分割为：
 
 <center>
   $a = x_0 < x_1 < \cdots < x_n = b$
@@ -83,6 +90,12 @@ location: "Beijing, CN"
 </center>
 
 其中$x_k = x_k - x_{k-1}, A_k$为$x = x_k$处的切面的面积。
+
+  <center>
+  <a href="https://www.pearsonhighered.com/thomas13einfo/">
+     <img src="./imags/calculus/volume_slice2.png" width="400" height="400"/>
+  </a>
+  </center>
 
 所以几何体$S$的体积为：
 
