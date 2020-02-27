@@ -120,6 +120,17 @@ location: "Beijing, CN"
 </details>
 
 ---
+**✏️例子**
+
+祖暅原理
+  <center>
+  <a href="https://www.geogebra.org/3d/szc4qgum">
+     <img src="./imags/integral1d/Cavalieri_principle.png" width="600" height="700"/>
+  </a>
+  </center>
+
+
+---
 
 # Calculus and its Visualization: an Introduction
 
