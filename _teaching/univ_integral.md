@@ -67,8 +67,28 @@ location: "Beijing, CN"
 ---
 
 <a name="cotes2"></a>
-## 📌**<span style="color:blue">1. 求旋转体的体积</span>**
+## 📌**<span style="color:blue">1. 求界面为已知的几何体的体积</span>**
 
+设一个几何体$S$自变量$x$的变化范围为：$[a,b]$.在$x$处的截面的面积为$A(x)$，当区间$[a,b]$
+被分割为：
+
+<center>
+  $a = x_0 < x_1 < \cdots < x_n = b$
+</center>
+
+则在$[x_{k-1},x_k]$区间上对应的几何体体积约为：
+
+<center>
+  $V_k = A(x_k)\Delta x_k$
+</center>
+
+其中$x_k = x_k - x_{k-1}, A_k$为$x = x_k$处的切面的面积。
+
+所以几何体$S$的体积为：
+
+<center>
+  $V = \int_a^b A(x)\, \mathrm{d}x.$
+</center>
 
 ---
 
