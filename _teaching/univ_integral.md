@@ -105,6 +105,21 @@ location: "Beijing, CN"
 
 
 ---
+**✏️例子**
+
+设一个锥体高度为3米，地面为3米的正方形，其垂直于$x$轴的截面的边长为$x$米，求其体积。
+
+  <center>
+  <a href="https://www.pearsonhighered.com/thomas13einfo/">
+     <img src="./imags/integral1d/volume_slice_exp1.png" width="400" height="400"/>
+  </a>
+  </center>
+
+<details>
+  解： $V \int_0^3 x^2\,\mathrm{d}x = \left[\dfrac{x^3}{3}\right]_0^3 = 9m^3$
+</details>
+
+---
 
 # Calculus and its Visualization: an Introduction
 
