@@ -73,7 +73,7 @@ location: "Beijing, CN"
 
   <center>
   <a href="https://www.pearsonhighered.com/thomas13einfo/">
-     <img src="./imags/calculus/volume_slice1.png" width="400" height="400"/>
+     <img src="./imags/integral1d/volume_slice1.png" width="400" height="400"/>
   </a>
   </center>
 
@@ -93,7 +93,7 @@ location: "Beijing, CN"
 
   <center>
   <a href="https://www.pearsonhighered.com/thomas13einfo/">
-     <img src="./imags/calculus/volume_slice2.png" width="400" height="400"/>
+     <img src="./imags/integral1d/volume_slice2.png" width="400" height="400"/>
   </a>
   </center>
 
