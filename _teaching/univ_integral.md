@@ -146,6 +146,17 @@ $V = \int_a^b A(x)\, \mathrm{d}x = \int_0^3 2x \sqrt{9 - x^2}\, \mathrm{d}x = 18
 
 </details>
 
+---
+
+<a name="cotes3"></a>
+## 📌**<span style="color:blue">3. 求平面曲线的弧长</span>**
+
+
+  <center>
+  <a href="https://www.geogebra.org/geometry/tevpmdxf">
+     <img src="./imags/integral1d/Arc_length.png" width="600" height="700"/>
+  </a>
+  </center>
 
 ---
 
