@@ -21,7 +21,9 @@ location: "Beijing, CN"
 ---
 
 <a name="cotes1"></a>
-## 📌**<span style="color:blue">1. 直角坐标下求面积</span>**
+## 📌**<span style="color:blue">1. 去平面图形面积</span>**
+
+**直角坐标下求面积**
 
 一般地，求由$y = f_2(x), y = f_x(x)$以及两条直线$x = a, x = b$所围成的图形的面积为：
 
@@ -35,6 +37,15 @@ location: "Beijing, CN"
   <img src="./imags/integral1d/Integral_area_between_functions.png"  width="600" height="500" />
   </a>
 </center>
+
+**参数方程下求面积**
+
+<center>
+  <a href="https://www.geogebra.org/classic/pf6sg96c">
+  <img src="./imags/integral1d/para_curve_area.png"  width="600" height="500" />
+  </a>
+</center>
+
 
 ---
 
