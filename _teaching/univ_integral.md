@@ -52,6 +52,12 @@ location: "Beijing, CN"
 
 **极坐标下求二重积**
 
+极坐标下求面积公式为：
+<center>
+  $A = \int_{\alpha}^{\beta}\dfrac{1}{2}r^2(\theta)\,\mathrm{d}\theta$
+</center>
+下图为公式的推导，及其求$r = 4 + 4\cos \theta(0 \le \theta \le 2\pi)$的面积。
+
 <center>
   <a href="https://www.geogebra.org/geometry/p3efte9c">
   <img src="./imags/integral1d/polar_area.png"  width="600" height="700" />
