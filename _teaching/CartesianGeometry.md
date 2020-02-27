@@ -319,6 +319,8 @@ $$\angle{AMB} = \dfrac{\pi}{3}$$
   $\Vert \mathbf{r} \Vert \Vert \mathbf{F} \Vert \sin \theta$
 </center>
 
+方向为下图所示$\mathbf{n}$的方向。
+
 <center>
 <a href="https://www.pearsonhighered.com/thomas13einfo/">
    <img src="./imags/calculus/torque.png" width="400" height="400"/>
