@@ -103,6 +103,7 @@ location: "Beijing, CN"
   $V = \int_a^b A(x)\, \mathrm{d}x.$
 </center>
 
+
 ---
 
 # Calculus and its Visualization: an Introduction
