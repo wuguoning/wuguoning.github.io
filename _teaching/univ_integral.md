@@ -129,6 +129,23 @@ location: "Beijing, CN"
   </a>
   </center>
 
+---
+**✏️例子**
+
+求下列楔形几何体的体积
+  <center>
+  <a href="https://www.pearsonhighered.com/thomas13einfo/">
+     <img src="./imags/integral1d/volume_slice_exp2.png" width="400" height="400"/>
+  </a>
+  </center>
+
+<details>
+解： 
+
+$V = \int_a^b A(x)\, \mathrm{d}x = \int_0^3 2x \sqrt{9 - x^2}\, \mathrm{d}x = 18$
+
+</details>
+
 
 ---
 
