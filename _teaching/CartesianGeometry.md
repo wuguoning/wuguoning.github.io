@@ -328,7 +328,6 @@ $$\angle{AMB} = \dfrac{\pi}{3}$$
 </center>
 
 
-
 设$\bf{O}$为一根杠杆的支点。有一个力$\bf{F}$作用在这根杠杆的$P$点处夹角为$\theta$，由力学规定，力$\bf{F}$对支点$\bf{O}$的力矩是一个向量$\bf{M}$，该向量的长度为：
 <center>
 $\|\bf{M}\| = \|\vec{OP}\|\|\bf{F}\|\sin <\widehat{\vec{OP}, \bf{F}}> $
