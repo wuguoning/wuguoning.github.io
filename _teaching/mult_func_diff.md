@@ -299,12 +299,12 @@ $df|_{x_0}(\Delta x) = f'(x_0)\Delta x$
 设函数$z = f(x, y)$在$P(x_0, y_0)$点的某邻域$U(P_0)$上有定义，对于$P(x_0 + \Delta x, y_0 + \Delta y) \in U(P_0)$，如果有：
 
 <center>
-$$P(x_0 + \Delta x, y_0 + \Delta y) - f(x_0, y_0) = A\Delta x + B\Delta y + o(\rho)$$
+$$f(x_0 + \Delta x, y_0 + \Delta y) - f(x_0, y_0) = A\Delta x + B\Delta y + o(\rho)$$
 或者
-$$P(x_0 + \Delta x, y_0 + \Delta y) - f(x_0, y_0) = A\Delta x + B\Delta y + \epsilon_1 \Delta x + \epsilon_2 \Delta y$$
+$$f(x_0 + \Delta x, y_0 + \Delta y) - f(x_0, y_0) = A\Delta x + B\Delta y + \epsilon_1 \Delta x + \epsilon_2 \Delta y$$
 </center>
 
-其中$A, B$仅与$P_0$有关，$\rho = \sqrt{\Delta x^2 + \Delta y^2}$，$o(\rho)$为$\rho$的高阶无穷小量(第二种情形，$\epsilon_1, \epsilon_2$为随着$\Delta x, \Delta y \to 0$的无穷小量)，则称函数$f$在$P_0$点<span style="color:red">**可微**</span>，并称线形函数$A\Delta x + B\Delta y$为函数$f$的<span style="color:red">**全微分**</span>，记作：
+其中$A, B$仅与$P_0$有关，$\rho = \sqrt{\Delta x^2 + \Delta y^2}$，$o(\rho)$为$\rho$的高阶无穷小量(第二种情形，$\epsilon_1, \epsilon_2$为随着$\Delta x, \Delta y \to 0$的无穷小量)，则称函数$f$在$P_0$点<span style="color:red">**可微**</span>，并称线性函数$A\Delta x + B\Delta y$为函数$f$的<span style="color:red">**全微分**</span>，记作：
 
 
 <center>
@@ -449,9 +449,9 @@ $
 
 + 可微:  $P(x_0 + \Delta x, y_0 + \Delta y) - f(x_0, y_0) = A\Delta x + B\Delta y + \epsilon_1 \Delta x + \epsilon_2 \Delta y$;
 
-+ 连续:  $\lim\limits_{(\Delta x, \Delta y) \to (0, 0)}P(x_0 + \Delta x, y_0 + \Delta y) = f(x_0, y_0)$;
++ 连续:  $\lim\limits_{(\Delta x, \Delta y) \to (0, 0)}f(x_0 + \Delta x, y_0 + \Delta y) = f(x_0, y_0)$;
 
-+ 偏导数存在：$\lim\limits_{\Delta x \to 0 }\dfrac{P(x_0 + \Delta x, y_0) - f(x_0, y_0)}{\Delta x} = 存在$ 和 $\lim\limits_{\Delta y \to 0 }\dfrac{P(x_0, y_0 + \Delta y) - f(x_0, y_0)}{\Delta y} = 存在$
++ 偏导数存在：$\lim\limits_{\Delta x \to 0 }\dfrac{f(x_0 + \Delta x, y_0) - f(x_0, y_0)}{\Delta x} = 存在$ 和 $\lim\limits_{\Delta y \to 0 }\dfrac{f(x_0, y_0 + \Delta y) - f(x_0, y_0)}{\Delta y} = 存在$
 
 ---
 <span style="background-color:lightblue">
@@ -462,15 +462,15 @@ $
 
 如果函数$f$在$P_0(x_0, y_0)$点可微，则有：
 <center>
-$P(x_0 + \Delta x, y_0 + \Delta y) - f(x_0, y_0) = A\Delta x + B\Delta y + \epsilon_1 \Delta x + \epsilon_2 \Delta y$;
+$f(x_0 + \Delta x, y_0 + \Delta y) - f(x_0, y_0) = A\Delta x + B\Delta y + \epsilon_1 \Delta x + \epsilon_2 \Delta y$;
 </center>
 在上面等式中令$\Delta y = 0$，则有：
 <center>
-$\lim\limits_{\Delta x \to 0 }\dfrac{P(x_0 + \Delta x, y_0) - f(x_0, y_0)}{\Delta x} = A$
+$\lim\limits_{\Delta x \to 0 }\dfrac{f(x_0 + \Delta x, y_0) - f(x_0, y_0)}{\Delta x} = A$
 </center>
 同理，在上面可微分等式中令$\Delta x = 0$，则有：
 <center>
-$\lim\limits_{\Delta y \to 0 }\dfrac{P(x_0, y_0 + \Delta y) - f(x_0, y_0)}{\Delta y} = B$
+$\lim\limits_{\Delta y \to 0 }\dfrac{f(x_0, y_0 + \Delta y) - f(x_0, y_0)}{\Delta y} = B$
 </center>
 
 ---
@@ -594,7 +594,7 @@ $\lim\limits_{\rho \to 0+}\dfrac{f(x_0 + \rho \cos \alpha, y_0 + \rho \sin \alph
 $\left.\dfrac{\partial f}{\partial \mathbf{v}}\right\vert_{(x_0, y_0)}$
 </center>
 
-曲面$z = f(x, y)$在$(x_0, y_0)$
+曲面$z = f(x, y)$在$(x_0, y_0)$点处的方向导数如下图所示。
 <center>
   <a href="https://www.geogebra.org/3d/qxuq4ats">
     <img src="./imags/calculus/directional_deri.png" width="500" height="400"/>
@@ -654,7 +654,7 @@ $
 若函数$f(x,y)$在点$P_(x_0, y_0)$对所有自变量的偏导数存在，则称向量$(f_x(x_0, y_0), f_y(x_0, y_0))$为函数在点$P_0$点处的<span style="color:red">**梯度**</span>。记作：
 
 <center>
-$\textbf{grad} f  = (f_x(P_0), f_y(P_0))$
+$\textbf{grad} f(P_0)  = (f_x(P_0), f_y(P_0))$
 </center>
 或者
 
