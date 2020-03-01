@@ -54,13 +54,13 @@ location: "Beijing, CN"
 
 如果不作声明，我们一般🈯️欧几里德距离。
 
-若$P(x_0, y_0) \in \mathbf{R}^2$，我们称到点$P_0$的距离小于$\delta$的所有点的集合称为$P_0$的$\delta$邻域，记作$U(P_0, \delta)$.
+若$P(x_0, y_0) \in \mathbb{R}^2$，我们称到点$P_0$的距离小于$\delta$的所有点的集合称为$P_0$的$\delta$邻域，记作$U(P_0, \delta)$.
 
 ---
 
 ☘︎ **点集与集合之间的关系**
 
-假设$E \subset \mathcal{R}^2$, 有：
+假设$E \subset \mathbb{R}^2$, 有：
 
 + <span style="color:red">**内点**</span>: 若存在点$P$的邻域$U(P)$，使得$U(P) \subset E$;
 
@@ -99,11 +99,11 @@ location: "Beijing, CN"
 
 ☘︎ **二元函数**
 
-设$D \subset \mathcal{R}^2$，若按照某个对应法则$f$，$D$中的每一个点$P(x,y)$都有一个确定的实数$z$与之对应，则称$f$
+设$D \subset \mathbb{R}^2$，若按照某个对应法则$f$，$D$中的每一个点$P(x,y)$都有一个确定的实数$z$与之对应，则称$f$
 为定义在$D$上的一个<span style="color:red">**二元函数**</span>，记作
 
 <center>
-  $f: D \to \mathcal{R}$
+  $f: D \to \mathbb{R}$
 </center>
 
 称$D$为$f$的<span style="color:red">**定义域**</span>。若$P \in D$称与$P$所对应的$z$为点$P$的<span style="color:red">**函数值**</span>，记为$z = f(P)$。全体函数值的集合为$f$的<span style="color:red">**值域**</span>。$(x,y)$称为$f$的<span style="color:red">**自变量**</span>，而把$z$称为<span style="color:red">**因变量**</span>。
@@ -118,11 +118,11 @@ location: "Beijing, CN"
 
 ☘︎ **$n$元函数**
 
-设$D \subset \mathcal{R}^n$，若按照某个对应法则$f$，$D$中的每一个点$P(x_1, x_2, \cdots, x_n)$都有一个确定的实数$z$与之对应，则称$f$
+设$D \subset \mathbb{R}^n$，若按照某个对应法则$f$，$D$中的每一个点$P(x_1, x_2, \cdots, x_n)$都有一个确定的实数$z$与之对应，则称$f$
 为定义在$D$上的一个<span style="color:red">**$n$元函数**</span>，记作
 
 <center>
-  $f: D \to \mathcal{R}$
+  $f: D \to \mathbb{R}$
 </center>
 
 ---
@@ -142,7 +142,7 @@ location: "Beijing, CN"
 <a name="cotes2"></a>
 ## 📌**2. 二元函数的极限**
 
-设二元函数$f(x,y)$的定义域为$D \subset \mathcal{R}^2$, $P_0$为$D$的一个聚点，$A$是一个确定的实数。如果对于任意的$\epsilon > 0$，总存在某一个正数$\delta > 0$，使得当$P \in \mathring{U}(P_0, \delta)$时($0 < \|P - P_0\| < \delta$)时，有$\vert f(P) - A \vert < \epsilon$。则称$f(x, y)$当$P \to P_0$时极限为$A$，记为：
+设二元函数$f(x,y)$的定义域为$D \subset \mathbb{R}^2$, $P_0$为$D$的一个聚点，$A$是一个确定的实数。如果对于任意的$\epsilon > 0$，总存在某一个正数$\delta > 0$，使得当$P \in \mathring{U}(P_0, \delta)$时($0 < \|P - P_0\| < \delta$)时，有$\vert f(P) - A \vert < \epsilon$。则称$f(x, y)$当$P \to P_0$时极限为$A$，记为：
 <center>
   $\lim\limits_{P \to P_0}f(P) = A.$
 </center>
@@ -244,7 +244,7 @@ $
 ☘︎ **二元函数连续性定义**
 
 ---
-设函数$f$为定义在点集$D \subset \mathcal{R}^2$上的二元函数，$P_0 \in D$(它或者是$D$的聚点，或者是$D$的孤立点)，对于任意的$\epsilon > 0$，总存在相应的$\delta > 0$，只要$P \in U(P_0, \delta) \cap D$，有：
+设函数$f$为定义在点集$D \subset \mathbb{R}^2$上的二元函数，$P_0 \in D$(它或者是$D$的聚点，或者是$D$的孤立点)，对于任意的$\epsilon > 0$，总存在相应的$\delta > 0$，只要$P \in U(P_0, \delta) \cap D$，有：
 <center>
   $\vert f(P) - f(P_0)\vert \le \epsilon$
 </center>
@@ -583,7 +583,7 @@ $\vec{OP_0} + \rho \mathbf{v} = (x_0 + \rho \cos \alpha, y_0 + \rho \sin \alpha)
 </center>
 
 ---
-设$D \subset \mathcal{R}^2$为开集，$f(x,y)$为定义在$D$上的二元函数，$(x_0, y_0) \in D$，$\mathbf{v} = (\cos \alpha, \sin \alpha)$为一个方向向量，如果极限
+设$D \subset \mathbb{R}^2$为开集，$f(x,y)$为定义在$D$上的二元函数，$(x_0, y_0) \in D$，$\mathbf{v} = (\cos \alpha, \sin \alpha)$为一个方向向量，如果极限
 <center>
 $\lim\limits_{\rho \to 0+}\dfrac{f(x_0 + \rho \cos \alpha, y_0 + \rho \sin \alpha) - f(x_0, y_0)}{\rho}$
 </center>
@@ -788,16 +788,16 @@ $\dfrac{\partial f}{\partial \mathbf{v}}(1, 1) \cdot (\cos \alpha, \sin \alpha) 
 多元函数的导数，更一般的应该为一个矩阵(Jacobi Matrix)。例如：
 </span>
 
-+  如果$f: D \subset \mathcal{R} \to \mathcal{R}$，则$f'(x)$为一个函数(导函数);
++  如果$f: D \subset \mathbb{R} \to \mathbb{R}$，则$f'(x)$为一个函数(导函数);
 
 
-+  如果$f: D \subset \mathcal{R}^2 \to \mathcal{R}$，则$f'(x,y) = (f_x(x,y), f_y(x,y))$;
++  如果$f: D \subset \mathbb{R}^2 \to \mathbb{R}$，则$f'(x,y) = (f_x(x,y), f_y(x,y))$;
 
 
-+  如果$f: D \subset \mathcal{R}^n \to \mathcal{R}$，则$f'(x_1,x_2, \cdots, x_n) = (f_{x_1}, f_{x_2}, \cdots, f_{x_n})\vert_{(x_1, x_2, \cdots, x_n)} $;
++  如果$f: D \subset \mathbb{R}^n \to \mathbb{R}$，则$f'(x_1,x_2, \cdots, x_n) = (f_{x_1}, f_{x_2}, \cdots, f_{x_n})\vert_{(x_1, x_2, \cdots, x_n)} $;
 
 
-+  如果$f: D \subset \mathcal{R}^n \to \mathcal{R}^m$，那么$f = (f_1, f_2, \cdots, f_m)^\intercal$，其中$f_i: D \to \mathcal{R}$，这时$f'(x_1, x_2, \cdots, x_n) = \left[\begin{array}{cccc} \dfrac{\partial f_1}{\partial x_1} & \dfrac{\partial f_1}{\partial x_2} & \cdots & \dfrac{\partial f_1}{\partial x_n} \newline \dfrac{\partial f_2}{\partial x_1} & \dfrac{\partial f_2}{\partial x_2} & \cdots & \dfrac{\partial f_2}{\partial x_n} \newline 
++  如果$f: D \subset \mathbb{R}^n \to \mathbb{R}^m$，那么$f = (f_1, f_2, \cdots, f_m)^\intercal$，其中$f_i: D \to \mathbb{R}$，这时$f'(x_1, x_2, \cdots, x_n) = \left[\begin{array}{cccc} \dfrac{\partial f_1}{\partial x_1} & \dfrac{\partial f_1}{\partial x_2} & \cdots & \dfrac{\partial f_1}{\partial x_n} \newline \dfrac{\partial f_2}{\partial x_1} & \dfrac{\partial f_2}{\partial x_2} & \cdots & \dfrac{\partial f_2}{\partial x_n} \newline 
 \vdots & \vdots & \cdots & \vdots \newline \dfrac{\partial f_m}{\partial x_1} & \dfrac{\partial f_m}{\partial x_2} & \cdots & \dfrac{\partial f_m}{\partial x_n}\end{array} \right]$.
 
 ---
@@ -818,7 +818,7 @@ $\dfrac{\partial f}{\partial \mathbf{v}}(1, 1) \cdot (\cos \alpha, \sin \alpha) 
 
 **⛓链式规则(chain rule)**
 
-设$z = f(x,y): D_f \subset \mathcal{R}^2 \to \mathcal{R}$，而$g: D_g \subset \mathcal{R}^2 \to \mathcal{R}^2$，如果$g(D_g) \subset D_f$，那么可以构成符合函数：
+设$z = f(x,y): D_f \subset \mathbb{R}^2 \to \mathbb{R}$，而$g: D_g \subset \mathbb{R}^2 \to \mathbb{R}^2$，如果$g(D_g) \subset D_f$，那么可以构成符合函数：
 
 <center>
 $z = f \circ g = f[x(u,v), y(u,v)]$
@@ -850,7 +850,7 @@ $\left[\dfrac{\partial z}{\partial u}, \dfrac{\partial z}{\partial v} \right]_{(
 ---
 **✏️例子**
 
-设$z = ax + by, x = cu + dv, y = eu + fv (a, b, c, d \in \mathcal{R})$，求$\dfrac{\partial z}{\partial u}, \dfrac{\partial z}{\partial v}$
+设$z = ax + by, x = cu + dv, y = eu + fv (a, b, c, d \in \mathbb{R})$，求$\dfrac{\partial z}{\partial u}, \dfrac{\partial z}{\partial v}$
 
 <details>
 <summary>⬇️ Click to expand!</summary>
@@ -1071,7 +1071,7 @@ $
   \left\{\begin{array}{l} F(x, y, u, v) = 0 \newline G(x, y, u, v) = 0 \end{array}\right.
 $
 </center>
-其中$F(x, y, u, v), G(x, y, u, v)$为定义在$D \subset \mathcal{R}^4$上的4元函数。若存在平面区域$E, F \subset \mathcal{R}^2$，对于$E$中的每一个点$(x, y)$，有唯一的$(u, v) \in F$，使得$(x, y, u, v) \in D$，且满足上方程组，则称有方程组确定了✅<span style="color:red">**隐式方程组**</span>
+其中$F(x, y, u, v), G(x, y, u, v)$为定义在$D \subset \mathbb{R}^4$上的4元函数。若存在平面区域$E, F \subset \mathbb{R}^2$，对于$E$中的每一个点$(x, y)$，有唯一的$(u, v) \in F$，使得$(x, y, u, v) \in D$，且满足上方程组，则称有方程组确定了✅<span style="color:red">**隐式方程组**</span>
 
 <center>
 $
@@ -1092,7 +1092,7 @@ $
 ☘︎ **隐式方程组定理**
 
 若
-+ $F(x, y, u, v)$与$G(x, y, u, v)$在以$P_0(x_0, y_0, u_0, v_0)$为内点的区域$D \subset \mathcal{R}^4$上连续；
++ $F(x, y, u, v)$与$G(x, y, u, v)$在以$P_0(x_0, y_0, u_0, v_0)$为内点的区域$D \subset \mathbb{R}^4$上连续；
 
 + $F(x_0, y_0, u_0, v_0) = 0, G(x_0, y_0, u_0, v_0) = 0$(初始条件)；
 
