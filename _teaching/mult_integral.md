@@ -56,7 +56,7 @@ location: "Beijing, CN"
 
 + 把每个小矩形的<span style="color:red">**直径**</span>记为$\lambda_k$，这里直径指的是小矩形中两点连线最长的长度。令
   <center>
-  $\Vert P \Vert = \mathbf{max}\limits_{1 \le k \le n}\left\{\lambda_k\right\}$
+  $\Vert P \Vert = \mathbf{max}_{1 \le k \le n}\left\{\lambda_k\right\}$
   </center>
   称$\Vert P \Vert$为<span style="color:red">**分割细度**</span>。黎曼和对分割的细度取极限，讨论极限：
 
