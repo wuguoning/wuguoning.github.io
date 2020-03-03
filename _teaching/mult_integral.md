@@ -521,7 +521,7 @@ $\int_0^{+\infty} e^{-x^2}\, \mathrm{d}x = \dfrac{\sqrt{\pi}}{2}$
 📚**第二次作业:**
 </span>
 
-+ 设$f(x,y)$在区域$D$上连续，试将二重积分$\iint\limit_{D}f(x,y)\,\mathrm{d}A$化为不同顺序的累次积分：
++ 设$f(x,y)$在区域$D$上连续，试将二重积分$\iint\limits_{D}f(x,y)\,\mathrm{d}A$化为不同顺序的累次积分：
 
   - $D$由不等式$0 \le x \le 2, x \le y \le 2x$所围成的区域;
 
@@ -535,9 +535,17 @@ $\int_0^{+\infty} e^{-x^2}\, \mathrm{d}x = \dfrac{\sqrt{\pi}}{2}$
 
   - $\int_{-1}^{1}\, \mathrm{d}x \int_{-\sqrt{1-x^2}}^{1-x^2}f(x,y)\,\mathrm{d}y$;
 
-  - $\int_{0}^{2a}\, \mathrm{d}x \int_{-\sqrt{2ax-x^2}}^{\sqrt{2ax}}f(x,y)\,\mathrm{d}y$;
+  - $\int_{0}^{2a}\, \mathrm{d}x \int_{\sqrt{2ax-x^2}}^{\sqrt{2ax}}f(x,y)\,\mathrm{d}y$;
 
-  - $\int_{0}^{1}\, \mathrm{d}x \int_{0}^{x^2}f(x,y)\,\mathrm{d}y + \int_{1}^{3}\,\mathrm{d}x\int_0^{1/2(3-x)} f(x,y)\,\mathrm{d}y$.
+  - $\int_{0}^{1}\, \mathrm{d}x \int_{0}^{x^2}f(x,y)\,\mathrm{d}y + \int_{1}^{3}\,\mathrm{d}x\int_0^{\dfrac{1}{2}(3-x)} f(x,y)\,\mathrm{d}y$.
+
++ 计算下列二重积分
+
+  - $\iint\limits_{D}x\sqrt{y}\, \mathrm{d}A$，其中$D$由抛物线$y = \sqrt{x},y = x^2$所围成的区域；
+
+  - $\iint\limits_{D}xy^2\, \mathrm{d}A$，其中$D$由圆周$x^2 + y^2 = 4$及$y$所围成的区域；
+
+  - $\iint\limits_{D}e^{x+y}\, \mathrm{d}A$，其中$D$由圆周$\vert x \vert + \vert y \vert \le 1$及$y$所围成的区域；
 
 
 
