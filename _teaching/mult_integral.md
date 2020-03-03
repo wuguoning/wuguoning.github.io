@@ -543,9 +543,20 @@ $\int_0^{+\infty} e^{-x^2}\, \mathrm{d}x = \dfrac{\sqrt{\pi}}{2}$
 
   - $\iint\limits_{D}x\sqrt{y}\, \mathrm{d}A$，其中$D$由抛物线$y = \sqrt{x},y = x^2$所围成的区域；
 
-  - $\iint\limits_{D}xy^2\, \mathrm{d}A$，其中$D$由圆周$x^2 + y^2 = 4$及$y$所围成的区域；
+  - $\iint\limits_{D}xy^2\, \mathrm{d}A$，其中$D$由圆周$x^2 + y^2 = 4$及$y$轴所围成的区域；
 
-  - $\iint\limits_{D}e^{x+y}\, \mathrm{d}A$，其中$D$由圆周$\vert x \vert + \vert y \vert \le 1$及$y$所围成的区域；
+  - $\iint\limits_{D}e^{x+y}\, \mathrm{d}A$，其中$D$由圆周$\vert x \vert + \vert y \vert \le 1$所围成的区域；
+
++ 化下列二次积分为极坐标的累次积分：
+
+  - $\int_0^1\,\mathrm{d}x\int_0^1f(x,y)\,\mathrm{d}y$;
+  
+  - $\int_0^2\,\mathrm{d}x\int_x^{\sqrt{3x}}f(\sqrt{x^2+y^2})\,\mathrm{d}y$;
+
+  - $\int_0^1\,\mathrm{d}x\int_{1-x}^{\sqrt{1-x^2}}f(x,y)\,\mathrm{d}y$;
+
+  - $\int_0^1\,\mathrm{d}x\int_0^{x^2}f(x,y)\,\mathrm{d}y$;
+
 
 
 
