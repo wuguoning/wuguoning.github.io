@@ -282,7 +282,7 @@ $D =  \left\{(x,y)\vert 0 \le y \le \sqrt{R^2 - x^2}, 0 \le x \le R\right\}$
 于是有：
 <center>
 $\begin{split}
- V = 8V_1 = \iint\limits_{D}\sqrt{R^2 - x^2} \mathrm{d}x\mathrm{d}y & = 8\int_0^R \left(\int_0^{\sqrt{R^2 - x^2}} \sqrt{R^2 - x^2}\right)\mathrm{d}x \newline & = 8\int_0^R\left[\sqrt{R^2 - x^2}y\right]_0^{\sqrt{R^2 - x^2}} \mathrm{d}x = 8\int_0^R R^2 - x^2\mathrm{d}x = \dfrac{16}{3}R^3
+ V = 8V_1 = \iint\limits_{D}\sqrt{R^2 - x^2} \mathrm{d}x\mathrm{d}y & = 8\int_0^R \left(\int_0^{\sqrt{R^2 - x^2}} \sqrt{R^2 - x^2}\,\mathrm{d}y\right)\mathrm{d}x \newline & = 8\int_0^R\left[\sqrt{R^2 - x^2}y\right]_0^{\sqrt{R^2 - x^2}} \mathrm{d}x = 8\int_0^R R^2 - x^2\mathrm{d}x = \dfrac{16}{3}R^3
 \end{split}$
 </center>
 
@@ -338,9 +338,9 @@ $\int_0^2 \int_{x^2}^{2x}(4x + 2)\mathrm{d}y \mathrm{d}x = \int_0^4 \int_{y/2}^{
 ---
 **极坐标系下求区域的面积**
 
-定积分为求解不规则问题的一种方法，该方法简而言之可概括为“分割，取近似（微分或者线性化），求和和累加。”
+定积分为求解不规则问题的一种方法，该方法简而言之可概括为“分割，取近似（微分或者线性化），求和，取极限。”
 
-+ 求曲边梯形的面积：$\int_a^b f(x)\mathrm{d}x = \int_a^b \mathrm{d}F(x)$，积分为微分的累加，而微分为所求问题的增量的线性近似。
++ 求曲边梯形的面积：$\int_a^b f(x)\mathrm{d}x = \int_a^b \mathrm{d}F(x)$，积分为微分的累加，而微分为所求问题增量的线性近似。
 
 + 下面探讨极坐标下图形的面积：
 
@@ -359,7 +359,7 @@ $\int_0^2 \int_{x^2}^{2x}(4x + 2)\mathrm{d}y \mathrm{d}x = \int_0^4 \int_{y/2}^{
   $\Delta r, 2\Delta r, 3\Delta r, \cdots, m \Delta r$
   </center>
   <center>
-  $\alpha = \theta, \theta = \alpha + \Delta \theta, \theta = \alpha + 2\Delta \theta, \cdots, \theta = \alpha +  m'\Delta \theta = \beta$
+  $\alpha = \theta, \theta = \alpha + \Delta \theta, \theta = \alpha + 2\Delta \theta, \cdots, \theta = \alpha +  m\Delta \theta = \beta$
   </center>
   分割该区域，则定义在区域$R$上的二重积分可以近似的表示为：
 
@@ -389,7 +389,7 @@ $\int_0^2 \int_{x^2}^{2x}(4x + 2)\mathrm{d}y \mathrm{d}x = \int_0^4 \int_{y/2}^{
   </center>
 
 <center>
-$\Delta A_k = \dfrac{1}{2}\left(r_k + \dfrac{\Delta r}{2}\right) - \dfrac{1}{2}\left(r_k - \dfrac{\Delta r}{2}\right) = r_k \Delta r \Delta \theta$
+$\Delta A_k = \dfrac{1}{2}\left(r_k + \dfrac{\Delta r}{2}\right)^2 \Delta \theta - \dfrac{1}{2}\left(r_k - \dfrac{\Delta r}{2}\right)^2 \Delta \theta = r_k \Delta r \Delta \theta$
 </center>
 
 所以有：
