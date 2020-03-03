@@ -115,6 +115,23 @@ $\iint\limits_{D} f(x, y)\mathrm{d}A$ 或者 $\iint\limits_{D} f(x, y)\mathrm{d}
   </center>
 
 ---
+<span style="color:red"> 
+📚**第一次作业:**
+</span>
+
++ 根据二重积分的性质，比较下列积分的大小：
+    
+    - $\iint\limits_{D} (x+y)^2\, \mathrm{d}A$ 与$\iint\limits_{D} (x+y)^3\, \mathrm{d}A$，其中积分区域$D$是由$x$轴，$y$轴与直线$x+y=1$所围成。
+
+    - $\iint\limits_{D} \ln(x+y)\, \mathrm{d}A$ 与$\iint\limits_{D} \left[\ln(x+y)\right]^2\, \mathrm{d}A$，其中积分区域$D = \left\{(x,y) \vert 3 \le x \le 5, 0 \le y \le 1\right\}$。
+
++ 根据二重积分的性质，估计下列积分的大小：
+
+  - $I = \iint\limits_{D} xy(x+y)\, \mathrm{d}\sigma$，其中$D = \left\{(x,y) \vert 0 \le x \le 1, 0 \le y \le 1\right\}$
+
+  - $I = \iint\limits_{D} (x^2 + 4y^2 + 9)\, \mathrm{d}\sigma$，其中$D = \left\{(x,y) \vert x^2 + y^2 \le 4\right\}$
+
+---
 
 <a name="cotes2"></a>
 ## 📌**2. 二重积分的计算方法**

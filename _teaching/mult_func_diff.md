@@ -934,7 +934,6 @@ $\dfrac{\mathrm{d}z}{\mathrm{d}t} = \dfrac{\partial f}{\partial u}\dfrac{\mathrm
 <span style="color:red"> 
 📚**第六次作业:**
 </span>
-
 + 设$z = u^2 + v^2, u = x + y, v = x - y$，求$\dfrac{\partial z}{\partial x}, \dfrac{\partial z}{\partial y}$.
 
 + 求函数$u = f(x^2 - y^2, e^{xy})$的一阶偏导数.
