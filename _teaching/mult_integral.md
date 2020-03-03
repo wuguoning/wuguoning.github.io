@@ -447,7 +447,7 @@ $\Delta A_k = \dfrac{1}{2}\left(r_k + \dfrac{\Delta r}{2}\right)^2 \Delta \theta
 
 <details>
 解： 
-$S = \iint\limits_{D} 1\mathrm{d}A = \int_{\dfrac{-\pi}{2}}^{\dfrac{\pi}{2}} \int_{1}^{1+\cos \theta}r \mathrm{d}r\mathrm{d}\theta = \int_{\dfrac{\pi}{2}}^{\dfrac{\pi}{2}} \dfrac{1}{2}(1 + \cos \theta)^2 - \dfrac{1}{2} \mathrm{d}\theta = 2 + \dfrac{\pi}{2}$
+$S = \iint\limits_{D} 1\mathrm{d}A = \int_{\dfrac{-\pi}{2}}^{\dfrac{\pi}{2}} \int_{1}^{1+\cos \theta}r \mathrm{d}r\mathrm{d}\theta = \int_{\dfrac{\pi}{2}}^{-\dfrac{\pi}{2}} \dfrac{1}{2}(1 + \cos \theta)^2 - \dfrac{1}{2} \mathrm{d}\theta = 2 + \dfrac{\pi}{2}$
 </details>
 
 ---
@@ -608,7 +608,7 @@ $$\lim\limits_{\Vert P \Vert \to 0} \sum\limits_{k=1}^n F(x_k, y_k, z_k)\Delta V
 </center>
 
 ---
-设$f(x,y,z)$定义在空间几何题$D$上，采用$r = r_1, r_2, \cdots, r_m, \theta = \theta_1, \theta_2, \cdots, \theta_n, z = z_1, z_2, \cdots, z_k$分割几何体$D$(该分割记为$P$)。这是体积元素为:
+设$f(x,y,z)$定义在空间几何体$D$上，采用$r = r_1, r_2, \cdots, r_m, \theta = \theta_1, \theta_2, \cdots, \theta_n, z = z_1, z_2, \cdots, z_k$分割几何体$D$(该分割记为$P$)。这是体积元素为:
 
 <center>
 $\Delta V = r \Delta r \Delta r \Delta z$
