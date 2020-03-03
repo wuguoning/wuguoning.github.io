@@ -123,13 +123,13 @@ $\iint\limits_{D} f(x, y)\mathrm{d}A$ 或者 $\iint\limits_{D} f(x, y)\mathrm{d}
     
     - $\iint\limits_{D} (x+y)^2\, \mathrm{d}A$ 与$\iint\limits_{D} (x+y)^3\, \mathrm{d}A$，其中积分区域$D$是由$x$轴，$y$轴与直线$x+y=1$所围成。
 
-    - $\iint\limits_{D} \ln(x+y)\, \mathrm{d}A$ 与$\iint\limits_{D} \left[\ln(x+y)\right]^2\, \mathrm{d}A$，其中积分区域$D = \left\{(x,y) \vert 3 \le x \le 5, 0 \le y \le 1\right\}$。
+    - $\iint\limits_{D} \ln(x+y)\, \mathrm{d}A$ 与$\iint\limits_{D} \left[\ln(x+y)\right]^2\, \mathrm{d}A$，其中积分区域$D$由$3 \le x \le 5, 0 \le y \le 1$所围成的区域。
 
 + 根据二重积分的性质，估计下列积分的大小：
 
-  - $I = \iint\limits_{D} xy(x+y)\, \mathrm{d}\sigma$，其中$D = \left\{(x,y) \vert 0 \le x \le 1, 0 \le y \le 1\right\}$
+  - $I = \iint\limits_{D} xy(x+y)\, \mathrm{d}\sigma$，其中$D$由$\vert 0 \le x \le 1, 0 \le y \le 1$所围成的区域；
 
-  - $I = \iint\limits_{D} (x^2 + 4y^2 + 9)\, \mathrm{d}\sigma$，其中$D = \left\{(x,y) \vert x^2 + y^2 \le 4\right\}$
+  - $I = \iint\limits_{D} (x^2 + 4y^2 + 9)\, \mathrm{d}\sigma$，其中$D$由$x^2 + y^2 \le 4$所围成的区域.
 
 ---
 
@@ -523,13 +523,13 @@ $\int_0^{+\infty} e^{-x^2}\, \mathrm{d}x = \dfrac{\sqrt{\pi}}{2}$
 
 + 设$f(x,y)$在区域$D$上连续，试将二重积分$\iint\limit_{D}f(x,y)\,\mathrm{d}A$化为不同顺序的累次积分：
 
-  - $D = \left\{(x,y) \vert 0 \le x \le 2, x \le y \le 2x \right\}$;
+  - $D$由不等式$0 \le x \le 2, x \le y \le 2x$所围成的区域;
 
   - $D$由不等式$y \le x, y \ge 0, x^2 + y^2 \le 1$所围成的区域；
 
   - $D$由不等式$x^2 + y^2 \le 1, x+y \ge 1$所围成的区域；
 
-  - $D = \left\{(x,y) \vert x \vert + \vert y \vert \le 1 \right\}$.
+  - $D$由不等式$\vert x \vert + \vert y \vert \le 1$所围成的区域.
 
 + 改变下列累次积分的顺序：
 
