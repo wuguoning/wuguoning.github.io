@@ -41,7 +41,7 @@ location: "Beijing, CN"
 </a>
 </center>
 
-+ 在第$k$个小矩形上任意去一点$(x_k, y_k) \in A_k(k=1,2,\cdots,n)$，然后求和(<span style="color:red">**黎曼和**</span>)得到：
++ 在第$k$个小矩形上任意取一点$(x_k, y_k) \in A_k(k=1,2,\cdots,n)$，然后求和(<span style="color:red">**黎曼和**</span>)得到：
 
   <center>
   $S_n = \sum\limits_{k=1}^n f(x_k, y_k)\Delta A_k$
@@ -56,7 +56,7 @@ location: "Beijing, CN"
 
 + 把每个小矩形的<span style="color:red">**直径**</span>记为$\lambda_k$，这里直径指的是小矩形中两点连线最长的长度。令
   <center>
-  $\Vert P \Vert = \mathbf{max}_{1 \le k \le n}\left\{\lambda_k\right\}$
+  $\Vert P \Vert = \mathbf{max}\limits_{1 \le k \le n}\left\{\lambda_k\right\}$
   </center>
   称$\Vert P \Vert$为<span style="color:red">**分割细度**</span>。黎曼和对分割的细度取极限，讨论极限：
 
@@ -76,15 +76,14 @@ location: "Beijing, CN"
 $\iint\limits_{D} f(x, y)\mathrm{d}A$ 或者 $\iint\limits_{D} f(x, y)\mathrm{d}x\mathrm{d}y$  
 </center>
 
----
-<span style="color:red">**除了采用平行于坐标轴的直线网分割外，也可以采用曲线网分割定义域。不同的分割会得到不同的积分方法。**</span>
+  >  <span style="color:red">**除了采用平行于坐标轴的直线网分割外，也可以采用曲线网分割定义域。不同的分割会得到不同的积分方法。**</span>
 
 ---
 ☘︎**二重积分的性质**
 
 二重积分$\iint\limits_{D} f(x, y)\mathrm{d}x \mathrm{d}y$具有以下性质：
   
-  + 线性： $\iint\limits_{D} \left(\alpha f(x, y) + \beta g(x,y)\right)\mathrm{d}x \mathrm{d}y = \alpha \iint\limits_{D} f(x,y) \mathrm{d}x \mathrm{d}y+ \beta \iint\limits_{D} g(x,y)\mathrm{d}x \mathrm{d}y$;
+  + 线性： $\iint\limits_{D} \left[\alpha f(x, y) + \beta g(x,y)\right]\mathrm{d}x \mathrm{d}y = \alpha \iint\limits_{D} f(x,y) \mathrm{d}x \mathrm{d}y+ \beta \iint\limits_{D} g(x,y)\mathrm{d}x \mathrm{d}y$;
 
   + 区域可加性：$\iint\limits_{\substack{D_1 \cup D_2 \newline D_1 \cap D_2 = \emptyset}} f(x, y)\mathrm{d}x \mathrm{d}y = \iint\limits_{D_1} f(x, y)\mathrm{d}x \mathrm{d}y +  \iint\limits_{D_2} f(x, y)\mathrm{d}x \mathrm{d}y $;
 
