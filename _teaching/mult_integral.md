@@ -557,7 +557,13 @@ $\int_0^{+\infty} e^{-x^2}\, \mathrm{d}x = \dfrac{\sqrt{\pi}}{2}$
 
   - $\int_0^1\,\mathrm{d}x\int_0^{x^2}f(x,y)\,\mathrm{d}y$;
 
++ 计算下列二重积分(极坐标系)：
 
+  - $\int_0^{2a}\,\mathrm{d}x\int_0^{\sqrt{2ax-x^2}}x^2 + y^2\,\mathrm{d}y$;
+
+  - $\int_0^{a}\,\mathrm{d}x\int_0^x \sqrt{x^2 + y^2}\,\mathrm{d}y$;
+
+  - $\iint\limits_{D} e^{x^2 + y^2}\,\mathrm{d}A$,其中$D$由圆周$x^2 + y^2 \le 4$所围成的区域.
 
 
 
@@ -798,6 +804,25 @@ $$\lim\limits_{\Vert P \Vert \to 0}\sum\limits_{k=1}^n f(\rho_k, \phi_k, \theta_
    <img src="./imags/calculus/triple_spherical_exp1.png" width="600" height="700"/>
 </a>
 </center>
+
+---
+<span style="color:red"> 
+📚**第三次作业:**
+</span>
+
++ 计算下列积分：
+
+  - $\iiint\limits_{V} (xy + z^2)\, \mathrm{d}v$，其中$V = [-2, 5] \times [-3, 3] \times [0,1]$;
+
+  - $\iiint\limits_{V} x \cos y \cos z\, \mathrm{d}v$，其中$V = [0, 1] \times \left[0, \dfrac{\pi}{2}\right] \times \left[0, \dfrac{\pi}{2}\right]$;
+
+  - $\iiint\limits_{V} (x + y + z)^2\, \mathrm{d}v$，其中$V$由曲面$z = \sqrt{2 - x^2 - y^2}$以及$z = x^2 + y^2$所围成的闭区域;
+
+  - $\iiint\limits_{V} (x + y + z)^2\, \mathrm{d}v$，其中$V$由曲面$z = \sqrt{2 - x^2 - y^2}$以及$z = 0$所围成的闭区域;
+
+
+
+
 
 ---
 
