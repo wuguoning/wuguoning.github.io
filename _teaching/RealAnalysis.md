@@ -35,14 +35,16 @@ integrability.
 
 ---
 ### Lecture Notes
-1. [<span style="color:blue">**Introduction**</span>](http://wuguoning.github.io/files/analysis/introduction.pdf)
-2. [<span style="color:blue">**Limit of Sequence**</span>](http://wuguoning.github.io/files/analysis/limits.pdf)
-3. [<span style="color:blue">**Continuity**</span>](http://wuguoning.github.io/files/analysis/continuity.pdf)
-4. [<span style="color:blue">**Mean Value Theorem**</span>](http://wuguoning.github.io/files/analysis/meanvalue.pdf)
-5. [<span style="color:blue">**Derivative**</span>](http://wuguoning.github.io/files/analysis/derivative.pdf)
-6. [<span style="color:blue">**Primitive**</span>](http://wuguoning.github.io/files/analysis/primitive.pdf)
-7. [<span style="color:blue">**Definite Integral**</span>](http://wuguoning.github.io/files/analysis/integral.pdf)
-     [Slide of Definite Integral](http://wuguoning.github.io/files/analysis/slides/integral.pdf)
++ [<span style="color:blue">**Introduction**</span>](http://wuguoning.github.io/files/analysis/introduction.pdf)
++ [<span style="color:blue">**Limit of Sequence**</span>](http://wuguoning.github.io/files/analysis/limits.pdf)
++ [<span style="color:blue">**Continuity**</span>](http://wuguoning.github.io/files/analysis/continuity.pdf)
++ [<span style="color:blue">**Mean Value Theorem**</span>](http://wuguoning.github.io/files/analysis/meanvalue.pdf)
++ [<span style="color:blue">**Derivative**</span>](http://wuguoning.github.io/files/analysis/derivative.pdf)
++ [<span style="color:blue">**Primitive**</span>](http://wuguoning.github.io/files/analysis/primitive.pdf)
++ [<span style="color:blue">**Definite Integral**</span>](http://wuguoning.github.io/files/analysis/integral.pdf)
+    - [Slide of Definite Integral](http://wuguoning.github.io/files/analysis/slides/integral.pdf)
++ [<span style="color:blue">**Improper Integral**</span>](http://wuguoning.github.io/files/analysis/improperIntegral.pdf)
+    - [Slide of Definite Integral](http://wuguoning.github.io/files/analysis/slides/improperIntegral.pdf)
 
 ---
 
@@ -84,10 +86,10 @@ integrability.
 ---
 ### Lecture Notes
 
-1. [<span style="color:blue">**Multi-variable Function.**</span>](http://wuguoning.github.io/files/analysis/mul_var_fun.pdf)
-2. [<span style="color:blue">**Differential of Multi-variable Function.**</span>](http://wuguoning.github.io/files/analysis/diff_multi_var.pdf)
-3. [<span style="color:blue">**Multiple Integral.**</span>](http://wuguoning.github.io/files/analysis/mul_int.pdf)
-4. [<span style="color:blue">**Line and Surface Integral.**</span>](http://wuguoning.github.io/analysis/files/line_and_surface.pdf)
++ [<span style="color:blue">**Multi-variable Function.**</span>](http://wuguoning.github.io/files/analysis/mul_var_fun.pdf)
++ [<span style="color:blue">**Differential of Multi-variable Function.**</span>](http://wuguoning.github.io/files/analysis/diff_multi_var.pdf)
++ [<span style="color:blue">**Multiple Integral.**</span>](http://wuguoning.github.io/files/analysis/mul_int.pdf)
++ [<span style="color:blue">**Line and Surface Integral.**</span>](http://wuguoning.github.io/analysis/files/line_and_surface.pdf)
 
 ---
 ### Test
@@ -112,10 +114,10 @@ integrability.
 ---
 ### Lecture Notes
 
-1. [<span style="color:blue">**Series.**</span>](http://wuguoning.github.io/files/analysis/series.pdf)
-2. [<span style="color:blue">**Function Series.**</span>](http://wuguoning.github.io/files/analysis/function_series.pdf)
-3. [<span style="color:blue">**Power Series.**</span>](http://wuguoning.github.io/files/analysis/powerSeries.pdf)
-4. [<span style="color:blue">**Fourier Series.**</span>](http://wuguoning.github.io/files/analysis/fourierSeries.pdf)
++ [<span style="color:blue">**Series.**</span>](http://wuguoning.github.io/files/analysis/series.pdf)
++ [<span style="color:blue">**Function Series.**</span>](http://wuguoning.github.io/files/analysis/function_series.pdf)
++ [<span style="color:blue">**Power Series.**</span>](http://wuguoning.github.io/files/analysis/powerSeries.pdf)
++ [<span style="color:blue">**Fourier Series.**</span>](http://wuguoning.github.io/files/analysis/fourierSeries.pdf)
 
 
 ---
