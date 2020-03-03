@@ -1051,6 +1051,11 @@ $\left\{\begin{array}{l} f(y_0,z_0) = 0 \newline x_0 = 0 \newline x^2 + y^2 = x_
 消去$x_0, y_0, z_0$得到
 
 $$f(\pm\sqrt{x^2 + y^2}, z) = 0$$
+<center>
+  <a href="https://www.geogebra.org/3d/gpyagmtp">
+  <img src="./imags/calculus/rotational_surf1.png" width="500" height="300"/>
+  </a>
+</center>
 
 
 ---
