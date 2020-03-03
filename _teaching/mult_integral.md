@@ -517,6 +517,32 @@ $\int_0^{+\infty} e^{-x^2}\, \mathrm{d}x = \dfrac{\sqrt{\pi}}{2}$
 </details>
 
 ---
+<span style="color:red"> 
+📚**第二次作业:**
+</span>
+
++ 设$f(x,y)$在区域$D$上连续，试将二重积分$\iint\limit_{D}f(x,y)\,\mathrm{d}A$化为不同顺序的累次积分：
+
+  - $D = \left\{(x,y) \vert 0 \le x \le 2, x \le y \le 2x \right\}$;
+
+  - $D$由不等式$y \le x, y \ge 0, x^2 + y^2 \le 1$所围成的区域；
+
+  - $D$由不等式$x^2 + y^2 \le 1, x+y \ge 1$所围成的区域；
+
+  - $D = \left\{(x,y) \vert x \vert + \vert y \vert \le 1 \right\}$.
+
++ 改变下列累次积分的顺序：
+
+  - $\int_{-1}^{1}\, \mathrm{d}x \int_{-\sqrt{1-x^2}}^{1-x^2}f(x,y)\,\mathrm{d}y$;
+
+  - $\int_{0}^{2a}\, \mathrm{d}x \int_{-\sqrt{2ax-x^2}}^{\sqrt{2ax}}f(x,y)\,\mathrm{d}y$;
+
+  - $\int_{0}^{1}\, \mathrm{d}x \int_{0}^{x^2}f(x,y)\,\mathrm{d}y + \int_{1}^{3}\,\mathrm{d}x\int_0^{1/2(3-x)} f(x,y)\,\mathrm{d}y$.
+
+
+
+
+---
 <a name="cotes3"></a>
 ## 📌**3. 三重积分**
 
