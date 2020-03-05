@@ -1401,7 +1401,7 @@ $$\left\{\begin{array}{l} F(x, y, z) = 0 \newline G(x, y, z) = 0 \end{array}\rig
 
 方程组
 <center>
-  $\left\{\begin{array}{l}x^2 + y^2 = 1 \newline 2x + 3y = 1 \end{array}\right. $
+  $\left\{\begin{array}{l}x^2 + y^2 = 1 \newline 2x + 3y = 6 \end{array}\right. $
 </center>
 表示的曲线见下图。
 <center>
