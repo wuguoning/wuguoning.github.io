@@ -1484,6 +1484,18 @@ $\Gamma$在$xOz$面上的投影为
 </details>
 
 ---
+例子
+
+试一个立体由上半球面$z=\sqrt{4-x^2-y^2}$和锥面$z=\sqrt{3(x^2+y^2)}$,求它在$xOy$面上的投影。
+
+投影为：$x^2 + y^2 \le 1$
+<center>
+<a href="https://www.geogebra.org/3d/hxedffvf">
+   <img src="./imags/calculus/curve_in3d_exp1.png" width="400" height="600"/>
+</a>
+</center>
+
+---
 📚<span style="color:red"> 
 **第六次作业:**
 </span>
