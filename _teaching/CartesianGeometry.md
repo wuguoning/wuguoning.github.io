@@ -1379,8 +1379,8 @@ $$\left\{\begin{array}{l} F(x, y, z) = 0 \newline G(x, y, z) = 0 \end{array}\rig
 为<span style="color:red">**Viviani曲线**</span>。下图为$a=4$的情形。
 
 <center>
-  <a href="https://www.geogebra.org/classic/kkjsbgcn ">
-    <img src="./imags/Viviani's_curve.png" width="400" height="400"/>
+  <a href="https://www.geogebra.org/3d/mvcamhq4">
+    <img src="./imags/VivianiCurve.png" width="400" height="600"/>
   </a>
 </center>
 
