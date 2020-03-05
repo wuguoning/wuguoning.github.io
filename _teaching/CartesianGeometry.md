@@ -1501,11 +1501,11 @@ $\Gamma$在$xOz$面上的投影为
 
 由曲线
 <center>
-$\left\{\begin{array}{l} x = a\sin\varphi \newline y = 0 \newline z = a\cos\varphi \end{array}\right, 0 \le \varphi \le \pi$
+$\left\{\begin{array}{l} x = a\sin\varphi \newline y = 0 \newline z = a\cos\varphi \end{array}\right. (0 \le \varphi \le \pi)$
 </center>
 绕$z$轴旋转一周得到的曲面方程为：
 <center>
-$\left\{\begin{array}{l} x = a\sin\varphi \cos \theta \newline y = a\sin\varphi\sin\theta \newline z = a\cos\varphi \end{array}\right, 0 \le \varphi \le \pi, 0 \le \theta \le 2\pi$
+$\left\{\begin{array}{l} x = a\sin\varphi \cos \theta \newline y = a\sin\varphi\sin\theta \newline z = a\cos\varphi \end{array}\right. (0 \le \varphi \le \pi, 0 \le \theta \le 2\pi)$
 </center>
 见下图：
 <center>
