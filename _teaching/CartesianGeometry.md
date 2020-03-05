@@ -1355,6 +1355,18 @@ $xy + yz + xz = 0$
   <img src="./imags/ruled_surf.png" width="500" height="200"/>
 </center>
 
+<center>
+  <a href="https://www.geogebra.org/3d/q9fjctps">
+    <img src="./imags/calculus/hypoboloid_1sheet.png" width="400" height="600"/>
+  </a>
+</center>
+
+<center>
+  <a href="https://www.geogebra.org/3d/w7h7sjj4">
+    <img src="./imags/calculus/paraboloid_ruled.png" width="400" height="600"/>
+  </a>
+</center>
+
 ---
 
 <a name="cotes7"></a>
