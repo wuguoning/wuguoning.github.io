@@ -1417,8 +1417,8 @@ $\left\{\begin{array}{l} x = a\cos t \newline y = a\sin t \newline z = vt \end{a
 </center>
 
 <center>
-  <a href="https://www.geogebra.org/classic/bcqxkxsp">
-    <img src="./imags/curve_3d_2.png" width="400" height="400"/>
+  <a href="https://www.geogebra.org/3d/rnpdapb5">
+    <img src="./imags/calculus/spiral_in3d.png" width="400" height="600"/>
   </a>
 </center>
 
