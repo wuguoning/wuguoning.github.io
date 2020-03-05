@@ -1380,7 +1380,7 @@ $$\left\{\begin{array}{l} F(x, y, z) = 0 \newline G(x, y, z) = 0 \end{array}\rig
 
 <center>
   <a href="https://www.geogebra.org/3d/mvcamhq4">
-    <img src="./imags/VivianiCurve.png" width="400" height="600"/>
+    <img src="./imags/calculus/VivianiCurve.png" width="400" height="600"/>
   </a>
 </center>
 
@@ -1393,8 +1393,8 @@ $$\left\{\begin{array}{l} F(x, y, z) = 0 \newline G(x, y, z) = 0 \end{array}\rig
 </center>
 表示的曲线见下图。
 <center>
-  <a href="https://www.geogebra.org/classic/kwfhk7wg">
-    <img src="./imags/line_in3d_1.png" width="400" height="400"/>
+  <a href="https://www.geogebra.org/3d/xzrwattd">
+    <img src="./imags/calculus/line_in3d_1.png" width="400" height="600"/>
   </a>
 </center>
 
