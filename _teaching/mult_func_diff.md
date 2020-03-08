@@ -186,6 +186,11 @@ location: "Beijing, CN"
 **✏️例子**
 
   设$f(x,y) = (x^2 + y^2)\sin \dfrac{1}{\sqrt{x^2 + y^2}}$，证明$\lim\limits_{(x,y) \to (0,0)} f(x,y) = 0$
+<center>
+  <a href="https://www.geogebra.org/3d/ycnpbja5">
+  <img src="./imags/calculus/2d_func_limit1.png"  width="500" height="500" />
+  </a>
+</center>
 
 <details>
 <summary>⬇️ Click to expand!</summary>
@@ -214,8 +219,8 @@ $
 </details>
 
 <center>
-  <a href="https://www.geogebra.org/3d/pwqr5yuz">
-  <img src="./imags/calculus/no_limit_func1.png"  width="400" height="400" />
+  <a href="https://www.geogebra.org/3d/juk5qemr">
+  <img src="./imags/calculus/no_limit_func1.png"  width="500" height="500" />
   </a>
 </center>
 
