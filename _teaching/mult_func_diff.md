@@ -47,8 +47,8 @@ location: "Beijing, CN"
   + 曼哈顿距离: $Dist(P_1(x_1, y_1), P_2(x_2, y_2)) = \vert x_1 - x_2\vert + \vert y_1 - y_2\vert$;
 
 <center>
-  <a href="https://www.geogebra.org/geometry/dedtwqnf">
-  <img src="./imags/calculus/unit_set.png"  width="400" height="400" />
+  <a href="https://www.geogebra.org/geometry/cqhk4qet">
+  <img src="./imags/calculus/distant_def.png"  width="500" height="500" />
   </a>
 </center>
 
