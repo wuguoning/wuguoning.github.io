@@ -48,7 +48,7 @@ location: "Beijing, CN"
 
 <center>
   <a href="https://www.geogebra.org/geometry/cqhk4qet">
-  <img src="./imags/calculus/distant_def.png"  width="500" height="500" />
+  <img src="./imags/calculus/unit_set.png"  width="500" height="500" />
   </a>
 </center>
 
