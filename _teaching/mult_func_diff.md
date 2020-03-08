@@ -126,6 +126,32 @@ location: "Beijing, CN"
 </center>
 
 ---
+**例子**
+
++ 显示二元函数
+<center>
+  <a href="https://www.geogebra.org/3d/ccah6psx">
+  <img src="./imags/calculus/2d_func_exp1.png"  width="500" height="500" />
+  </a>
+</center>
+
++ 隐式函数
+<center>
+  <a href="https://www.geogebra.org/3d/ccah6psx">
+  <img src="./imags/calculus/2d_func_exp2.png"  width="500" height="500" />
+  </a>
+</center>
+
+
++ 参数方程
+<center>
+  <a href="https://www.geogebra.org/3d/ccah6psx">
+  <img src="./imags/calculus/2d_func_exp3.png"  width="500" height="500" />
+  </a>
+</center>
+
+
+---
 <span style="color:red"> 
 📚**第一次作业:**
 </span>
