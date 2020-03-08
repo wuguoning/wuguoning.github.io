@@ -238,7 +238,30 @@ $
 & \lim\limits_{t \to 0}\dfrac{t}{1/2 t} = 2.
 \end{split}
 $
+<center>
+  <a href="https://www.geogebra.org/3d/kpe3qh89">
+  <img src="./imags/calculus/2d_func_exp2.png"  width="500" height="500" />
+  </a>
+</center>
 </details>
+
+--
+**例子**
+
++ 求极限夹击准则法：
+<center>
+  <a href="https://www.geogebra.org/3d/rjmthayz">
+  <img src="./imags/calculus/2d_func_sandwich.png"  width="500" height="500" />
+  </a>
+</center>
+
+
++ 求极限极坐标法：
+<center>
+  <a href="https://www.geogebra.org/3d/b3sbq8cq">
+  <img src="./imags/calculus/2d_func_polar.png"  width="500" height="500" />
+  </a>
+</center>
 ---
 ☘︎ **累次极限**
 
