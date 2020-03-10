@@ -141,3 +141,14 @@ $$
 $$
 如果上面的三階行列式取值小於零，則$\eta = 1$，若上面的三階行列式取值大於零，則$\eta = -1$.
 
+---
+## 一般方程如何標準化
+
+對於橢圓和雙曲線的方程：
+$$
+  Ax^2 + Bxy + Cy^2 + Dx + Ey + F = 0
+$$
+通過變換可以化為以下形式
+\begin{equation}
+  \dfrac{x'^2}{-S/(\lambda_1^2\lambda_2)} + \dfrac{y'^2}{-S(\lambda_1\lambda_2^2)} = 1
+\end{equation}
