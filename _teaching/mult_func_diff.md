@@ -641,9 +641,9 @@ $\mathrm{d}u = \mathrm{d}x + \left(\dfrac{1}{2}\sin \dfrac{y}{2} - \dfrac{z}{y^2
 <center>
 $
 \begin{split}
-  \Delta z & = f(x_0 + \Delta x, y_0 + \Delta y) - f(x_0, y_0) = f(x_0 + \Delta x, y_0 + \Delta y) - f(x_0, y_0 + Deltay) \newline
-  f(x_0, y_0 + Deltay) - f(x_0, y_0) = f_x(x_0 + \theta_1 \Delta x, y_0 + \Delta y)\Delta x + f_y(x_0, y_0 + \theta_2 \Delta y) 
-  \Delta y = f_x(x_0, y_0)\Delta x + \epsilon_1 Delta x + f_y(x_0, y_0)\Delta y + \epsilon_2 \Delta y
+  \Delta z & = f(x_0 + \Delta x, y_0 + \Delta y) - f(x_0, y_0) \newline & = f(x_0 + \Delta x, y_0 + \Delta y) - f(x_0, y_0 + Deltay) 
+  f(x_0, y_0 + Deltay) - f(x_0, y_0) \newline & = f_x(x_0 + \theta_1 \Delta x, y_0 + \Delta y)\Delta x + f_y(x_0, y_0 + \theta_2 \Delta y) 
+  \Delta y \newline & = f_x(x_0, y_0)\Delta x + \epsilon_1 Delta x + f_y(x_0, y_0)\Delta y + \epsilon_2 \Delta y
 \end{split}
 $
 </center>
