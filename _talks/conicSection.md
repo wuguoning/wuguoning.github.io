@@ -14,7 +14,7 @@ location: "Beijing, CN"
 是數學、幾何學中通過平切圓錐（嚴格為一個正圓錐面和一個平面完整相切）得到
 的曲線，包括圓，橢圓，拋物線，雙曲線及一些退化類型。
 
-圓錐曲線在約公元前200年時就已被命名和研究了，其發現者為古希臘的數學家阿波羅尼奧斯，
+圓錐曲線在約公元前200年時就已被命名和研究了，其發現者為古希臘的數學家阿波羅尼奧斯(Apollonius)，
 那時阿波羅尼阿斯對它們的性質已做了系統性的研究。
 
 圓錐曲線應用最廣泛的定義為（橢圓，拋物線，雙曲線的統一定義）：動點到一定點（焦點）
@@ -25,5 +25,39 @@ location: "Beijing, CN"
 <center>
 <a href="https://en.wikipedia.org/wiki/Conic_section">
 <img src="./figs/conicSection.jpg" width="300" height="500"/>
+</a>
+</center>
+
+## 圓錐曲線的定義
+
++ 作為圓錐面和平面的交線 
+<center>
+<a href="https://upload.wikimedia.org/wikipedia/commons/1/11/Conic_Sections.svg">
+<img src="./figs/Conic_Sections.svg" width="300" height="500"/>
+</a>
+</center>
+
+如上圖所示，有三種圓錐曲線：橢圓(ellipse)、拋物線(parabola)和雙曲線(hyperbola)。圓作為橢圓
+的一種特殊形式可以看作橢圓。
+  - 橢圓線：當平面切割圓錐面為一個閉合曲線時，該曲線為一個橢圓或者圓周；
+
+  - 拋物線：當切割平面與圓錐面的母線平行時皆得到的曲線；
+
+  - 雙曲線：其它情形，相交曲線為雙曲線。
+
+
++ 平面幾何定義
+
+圓錐曲線在平面幾何中可以用到定點(焦點,focus)的距離等於常數倍的到定直線(對稱軸, directrix)的距離的所有點的軌跡。
+這個常數定義為離心率(eccentricity $e$)。
+
+  - 當$0<e<1$時為橢圓;
+
+  - 當$e=1$ 時為拋物線;
+
+  - 當$e>1$時為雙曲線。
+<center>
+<a href="https://upload.wikimedia.org/wikipedia/commons/b/bd/Eccentricity.svg">
+<img src="./figs/Eccentricity.svg" width="500" height="500"/>
 </a>
 </center>
