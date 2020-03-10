@@ -366,6 +366,40 @@ $$df|_{P_0}(\Delta x, \Delta y) = A\Delta x + B\Delta y $$
 </center>
 
 ---
+**例子**
+
+考察函数$f(x,y) = 3x+4y+2$在$(x_0, y_0)$处的可微性。
+
+<details>
+解： 因为$\Delta f(x_0, y_0) = 3(x_0+\Delta x) + 4(y_0 + \Delta y) + 2 - 3x_0 - 4y_0 -2 = 3\Delta x + 4\Delta y$
+则有：
+$df(x_0, y_0) = 3\Delta x + 4\Delta y$
+</details>
+
+---
+**例子**
+
+考察函数$f(x,y) = xy$在$(x_0,y_0)$处的可微性。
+
+<details>
+解： 因为
+
+<center>
+  \Delta f(x_0, y_0) = (x_0 + \Delta x)(y_0 + \Delta y) - x_0y_0 = y_0\Delta x + x_0\Delta y + \Delta x\Delta y
+</center>
+又因为
+<center>
+  \dfrac{\left\vert \Delta x \Delta y \right\vert}{\rho} = \rho \dfrac{\vert \Delta x \vert}{\rho}\dfrac{\vert y \vert}{\rho}
+  \le \rho \to 0.(\rho \to 0^+)
+</center>
+所以，
+<center>
+  df(x_0, y_0) =  y_0\Delta x + x_0\Delta y.
+</center>
+
+</details>
+
+---
 ☘︎ **偏导数**
 
 对于二元函数，固定其中的一个变量，考察二元函数对其中一个变量的变化率，这就是偏导数。
