@@ -660,7 +660,7 @@ $f(x,y) = \left\{\begin{array}{ll} (x^2 + y^2)\sin\dfrac{1}{\sqrt{x^2 + y^2}}, &
 <details>
 <center>
   <a href="https://www.geogebra.org/3d/xw98npnx">
-    <img src="./imags/calculus/multi_diff_example2.svg" width="500" height="400"/>
+    <img src="./imags/calculus/multi_diff_example2.png" width="500" height="400"/>
   </a>
 </center>
 </details>
