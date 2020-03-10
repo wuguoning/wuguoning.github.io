@@ -161,7 +161,7 @@ location: "Beijing, CN"
 
   - $f(x, y) = \ln (y - x)$
 
-  - $f(x, y, z) = \sqrt{R^2 - x^2 - y^2} + \dfrac{1}{\sqrt{x^2 + y^2 + z^2}}(R > r)$
+  - $f(x, y) = \sqrt{R^2 - x^2 - y^2} + \dfrac{1}{\sqrt{x^2 + y^2 - r^2}}(R > r)$
 
 ---
 
