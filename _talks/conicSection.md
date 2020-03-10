@@ -150,13 +150,14 @@ $$
 $$
 通過變換可以化為以下形式
 \begin{equation}
-  \dfrac{x'^2}{-S/(\lambda_1^2\lambda_2)} + \dfrac{y'^2}{-S(\lambda_1\lambda_2^2)} = 1
+  \dfrac{x'^2}{-S/(\lambda_1^2\lambda_2)} + \dfrac{y'^2}{-S/(\lambda_1\lambda_2^2)} = 1
 \end{equation}
 
 這裡$\lambda_1, \lambda_2$為下述矩陣的特徵值：
 $$
   \begin{pmatrx} A & B/2 \newline B/2 & C \end{pamtrix}
 $$
+$S$為上述三階矩陣的行列式。
 
 
 ## 參考文獻
