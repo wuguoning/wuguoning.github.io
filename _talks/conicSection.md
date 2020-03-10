@@ -99,7 +99,8 @@ location: "Beijing, CN"
 
 ## 圓錐曲線的一般形式及其類型判定方法
 
-圓錐曲線的一般形式為：
+---
+### 圓錐曲線的一般形式為：
 
 $$
   Ax^2 + Bxy + Cy^2 + Dx + Ey + F = 0
@@ -118,4 +119,25 @@ $$
 \begin{equation}
     \begin{pmatrix} x & y & 1 \end{pmatrix} \begin{pmatrix} A & B/2 & D/2 \newline B/2 & C & E/2 \newline D/2 & E/2 & F\end{pmatrix} \begin{pmatrix} x \newline y \newline 1 \end{pmatrix} = 0
 \end{equation}
+
+---
+
+### 判別式
+令$\Delta = B^2 - 4AC$,則有：
+
+  - 若$B^2 - 4AC < 0$，則二次曲線為一橢圓；
+
+    - 若$ A= C, B = 0$，則曲線為一圓周；
+
+  - 若$B^2 - 4AC = 0$，則二次曲線為一拋物線；
+
+  - 若$B^2 - 4AC > 0$，則二次曲線為一雙曲線。
+
+
+離心率為：
+
+$$
+  e = \sqrt{\dfrac{2\sqrt{(A-C)^2 + B^2}}{\eta(A+C) + \sqrt{(A-c)^2 + B^2}}}
+$$
+如果上面的三階行列式取值小於零，則$\eta = 1$，若上面的三階行列式取值大於零，則$\eta = -1$.
 
