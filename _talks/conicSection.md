@@ -32,7 +32,7 @@ location: "Beijing, CN"
 
 ## 圓錐曲線的定義
 
-+ 作為圓錐面和平面的交線 
+### 作為圓錐面和平面的交線 
 <center>
 <a href="https://upload.wikimedia.org/wikipedia/commons/1/11/Conic_Sections.svg">
 <img src="./figs/Conic_Sections.svg" width="300" height="500"/>
@@ -51,16 +51,16 @@ location: "Beijing, CN"
 
 ---
 
-+ 平面幾何定義
+### 平面幾何定義
 
 圓錐曲線在平面幾何中可以用到定點(焦點,focus)的距離等於常數倍的到定直線(對稱軸, directrix)的距離的所有點的軌跡。
 這個常數定義為離心率(eccentricity $e$)。
 
-    - 當$0<e<1$時為橢圓;
+  - 當$0<e<1$時為橢圓;
 
-    - 當$e=1$ 時為拋物線;
+  - 當$e=1$ 時為拋物線;
 
-    - 當$e>1$時為雙曲線。
+  - 當$e>1$時為雙曲線。
 <center>
 <a href="https://upload.wikimedia.org/wikipedia/commons/b/bd/Eccentricity.svg">
 <img src="./figs/Eccentricity.svg" width="400" height="400"/>
@@ -71,7 +71,7 @@ location: "Beijing, CN"
 
 ## 圓錐曲線在直角坐標下的標準方程
 
-    - 橢圓：$\dfrac{x^2}{a^2} + \dfrac{y^2}{b^2} = 1$
+  - 橢圓：$\dfrac{x^2}{a^2} + \dfrac{y^2}{b^2} = 1$
 
 <center>
   <a href="https://www.geogebra.org/geometry/ntmpsudh">
@@ -79,7 +79,7 @@ location: "Beijing, CN"
   </a>
 </center>
 
-    - 雙曲線：$\dfrac{x^2}{a^2} - \dfrac{y^2}{b^2} = 1$
+  - 雙曲線：$\dfrac{x^2}{a^2} - \dfrac{y^2}{b^2} = 1$
 
 <center>
   <a href="https://upload.wikimedia.org/wikipedia/commons/e/eb/Conic_section_-_standard_forms_of_a_hyperbola.png">
@@ -87,7 +87,7 @@ location: "Beijing, CN"
   </a>
 </center>
 
-    - 拋物線：$y=4ax$
+  - 拋物線：$y=4ax$
 
 <center>
   <a href="https://en.wikipedia.org/wiki/Conic_section#/media/File:Conic_section_-_standard_forms_of_a_parabola.png">
@@ -96,3 +96,26 @@ location: "Beijing, CN"
 </center>
 
 ---
+
+## 圓錐曲線的一般形式及其類型判定方法
+
+圓錐曲線的一般形式為：
+
+$$
+  Ax^2 + Bxy + Cy^2 + Dx + Ey + F = 0
+$$
+
+寫為矩陣的形式為：
+
+\begin{equation}
+  \begin{pmatrix} x & y \end{pmatrix} \begin{pmatrix} A & B/2 \newline B/2 & C \end{pmatrix} 
+  \begin{pmatrix} x \\newline y \end{pmatrix} + \begin{pmatrix} D & E \end{pmatrix} \begin{pmatrix} x \newline y 
+  \end{pmatrix} + F = 0
+\end{equation}
+
+或者
+
+\begin{equation}
+    \begin{pmatrix} x & y & 1 \end{pmatrix} \begin{pmatrix} A & B/2 & D/2 \newline B/2 & C & E/2 \newline D/2 & E/2 & F\end{pmatrix} \begin{pmatrix} x \newline y \newline 1 \end{pmatrix} = 0
+\end{equation}
+
