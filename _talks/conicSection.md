@@ -21,3 +21,9 @@ location: "Beijing, CN"
 的距離與其到一定直線（準線）的距離之比為常數（離心率$\displaystyle e$)的點的集合是
 圓錐曲線。對於$\displaystyle 0<e<1$得到橢圓，對於$\displaystyle e=1$得到拋物線，
 對於$\displaystyle e>1$得到雙曲線。
+
+<center>
+<a href="https://en.wikipedia.org/wiki/Conic_section">
+<img src="./figs/conicSection.jpg" width="300" height="500"/>
+</a>
+</center>
