@@ -39,11 +39,11 @@ location: "Beijing, CN"
 
 如上圖所示，有三種圓錐曲線：橢圓(ellipse)、拋物線(parabola)和雙曲線(hyperbola)。圓作為橢圓
 的一種特殊形式可以看作橢圓。
-  - 橢圓線：當平面切割圓錐面為一個閉合曲線時，該曲線為一個橢圓或者圓周；
+    - 橢圓線：當平面切割圓錐面為一個閉合曲線時，該曲線為一個橢圓或者圓周；
 
-  - 拋物線：當切割平面與圓錐面的母線平行時皆得到的曲線；
+    - 拋物線：當切割平面與圓錐面的母線平行時皆得到的曲線；
 
-  - 雙曲線：其它情形，相交曲線為雙曲線。
+    - 雙曲線：其它情形，相交曲線為雙曲線。
 
 
 + 平面幾何定義
@@ -51,14 +51,14 @@ location: "Beijing, CN"
 圓錐曲線在平面幾何中可以用到定點(焦點,focus)的距離等於常數倍的到定直線(對稱軸, directrix)的距離的所有點的軌跡。
 這個常數定義為離心率(eccentricity $e$)。
 
-  - 當$0<e<1$時為橢圓;
+    - 當$0<e<1$時為橢圓;
 
-  - 當$e=1$ 時為拋物線;
+    - 當$e=1$ 時為拋物線;
 
-  - 當$e>1$時為雙曲線。
+    - 當$e>1$時為雙曲線。
 <center>
 <a href="https://upload.wikimedia.org/wikipedia/commons/b/bd/Eccentricity.svg">
-<img src="./figs/Eccentricity.svg" width="500" height="500"/>
+<img src="./figs/Eccentricity.svg" width="400" height="400"/>
 </a>
 </center>
 
