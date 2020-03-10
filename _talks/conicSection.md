@@ -155,9 +155,7 @@ $$
 
 這裡$\lambda_1, \lambda_2$為下述矩陣的特徵值：
 <center>
-$
-  \begin{pmatrx} A & B/2 \newline B/2 & C \end{pamtrix}
-$
+$\begin{pmatrx} A & B/2 \newline B/2 & C \end{pmatrix}$
 </center>
 $S$為上述三階矩陣的行列式。
 
