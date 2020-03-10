@@ -608,6 +608,13 @@ $\dfrac{f(\Delta x, \Delta y) - f(0, 0)- 0\Delta x - 0\Delta y}{\sqrt{(\Delta x)
 </center>
 所以函数在$(0, 0)$点不可微。
 
+<center>
+  <a href="https://www.geogebra.org/3d/ajhprpd6">
+    <img src="./imags/calculus/multi_diff_example1.png" width="500" height="400"/>
+  </a>
+</center>
+
+
 </details>
 
 ---
