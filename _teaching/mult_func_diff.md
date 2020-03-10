@@ -385,16 +385,16 @@ $df(x_0, y_0) = 3\Delta x + 4\Delta y$
 解： 因为
 
 <center>
-  \Delta f(x_0, y_0) = (x_0 + \Delta x)(y_0 + \Delta y) - x_0y_0 = y_0\Delta x + x_0\Delta y + \Delta x\Delta y
+  $\Delta f(x_0, y_0) = (x_0 + \Delta x)(y_0 + \Delta y) - x_0y_0 = y_0\Delta x + x_0\Delta y + \Delta x\Delta y$
 </center>
 又因为
 <center>
-  \dfrac{\left\vert \Delta x \Delta y \right\vert}{\rho} = \rho \dfrac{\vert \Delta x \vert}{\rho}\dfrac{\vert y \vert}{\rho}
-  \le \rho \to 0.(\rho \to 0^+)
+  $\dfrac{\left\vert \Delta x \Delta y \right\vert}{\rho} = \rho \dfrac{\vert \Delta x \vert}{\rho}\dfrac{\vert y \vert}{\rho}
+  \le \rho \to 0.(\rho \to 0^+)$
 </center>
 所以，
 <center>
-  df(x_0, y_0) =  y_0\Delta x + x_0\Delta y.
+  $df(x_0, y_0) =  y_0\Delta x + x_0\Delta y.$
 </center>
 
 </details>
