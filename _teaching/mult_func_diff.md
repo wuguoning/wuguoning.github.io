@@ -649,6 +649,14 @@ $
 </center>
 </details>
 
+---
+偏导数连续不是函数可微的必要条件，如函数
+
+<center>
+$f(x,y) = \left\{\begin{array}{ll} (x^2 + y^2)\sin\dfrac{1}{\sqrt{x^2 + y^2}}, & x^2 + y^2 \ne 0 \newline 
+0, & x^2 + y^2 = 0\end{array}\right.$
+</center>
+在$(0,0)$点可微，但是偏导函数$f_x, f_y$在$(0,0)$点不连续。
 
 
 ---
