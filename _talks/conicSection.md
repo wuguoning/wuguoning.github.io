@@ -41,7 +41,7 @@ location: "Beijing, CN"
 的一種特殊形式可以看作橢圓。
     - 橢圓線：當平面切割圓錐面為一個閉合曲線時，該曲線為一個橢圓或者圓周；
 
-    - 拋物線：當切割平面與圓錐面的母線平行時皆得到的曲線；
+    - 拋物線：當切割平面與圓錐面的母線平行時截得到的曲線；
 
     - 雙曲線：其它情形，相交曲線為雙曲線。
 
@@ -62,5 +62,30 @@ location: "Beijing, CN"
 </a>
 </center>
 
-## 圓錐曲線的標準方程
+## 圓錐曲線在直角坐標下的標準方程
+
+    - 橢圓：$\dfrac{x^2}{a^2} + \dfrac{y^2}{b^2} = 1$
+
+<center>
+  <a href="https://www.geogebra.org/geometry/ntmpsudh">
+    <img src="./figs/ellipse.png" width="400" height="400"/>
+  </a>
+</center>
+
+    - 雙曲線：$\dfrac{x^2}{a^2} - \dfrac{y^2}{b^2} = 1$
+
+<center>
+  <a href="https://upload.wikimedia.org/wikipedia/commons/e/eb/Conic_section_-_standard_forms_of_a_hyperbola.png">
+    <img src="./figs/hyperbola.png" width="400" height="400"/>
+  </a>
+</center>
+
+    - 拋物線：$y=4ax$
+
+<center>
+  <a href="https://en.wikipedia.org/wiki/Conic_section#/media/File:Conic_section_-_standard_forms_of_a_parabola.png">
+    <img src="./figs/parabola.png" width="400" height="400"/>
+  </a>
+</center>
+
 
