@@ -282,7 +282,7 @@ $
 </span>
 
 + 求下列极限
-  - $\lim\limits_{(x,y) \to (0, 0)}\dfrac{1 - xy}{x^2 + y^2}$;
+  - $\lim\limits_{(x,y) \to (0, 1)}\dfrac{1 - xy}{x^2 + y^2}$;
 
   - $\lim\limits_{(x,y) \to (0, 0)}\dfrac{2 - \sqrt{4 + xy}}{xy}$;
 
