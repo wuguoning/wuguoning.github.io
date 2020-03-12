@@ -906,7 +906,7 @@ $\dfrac{\partial f}{\partial \mathbf{v}}(1, 1) \cdot (\cos \alpha, \sin \alpha) 
   </a>
 </center>
 
-下图为方向角$\theta = 300^o$的在$P$点处的方向导数，$\dfrac{\partial f}{\partial u}f(P) = 1.35$.
+下图为方向角$\theta = 300^o$的在$P$点处的方向导数，$\dfrac{\partial f}{\partial u}(P) = 1.35$.
 <center>
   <a href="https://www.geogebra.org/3d/gurw7xbj">
     <img src="./imags/calculus/gradient_direction_cartoon2.png" width="800" height="600"/>
