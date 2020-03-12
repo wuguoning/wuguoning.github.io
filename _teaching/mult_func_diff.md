@@ -899,14 +899,22 @@ $\dfrac{\partial f}{\partial \mathbf{v}}(1, 1) \cdot (\cos \alpha, \sin \alpha) 
 **✏️例子**
 
 下图为马鞍面$z = x^2 - y^2$,左边为该曲面的等值线。$P$为定义域中的一点，左图蓝色射线
-为等值线在$P$点处的梯度。$\nabla f(P) = (f_x(P),f_y(P))$.
+为等值线在$P$点处的梯度。
+<center>
+$\nabla f(P) = (f_x(P),f_y(P))$.
+</center>
+
 <center>
   <a href="https://www.geogebra.org/3d/gurw7xbj">
     <img src="./imags/calculus/gradient_direction_cartoon1.png" width="800" height="600"/>
   </a>
 </center>
 
-下图为方向角$\theta = 300^o$的在$P$点处的方向导数，$\dfrac{\partial f}{\partial u}(P) = 1.35$.
+下图为方向角$\theta = 300^o$的在$P$点处的方向导数.
+<center>
+$\dfrac{\partial f}{\partial u}(P) = 1.35$.
+</center>
+
 <center>
   <a href="https://www.geogebra.org/3d/gurw7xbj">
     <img src="./imags/calculus/gradient_direction_cartoon2.png" width="800" height="600"/>
