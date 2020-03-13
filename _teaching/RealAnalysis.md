@@ -92,6 +92,14 @@ integrability.
 + [<span style="color:blue">**📖Line and Surface Integral.**</span>](http://wuguoning.github.io/analysis/files/line_and_surface.pdf)
 
 ---
+### Homework
+
++ [<span style="color:red">**📝Homework of Multi-variable Function**</span>](http://wuguoning.github.io/files/analysis/homework_mult_continuity.pdf)
+
+
++ [<span style="color:red">**📝Homework of Multi-variable Function**</span>](http://wuguoning.github.io/files/analysis/homework_mult_diff.pdf)
+
+---
 ### Test
 + [<span style="color:red">**✏️Test for differential of multi-variable function**</span>](http://wuguoning.github.io/files/analysis/test6.pdf)
   - [<span style="color:red">**✏️Answer of differential of multi-variable function**</span>](http://wuguoning.github.io/files/analysis/mulvar_diff_test_ans.pdf)
