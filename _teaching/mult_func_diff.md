@@ -675,7 +675,7 @@ $f(x,y) = \left\{\begin{array}{ll} (x^2 + y^2)\sin\dfrac{1}{\sqrt{x^2 + y^2}}, &
   
   - $z = \sin(xy) + \cos^2(xy)$
 
-  - $z = x^{\dfrac{y}{z}}$
+  - $u = x^{\dfrac{y}{z}}$
 
   - $u = \arctan(x - y)^z$
 
