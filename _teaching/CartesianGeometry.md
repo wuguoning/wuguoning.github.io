@@ -227,49 +227,41 @@ $$\alpha = \dfrac{2\pi}{3}, \beta = \dfrac{\pi}{3}, \gamma = \dfrac{3\pi}{4}$$
 **第一次作业:**
 </span>
 
-1. 已知两点$M_1(0, 1, 2)$和$M_2(1, -1, 0)$，试用坐标表示向量$\vec{M_1M_2}, -2\vec{M_1M_2}$.
++ 已知两点$M_1(0, 1, 2)$和$M_2(1, -1, 0)$，试用坐标表示向量$\vec{M_1M_2}, -2\vec{M_1M_2}$.
 
 <details>
-
-  - $\vec{M_1M_2} = (1,-1,0) - (0,1,2) = (1, -2, -2)$,
-
-  - $-2\vec{M_1M_2} = -2(1, -2, -2) = (-2, 4, 4)$
-
+\begin{enumerate}
+  \item $\vec{M_1M_2} = (1,-1,0) - (0,1,2) = (1, -2, -2)$
+  \item $-2\vec{M_1M_2} = -2(1, -2, -2) = (-2, 4, 4)$
+\end{enumerate}
 </details>
 
 2. 求点$P(a, b, c)$关于(1)各坐标平面;(2)各坐标轴;(3)坐标原点的对称点的坐标。
 
 <details>
-
-  - $P(a,b,c)关于坐标平面xOy的对称点是(a, b, -c);关于坐标平面xOz平面的对称点是(a, -b, c);关于坐标平面yOz平面的对称点是(-a, b, c)$
-
-  - $P(a, b, c)关于坐标轴x的对称点是(a, -b, -c);关于y轴的对称点是(-a, b, -c);关于z轴的对称点是(-a, -b, c)$
-
-  - $P(a, b, c)关于坐标原点的对称点是(-a, -b, -c)$
-
+\begin{enumerate}
+  \item $P(a,b,c)关于坐标平面xOy的对称点是(a, b, -c);关于坐标平面xOz平面的对称点是(a, -b, c);关于坐标平面yOz平面的对称点是(-a, b, c)$
+  \item $P(a, b, c)关于坐标轴x的对称点是(a, -b, -c);关于y轴的对称点是(-a, b, -c);关于z轴的对称点是(-a, -b, c)$
+  \item $P(a, b, c)关于坐标原点的对称点是(-a, -b, -c)$
+\end{enumerate}
 </details>
 
 3. 证明以三点$A(4, 1, 9), B(10, -1, 6), C(2, 4, 3)$为顶点的三角形是等腰直角三角形。
-
 <details>
 
   因为：$\Vert \vert{AB} \Vert = \Vert (6, -2, -3) \Vert = 7$, 
         $\Vert \vert{AC} \Vert = \Vert (-2, 3, 6) \Vert = 7$, 
 
   所以该三角形为一个等腰三角形。
-
 </details>
 
 4. 设已知两点$M_1(4, \sqrt{2}, 1)$和$M_2(3, 0, 2)$，计算向量$\vec{M_1M_2}$的模、方向余弦和方向角。
-
 <details>
-
-  - $\Vert \vec{M_1M_2} \Vert = \Vert (-1, -\sqrt{2}, 1) \Vert = 2 $
-
-  - $(\cos \alpha, \cos \beta, \cos \gamma) = (\dfrac{-1}{2}, \dfrac{-\sqrt{2}}{2}, \dfrac{1}{2})$
-
-  - $\alpha  = \dfrac{2\pi}{3}, \beta = \dfrac{3\pi}{4}, \gamma = \dfrac{pi}{4}$
-
+\begin{enumerate}
+  \item $\Vert \vec{M_1M_2} \Vert = \Vert (-1, -\sqrt{2}, 1) \Vert = 2 $
+  \item $(\cos \alpha, \cos \beta, \cos \gamma) = (\dfrac{-1}{2}, \dfrac{-\sqrt{2}}{2}, \dfrac{1}{2})$
+  \item $\alpha  = \dfrac{2\pi}{3}, \beta = \dfrac{3\pi}{4}, \gamma = \dfrac{pi}{4}$
+\end{enumerate}
 </details>
 
 
@@ -497,6 +489,15 @@ c_x & c_y & c_z
   - $\bf{a} \times 2\bf{b}$;
 
   - $\bf{a, b}$夹角的余弦。
+
+<details>
+  \begin{enumerate}
+    \item $\bf{a} \cdot \bf{b} = 3 \times 1 + (-1)\times 2 + (-2)\times (-1) = 3 - 2 + 2 = 3$
+    \item $-2\bf{a} \cdot 3\bf{b} = -6(\bf{a} \cdot \bf{b}) = -6 \times 3 = -18$
+    \item $\bf{a} \times 2\bf{b} = \left\vert\begin{array}{ccc} i & j & k \newline 3 & -1 & -2 \newline 2 & 4 & -2 \end{array}\right\vert = (9, 2, 14)$
+    \item $\cos \theta = dfrac{\bf{a} \cdot \bf{b}}{\vert \bf{a} \vert \vert \bf{b} \vert}= \dfrac{3}{\sqrt{14}\sqrt{6}} = $
+  \end{enumerate}
+</details>
 
 2. 已知$M_1(1, -1, 2), M_2(3, 3, 1), M_3(3, 1, 3)$，求与$\vec{M_1M_2}, \vec{M_2M_3}$同时垂直的单位向量。
 
