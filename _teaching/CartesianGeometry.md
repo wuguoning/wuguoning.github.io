@@ -236,7 +236,7 @@ $$\alpha = \dfrac{2\pi}{3}, \beta = \dfrac{\pi}{3}, \gamma = \dfrac{3\pi}{4}$$
 \end{enumerate}
 </details>
 
-2. 求点$P(a, b, c)$关于(1)各坐标平面;(2)各坐标轴;(3)坐标原点的对称点的坐标。
++ 求点$P(a, b, c)$关于(1)各坐标平面;(2)各坐标轴;(3)坐标原点的对称点的坐标。
 
 <details>
 \begin{enumerate}
@@ -246,7 +246,7 @@ $$\alpha = \dfrac{2\pi}{3}, \beta = \dfrac{\pi}{3}, \gamma = \dfrac{3\pi}{4}$$
 \end{enumerate}
 </details>
 
-3. 证明以三点$A(4, 1, 9), B(10, -1, 6), C(2, 4, 3)$为顶点的三角形是等腰直角三角形。
++ 证明以三点$A(4, 1, 9), B(10, -1, 6), C(2, 4, 3)$为顶点的三角形是等腰直角三角形。
 <details>
 
   因为：$\Vert \vert{AB} \Vert = \Vert (6, -2, -3) \Vert = 7$, 
@@ -255,7 +255,7 @@ $$\alpha = \dfrac{2\pi}{3}, \beta = \dfrac{\pi}{3}, \gamma = \dfrac{3\pi}{4}$$
   所以该三角形为一个等腰三角形。
 </details>
 
-4. 设已知两点$M_1(4, \sqrt{2}, 1)$和$M_2(3, 0, 2)$，计算向量$\vec{M_1M_2}$的模、方向余弦和方向角。
++ 设已知两点$M_1(4, \sqrt{2}, 1)$和$M_2(3, 0, 2)$，计算向量$\vec{M_1M_2}$的模、方向余弦和方向角。
 <details>
 \begin{enumerate}
   \item $\Vert \vec{M_1M_2} \Vert = \Vert (-1, -\sqrt{2}, 1) \Vert = 2 $
@@ -480,7 +480,7 @@ c_x & c_y & c_z
 📚**第二次作业:**
 </span>
 
-1. 设向量$\bf{a} = (3, -1, -2), \bf{b} = (1, 2, -1)$，求
++ 设向量$\bf{a} = (3, -1, -2), \bf{b} = (1, 2, -1)$，求
 
   - $\bf{a} \cdot \bf{b}$;
 
@@ -495,15 +495,21 @@ c_x & c_y & c_z
     \item $\bf{a} \cdot \bf{b} = 3 \times 1 + (-1)\times 2 + (-2)\times (-1) = 3 - 2 + 2 = 3$
     \item $-2\bf{a} \cdot 3\bf{b} = -6(\bf{a} \cdot \bf{b}) = -6 \times 3 = -18$
     \item $\bf{a} \times 2\bf{b} = \left\vert\begin{array}{ccc} i & j & k \newline 3 & -1 & -2 \newline 2 & 4 & -2 \end{array}\right\vert = (9, 2, 14)$
-    \item $\cos \theta = dfrac{\bf{a} \cdot \bf{b}}{\vert \bf{a} \vert \vert \bf{b} \vert}= \dfrac{3}{\sqrt{14}\sqrt{6}} = $
+    \item $\cos \theta = dfrac{\bf{a} \cdot \bf{b}}{\vert \bf{a} \vert \vert \bf{b} \vert}= \dfrac{3}{\sqrt{14}\sqrt{6}} = \dfrac{3}{\sqrt{84}}, \theta = \arccos \dfrac{3}{\sqrt{84}}$
   \end{enumerate}
 </details>
 
-2. 已知$M_1(1, -1, 2), M_2(3, 3, 1), M_3(3, 1, 3)$，求与$\vec{M_1M_2}, \vec{M_2M_3}$同时垂直的单位向量。
++ 已知$M_1(1, -1, 2), M_2(3, 3, 1), M_3(3, 1, 3)$，求与$\vec{M_1M_2}, \vec{M_2M_3}$同时垂直的单位向量。
+<details>
+  因为：$\vec{M_1M_2} = (2,4,-1), \vec{M_2M_3} = (0, -2, 2)$, 所以所求向量为：
+  <center>
+  $\pm \dfrac{\vec{M_1M_2} \times \vec{M_2M_3}}{\left\Vert \vec{M_1M_2} \times \vec{M_2M_3}\right\Vert}$
+  </center>
+</details>
 
-3. 求向量$\bf{a} = (4, -3, 4)$在向量$\bf{b} = (2, 2, 1)$上的投影。
++ 求向量$\bf{a} = (4, -3, 4)$在向量$\bf{b} = (2, 2, 1)$上的投影。
 
-4. 已知向量$\bf{a} = (2, -3, 1), \bf{b} = (1, -1, 3), \bf{c}=(1, -2, 0)$，求
++ 已知向量$\bf{a} = (2, -3, 1), \bf{b} = (1, -1, 3), \bf{c}=(1, -2, 0)$，求
 
   - $\bf{(a \cdot b)c - (a \cdot c)b}$;
 
