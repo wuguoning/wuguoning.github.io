@@ -1565,7 +1565,7 @@ $F(x, y, z) = 0$
 的任意一条光滑曲线$\Gamma$:
 
 <center>
-$\left\vert\begin{array}{l} x = x(t) \newline y = y(t) \newline z = z(t)\end{array}\right.$
+$\left\{\begin{array}{l} x = x(t) \newline y = y(t) \newline z = z(t)\end{array}\right.$
 </center>
 
 并设$x_0 = x(t_0), y_0 = y(t_0), z_0 = z(t_0)$，由于$\Gamma$在曲面$S$上，所以有：
