@@ -1748,7 +1748,7 @@ $E = \sum\limits_{i=1}^n(y_i - ax_i - b)^2$
 令$\dfrac{\partial E}{\partial a} = 0, \dfrac{\partial E}{\partial b} = 0$，得到：
 <center>
 $\left[\begin{array}{cc} \sum\limits_{i=1}^n x_i^2 & \sum\limits_{i=1}^n x_i \newline 
-\sum\limits_{i=1}^n x_i & n\end{array}\right] \left[\begin{array}{c} a \newline b\right] = 
+\sum\limits_{i=1}^n x_i & n\end{array}\right] \left[\begin{array}{c} a \newline b\end{array}\right] = 
     \left[\begin{array}{c} \sum\limits_{i=1}^n x_iy_i \newline \sum\limits_{i=1}^n y_i 
     \end{array}\right]$
 </center>
