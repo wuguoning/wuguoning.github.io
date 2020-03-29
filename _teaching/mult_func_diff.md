@@ -1761,7 +1761,7 @@ $\left[\begin{array}{cc} \sum\limits_{i=1}^n x_i^2 & \sum\limits_{i=1}^n x_i \ne
 
 <center>
 <a href="https://www.geogebra.org/classic/seqy4qut">
-   <img src="./imags/calculus/least_square.png" width="600" height="400"/>
+   <img src="./imags/calculus/least_square.png" width="600" height="500"/>
 </a>
 </center>
 
@@ -1830,6 +1830,46 @@ $\left\{\begin{array}{l} f_x(x, y) + \lambda \varphi_x(x, y) = 0 \newline f_y(x,
 </center>
 
 求得问题的解即可。
+
+---
+**例子**
+
+求函数$f(x,y) = ax^2 + 2bxy + cy^2(b^2 - 4ac < 0 ; a, b, c >0)$在闭区域$D=\left\{(x,y)\vert x^2 + y^2 \le 1\right\}$的最大值和最小值。
+
+<details>
+1. 首先考察函数在区域$D$内部$\left\{(x,y)\vert x^2 + y^2 < 1\right\}$的极值，这是无条件极值。
+<center>
+$\left\{\begin{array}f_x = 2ax + 2by = 0 \newline f_y = 2bx + 2cy = 0\end{array}\right.$
+</center>
+由假设$b^2 - 4ac < 0$知道该方程组只有零解：$x = 0, y = 0$.
+计算
+<center>
+$f_{xx}(0,0) = 2a, f_{xy}(0,0) = 2b, f_{yy}(0,0) = 2c$
+</center>
+有判定条件，知道$(0,0)$点为函数的极小值点。
+
+2. 再考察函数在边界$\left\{(x,y)\vert x^2 + y^2 = 1\right\}$上的极值，这是条件极值，作Lagrange函数：
+<center>
+$L(x,y,\lambda) = ax^2 + 2bxy + cy^2 - \lambda(x^2 + y^2 -1)$
+</center>
+解之得到在边界上的最大值为：
+<center>
+$\dfrac{1}{2}\left[(a + c) + \sqrt{(a+c)^2 - 4(ac-b^2)}\right]$
+</center>
+解之得到在边界上的最小值为：
+<center>
+$\dfrac{1}{2}\left[(a + c) - \sqrt{(a+c)^2 - 4(ac-b^2)}\right]$
+</center>
+
+比较内部与外部极值得到：
+最大值为：
+<center>
+$\dfrac{1}{2}\left[(a + c) + \sqrt{(a+c)^2 - 4(ac-b^2)}\right]$
+</center>
+最小值为：
+f(0,0) = 0
+
+</details>
 
 
 ---
