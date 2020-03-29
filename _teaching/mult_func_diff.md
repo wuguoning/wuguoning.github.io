@@ -1440,7 +1440,7 @@ $F_x(x_0, y_0)(x - x_0) + F_y(x_0, y_0)(y - y_0) = 0$
 </center>
 
 <center>
-$F_x(x_0, y_0)(x - x_0) - F_y(x_0, y_0)(y - y_0) = 0$
+$F_y(x_0, y_0)(x - x_0) - F_x(x_0, y_0)(y - y_0) = 0$
 </center>
 
 ---
@@ -1522,11 +1522,11 @@ $\left\vert\begin{array}{ccc} i & j & k \newline F_x & F_y & F_z \newline G_x & 
 </center>
 
 ---
-<span style="color:red">曲线
+曲线
 <center>
 $\left\{\begin{array} F(x,y,z) = 0 \newline G(x,y,z)=0\end{array}\right.$
 </center>
-在$P_0$点的法平面就是由梯度向量$\mathbf{Grad}F(P_0), \mathbf{Grad}G(P_0)$张成的过$P_0$点的平面。</span>
+在$P_0$点的法平面就是由梯度向量$\mathbf{Grad}F(P_0), \mathbf{Grad}G(P_0)$张成的过$P_0$点的平面.
 
 ---
 **✏️例子**
