@@ -1522,7 +1522,11 @@ $\left\vert\begin{array}{ccc} i & j & k \newline F_x & F_y & F_z \newline G_x & 
 </center>
 
 ---
-<span style="color:red">曲线$\left\{\begin{array}F(x,y,z) = 0 \newline G(x,y,z)=0\end{array}\right.$在$P_0$点的法平面就是由梯度向量$\mathbf{Grad}F(P_0), \mathbf{Grad}G(P_0)$张成的过$P_0$点的平面。</span>
+<span style="color:red">曲线
+<center>
+$\left\{\begin{array} F(x,y,z) = 0 \newline G(x,y,z)=0\end{array}\right.$
+</center>
+在$P_0$点的法平面就是由梯度向量$\mathbf{Grad}F(P_0), \mathbf{Grad}G(P_0)$张成的过$P_0$点的平面。</span>
 
 ---
 **✏️例子**
