@@ -1670,7 +1670,7 @@ $\dfrac{x - 1}{1} = \dfrac{y - 1}{2} = \dfrac{z - 1}{3}$
 📚**第八次作业:**
 </span>
 
-+ 求曲线$\mathbf{r}(t) = (t - \sin t)\mathbf{i} + (1 - \cos t)\mathbf{j} + (4 \sin \dfrac{t}{2})\mathbf{k}$在$t_0 = \dfrac{\pi}{2}$相应点处的切线和法线方程。
++ 求曲线$\mathbf{r}(t) = (t - \sin t)\mathbf{i} + (1 - \cos t)\mathbf{j} + (4 \sin \dfrac{t}{2})\mathbf{k}$在$t_0 = \dfrac{\pi}{2}$相应点处的切线和法平面方程。
 
 + 求曲线
   <center>
@@ -1678,7 +1678,7 @@ $\dfrac{x - 1}{1} = \dfrac{y - 1}{2} = \dfrac{z - 1}{3}$
   </center>
   在点$(1,1,1)$处的切线和法平面方程。
 
-+ 求旋转椭球面$3x^2 + y^2 + z^2 = 6$上点$(-1, -2, 3)$处的切平面与$xOy$面的夹角的余弦。
++ 求旋转椭球面$3x^2 + y^2 + z^2 = 16$上点$(-1, -2, 3)$处的切平面与$xOy$面的夹角的余弦。
 
 ---
 
