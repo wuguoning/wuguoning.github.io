@@ -1759,6 +1759,12 @@ $\left[\begin{array}{cc} \sum\limits_{i=1}^n x_i^2 & \sum\limits_{i=1}^n x_i \ne
     $b = \dfrac{n\sum\limits_{i=1}^n x_i^2y_i - \sum\limits_{i=1}^nx_i\sum\limits_{i=1}^nx_iy_i}{n\sum\limits_{i=1}^n x_i^2 - \left(\sum\limits_{i=1}^nx_i\right)^2}$
 </center>
 
+<center>
+<a href="https://www.geogebra.org/classic/seqy4qut">
+   <img src="./imags/calculus/least_square.png" width="600" height="400"/>
+</a>
+</center>
+
 
 
 ---
