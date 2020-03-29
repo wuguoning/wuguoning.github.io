@@ -1711,20 +1711,21 @@ $f_x(x_0, y_0) = 0, f_y(x_0, y_0) = 0$
   + $AC - B^2 < 0$时没有极值。
 
   + $AC - B^2 = 0$时可能有极值，也可能没有极值。
+
 ---
 **例子**
 
 求函数$f(x,y) = xy(a - x - y)(a \ne 0)$的极值。
 
 <details>
-+ 先找驻点，
+1. 先找驻点，
 <center>
 $\left\{\begin{array} \dfrac{\partial f}{\partial x} = y(a-x-y) - xy = 0\newline 
 \dfrac{\partial f}{\partial y} = x(a-x-y) - xy = 0 \end{array}\right.$
 
 得到驻点为$(0,0),(0,a),(a,0),(a/3,a/3)$.
 
-+ 再求二阶偏导数$\dfrac{\partial^2 f}{\partial x^2} = -2y, \dfrac{\partial^2 f}{\partial x \partial y} = a - 2x - 2y, \dfrac{\partial^2 f}{\partial y^2} = -2x$,
+2. 再求二阶偏导数$\dfrac{\partial^2 f}{\partial x^2} = -2y, \dfrac{\partial^2 f}{\partial x \partial y} = a - 2x - 2y, \dfrac{\partial^2 f}{\partial y^2} = -2x$,
 
 按照极值的判定定理，得到：
 
