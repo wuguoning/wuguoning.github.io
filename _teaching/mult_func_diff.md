@@ -1522,6 +1522,9 @@ $\left\vert\begin{array}{ccc} i & j & k \newline F_x & F_y & F_z \newline G_x & 
 </center>
 
 ---
+<span style="color:red">曲线$\left\{\begin{array}F(x,y,z) = 0 \newline G(x,y,z)=0\end{array}\right.$在$P_0$点的法平面就是由梯度向量$\mathbf{Grad}F(P_0), \mathbf{Grad}G(P_0)$张成的过$P_0$点的平面。</span>
+
+---
 **✏️例子**
 
 求球面$x^2 + y^2 + z^2 = 50$与锥面$x^2 + y^2 = z^2$所截出的曲线在$(3,4,5)$的切线和法平面方程。
@@ -1847,7 +1850,7 @@ $D=\left\{(x,y)\vert x^2 + y^2 \le 1\right\}$
 <details>
 1. 首先考察函数在区域$D$内部$\left\{(x,y)\vert x^2 + y^2 < 1\right\}$的极值，这是无条件极值。
 <center>
-$\left\{\begin{array}f_x = 2ax + 2by = 0 \newline f_y = 2bx + 2cy = 0\end{array}\right.$
+$\left\{\begin{array} f_x = 2ax + 2by = 0 \newline f_y = 2bx + 2cy = 0\end{array}\right.$
 </center>
 由假设$b^2 - 4ac < 0$知道该方程组只有零解：$x = 0, y = 0$.
 计算
