@@ -1834,7 +1834,15 @@ $\left\{\begin{array}{l} f_x(x, y) + \lambda \varphi_x(x, y) = 0 \newline f_y(x,
 ---
 **例子**
 
-求函数$f(x,y) = ax^2 + 2bxy + cy^2(b^2 - 4ac < 0 ; a, b, c >0)$在闭区域$D=\left\{(x,y)\vert x^2 + y^2 \le 1\right\}$的最大值和最小值。
+求函数
+<center>
+$f(x,y) = ax^2 + 2bxy + cy^2(b^2 - 4ac < 0 ; a, b, c >0)$
+</center>
+在闭区域
+<center>
+$D=\left\{(x,y)\vert x^2 + y^2 \le 1\right\}$
+</center>
+的最大值和最小值。
 
 <details>
 1. 首先考察函数在区域$D$内部$\left\{(x,y)\vert x^2 + y^2 < 1\right\}$的极值，这是无条件极值。
