@@ -1755,7 +1755,7 @@ $\left[\begin{array}{cc} \sum\limits_{i=1}^n x_i^2 & \sum\limits_{i=1}^n x_i \ne
 
 解这个方程组得到：
 <center>
-    $a = \dfrac{n\sum\limits_{i=1}^n x_iy_i - \sum\limits_{i=1}^nx_i\sum\limits_{i=1}^ny_i}{n\sum\limits_{i=1}^n x_i^2 - \left(\sum\limits_{i=1}^nx_i\right)^2}$
+    $a = \dfrac{n\sum\limits_{i=1}^n x_iy_i - \sum\limits_{i=1}^nx_i\sum\limits_{i=1}^ny_i}{n\sum\limits_{i=1}^n x_i^2 - \left(\sum\limits_{i=1}^nx_i\right)^2}, \quad$
     $b = \dfrac{n\sum\limits_{i=1}^n x_i^2y_i - \sum\limits_{i=1}^nx_i\sum\limits_{i=1}^nx_iy_i}{n\sum\limits_{i=1}^n x_i^2 - \left(\sum\limits_{i=1}^nx_i\right)^2}$
 </center>
 
@@ -1765,7 +1765,7 @@ $\left[\begin{array}{cc} \sum\limits_{i=1}^n x_i^2 & \sum\limits_{i=1}^n x_i \ne
 </a>
 </center>
 
-
+[线性最小二乘的Python实现](https://medium.com/edureka/least-square-regression-40b59cca8ea7)
 
 ---
 **条件极值与拉格朗日乘数法**
