@@ -1720,7 +1720,7 @@ $f_x(x_0, y_0) = 0, f_y(x_0, y_0) = 0$
 <details>
 1. 先找驻点，
 <center>
-$\left\{\begin{array} \dfrac{\partial f}{\partial x} = y(a-x-y) - xy = 0\newline 
+$\left\{\begin{array}{l}\dfrac{\partial f}{\partial x} = y(a-x-y) - xy = 0 \newline 
 \dfrac{\partial f}{\partial y} = x(a-x-y) - xy = 0 \end{array}\right.$
 
 得到驻点为$(0,0),(0,a),(a,0),(a/3,a/3)$.
@@ -1729,12 +1729,35 @@ $\left\{\begin{array} \dfrac{\partial f}{\partial x} = y(a-x-y) - xy = 0\newline
 
 按照极值的判定定理，得到：
 
-  - 当$a > 0$时，$f\left(a/3, a/3\right) = a^3/27$为极大值；
+  (1) 当$a > 0$时，$f\left(a/3, a/3\right) = a^3/27$为极大值；
 
-  - 当$a < 0$时，$f\left(a/3, a/3\right) = a^3/27$为极小值；
-
+  (2) 当$a < 0$时，$f\left(a/3, a/3\right) = a^3/27$为极小值；
 </center>
 </details>
+
+---
+线性**最小二乘**
+
+设有一组满足线性关系的实验数据：$(x_i, y_i), i = 1,2,\cdots,n$，要确定直线$y=ax + b$使得所有
+观测值$y_i$与函数值$ax_i + b$之差的平方和，即：
+<center>
+$E = \sum\limits_{i=1}^n(y_i - ax_i - b)^2$
+</center>
+最小。这种方法称为<span style="color:red">**最小二乘法**</span>。
+
+令$\dfrac{\partial E}{\partial a} = 0, \dfrac{\partial E}{\partial b} = 0$，得到：
+<center>
+$\left[\begin{array}{cc} \sum\limits_{i=1}^n x_i^2 & \sum\limits_{i=1}^n x_i \newline 
+\sum\limits_{i=1}^n x_i & n\end{array}\right] \left[\begin{array}{c} a \newline b\right] = 
+    \left[\begin{array}{c} \sum\limits_{i=1}^n x_iy_i \newline \sum\limits_{i=1}^n y_i 
+    \end{array}\right]$
+</center>
+
+解这个方程组得到：
+<center>
+    $a = \dfrac{n\sum\limits_{i=1}^n x_iy_i - \sum\limits_{i=1}^nx_i\sum\limits_{i=1}^ny_i}{n\sum\limits_{i=1}^n x_i^2 - \left(\sum\limits_{i=1}^nx_i\right)^2}$
+    $b = \dfrac{n\sum\limits_{i=1}^n x_i^2y_i - \sum\limits_{i=1}^nx_i\sum\limits_{i=1}^nx_iy_i}{n\sum\limits_{i=1}^n x_i^2 - \left(\sum\limits_{i=1}^nx_i\right)^2}$
+</center>
 
 
 
