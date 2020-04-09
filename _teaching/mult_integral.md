@@ -474,7 +474,7 @@ $S = \iint\limits_{D} 1\mathrm{d}A = \int_{\dfrac{-\pi}{2}}^{\dfrac{\pi}{2}} \in
 
   <center>
   <a href="https://www.geogebra.org/3d/truf9xmb">
-     <img src="./imags/calculus/polar_double_exp2.png" width="500" height="400"/>
+     <img src="./imags/calculus/VivianiCurve.png" width="500" height="400"/>
   </a>
   </center>
 
