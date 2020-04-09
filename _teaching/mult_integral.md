@@ -304,7 +304,7 @@ $\begin{split}
 </center>
 
   <center>
-  <a href="https://www.geogebra.org/3d/c3upxfyu">
+  <a href="https://www.geogebra.org/classic/ceb8fqkm">
      <img src="./imags/calculus/Double_Integral_exp3.png" width="600" height="500"/>
   </a>
   </center>
