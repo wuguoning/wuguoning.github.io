@@ -543,7 +543,7 @@ $\int_0^{+\infty} e^{-x^2}\, \mathrm{d}x = \dfrac{\sqrt{\pi}}{2}$
 
   - $\iint\limits_{D}x\sqrt{y}\, \mathrm{d}A$，其中$D$由抛物线$y = \sqrt{x},y = x^2$所围成的区域；
 
-  - $\iint\limits_{D}xy^2\, \mathrm{d}A$，其中$D$由圆周$x^2 + y^2 = 4$及$y$轴所围成的区域；
+  - $\iint\limits_{D}xy^2\, \mathrm{d}A$，其中$D$由圆周$x^2 + y^2 = 4$及$y$轴所围成的圆周的右半部分；
 
   - $\iint\limits_{D}e^{x+y}\, \mathrm{d}A$，其中$D$由圆周$\vert x \vert + \vert y \vert \le 1$所围成的区域；
 
