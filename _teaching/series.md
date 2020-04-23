@@ -227,15 +227,17 @@ $
 <a name="cotes2"></a>
 ### 第二节 正项级数
 
+---
 **正向级数收敛性的一般判别法则**
 
 若数项级数的各项符号相同，则称它为同号级数。对于同号级数，只需研究各项都是正数组成的级数--正项级数。
 
 ---
 
-正向级数$\sum\limits_{n=1}^{\infty} u_n$ 收敛的充要条件是：部分和数列$\left\{S_n\right\}$有界。
+正向级数$\sum\limits_{n=1}^{\infty} u_n$ 收敛的充要条件是：部分和数列$S_n$有界。
 
 ---
+**比较判别法**
 
 设$\sum\limits_{n=1}^{\infty} u_n, \sum\limits_{n=1}^{\infty} v_n$ 是两个正向级数，如果存在某个正数$N$ ，对于一切$n > N$，都有：
 <center>
@@ -255,6 +257,8 @@ $
     讨论级数$\displaystyle \sum\limits_{n=1}^{\infty} \sin \dfrac{\pi}{n}$的敛散性。
 
 ---
+**比较判别法的极限形式**
+
 设$\sum\limits_{n=1}^{\infty} u_n, \sum\limits_{n=1}^{\infty} v_n$ 是两个正向级数，如果
 <center>
   $\lim\limits_{n \to \infty} \dfrac{u_n}{v_n} = l$
@@ -360,6 +364,7 @@ $\lim\limits_{n \to \infty} \dfrac{u_{n+1}}{u_n} = q$
 
 ---
 **Cauchy判别法**
+
 设$\displaystyle \sum\limits_{n=1}^{\infty}x_n(x_n \ne 0)$是正项级数, $\displaystyle r = \overline{\lim\limits_{n\to \infty}}\sqrt[n]{x_n}$,则，
 
 + 当$r<1$时，级数$\displaystyle \sum\limits_{n=1}^{\infty}x_n(x_n \ne 0)$收敛；
@@ -379,7 +384,7 @@ $\lim\limits_{n \to \infty} \dfrac{u_{n+1}}{u_n} = q$
     讨论下列级数的敛散性$\displaystyle \sum\limits_{n=1}^{\infty} \frac{(n!)^2}{(2n)!}$ ,
     $\displaystyle \sum\limits_{n=1}^{\infty} \frac{n^2}{\left(2 + \frac{1}{n}\right)^n}$
 
-===
+---
 **积分判别法**
 
 ---
@@ -394,13 +399,11 @@ $\lim\limits_{n \to \infty} \dfrac{u_{n+1}}{u_n} = q$
     讨论下列级数的敛散性$\displaystyle \sum\limits_{n=1}^{\infty} \frac{1}{n\left(\ln n\right)^n}$ ,
     $\displaystyle \sum\limits_{n=1}^{\infty} \frac{1}{n \ln n \left(\ln \ln n\right)^n}$
 
-===
+---
 **Raabe判别法**
 
----
 对于正项级数$\displaystyle \sum\limits_{n=1}^{\infty} x_n$，成立$\displaystyle \lim\limits_{n\to \infty} \dfrac{x_{n+1}}{x_n} = 1$,这时Cauchy判别法和d'Alembert判别法失效。
 
-**Raabe判别法**
 设$\displaystyle \sum\limits_{n=1}^{\infty} x_n$为正项级数， $\displaystyle \lim\limits_{n\to \infty}n\left(\dfrac{x_n}{x_{n+1}}-1\right) = r$，则
 
 + 当$r > 1$时，级数收敛；
@@ -443,7 +446,8 @@ $$
 
 ---
 **例子**
-    判别级数$\displaystyle 1 + \sum\limits_{n=1}^{\infty} \dfrac{(2n-1)!!}{(2n)!!}\cdot \dfrac{1}{2n+1}$的敛散性。
+
+判别级数$\displaystyle 1 + \sum\limits_{n=1}^{\infty} \dfrac{(2n-1)!!}{(2n)!!}\cdot \dfrac{1}{2n+1}$的敛散性。
 
 
 
