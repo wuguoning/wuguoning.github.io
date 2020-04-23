@@ -12,15 +12,13 @@ location: "Beijing, CN"
 
 ---
 
-早在公元前450年，古希腊有一位名叫Zeno的学者，曾提出若干个在
-数学发展史上产生过重大影响的悖论，"Achilles（希腊神话中的英雄）
-追赶乌龟"即是其中较为著名的一个。
+早在公元前450年，古希腊有一位名叫Zeno的学者，曾提出若干个在数学发展史上产生过重大影响的悖论，"Achilles（希腊神话中的英雄）追赶乌龟"即是其中较为著名的一个。
 
-有限$-->$ 无限。
+<center>
+有限===>无限。
+</center>
 
-这种“无限多个数相加，相乘是否一定有意义？若不一定，怎么来判
-別，无限多个数相加是否符合交换律，结合律等等。对于无限多个函数，
-......."
+    这种“无限多个数相加，相乘是否一定有意义？若不一定，怎么来判別，无限多个数相加是否符合交换律，结合律等等。对于无限多个函数，......."
 
 ## 目录
 + [第一节 常数项级数](#cotes1)
@@ -139,11 +137,11 @@ $S_{2n} = 0, S_{2n+1} = 1$,所以级数发散。
 </details>
 
 ---
-**收敛级数的性质**
+<span style="color:blue">**收敛级数的性质**</span>
 
 1. 线性。设$\sum\limits_{n=1}^{+\infty}a_n = A, \sum\limits_{n=1}^{+\infty}b_n = B, 
 \alpha, \beta$为两个常数，则有：
-$\sum\limits_{n=1}^{+\infty}\left(\alpha a_n + \beta b_n\right) = \alpha A + \beta B$
+$$\sum\limits_{n=1}^{+\infty}\left(\alpha a_n + \beta b_n\right) = \alpha A + \beta B$$
 
 2. 在级数中去掉、增加或者改变级数的有限项不影响级数的敛散性。
 
@@ -180,7 +178,7 @@ $\arctan x - \arctan y = \arctan \frac{x - y}{1 + xy}
 </details>
 
 ---
-**柯西收敛原理**
+<span style="color:blue">**柯西收敛原理**</span>
 
 级数$\sum\limits_{n=1}^{\infty} u_n$ 收敛的充分必要条件为：
     任给$\epsilon>0$，总存在正数$N$，使得当$m > N$ 以及对于任意的正整数$p$，
@@ -231,7 +229,7 @@ $
 ---
 **正向级数收敛性的一般判别法则**
 
-若数项级数的各项符号相同，则称它为同号级数。对于同号级数，只需研究各项都是正数组成的级数--正项级数。
+若数项级数的各项符号相同，则称它为同号级数。对于同号级数，只需研究各项都是正数组成的级数--<span style="color:red">**正项级数**</span>。
 
 ---
 
@@ -240,63 +238,48 @@ $
 ---
 <span style="color:blue">**比较判别法**</span>
 
-设$\sum\limits_{n=1}^{\infty} u_n, \sum\limits_{n=1}^{\infty} v_n$ 是两个正向级数，如果存在某个正数$N$ ，对于一切$n > N$，都有：
-<center>
-    $u_n \le v_n$
-</center>
-则：
+设$\sum\limits_{n=1}^{\infty} u_n, \sum\limits_{n=1}^{\infty} v_n$ 是两个正项级数，如果存在某个正数$N$ ，对于一切$n > N$，都有：$u_n \le v_n$，则：
 
   +  若级数$\sum\limits_{n=1}^{\infty} v_n$ 收敛，则级数$\displaystyle \sum\limits_{n=1}^{\infty} u_n$ 收敛；
+
   + 若级数$\sum\limits_{n=1}^{\infty} u_n$ 发散，则级数$\displaystyle \sum\limits_{n=1}^{\infty} v_n$ 发散。
 
 ---
-**例子**
-    讨论级数$\displaystyle \sum\limits_{n=1}^{\infty} \dfrac{1}{n^2 - n + 1}$的敛散性。
+**例子**  讨论级数$\displaystyle \sum\limits_{n=1}^{\infty} \dfrac{1}{n^2 - n + 1}$的敛散性。
 
 ---
-**例子**
-    讨论级数$\displaystyle \sum\limits_{n=1}^{\infty} \sin \dfrac{\pi}{n}$的敛散性。
+**例子**  讨论级数$\displaystyle \sum\limits_{n=1}^{\infty} \sin \dfrac{\pi}{n}$的敛散性。
 
 ---
 <span style="color:blue">**比较判别法的极限形式**</span>
 
-设$\sum\limits_{n=1}^{\infty} u_n, \sum\limits_{n=1}^{\infty} v_n$ 是两个正向级数，如果
-<center>
-  $\lim\limits_{n \to \infty} \dfrac{u_n}{v_n} = l$
-</center>
+设$\sum\limits_{n=1}^{\infty} u_n, \sum\limits_{n=1}^{\infty} v_n$ 是两个正项级数，如果$\lim\limits_{n \to \infty} \dfrac{u_n}{v_n} = l$，
 则：
 
   + 当$0 < l < \infty$，则级数$\displaystyle \sum\limits_{n=1}^{\infty} v_n, \sum\limits_{n=1}^{\infty} u_n$ 同时收敛或同时发散；
-  + 当$l = 0$，级数$\displaystyle \sum\limits_{n=1}^{\infty} v_n$ 收敛时，则级数
-            $\displaystyle \sum\limits_{n=1}^{\infty} u_n$ 收敛;
-  + 当$l = +\infty$，级数$\displaystyle \sum\limits_{n=1}^{\infty} u_n$ 发散时，则级数
-            $\displaystyle \sum\limits_{n=1}^{\infty} v_n$ 发散.
+  
+  + 当$l = 0$，级数$\displaystyle \sum\limits_{n=1}^{\infty} v_n$ 收敛时，则级数$\displaystyle \sum\limits_{n=1}^{\infty} u_n$ 收敛;
+
+  + 当$l = +\infty$，级数$\displaystyle \sum\limits_{n=1}^{\infty} v_n$ 发散时，则级数$\displaystyle \sum\limits_{n=1}^{\infty} u_n$ 发散.
 
 ---
-**例子**
-
-讨论级数$\displaystyle \sum\limits_{n=1}^{\infty} \dfrac{1}{2^n-n}$的敛散性。
+**例子**  讨论级数$\displaystyle \sum\limits_{n=1}^{\infty} \dfrac{1}{2^n-n}$的敛散性。
 
 ---
-**例子**
-
-讨论级数$\displaystyle \sum\limits_{n=1}^{\infty} \sin \dfrac{1}{n}$的敛散性。
+**例子**  讨论级数$\displaystyle \sum\limits_{n=1}^{\infty} \sin \dfrac{1}{n}$的敛散性。
 
 ---
-**例子**
-讨论级数$\displaystyle \sum\limits_{n=1}^{\infty} \left(1 - \cos \frac{\pi}{n}\right)$的敛散性。
+**例子**  讨论级数$\displaystyle \sum\limits_{n=1}^{\infty} \left(1 - \cos \frac{\pi}{n}\right)$的敛散性。
 
 ---
 <span style="color:blue">**比值判别法和根值判别法**</span>
 
----
-设$\sum\limits_{n=1}^{\infty} u_n$ 为正项级数，且存在某正数$N_0$及常数 $q (0 < q < 1).$ 
+设$\sum\limits_{n=1}^{\infty} u_n$ 为正项级数，且存在某正数$N_0$及常数 $q (0 < q < 1)$。 
 
-  + 对于一切$n > N_0$，成立不等式$\dfrac{u_{n+1}}{u_n} \le q$,
- 则级数$\sum\limits_{n=1}^{\infty} u_n$ 收敛。
-  + 对于一切$n > N_0$，成立不等式$\dfrac{u_{n+1}}{u_n} \ge 1$,
-        则级数$\displaystyle \sum\limits_{n=1}^{\infty} u_n$ 发散。
-        
+  + 对于一切$n > N_0$，成立不等式$\dfrac{u_{n+1}}{u_n} \le q$, 则级数$\sum\limits_{n=1}^{\infty} u_n$ 收敛。
+
+  + 对于一切$n > N_0$，成立不等式$\dfrac{u_{n+1}}{u_n} \ge 1$, 则级数$\displaystyle \sum\limits_{n=1}^{\infty} u_n$ 发散。
+
 ---
 设$\displaystyle \sum\limits_{n=1}^{\infty} u_n$ 为正项级数，且
 <center>
@@ -305,6 +288,7 @@ $\lim\limits_{n \to \infty} \dfrac{u_{n+1}}{u_n} = q$
 则，
 
   + 当$q < 1$，则级数$\sum\limits_{n=1}^{\infty} u_n$ 收敛。
+
   + 当$q > 1$ 或$q = \infty$，则级数$\displaystyle \sum\limits_{n=1}^{\infty} u_n$ 发散。
 
 ---
@@ -312,35 +296,32 @@ $\lim\limits_{n \to \infty} \dfrac{u_{n+1}}{u_n} = q$
 
 ---
 <span style="color:blue">**d'Alembert判别法**</span>
+
     设$\displaystyle \sum\limits_{n=1}^{\infty}x_n(x_n \ne 0)$是正项级数，
     
    + 当$\displaystyle \overline{\lim\limits_{n\to\infty}} \dfrac{x_{n+1}}{x_n} = \overline{r} < 1$, 则级数$\displaystyle \sum\limits_{n=1}^{\infty}x_n(x_n \ne 0)$收敛；
+
    + 当$\displaystyle \underline{\lim\limits_{n\to\infty}} \dfrac{x_{n+1}}{x_n} = \underline{r} > 1$, 则级数$\displaystyle \sum\limits_{n=1}^{\infty}x_n(x_n \ne 0)$发散；
+
    + 当$\displaystyle \overline{r} \ge 1$或$\displaystyle \underline{r} \le 1$, 判别法失效，即级数$\displaystyle \sum\limits_{n=1}^{\infty}x_n(x_n \ne 0)$可能收敛，也可能发散。
 
 ---
 设$\{x_n\}$是正项数列，则有：
-<center>
-   $
+   $$
         \underline{\lim\limits_{n\to \infty}}\dfrac{x_{n+1}}{x_n} \le 
         \underline{\lim\limits_{n\to \infty}}\sqrt[n]{x_n} \le
         \overline{\lim\limits_{n \to \infty}}\sqrt[n]{x_n} 
         \le  \overline{\lim\limits_{n\to \infty}}\dfrac{x_{n+1}}{x_n}
-   $
-</center>
----
-**例子**
-    讨论级数$\displaystyle \sum\limits_{n=1}^{\infty} nx^{n-1}(x>0)$ 的敛散性。
-    
----
-**例子**
-    讨论级数$\displaystyle \sum\limits_{n=1}^{\infty} \frac{n!}{n^n}$ 的敛散性。
+   $$
 
 ---
-**例子**
-    讨论级数$\displaystyle \sum\limits_{n=1}^{\infty} x_n = \dfrac{1}{2} + \dfrac{1}{3} + 
-    \dfrac{1}{2^2} + \dfrac{1}{3^2} + \dfrac{1}{2^3} + \dfrac{1}{3^3} 
-    + \cdots $的敛散性。
+**例子**  讨论级数$\displaystyle \sum\limits_{n=1}^{\infty} nx^{n-1}(x>0)$ 的敛散性。
+    
+---
+**例子**  讨论级数$\displaystyle \sum\limits_{n=1}^{\infty} \frac{n!}{n^n}$ 的敛散性。
+
+---
+**例子**  讨论级数$\displaystyle \sum\limits_{n=1}^{\infty} x_n = \dfrac{1}{2} + \dfrac{1}{3} + \dfrac{1}{2^2} + \dfrac{1}{3^2} + \dfrac{1}{2^3} + \dfrac{1}{3^3} + \cdots $的敛散性。
 
 ---
 设$\displaystyle \sum\limits_{n=1}^{\infty} u_n$ 为正项级数，且存在某正数$N_0$及常数$q (0 < q < 1).$ 
@@ -361,6 +342,7 @@ $\lim\limits_{n \to \infty} \dfrac{u_{n+1}}{u_n} = q$
 设$\displaystyle \sum\limits_{n=1}^{\infty} u_n$ 为正项级数，且$\lim\limits_{n \to \infty} \sqrt[n]{u_n} = q$, 则
 
 + 当$q < 1$，则级数$\displaystyle \sum\limits_{n=1}^{\infty} u_n$ 收敛。
+
 + 当$q > 1$，则级数$\displaystyle \sum\limits_{n=1}^{\infty} u_n$ 发散。
 
 ---
@@ -369,36 +351,30 @@ $\lim\limits_{n \to \infty} \dfrac{u_{n+1}}{u_n} = q$
 设$\displaystyle \sum\limits_{n=1}^{\infty}x_n(x_n \ne 0)$是正项级数, $\displaystyle r = \overline{\lim\limits_{n\to \infty}}\sqrt[n]{x_n}$,则，
 
 + 当$r<1$时，级数$\displaystyle \sum\limits_{n=1}^{\infty}x_n(x_n \ne 0)$收敛；
+
 + 当$r>1$时，级数$\displaystyle \sum\limits_{n=1}^{\infty}x_n(x_n \ne 0)$发散；
+
 + 当$r=1$时，级数$\displaystyle \sum\limits_{n=1}^{\infty}x_n(x_n \ne 0)$可能收敛，也可能发散。
 
 ---
-**例子**
-    讨论级数$\displaystyle \sum\limits_{n=1}^{\infty} \frac{2 + (-1)^n}{2^n}$ 的敛散性。
+**例子**  讨论级数$\displaystyle \sum\limits_{n=1}^{\infty} \frac{2 + (-1)^n}{2^n}$ 的敛散性。
 
 ---
-**例子**
-    讨论级数$\displaystyle \sum\limits_{n=1}^{\infty} \frac{x^n}{1 + x^{2n}}$ 的敛散性。
+**例子**  讨论级数$\displaystyle \sum\limits_{n=1}^{\infty} \frac{x^n}{1 + x^{2n}}$ 的敛散性。
 
 ---
-**例子**
-    讨论下列级数的敛散性$\displaystyle \sum\limits_{n=1}^{\infty} \frac{(n!)^2}{(2n)!}$ ,
-    $\displaystyle \sum\limits_{n=1}^{\infty} \frac{n^2}{\left(2 + \frac{1}{n}\right)^n}$
+**例子**  讨论下列级数的敛散性$\displaystyle \sum\limits_{n=1}^{\infty} \frac{(n!)^2}{(2n)!}$, $\displaystyle \sum\limits_{n=1}^{\infty} \frac{n^2}{\left(2 + \frac{1}{n}\right)^n}$
 
 ---
 <span style="color:blue">**积分判别法**</span>
 
----
 设 $f$ 为 $[1, +\infty)$ 上非负递减函数，那么正向级数$\sum\limits_{n=1}^{\infty} f(n)$ 与反常积分 $\displaystyle \int_1^{+\infty} f(x)\,\mathrm{d}x$同时收敛或发散。
 
 ---
-**例子**
-    讨论级数$\displaystyle \sum\limits_{n=1}^{\infty} \frac{1}{x^p}$ 的敛散性。
+**例子**  讨论级数$\displaystyle \sum\limits_{n=1}^{\infty} \frac{1}{x^p}$ 的敛散性。
 
 ---
-**例子**
-    讨论下列级数的敛散性$\displaystyle \sum\limits_{n=1}^{\infty} \frac{1}{n\left(\ln n\right)^n}$ ,
-    $\displaystyle \sum\limits_{n=1}^{\infty} \frac{1}{n \ln n \left(\ln \ln n\right)^n}$
+**例子**  讨论下列级数的敛散性$\displaystyle \sum\limits_{n=1}^{\infty} \frac{1}{n\left(\ln n\right)^n}$, $\displaystyle \sum\limits_{n=1}^{\infty} \frac{1}{n \ln n \left(\ln \ln n\right)^n}$
 
 ---
 <span style="color:blue">**Raabe判别法**</span>
@@ -446,9 +422,7 @@ $$
 </details>
 
 ---
-**例子**
-
-判别级数$\displaystyle 1 + \sum\limits_{n=1}^{\infty} \dfrac{(2n-1)!!}{(2n)!!}\cdot \dfrac{1}{2n+1}$的敛散性。
+**例子**  判别级数$\displaystyle 1 + \sum\limits_{n=1}^{\infty} \dfrac{(2n-1)!!}{(2n)!!}\cdot \dfrac{1}{2n+1}$的敛散性。
 
 
 
