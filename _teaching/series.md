@@ -297,7 +297,7 @@ $\lim\limits_{n \to \infty} \dfrac{u_{n+1}}{u_n} = q$
 ---
 <span style="color:blue">**d'Alembert判别法**</span>
 
-    设$\displaystyle \sum\limits_{n=1}^{\infty}x_n(x_n \ne 0)$是正项级数，
+设$\displaystyle \sum\limits_{n=1}^{\infty}x_n(x_n \ne 0)$是正项级数，
     
    + 当$\displaystyle \overline{\lim\limits_{n\to\infty}} \dfrac{x_{n+1}}{x_n} = \overline{r} < 1$, 则级数$\displaystyle \sum\limits_{n=1}^{\infty}x_n(x_n \ne 0)$收敛；
 
@@ -424,7 +424,64 @@ $$
 ---
 **例子**  判别级数$\displaystyle 1 + \sum\limits_{n=1}^{\infty} \dfrac{(2n-1)!!}{(2n)!!}\cdot \dfrac{1}{2n+1}$的敛散性。
 
+---
+<span style="color:red"> 
+**第二次作业**
 
++ **判别下列级数的敛散性**
+
+    + $\displaystyle \sum\limits_{n=1}^{\infty} \frac{1}{n^2 + a^2}$
+  <details>
+  $\clubsuit \dfrac{1}{n^2 + a^2} \sim \dfrac{1}{n^2}$
+  </details>
+
+    + $\displaystyle \sum\limits_{n=1}^{\infty} 2^n\frac{\pi}{3^n}$
+  <details>
+  $\clubsuit \dfrac{2^n \pi}{3^n} \sim \dfrac{2^n}{3^n}$
+  </details>
+
+    + $\displaystyle \sum\limits_{n=1}^{\infty} \frac{\pi}{n\sqrt[n]n}$
+  <details>
+    $\clubsuit \dfrac{1}{n\sqrt[n]{n}}/\dfrac{1}{n} \to \pi$
+  </details>
+
+    + $\displaystyle \sum\limits_{n=1}^{\infty} \frac{(n+1)!}{10^n}$
+  <details>
+    $ \clubsuit \dfrac{(n+2)!}{10^{n+1}}/\dfrac{(n+1)!}{10^n} \to \infty$
+  </details>
+
+    + $\displaystyle \sum\limits_{n=1}^{\infty} \frac{n^2}{2^n}$
+
+<details>
+$\clubsuit \dfrac{(n+1)^2}{2^{n+1}}/\dfrac{n^2}{2^n} \to \dfrac{1}{2}$
+</details>
+
++ **采用积分判别法判别下列级数的敛散性**
+
+    + $\displaystyle \sum\limits_{n=1}^{\infty} \frac{1}{n^2 + 1}$
+
+<details>
+$\clubsuit f(x) = \dfrac{1}{1+x^2} $, 采用积分判别法，单调递减趋于0.
+</details>
+
+    + $\displaystyle \sum\limits_{n=1}^{\infty} \frac{n}{n^2 + 1}$
+
+<details>
+$\clubsuit f(x) = \dfrac{x}{1+x^2}$, 采用积分判别法，单调递减趋于0.
+</details>
+
++ **证明题**
+
+设$\displaystyle a_n \ge 0, n = 1,2, \cdots$ 且$\displaystyle \left\{na_n\right\}$
+有界，证明$\displaystyle a_n^2$收敛。 
+<details>
+<center>
+$\clubsuit
+  \left|n a_n\right| \le M(M >0)\Rightarrow \left|a_n\right| \le \dfrac{M}{n}
+  \Rightarrow \left| a_n^2 \right| \le \dfrac{M^2}{n^2}
+$
+</center>
+</details>
 
 
 ---
