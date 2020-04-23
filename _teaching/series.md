@@ -151,6 +151,61 @@ $\sum\limits_{n=1}^{+\infty}\left(\alpha a_n + \beta b_n\right) = \alpha A + \be
 
 3. 如果级数$\sum\limits_{n=1}^{+\infty}u_n$收敛，那么对这个级数的项任意添加括弧后形成的级数仍收敛，且和不变。
 
+4. 如果级数$\sum\limits_{n=1}^{+\infty}u_n$收敛，则$\lim\limits_{n \to \infty}u_n = 0$.
+
+---
+**例子**
+讨论级数：
+<center>
+$\sum\limits_{n=1}^{\infty} \frac{2n - 1}{2^n}$
+</center>
+的敛散性。
+
+---
+**例子**
+讨论级数：
+<center>
+\sum_{n=1}^{\infty} \arctan\frac{1}{2n^2}
+</center>
+的敛散性。
+<detials>
+提示：
+<center>
+$\arctan x - \arctan y = \arctan \frac{x - y}{1 + xy}
+\arctan \frac{1}{2n^2} = \arctan \frac{1}{2n-1} - 
+        \arctan \frac{1}{2n + 1}$
+</center>
+</details>
+
+---
+**第一次作业**
+
+**证明下列级数收敛，并求其和**
+
+   + $\left(\frac{1}{2} + \frac{1}{3}\right) + 
+        \left(\frac{1}{2^2} + \frac{1}{3^2}\right) + \cdots + 
+        \left(\frac{1}{2^n} + \frac{1}{3^n}\right)$
+
+            $\clubsuit
+            \left(\frac{1}{2} + \frac{1}{3}\right) + 
+            \left(\frac{1}{2^2} + \frac{1}{3^2}\right) + \cdots + 
+            \left(\frac{1}{2^n} + \frac{1}{3^n}\right)
+            =
+            \sum\limits_{n=1}^{+\infty} \dfrac{1}{2^n} + 
+            \sum\limits_{n=1}^{+\infty} \dfrac{1}{3^n}
+            $
+  + $\sum_{n=1}^{\infty} \frac{1}{n(n+1)(n+2)}$ 
+        \[
+            \clubsuit
+            \dfrac{1}{n(n+1)(n+2)} =\dfrac{1}{2} \left[\dfrac{1}{n(n+1)} - \dfrac{1}{(n+1)(n+2)}\right]
+        \]
+  + $\sum_{n=1}^{\infty} \left(\sqrt{n+2} - 2\sqrt{n+1}
+        + \sqrt{n} \right)$ 
+        \[
+            \clubsuit
+            \sqrt{n+2} - 2\sqrt{n+1} + \sqrt{n} = \sqrt{n+2} - \sqrt{n+1} - 
+            \left(\sqrt{n+1} - \sqrt{n}\right)
+        \]
 
 ---
 ## 📚参考书目
