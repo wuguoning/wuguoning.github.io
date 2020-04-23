@@ -159,6 +159,10 @@ $\sum\limits_{n=1}^{\infty} \frac{2n - 1}{2^n}$
 </center>
 的敛散性。
 
+<details>
+提示： $S_n = 2S_n - S_n$
+</details>
+
 ---
 **例子**
 讨论级数：
@@ -184,26 +188,26 @@ $\arctan x - \arctan y = \arctan \frac{x - y}{1 + xy}
         \left(\frac{1}{2^2} + \frac{1}{3^2}\right) + \cdots + 
         \left(\frac{1}{2^n} + \frac{1}{3^n}\right)$
 
-            $\clubsuit
-            \left(\frac{1}{2} + \frac{1}{3}\right) + 
-            \left(\frac{1}{2^2} + \frac{1}{3^2}\right) + \cdots + 
-            \left(\frac{1}{2^n} + \frac{1}{3^n}\right)
-            =
-            \sum\limits_{n=1}^{+\infty} \dfrac{1}{2^n} + 
-            \sum\limits_{n=1}^{+\infty} \dfrac{1}{3^n}
-            $
+$\clubsuit
+  \left(\frac{1}{2} + \frac{1}{3}\right) + 
+  \left(\frac{1}{2^2} + \frac{1}{3^2}\right) + \cdots + 
+  \left(\frac{1}{2^n} + \frac{1}{3^n}\right)
+  =\sum\limits_{n=1}^{+\infty} \dfrac{1}{2^n} + 
+  \sum\limits_{n=1}^{+\infty} \dfrac{1}{3^n}
+$
+
   + $\sum_{n=1}^{\infty} \frac{1}{n(n+1)(n+2)}$ 
-        \[
-            \clubsuit
-            \dfrac{1}{n(n+1)(n+2)} =\dfrac{1}{2} \left[\dfrac{1}{n(n+1)} - \dfrac{1}{(n+1)(n+2)}\right]
-        \]
+
+$\clubsuit
+  \dfrac{1}{n(n+1)(n+2)} =\dfrac{1}{2} \left[\dfrac{1}{n(n+1)} - \dfrac{1}{(n+1)(n+2)}\right]
+$
   + $\sum_{n=1}^{\infty} \left(\sqrt{n+2} - 2\sqrt{n+1}
         + \sqrt{n} \right)$ 
-        \[
-            \clubsuit
-            \sqrt{n+2} - 2\sqrt{n+1} + \sqrt{n} = \sqrt{n+2} - \sqrt{n+1} - 
-            \left(\sqrt{n+1} - \sqrt{n}\right)
-        \]
+
+$\clubsuit
+  \sqrt{n+2} - 2\sqrt{n+1} + \sqrt{n} = \sqrt{n+2} - \sqrt{n+1} - 
+  \left(\sqrt{n+1} - \sqrt{n}\right)
+$
 
 ---
 ## 📚参考书目
