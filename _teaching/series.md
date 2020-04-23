@@ -64,13 +64,20 @@ $\sum\limits_{n=1}^{\infty}x_n$ 收敛，且和为$S$ ，记为：
 ---
 **例子**
 
-设$|q| < 1$, 讨论几何级数（等比级数）
+设$\vert q \vert < 1$, 讨论几何级数（等比级数）
 
 <center>
 $\sum\limits_{n=1}^{\infty} q^{n-1} = 1 + q + q^2 + \cdots + q^n + \cdots$
 </center>
 
 的敛散性。
+
+<details>
+<center>
+$S_n = 1 + q + q^2 + \cdots + q^n = \dfrac{1-q^n}{1-q}$
+</center>
+所以，当$\vert q \vert < 1$时，级数收敛于$\dfrac{1}{1-q}$.其它情况发散。
+</details>
 
 ---
 **例子**
