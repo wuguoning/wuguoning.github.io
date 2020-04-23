@@ -39,10 +39,10 @@ location: "Beijing, CN"
 <center>
 $x_1 + x_2 + \cdots + x_n + \cdots$
 </center>
-为无穷项级数（简称级数），记为$\sum_{n=1}^{\infty} x_n$,
-其中，$x_n$ 称为级数的通项或一般项。
+为<span style="color:red">无穷项级数（简称级数）</span>，记为$\sum\limits_{n=1}^{\infty} x_n$,
+其中，$x_n$ 称为级数的<span style="color:red">通项或一般项</span>。
 
-数项级数的部分和数列${S_n}$定义为：
+数项级数的<span style="color:red">部分和数列</span>${S_n}$定义为：
 <center>
 $\begin{split}
         S_1 &= x_1 \newline
@@ -52,6 +52,44 @@ $\begin{split}
 \end{split}
 $
 </center>
+
+---
+如果部分和数列${S_n}$ 收敛于有限数$S$，则称无穷级数
+$\sum\limits_{n=1}^{\infty}x_n$ 收敛，且和为$S$ ，记为：
+<center>
+    $S = \sum\limits_{n=1}^{\infty} x_n$
+</center>
+如果部分和数列发散，则称无穷级数发散。
+
+---
+**例子**
+
+设$|q| < 1$, 讨论几何级数（等比级数）
+
+<center>
+$\sum\limits_{n=1}^{\infty} q^{n-1} = 1 + q + q^2 + \cdots + q^n + \cdots$
+</center>
+
+的敛散性。
+
+---
+**例子**
+讨论数项级数
+    \[
+        \dfrac{1}{1\cdot 2} + \dfrac{1}{2\cdot 3} + \cdots +
+        \dfrac{1}{n(n+1)} + \cdots
+    \]
+    的收敛性。
+
+---
+**例子**
+    讨论级数：
+    \[
+        \sum_{n=1}^{\infty} (-1)^{n-1} = 1 - 1 + 1 + \cdots + 
+        (-1)^{n-1} + \cdots
+        \]
+    的敛散性。
+
 
 
 ---
