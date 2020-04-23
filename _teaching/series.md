@@ -91,6 +91,24 @@ $
 
 <details>
 <center>
+$S_n = \dfrac{1}{1} - \dfrac{1}{2} + \dfrac{1}{2} - \dfrac{1}{3} + \cdots + 
+       \dfrac{1}{n} - \dfrac{1}{n+1} = 1 - \dfrac{1}{n+1}$
+</center>
+所以级数收敛于$1$.
+</details>
+
+---
+**例子**
+讨论数项级数
+<center>
+$1 + \dfrac{1}{2} + \dfrac{1}{3} + \cdots +
+        \dfrac{1}{n} + \cdots
+$
+</center>
+的收敛性。
+
+<details>
+<center>
 $\begin{split} S_n & = 1 + \dfrac{1}{2} + \left(\dfrac{1}{3} + \dfrac{1}{4}\right) \newline 
                    & + \left(\dfrac{1}{5} + \cdots + \dfrac{1}{8}\right) \newline 
                    & + \left(\dfrac{1}{9} + \cdots + \dfrac{1}{16}\right)\newline 
@@ -98,6 +116,7 @@ $\begin{split} S_n & = 1 + \dfrac{1}{2} + \left(\dfrac{1}{3} + \dfrac{1}{4}\righ
                    & + \left(\dfrac{1}{2^n+1} + \cdots + \dfrac{1}{2^n}\right) \newline
                    & + \cdots \newline 
                    & > 1 + \dfrac{1}{2} + \dfrac{1}{2} + \cdots + \dfrac{1}{2} + \cdots
+\end{split}
 $
 </center>
 所以级数发散。
