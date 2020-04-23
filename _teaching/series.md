@@ -143,9 +143,7 @@ $S_{2n} = 0, S_{2n+1} = 1$,所以级数发散。
 
 1. 线性。设$\sum\limits_{n=1}^{+\infty}a_n = A, \sum\limits_{n=1}^{+\infty}b_n = B, 
 \alpha, \beta$为两个常数，则有：
-<center>
 $\sum\limits_{n=1}^{+\infty}\left(\alpha a_n + \beta b_n\right) = \alpha A + \beta B$
-</center>
 
 2. 在级数中去掉、增加或者改变级数的有限项不影响级数的敛散性。
 
@@ -165,10 +163,10 @@ $\sum\limits_{n=1}^{\infty} \frac{2n - 1}{2^n}$
 **例子**
 讨论级数：
 <center>
-\sum_{n=1}^{\infty} \arctan\frac{1}{2n^2}
+$\sum_{n=1}^{\infty} \arctan\frac{1}{2n^2}$
 </center>
 的敛散性。
-<detials>
+<details>
 提示：
 <center>
 $\arctan x - \arctan y = \arctan \frac{x - y}{1 + xy}
