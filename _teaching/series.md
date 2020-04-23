@@ -76,27 +76,48 @@ $\sum\limits_{n=1}^{\infty} q^{n-1} = 1 + q + q^2 + \cdots + q^n + \cdots$
 <center>
 $S_n = 1 + q + q^2 + \cdots + q^n = \dfrac{1-q^n}{1-q}$
 </center>
-所以，当$\vert q \vert < 1$时，级数收敛于$\dfrac{1}{1-q}$.其它情况发散。
+所以，当$\vert q \vert < 1$时，级数收敛于$\dfrac{1}{1-q}$.
 </details>
 
 ---
 **例子**
 讨论数项级数
-    \[
-        \dfrac{1}{1\cdot 2} + \dfrac{1}{2\cdot 3} + \cdots +
+<center>
+$\dfrac{1}{1\cdot 2} + \dfrac{1}{2\cdot 3} + \cdots +
         \dfrac{1}{n(n+1)} + \cdots
-    \]
-    的收敛性。
+$
+</center>
+的收敛性。
+
+<details>
+<center>
+$\begin{split} S_n & = 1 + \dfrac{1}{2} + \left(\dfrac{1}{3} + \dfrac{1}{4}\right) \newline 
+                   & + \left(\dfrac{1}{5} + \cdots + \dfrac{1}{8}\right) \newline 
+                   & + \left(\dfrac{1}{9} + \cdots + \dfrac{1}{16}\right)\newline 
+                   & + \newline
+                   & + \left(\dfrac{1}{2^n+1} + \cdots + \dfrac{1}{2^n}\right) \newline
+                   & + \cdots \newline 
+                   & > 1 + \dfrac{1}{2} + \dfrac{1}{2} + \cdots + \dfrac{1}{2} + \cdots
+$
+</center>
+所以级数发散。
+</details>
 
 ---
 **例子**
-    讨论级数：
-    \[
-        \sum_{n=1}^{\infty} (-1)^{n-1} = 1 - 1 + 1 + \cdots + 
+讨论级数：
+<center>
+$\sum_{n=1}^{\infty} (-1)^{n-1} = 1 - 1 + 1 + \cdots + 
         (-1)^{n-1} + \cdots
-        \]
-    的敛散性。
+$
+</center>
+的敛散性。
 
+<details>
+<center>
+$S_{2n} = 0, S_{2n+1} = 1$,所以级数发散。
+</center>
+</details>
 
 
 ---
