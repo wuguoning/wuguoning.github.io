@@ -107,7 +107,7 @@ $
 **例子**
 讨论级数：
 <center>
-$\sum_{n=1}^{\infty} (-1)^{n-1} = 1 - 1 + 1 + \cdots + 
+$\sum\limits_{n=1}^{\infty} (-1)^{n-1} = 1 - 1 + 1 + \cdots + 
         (-1)^{n-1} + \cdots
 $
 </center>
@@ -136,22 +136,6 @@ $S_{2n} = 0, S_{2n+1} = 1$,所以级数发散。
 
 ---
 
-## 讲义幻灯片
-
-  + [解析几何ch08-1](http://wuguoning.github.io/files/calculus/notes/ch08-1.ppt)
-  + [解析几何ch08-2](http://wuguoning.github.io/files/calculus/notes/ch08-2.ppt)
-  + [解析几何ch08-3](http://wuguoning.github.io/files/calculus/notes/ch08-3.ppt)
-  + [解析几何ch08-4](http://wuguoning.github.io/files/calculus/notes/ch08-4.ppt)
-  + [解析几何ch08-5](http://wuguoning.github.io/files/calculus/notes/ch08-5.ppt)
-  + [解析几何ch08-6](http://wuguoning.github.io/files/calculus/notes/ch08-6.ppt)
-  + [解析几何ch08-excise](http://wuguoning.github.io/files/calculus/notes/ch08-excise.ppt)
-
----
-
-  + [解析几何ch08-1-pdf](http://wuguoning.github.io/files/calculus/notes/ch08-1.pdf)
-  + [解析几何ch08-2-pdf](http://wuguoning.github.io/files/calculus/notes/ch08-2.pdf)
-
----
 # Calculus and its Visualization: an Introduction
 
 <center>
