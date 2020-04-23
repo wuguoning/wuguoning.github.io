@@ -190,6 +190,7 @@ $\left| u_{m+1} + u_{m+2} + \cdots + u_{m+p} \right| < \epsilon.$
 </center>
 
 ---
+<span style="color:red"> 
 **第一次作业**
 
 **证明下列级数收敛，并求其和**
@@ -237,7 +238,7 @@ $
 正向级数$\sum\limits_{n=1}^{\infty} u_n$ 收敛的充要条件是：部分和数列$S_n$有界。
 
 ---
-**比较判别法**
+<span style="color:blue">**比较判别法**</span>
 
 设$\sum\limits_{n=1}^{\infty} u_n, \sum\limits_{n=1}^{\infty} v_n$ 是两个正向级数，如果存在某个正数$N$ ，对于一切$n > N$，都有：
 <center>
@@ -257,7 +258,7 @@ $
     讨论级数$\displaystyle \sum\limits_{n=1}^{\infty} \sin \dfrac{\pi}{n}$的敛散性。
 
 ---
-**比较判别法的极限形式**
+<span style="color:blue">**比较判别法的极限形式**</span>
 
 设$\sum\limits_{n=1}^{\infty} u_n, \sum\limits_{n=1}^{\infty} v_n$ 是两个正向级数，如果
 <center>
@@ -286,7 +287,7 @@ $
 讨论级数$\displaystyle \sum\limits_{n=1}^{\infty} \left(1 - \cos \frac{\pi}{n}\right)$的敛散性。
 
 ---
-**比值判别法和根值判别法**
+<span style="color:blue">**比值判别法和根值判别法**</span>
 
 ---
 设$\sum\limits_{n=1}^{\infty} u_n$ 为正项级数，且存在某正数$N_0$及常数 $q (0 < q < 1).$ 
@@ -310,7 +311,7 @@ $\lim\limits_{n \to \infty} \dfrac{u_{n+1}}{u_n} = q$
 当$q=1$时，级数可能收敛，也可能发散。例如：$\displaystyle \sum\limits_{n=1}^{\infty} \dfrac{1}{n^2}, \sum\limits_{n=1}^{\infty}\dfrac{1}{n}$.
 
 ---
-**d'Alembert判别法**
+<span style="color:blue">**d'Alembert判别法**</span>
     设$\displaystyle \sum\limits_{n=1}^{\infty}x_n(x_n \ne 0)$是正项级数，
     
    + 当$\displaystyle \overline{\lim\limits_{n\to\infty}} \dfrac{x_{n+1}}{x_n} = \overline{r} < 1$, 则级数$\displaystyle \sum\limits_{n=1}^{\infty}x_n(x_n \ne 0)$收敛；
@@ -363,7 +364,7 @@ $\lim\limits_{n \to \infty} \dfrac{u_{n+1}}{u_n} = q$
 + 当$q > 1$，则级数$\displaystyle \sum\limits_{n=1}^{\infty} u_n$ 发散。
 
 ---
-**Cauchy判别法**
+<span style="color:blue">**Cauchy判别法**</span>
 
 设$\displaystyle \sum\limits_{n=1}^{\infty}x_n(x_n \ne 0)$是正项级数, $\displaystyle r = \overline{\lim\limits_{n\to \infty}}\sqrt[n]{x_n}$,则，
 
@@ -385,7 +386,7 @@ $\lim\limits_{n \to \infty} \dfrac{u_{n+1}}{u_n} = q$
     $\displaystyle \sum\limits_{n=1}^{\infty} \frac{n^2}{\left(2 + \frac{1}{n}\right)^n}$
 
 ---
-**积分判别法**
+<span style="color:blue">**积分判别法**</span>
 
 ---
 设 $f$ 为 $[1, +\infty)$ 上非负递减函数，那么正向级数$\sum\limits_{n=1}^{\infty} f(n)$ 与反常积分 $\displaystyle \int_1^{+\infty} f(x)\,\mathrm{d}x$同时收敛或发散。
@@ -400,7 +401,7 @@ $\lim\limits_{n \to \infty} \dfrac{u_{n+1}}{u_n} = q$
     $\displaystyle \sum\limits_{n=1}^{\infty} \frac{1}{n \ln n \left(\ln \ln n\right)^n}$
 
 ---
-**Raabe判别法**
+<span style="color:blue">**Raabe判别法**</span>
 
 对于正项级数$\displaystyle \sum\limits_{n=1}^{\infty} x_n$，成立$\displaystyle \lim\limits_{n\to \infty} \dfrac{x_{n+1}}{x_n} = 1$,这时Cauchy判别法和d'Alembert判别法失效。
 
@@ -452,23 +453,26 @@ $$
 
 
 
-
-
+---
 ## 📚参考书目
+
 📖1. 《高等数学》上下册（第七版），同济大学，高等教育出版社，2014.7.
 
-📖2. 《解析几何》，邱维声，北京大学出版社，1988.
+📖2. 《数学分析》上下册（第二版），陈纪修、於崇华、金路，高等教育出版社，2004.
 
-📖3. 《解析几何》，尤承业，北京大学出版社，2004.
+📖3. 《数学分析》上下册（第二版），华东师范大学数学系，高等教育出版社，2010.
 
+📖4.  Mathematical Analysis I,II, 2nd ed. V. A. Zorich,  Springer, 2015.
 
+📖5.  数学分析中的典型问题与方法, 裴礼文, 高等教育出版社, 2015.
+
+---
 ## 教学日历:
 
   + [2019-2020-2高等数学A](http://wuguoning.github.io/files/calculus/docs/19-20-2-A-syllabus.pdf)
   + [2019-2020-2高等数学B](http://wuguoning.github.io/files/calculus/docs/19-20-2-B-syllabus.pdf)
 
-
-
+---
 # Calculus and its Visualization: an Introduction
 
 <center>
@@ -477,7 +481,7 @@ $$
 </a>
 </center>
 
-
+---
 # 👏 THANKS
 
 <center>
