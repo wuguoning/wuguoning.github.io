@@ -207,7 +207,7 @@ $
 </details>
 
   + $\sum\limits_{n=1}^{\infty} \dfrac{1}{n(n+1)(n+2)}$ 
-<detials>
+<details>
   提示：$
   \dfrac{1}{n(n+1)(n+2)} =\dfrac{1}{2} \left[\dfrac{1}{n(n+1)} - \dfrac{1}{(n+1)(n+2)}\right]
 $
