@@ -452,28 +452,27 @@ $$
 
     + $\displaystyle \sum\limits_{n=1}^{\infty} \frac{n^2}{2^n}$
 
-<details>
-$\clubsuit \dfrac{(n+1)^2}{2^{n+1}}/\dfrac{n^2}{2^n} \to \dfrac{1}{2}$
-</details>
+   <details>
+    $\clubsuit \dfrac{(n+1)^2}{2^{n+1}}/\dfrac{n^2}{2^n} \to \dfrac{1}{2}$
+   </details>
 
 + **采用积分判别法判别下列级数的敛散性**
 
     + $\displaystyle \sum\limits_{n=1}^{\infty} \frac{1}{n^2 + 1}$
 
-<details>
-$\clubsuit f(x) = \dfrac{1}{1+x^2} $, 采用积分判别法，单调递减趋于0.
-</details>
+   <details>
+    $\clubsuit f(x) = \dfrac{1}{1+x^2} $, 采用积分判别法，单调递减趋于0.
+   </details>
 
     + $\displaystyle \sum\limits_{n=1}^{\infty} \frac{n}{n^2 + 1}$
 
-<details>
-$\clubsuit f(x) = \dfrac{x}{1+x^2}$, 采用积分判别法，单调递减趋于0.
-</details>
+   <details>
+    $\clubsuit f(x) = \dfrac{x}{1+x^2}$, 采用积分判别法，单调递减趋于0.
+   </details>
 
 + **证明题**
 
-设$\displaystyle a_n \ge 0, n = 1,2, \cdots$ 且$\displaystyle \left\{na_n\right\}$
-有界，证明$\displaystyle a_n^2$收敛。 
+设$\displaystyle a_n \ge 0, n = 1,2, \cdots$ 且$na_n$有界，证明$\displaystyle a_n^2$收敛。 
 <details>
 <center>
 $\clubsuit
@@ -482,6 +481,12 @@ $\clubsuit
 $
 </center>
 </details>
+
+---
+
+<a name="cotes2"></a>
+### 第三节 正项级数
+
 
 
 ---
