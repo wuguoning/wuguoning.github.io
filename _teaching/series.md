@@ -216,18 +216,17 @@ $
 + $\sum\limits_{n=1}^{\infty} \left(\sqrt{n+2} - 2\sqrt{n+1}
         + \sqrt{n} \right)$ 
 <details>
-$
+提示：$
   \sqrt{n+2} - 2\sqrt{n+1} + \sqrt{n} = \sqrt{n+2} - \sqrt{n+1} - 
   \left(\sqrt{n+1} - \sqrt{n}\right)
 $
-</detials>
+</details>
 
 ---
 
 <a name="cotes2"></a>
 ### 第二节 正项级数
 
----
 **正向级数收敛性的一般判别法则**
 
 若数项级数的各项符号相同，则称它为同号级数。对于同号级数，只需研究各项都是正数组成的级数--正项级数。
