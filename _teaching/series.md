@@ -112,7 +112,7 @@ $
 $\begin{split} S_n & = 1 + \dfrac{1}{2} + \left(\dfrac{1}{3} + \dfrac{1}{4}\right) \newline 
                    & + \left(\dfrac{1}{5} + \cdots + \dfrac{1}{8}\right) \newline 
                    & + \left(\dfrac{1}{9} + \cdots + \dfrac{1}{16}\right)\newline 
-                   & + \newline
+                   & + \cdots \newline
                    & + \left(\dfrac{1}{2^n+1} + \cdots + \dfrac{1}{2^n}\right) \newline
                    & + \cdots \newline 
                    & > 1 + \dfrac{1}{2} + \dfrac{1}{2} + \cdots + \dfrac{1}{2} + \cdots
