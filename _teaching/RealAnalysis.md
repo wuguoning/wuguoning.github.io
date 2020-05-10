@@ -89,7 +89,7 @@ integrability.
 + [<span style="color:blue">**📖Multi-variable Function.**</span>](http://wuguoning.github.io/files/analysis/mul_var_fun.pdf)
 + [<span style="color:blue">**📖Differential of Multi-variable Function.**</span>](http://wuguoning.github.io/files/analysis/diff_multi_var.pdf)
 + [<span style="color:blue">**📖Multiple Integral.**</span>](http://wuguoning.github.io/files/analysis/mul_int.pdf)
-+ [<span style="color:blue">**📖Line and Surface Integral.**</span>](http://wuguoning.github.io/files/analysis/files/line_and_surface.pdf)
++ [<span style="color:blue">**📖Line and Surface Integral.**</span>](http://wuguoning.github.io/files/analysis/line_and_surface.pdf)
 
 ---
 ### Homework
