@@ -122,7 +122,7 @@ integrability.
 ---
 ### Lecture Notes
 
-+ [<span style="color:blue">**📖Parameter Integral.**</span>](http://wuguoning.github.io/files/analysis/para_int.pdf)
++ [<span style="color:blue">**📖Parameter Integral.**</span>](http://wuguoning.github.io/files/analysis/para-int.pdf)
 + [<span style="color:blue">**📖Series.**</span>](http://wuguoning.github.io/files/analysis/series.pdf)
 + [<span style="color:blue">**📖Function Series.**</span>](http://wuguoning.github.io/files/analysis/function_series.pdf)
 + [<span style="color:blue">**📖Power Series.**</span>](http://wuguoning.github.io/files/analysis/powerSeries.pdf)
