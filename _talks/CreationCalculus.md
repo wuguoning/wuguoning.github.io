@@ -7,14 +7,17 @@ venue: "College of Science, China University of Petroleum"
 date: 2020-09-20
 location: "Beijing, CN"
 ---
-
+  <figure>
+    <img src="/images/Newton_and_Leibniz.png" alt="my alt text" style="width:400px"/>
+    <figcaption>Newton_and_Leibniz.</figcaption>
+  </figure>
 
 >   他以幾乎神一樣的思維力，最先說明了行星的運動和圖像，彗星的軌道和大海的朝夕。
    
 >   Nature and Nature's laws lay hid in night. God said,"Let Newton be!" and all was light.
    
 >   遵法自然，久藏玄冥。
-   天降牛頓，萬物生明。
+    天降牛頓，萬物生明。
 
 >   Newton 墓誌銘
 
@@ -35,14 +38,15 @@ location: "Beijing, CN"
    
 4. 求曲線的弧長、曲線圍成的面積、曲面圍城幾何體的體積、物體的重心。
 
-## 十七世紀餓初期微積分的工作
+## 十七世紀初期微積分的工作
 
-微積分問題至少被十七世紀十幾個最偉大的數學家和幾十個小的數學家探索過。位於他們貢獻頂峰的是
+微積分問題至少被十七世紀十幾個最偉大的數學家和幾十個數學家探索過。位於他們貢獻頂峰的是
 Newton和Leibniz。
 
 ### Newton的工作
 數學和科學中的巨大進展，幾乎總是建立在幾百年中許多人的點滴工作基礎之上。最後需要需要
-一位具有能夠從紛亂的猜測和說明中走出來的具有敏銳思維的人，該人就是牛頓Newton. 
+一位具有能夠從紛亂的猜測中清理有價值的想法，能夠有足夠的想象力重組思想的碎片，該人就
+是牛頓Newton. 
 
 > 正所謂“天不生仲尼，萬古長如夜。”
 
