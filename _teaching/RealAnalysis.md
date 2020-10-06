@@ -36,6 +36,7 @@ integrability.
 ---
 ### Lecture Notes
 + [<span style="color:blue">**📖Introduction**</span>](http://wuguoning.github.io/files/analysis/introduction.pdf)
++ [<span style="color:blue">**📖Introduction**</span>](http://wuguoning.github.io/files/Realanalysis/notes/ch00/introduction.pdf)
 + [<span style="color:blue">**📖Limit of Sequence**</span>](http://wuguoning.github.io/files/analysis/limits.pdf)
 + [<span style="color:blue">**📖Continuity**</span>](http://wuguoning.github.io/files/analysis/continuity.pdf)
 + [<span style="color:blue">**📖Mean Value Theorem**</span>](http://wuguoning.github.io/files/analysis/meanvalue.pdf)
