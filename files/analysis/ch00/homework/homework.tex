@@ -1,0 +1,60 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{CJKutf8}
+\usepackage{multirow}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{enumerate}
+\usepackage{fancyhdr}
+\usepackage{setspace}
+\usepackage{enumitem}
+\newtheorem{theorem}{定理}
+\newtheorem{lemma}{引理}
+\newtheorem{definition}{定义}
+\newtheorem{example}{例子}
+\newtheorem{corollary}{推论}
+\newtheorem{remark}{注}
+\let\oldref\ref
+\renewcommand{\ref}[1]{\rm{(\oldref{#1})}}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
+
+\begin{CJK*}{UTF8}{bsmi}
+\begin{document}
+\title{作業}
+\author{武國寧}
+\date{}
+\maketitle
+ 
+\section{試作出下列函數的圖像}
+\begin{enumerate}[label={\rm(\arabic *)}]
+    \item $\displaystyle y = \rm{sgn}(\sin (x))$
+    \item $\displaystyle y = 1 - (x+1)^2$
+    \item $\displaystyle y = \sin(x^2)$
+\end{enumerate}
+\section{解答題}
+  设函数$\displaystyle f(x) = \frac{1}{1+x}$, 求
+  $\displaystyle f(2+x), f(2x), f(x^2), f(f(x)), f(\frac{1}{f(x)})$
+
+\section{用區間表示下列不等式的解}
+\begin{enumerate}[label={\rm(\arabic*)}]
+    \item $\displaystyle \vert 1 - x \vert  - x \ge 0$
+    \item $\displaystyle \left\vert x + \frac{1}{x} \right\vert \le 6 $
+    \item $\displaystyle \sin x \ge \frac{\sqrt{2}}{2}$
+\end{enumerate}
+
+\section{求下列數集的上下確界，並依據定義加以驗證}
+\begin{enumerate}[label={\rm(\arabic*)}]
+    \item $\displaystyle S = \left\{x \vert x^2 < 2\right\}$
+    \item $\displaystyle S = \left\{x \vert x = n!, n \in \mathbb{N} \right\}$
+    \item $\displaystyle S = \left\{x \vert x \in (0,1) \text{and x is irrational number}\right\}$
+    \item $\displaystyle S = \left\{x \vert x = 1 - \frac{1}{2^n}, n \in \mathbb{N}\right\}$
+\end{enumerate}
+
+
+
+\end{CJK*}
+\end{document}
+
