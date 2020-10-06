@@ -1,0 +1,6 @@
+#!/usr/bin
+bn='basename $1 .plot'
+gnuplot $bn.plot
+epstopdf $bn.ps
+pdfcrop $bn.pdf
+mv $bn-crop.pdf $bn.pdf

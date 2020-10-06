@@ -1,0 +1,133 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{CJKutf8}
+\usepackage{multirow}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{enumerate}
+\usepackage{fancyhdr}
+\usepackage{setspace}
+\usepackage{bm}
+%\pagestyle{fancy}
+%\lhead{}
+%\rhead{\bfseries Integral on lines and surfaces}
+%\lfoot{Calculus}
+%\cfoot{China University of Petroleum-Beijing}
+%\rfoot{\thepage}
+%\renewcommand{\headrulewidth}{0.4pt}
+%\renewcommand{\footrulewidth}{0.4pt}
+%%%% 段落首行缩进两个字 %%%%
+\makeatletter
+\let\@afterindentfalse\@afterindenttrue
+\@afterindenttrue
+\makeatother
+\setlength{\parindent}{2em}  %中文缩进两个汉字位
+
+\newcounter{solution}
+\newcommand\TheSolution{%
+  \textbf{Solution:}\\%
+}
+
+%%%% 下面的命令重定义页面边距，使其符合中文刊物习惯 %%%%
+\addtolength{\topmargin}{-54pt}
+\setlength{\oddsidemargin}{0.63cm}  % 3.17cm - 1 inch
+\setlength{\evensidemargin}{\oddsidemargin}
+\setlength{\textwidth}{14.66cm}
+\setlength{\textheight}{24.00cm}    % 24.62
+
+%%%% 下面的命令设置行间距与段落间距 %%%%
+\linespread{1.4}
+\setlength{\parskip}{1ex}
+\setlength{\parskip}{0.5\baselineskip}
+
+%%%% 定理类环境的定义 %%%%
+\newtheorem{example}{Example}             % 整体编号
+\newtheorem{algorithm}{算法}
+\newtheorem{theorem}{Theorem}[section]  % 按 section 编号
+\newtheorem{definition}{Definition}
+\newtheorem{axiom}{公理}
+\newtheorem{property}{性质}
+\newtheorem{proposition}{Proposition}
+\newtheorem{lemma}{引理}
+\newtheorem{corollary}{Corollary}
+\newtheorem{remark}{注解}
+\newtheorem{condition}{条件}
+\newtheorem{conclusion}{结论}
+\newtheorem{assumption}{假设}
+
+%%%% 重定义 %%%%
+\renewcommand{\contentsname}{目录}  % 将Contents改为目录
+\renewcommand{\abstractname}{摘要}  % 将Abstract改为摘要
+\renewcommand{\refname}{参考文献}   % 将References改为参考文献
+\renewcommand{\indexname}{索引}
+%\renewcommand{\figurenamGe}{图}
+\renewcommand{\tablename}{表}
+\renewcommand{\appendixname}{附录}
+\renewcommand{\algorithm}{算法}
+\begin{document}
+\begin{CJK}{UTF8}{gbsn}
+\title{Fourier Series and the Fourier Transform}
+\author{Guoning Wu\footnote{Email: wuguoning@163.com}\\[2ex]
+ China University of Petroleum-Beijing\\[2ex]}
+\date{2017.9}
+\maketitle
+\section{Basic General Concept Connected with Fourier Series}
+
+\subsection{Orthogonal Systems of Functions}
+    \paragraph{\rm \textbf{a. Expansion of a vector in a vector space.}}
+    During this course of analysis we have mentioned several times that 
+    certain classes of functions form vector spaces in relation to the 
+    standard arithmetic operations. Such, for example, are the basic 
+    classes of analysis, which consist of smooth, continuous, or integrable 
+    real, complex, or vector-valued functions on a domain $X \subset \mathbb{R}^n$.
+
+    In analysis, as a rule, it is necessary to consider "infinite linear
+    combinations" - series of functions of the form
+    \[
+        f = \sum_{k=1}^{\infty}\alpha_k f_k
+    \]
+    
+    The definition of the sum of the series requires that some topology (
+    in particular, a metric) be defined in the vector space in question, 
+    making it possible to judge whether the difference $f - S_n$ tends to 
+    zero or not, where $S_n = \sum_{k=1}^{n}\alpha_kf_k.$
+
+    The main device used in classical analysis to introduce a metric on
+    a vector space is to define some norm of a vector or inner product
+    of vectors in that space. We are now going to consider only spaces 
+    endowed with an inner product (which, as before, we shall denote 
+    $\langle, \rangle$)
+
+    \begin{definition}
+        The vectors $\bm{x}$ and $\bm{y}$ in a vector space endowed with an 
+        inner product $\langle, \rangle$ are orthogonal (with respect to 
+        that inner product) if $\langle x, y \rangle = 0.$
+    \end{definition}
+
+    \begin{definition}
+        The system of vectors $\left\{x_k: k \in K \right\}$ is orthogonal if the
+        vectors in it corresponding to different values of the index $k$
+        are pairwise orthogonal.
+    \end{definition}
+
+    \begin{definition}
+        The system of vectors $\left\{e_k: k \in K \right\}$ is orthonormalized (or orthonormal)
+        if $\langle e_i, e_j \rangle = \delta_{ij}$ for every pair of indices $i,j \in K$,
+        where $\delta_{i,j}$ is the  Kronecker  symbol, that is  
+        \[
+        \delta_{i,j}  =  \left\{\begin{array}{cr}  & 1, if i=j \\ & 0, if i \ne j 
+        \end{array} \right.
+        \].
+    \end{definition}
+
+    \begin{definition}
+        A finite system of vectors $x_1, x_2, \cdots , x_n$ is linearly independent 
+        if the equality $\alpha_1x_1 + \alpha_2x_2 + \cdots + \alpha_nx_n = 0$ is possible 
+        only when $\alpha_1 = \alpha_2 = \cdots = \alpha_n = 0$.
+    \end{definition}
+
+
+\end{CJK}
+\end{document}

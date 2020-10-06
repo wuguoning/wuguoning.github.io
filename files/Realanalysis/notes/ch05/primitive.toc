@@ -1,0 +1,17 @@
+\contentsline {section}{\numberline {1}\rm \textbf {The Primitive and the Indefinite Integral}}{2}
+\contentsline {section}{\numberline {2}\rm \textbf {The Basic Methods of Finding a Primitive}}{3}
+\contentsline {section}{\numberline {3}\rm \textbf {Primitive of Basic Elementary Functions}}{3}
+\contentsline {subsection}{\numberline {3.1}Linearity of the Indefinite Integral}{4}
+\contentsline {subsection}{\numberline {3.2}Integration by Parts}{4}
+\contentsline {subsection}{\numberline {3.3}Change of Variable in an Indefinite Integral}{4}
+\contentsline {section}{\numberline {4}Primitive of Rational Functions}{5}
+\contentsline {section}{\numberline {5}Primitive of the Form $\displaystyle \DOTSI \intop \ilimits@ R(\qopname \relax o{cos}x, \qopname \relax o{sin}x)\mathrm {d}x$}{7}
+\contentsline {paragraph}{\rm \textbf {a.}}{7}
+\contentsline {paragraph}{\rm \textbf {b.}}{8}
+\contentsline {paragraph}{\rm \textbf {c.}}{8}
+\contentsline {section}{\numberline {6}Primitive of the Form $\displaystyle \DOTSI \intop \ilimits@ R(x, y(x))\mathrm {d}x$.}{9}
+\contentsline {paragraph}{\rm \textbf {a.}}{9}
+\contentsline {paragraph}{\rm \textbf {b.}}{9}
+\contentsline {paragraph}{\rm \textbf {c.Elliptic integrals.}}{10}
+\contentsline {section}{\numberline {7}Homework}{12}
+\contentsline {subsection}{\numberline {7.1}\GenericError {(inputenc) }{Package inputenc Error: Unicode char \u 8:求 not set up for use with LaTeX}{See the inputenc package documentation for explanation.}{Your command was ignored.\MessageBreak Type I <command> <return> to replace it with another command,\MessageBreak or <return> to continue without it.}\GenericError {(inputenc) }{Package inputenc Error: Unicode char \u 8:下 not set up for use with LaTeX}{See the inputenc package documentation for explanation.}{Your command was ignored.\MessageBreak Type I <command> <return> to replace it with another command,\MessageBreak or <return> to continue without it.}\GenericError {(inputenc) }{Package inputenc Error: Unicode char \u 8:列 not set up for use with LaTeX}{See the inputenc package documentation for explanation.}{Your command was ignored.\MessageBreak Type I <command> <return> to replace it with another command,\MessageBreak or <return> to continue without it.}\GenericError {(inputenc) }{Package inputenc Error: Unicode char \u 8:不 not set up for use with LaTeX}{See the inputenc package documentation for explanation.}{Your command was ignored.\MessageBreak Type I <command> <return> to replace it with another command,\MessageBreak or <return> to continue without it.}\GenericError {(inputenc) }{Package inputenc Error: Unicode char \u 8:定 not set up for use with LaTeX}{See the inputenc package documentation for explanation.}{Your command was ignored.\MessageBreak Type I <command> <return> to replace it with another command,\MessageBreak or <return> to continue without it.}\GenericError {(inputenc) }{Package inputenc Error: Unicode char \u 8:積 not set up for use with LaTeX}{See the inputenc package documentation for explanation.}{Your command was ignored.\MessageBreak Type I <command> <return> to replace it with another command,\MessageBreak or <return> to continue without it.}\GenericError {(inputenc) }{Package inputenc Error: Unicode char \u 8:分 not set up for use with LaTeX}{See the inputenc package documentation for explanation.}{Your command was ignored.\MessageBreak Type I <command> <return> to replace it with another command,\MessageBreak or <return> to continue without it.}}{12}

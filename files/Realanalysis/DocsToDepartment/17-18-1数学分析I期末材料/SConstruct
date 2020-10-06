@@ -1,0 +1,6 @@
+import os
+
+env = Environment(ENV=os.environ)
+pdfOutput = env.PDF(target='analysisI-17-18-1.pdf',source='analysisI-17-18-1.tex')
+Depends(pdfOutput,Split('analysisI-17-18-1.tex'))
+

@@ -1,0 +1,18 @@
+
+# 忽略在files/Realanalysis/目錄地下的非.pdf檔案
+files/Realanalysis/**/*.aux
+files/Realanalysis/**/*.bbl
+files/Realanalysis/**/*.blg
+files/Realanalysis/**/*.dvi
+files/Realanalysis/**/*.log
+files/Realanalysis/**/*.ps
+files/Realanalysis/**/*.nav
+files/Realanalysis/**/*.out
+files/Realanalysis/**/Makefile
+files/Realanalysis/**/*.tex
+files/Realanalysis/**/*.pptx
+files/Realanalysis/**/*.ppt
+
+# 忽略文件夾
+files/DocsToDepartment/
+

@@ -1,0 +1,6 @@
+import os
+
+env = Environment(ENV=os.environ)
+pdfOutput = env.PDF(target='para-int.pdf',source='para-int.tex')
+Depends(pdfOutput,Split('para-int.tex'))
+

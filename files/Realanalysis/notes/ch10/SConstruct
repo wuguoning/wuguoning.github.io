@@ -1,0 +1,6 @@
+import os
+
+env = Environment(ENV=os.environ)
+pdfOutput = env.PDF(target='series.pdf',source='series.tex')
+Depends(pdfOutput,Split('series.tex'))
+

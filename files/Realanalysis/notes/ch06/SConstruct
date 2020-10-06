@@ -1,0 +1,6 @@
+import os
+
+env = Environment(ENV=os.environ)
+pdfOutput = env.PDF(target='integral.pdf',source='integral.tex')
+Depends(pdfOutput,Split('integral.tex'))
+

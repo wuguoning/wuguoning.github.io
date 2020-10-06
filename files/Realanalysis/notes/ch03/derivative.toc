@@ -1,0 +1,8 @@
+\contentsline {section}{\numberline {1}Differentiable Functions}{2}
+\contentsline {subsection}{\numberline {1.1}Some Examples}{3}
+\contentsline {section}{\numberline {2}The Basic Rules of Differentiation}{4}
+\contentsline {subsection}{\numberline {2.1}Differentiation and the Arithmetic Operations}{4}
+\contentsline {subsection}{\numberline {2.2}Differentiation of a Composite Function (chain rule)}{4}
+\contentsline {subsection}{\numberline {2.3}Differentiation of an Inverse Function}{5}
+\contentsline {section}{\numberline {3}Table of Derivatives of the Basic Elementary Functions}{7}
+\contentsline {section}{\numberline {4}Higher-order Derivative}{7}

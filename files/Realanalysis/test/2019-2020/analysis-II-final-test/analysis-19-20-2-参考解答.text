@@ -1,0 +1,116 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{CJKutf8}
+\usepackage{multirow}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{enumerate}
+\usepackage{fancyhdr}
+\usepackage{setspace}
+
+\begin{CJK}{UTF8}{gbsn}
+\pagestyle{fancy}
+\lhead{}
+\chead{}
+\rhead{\bfseries 《数学分析》II 2020}
+\lfoot{}
+    \cfoot{中国石油大学-北京}
+\rfoot{\thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
+%\renewcommand\thesection{\Roman{section}}
+\begin{document}
+\title{\huge\textbf{中国石油大学(北京)}\vskip 1.0cm
+\textbf{《数学分析》II-2019-2020-2\\期末考试题(闭卷)}}
+%\author{someone}
+\date{}
+\maketitle
+
+    \begin{center}
+    \begin{table}[!hbpt]
+        \begin{tabular}{|p{2cm}|*{5}{|p{1.5cm}|}|p{3cm}|}
+            \hline
+            {\huge\textbf{题目}} & \huge\textbf{一} & \huge\textbf{二}&\huge\textbf{三}&\huge\textbf{四}&\huge\textbf{五}&\huge\textbf{总分}\\
+            \hline
+            \multirow{3}{*}{\huge\textbf{得分}} &    &    &    &    &    &\\
+                                                &    &    &    &    &    &\\
+                                                &    &    &    &    &    &\\
+            \hline
+        \end{tabular}
+    \end{table} 
+    \huge
+    \vskip 1cm 
+    班级\underline{\hbox to 50mm{}}\\ \vskip 1.5cm 
+    姓名\underline{\hbox to 50mm{}}\\ \vskip 1.5cm
+    学号\underline{\hbox to 50mm{}}\\ \vskip 1.5cm
+    \end{center}\newpage
+
+    \begin{spacing}{2.0}
+        \section{选择题(每题3分,共30分)}
+    \begin{enumerate}[(1)]
+    \item 下列反常积分发散的是(\hspace{0.5cm})\\ 
+            (A) $\displaystyle \int_{-1}^1\dfrac{1}{\sin x}\text{d}x$. \hspace{3.1cm} 
+            (B) $\displaystyle \int_{-1}^1\dfrac{1}{\sqrt{1-x^2}}\text{d}x$. \\ \\
+            (C) $\displaystyle \int_{0}^{+\infty}e^{-x^2}\text{d}x$. \hspace{3cm} 
+            (D) $\displaystyle \int_{2}^{+\infty}\dfrac{1}{x\ln^2 x}\text{d}x$. 
+
+    \item 双扭线$(x^2 + y^2)^2 = x^2 - y^2$所围成区域的面积是(\hspace{0.5cm}) \\ 
+            (A) $\displaystyle 2\int_0^{\frac{\pi}{4}}\cos 2\theta \text{d}\theta$. \hspace{3.1cm}
+            (B) $\displaystyle 4\int_0^{\frac{\pi}{4}}\cos 2\theta \text{d}\theta$. \\ \\  
+            (C) $\displaystyle 2\int_0^{\frac{\pi}{4}}\sqrt{\cos 2\theta }\text{d}\theta$. \hspace{3cm}
+            (D) $\displaystyle \dfrac{1}{2}\int_0^{\frac{\pi}{4}}\cos^2 2\theta \text{d}\theta$. 
+
+        \item 积分$\displaystyle \int_0^{\frac{\pi}{2}} \dfrac{\sin x}{\sin  x+ \cos x}\,\mathrm{d}x$=(\hspace{0,5cm})\\ 
+            (A)$\displaystyle 0$.\hspace{1.5cm}(B)$\displaystyle \dfrac{\pi}{4}$. \hspace{1.5cm}(C)$\displaystyle \dfrac{\pi}{2}$.\hspace{1.5cm}(D)$\displaystyle \pi$   
+
+    \item 设二元函数$\displaystyle f(x,y) = \left\{ \begin{array}{cc}  \dfrac{xy}{x^2 + y^2}, & (x,y) \ne (0,0) \\  0, & (x,y) = (0,0)\end{array}\right.$, 在$(0,0)$点处(\hspace{0.5cm})\\ \\
+                (A) 连续、偏导数存在. \hspace{1.5cm}
+                (B) 连续、偏导数不存在. \hspace{1.5 cm} \\ 
+                (C) 不连续、偏导数存在. \hspace{1.5 cm}
+                (D) 不连续、偏导数不存在. \hspace{1.0cm} 
+
+    \item 设函数$u(x,y,z) = 1 + \dfrac{x^2}{6} + \dfrac{y^2}{12} + \dfrac{z^2}{18}$,  单位向量$\bf{n} = \dfrac{1}{\sqrt{3}}(1,1,1)$，则$\left.\dfrac{\partial u}{\partial \bf{n}}\right|_{(1,2,3)} = (\hspace{0.5cm})$\\ 
+                (A)$\displaystyle 0$.\hspace{1.5cm}(B)$\displaystyle \dfrac{\sqrt{2}}{2}$. \hspace{1.5cm}(C)$\displaystyle \dfrac{\sqrt{3}}{3}$.\hspace{1.5cm}(D)$\displaystyle 1.$   
+
+    \item 已知$\displaystyle \dfrac{(x + ay)\text{d}x + y \text{d}y}{(x+y)^2}$为某一函数的全微分，则$a =  (\hspace{0.5cm})$\\ 
+                (A)$\displaystyle 0$.\hspace{1.5cm}(B)$\displaystyle 1$. \hspace{1.5cm}(C)$\displaystyle 2.$\hspace{1.5cm}(D)$\displaystyle 3.$   
+
+    \item 设有数量场$u = \ln \sqrt{x^2 + y^2 + z^2}$，则$\text{div}(\text{grad}u) = (\hspace{0.5cm})$\\ 
+        (A)$\displaystyle 0$.\hspace{1.0cm}(B)$\displaystyle \sqrt{x^2 + y^2 + z^2}$. \hspace{1.0cm}(C)$\displaystyle \dfrac{1}{\sqrt{x^2 + y^2 + z^2}}.$\hspace{1.0cm}(D)$\displaystyle
+            \dfrac{1}{x^2 + y^2 + z^2}.$   
+
+    \item 设$f(x,y)$连续，且$\displaystyle f(x,y) = xy + \iint\limits_{D}f(u,v)\,\mathrm{d}u\,\mathrm{d}v$,其中$D$是由$y=0, y=x^2, x = 1$所围成的区域，则$f(x,y) = (\hspace{0.5cm}) $
+
+        (A)$\displaystyle xy$.\hspace{1.5cm}(B)$\displaystyle 2xy$. \hspace{1.5cm}(C)$\displaystyle xy + \dfrac{1}{8}.$\hspace{1.5cm}(D)$\displaystyle xy + 1.$   
+
+    \item 设$S_1$表示上半球面$x^2 + y^2 + z^2 = R^2, z \ge 0$的上侧，$S_2$表示下半球面$x^2 + y^2 + z^2 = R^2, z \le 0$的下侧。若曲面面积$\displaystyle I_1 = \iint\limits_{S_1}z\,\mathrm{d}x\,\mathrm{d}y$, $\displaystyle I_2 = \iint\limits_{S_2}z\,\mathrm{d}x\,\mathrm{d}y$，则必有(\hspace{0.5cm})\\ \\
+    (A)$\displaystyle I_1 > I_2$.\hspace{1.0cm}(B)$\displaystyle I_1 < I_2$. \hspace{1.0cm}(C)$\displaystyle I_1 = I_2.$\hspace{1.0cm}(D)$\displaystyle I_1 + I_2 = 0.$   
+
+\item 设$f(x,y)$在区域$x^2 + y^2 \le a^2$上连续，则极限$\displaystyle \lim\limits_{a \to 0^+}\dfrac{1}{\pi a^2}\iint\limits_{D}f(x,y)\,\mathrm{d}x\,\mathrm{d}y =(\quad)$\\
+    (A)$\displaystyle 0$.\hspace{1.0cm}(B)$\displaystyle \infty$. \hspace{1.0cm}(C)$\displaystyle f(0,0).$\hspace{1.0cm}(D)$\displaystyle 1.$   
+    \end{enumerate}
+
+    \section{计算题(每题8分,共40分)}
+    \begin{enumerate}
+        \item 设可微函数$u = f(x+y+z, x^2 + y^2 + z^2)$，求$\mathrm{d}u$
+
+        \item 求函数$\displaystyle x = x^2 - xy + y^2$ 在点$M(1,1)$沿与$Ox$轴的正向组成$\alpha$角的方向$l$上的方向导数。在怎样的方向上此方向导数有：(1)最大值；(2)最小值；(3)等于0.
+
+        \item 求由曲线$\displaystyle xy = a^2, xy = 2a^2, y = x, y = 2x, x>0, y>0$所围成的图形的面积。
+
+        \item 求曲面$z = \sqrt{x^2 + y^2}$包含在圆柱面$x^2 + y^2 = 2x$内那部分的面积。
+
+        \item 计算三重积分$\displaystyle \iiint\limits_{V} \sqrt{x^2 + y^2 + z^2}\, \mathrm{d}x\,\mathrm{d}y\, \mathrm{d}z$，其中$V$是由曲面$x^2 + y^2 + z^2 = z$所围成的几何体。
+    \end{enumerate}
+
+    \section{Green公式(10分)}
+    计算$\displaystyle \oint\limits_{C}xy^2\,\mathrm{d}y - x^2y\,\mathrm{d}x$,其中$C$为圆周$x^2 + y^2 = a^2$，方向为逆时针。
+
+    \section{Gauss公式(10分)}
+    计算$\displaystyle \iint\limits_{S}x\,\mathrm{d}y\mathrm{d}z + y\,\mathrm{d}z\,\mathrm{d}x + z\,\mathrm{d}x\,\mathrm{d}y$ ,其中$S$为圆周$z = \sqrt{a^2 - x^2 - y^2}$的上侧。
+
+    \section{Stokes公式(10分)}
+    计算$\displaystyle \oint\limits_{C}y\,\mathrm{d}x + z\,\mathrm{d}y + x\,\mathrm{d}z$,其中$C$为圆周$x^2 + y^2 + z^2 = a^2, x + y + z = 0$, 若从$Ox$轴的正向看去，这个圆周依逆时针方向。
+
+\end{spacing}
+\end{CJK}
+\end{document}

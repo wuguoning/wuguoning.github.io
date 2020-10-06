@@ -1,0 +1,6 @@
+import os
+
+env = Environment(ENV=os.environ)
+pdfOutput = env.PDF(target='vector.pdf',source='vector.tex')
+Depends(pdfOutput,Split('vector.tex'))
+
