@@ -36,7 +36,6 @@ integrability.
 ---
 ### Lecture Notes
 + [<span style="color:blue">**📖Introduction**</span>](http://wuguoning.github.io/files/analysis/introduction.pdf)
-+ [<span style="color:blue">**📖Introduction**</span>](http://wuguoning.github.io/files/Realanalysis/notes/ch00/introduction.pdf)
 + [<span style="color:blue">**📖Limit of Sequence**</span>](http://wuguoning.github.io/files/analysis/limits.pdf)
 + [<span style="color:blue">**📖Continuity**</span>](http://wuguoning.github.io/files/analysis/continuity.pdf)
 + [<span style="color:blue">**📖Mean Value Theorem**</span>](http://wuguoning.github.io/files/analysis/meanvalue.pdf)
@@ -51,8 +50,7 @@ integrability.
 
 ### Homework
 + [<span style="color:red">**📝Homework of Introduction**</span>](http://wuguoning.github.io/files/analysis/homework1.pdf)
-+ [<span style="color:red">**📝Homework of Introduction**</span>](http://wuguoning.github.io/files/analysis/homework2.pdf)
-+ [<span style="color:red">**📝Homework of Limits of Sequence.**</span>](http://wuguoning.github.io/files/Realanalysis/notes/ch01/homework/homework.pdf)
++ [<span style="color:red">**📝Homework of Limits**</span>](http://wuguoning.github.io/files/analysis/homework2.pdf)
 + [<span style="color:red">**📝Homework of Continuity.**</span>](http://wuguoning.github.io/files/analysis/homework3.pdf)
 + [<span style="color:red">**📝Homework of Mean Value Theorem.**</span>](http://wuguoning.github.io/files/analysis/homework4.pdf)
 + [<span style="color:red">**📝Homework of Derivative.**</span>](http://wuguoning.github.io/files/analysis/homework5.pdf)
