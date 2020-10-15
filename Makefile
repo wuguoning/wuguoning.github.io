@@ -1,4 +1,4 @@
 git:
 	git add .
 	git commit -m "version2"
-	git push origin master
+	git push -u origin master
