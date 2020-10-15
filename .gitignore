@@ -5,7 +5,6 @@ files/**/*.bbl
 files/**/*.blg
 files/**/*.dvi
 files/**/*.log
-files/**/*.ps
 files/**/*.nav
 files/**/*.out
 files/**/Makefile
