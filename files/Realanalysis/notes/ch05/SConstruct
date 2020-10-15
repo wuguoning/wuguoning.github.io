@@ -1,0 +1,6 @@
+import os
+
+env = Environment(ENV=os.environ)
+pdfOutput = env.PDF(target='primitive.pdf',source='primitive.tex')
+Depends(pdfOutput,Split('primitive.tex'))
+

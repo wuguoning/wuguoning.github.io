@@ -1,5 +1,17 @@
 
 # 忽略在files/analysis/目錄地下的非.pdf檔案
+files/**/*.aux
+files/**/*.bbl
+files/**/*.blg
+files/**/*.dvi
+files/**/*.log
+files/**/*.ps
+files/**/*.nav
+files/**/*.out
+files/**/Makefile
+files/**/*.tex
+files/**/*.pptx
+files/**/*.ppt
 
 # 忽略文件夾
 files/DocsToDepartment/
