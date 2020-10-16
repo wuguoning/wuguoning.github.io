@@ -131,9 +131,10 @@ integrability.
 
 ---
 ### Homework
-+ [<span style="color:red">**📝Homework of Parameter Integral.**</span>](http://wuguoning.github.io/files/analysis/homework_para_int.pdf)
-+ [<span style="color:red">**📝Homework of Power Series.**</span>](http://wuguoning.github.io/files/analysis/homework_power_series.pdf)
-+ [<span style="color:red">**📝Homework of Fourier Series.**</span>](http://wuguoning.github.io/files/analysis/homework_fourier_series.pdf)
++ [<span style="color:red">**📝Homework of Parameter Integral**</span>](http://wuguoning.github.io/files/analysis/homework_para_int.pdf)
++ [<span style="color:red">**📝Homework of Series**</span>](http://wuguoning.github.io/files/analysis/homeworks/homework_series.pdf)
++ [<span style="color:red">**📝Homework of Power Series**</span>](http://wuguoning.github.io/files/analysis/homework_power_series.pdf)
++ [<span style="color:red">**📝Homework of Fourier Series**</span>](http://wuguoning.github.io/files/analysis/homework_fourier_series.pdf)
 
 ---
 ### Test
