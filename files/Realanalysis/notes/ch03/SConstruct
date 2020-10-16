@@ -1,6 +1,0 @@
-import os
-
-env = Environment(ENV=os.environ)
-pdfOutput = env.PDF(target='deriv.pdf',source='deriv.tex')
-Depends(pdfOutput,Split('deriv.tex'))
-

@@ -1,6 +1,0 @@
-设#$f(x)=x^2,(0\leq x\leq1)$#，而#$S(x)=\sum\limits^\infty_{n=1}b_n\sin n\pi x\text，(-\infty\lt x\lt+\infty)$#，其中#$b_n=2\int_0^1f(x)\sin n\pi x\text  dx(n=1,2,\cdots)$#，则#$S(-\dfrac{1}{2})=$# <span>_____</span> 
-
-
-#$-\dfrac{1}{4}$#
-
-设#$f(x)=x^2,(0\leq x\leq1)$#，而#$S(x)=\sum\limits^\infty_{n=1}a_n\cos n\pi x\text，(-\infty\lt x\lt+\infty)$#，其中#$a_n=2\int_0^1f(x)\cos n\pi x\text  dx(n=0,1,2,\cdots)$#，则#$S(\dfrac{3}{2})=$# <span>_____</span> 

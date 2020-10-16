@@ -1,2 +1,0 @@
-\contentsline {section}{\numberline {1}Basic Definitions and Examples}{2}
-\contentsline {subsection}{\numberline {1.1}Continuity of a Function at a Point}{2}

@@ -1,6 +1,0 @@
-import os
-
-env = Environment(ENV=os.environ)
-pdfOutput = env.PDF(target='meanvalue.pdf',source='meanvalue.tex')
-Depends(pdfOutput,Split('meanvalue.tex'))
-
