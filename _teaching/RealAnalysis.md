@@ -138,7 +138,6 @@ integrability.
 ---
 ### Test
 + [<span style="color:red">**✏️Parameter Integral**</span>](http://wuguoning.github.io/files/analysis/test_para_inte.pdf)
-+  [xxx]
 
 ## References:
   [1]. V. A. Zorich. Mathematical Analysis I, 2nd ed. 2015, Springer.
