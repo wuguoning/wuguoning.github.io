@@ -49,9 +49,9 @@ integrability.
 ---
 
 ### Homework
-+ [<span style="color:red">**📝Homework of Introduction**</span>](http://wuguoning.github.io/files/analysis/homework1.pdf)
-+ [<span style="color:red">**📝Homework of Limits**</span>](http://wuguoning.github.io/files/analysis/homework_sequence.pdf)
-+ [<span style="color:red">**📝Homework of Continuity.**</span>](http://wuguoning.github.io/files/analysis/homework3.pdf)
++ [<span style="color:red">**📝Homework of Introduction**</span>](http://wuguoning.github.io/files/analysis/homeworks/homework_introduction.pdf)
++ [<span style="color:red">**📝Homework of Limits**</span>](http://wuguoning.github.io/files/analysis/homeworks/homework_limits.pdf)
++ [<span style="color:red">**📝Homework of Continuity.**</span>](http://wuguoning.github.io/files/analysis/homeworks/homework_continuity.pdf)
 + [<span style="color:red">**📝Homework of Mean Value Theorem.**</span>](http://wuguoning.github.io/files/analysis/homework4.pdf)
 + [<span style="color:red">**📝Homework of Derivative.**</span>](http://wuguoning.github.io/files/analysis/homework5.pdf)
 + [<span style="color:red">**📝homework of Primitive.**</span>](http://wuguoning.github.io/files/analysis/primitive_homework.pdf) 
@@ -138,8 +138,8 @@ integrability.
 + [<span style="color:red">**📝Homework of Parameter Integral**</span>](http://wuguoning.github.io/files/analysis/homework_para_int.pdf)
 + [<span style="color:red">**📝Homework of Series**</span>](http://wuguoning.github.io/files/analysis/homeworks/homework_series.pdf)
 + [<span style="color:red">**📝Homework of Functional Series**</span>](http://wuguoning.github.io/files/analysis/homeworks/homework_funcseries.pdf)
-+ [<span style="color:red">**📝Homework of Power Series**</span>](http://wuguoning.github.io/files/analysis/homework_power_series.pdf)
-+ [<span style="color:red">**📝Homework of Fourier Series**</span>](http://wuguoning.github.io/files/analysis/homework_fourier_series.pdf)
++ [<span style="color:red">**📝Homework of Power Series**</span>](http://wuguoning.github.io/files/analysis/homeworks/homework_power_series.pdf)
++ [<span style="color:red">**📝Homework of Fourier Series**</span>](http://wuguoning.github.io/files/analysis/homeworks/homework_fourier_series.pdf)
 
 ---
 ### List
