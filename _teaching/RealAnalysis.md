@@ -35,13 +35,13 @@ integrability.
 
 ---
 ### Lecture Notes
-+ [<span style="color:blue">**📖Introduction**</span>](http://wuguoning.github.io/files/analysis/introduction.pdf)
-+ [<span style="color:blue">**📖Limit of Sequence**</span>](http://wuguoning.github.io/files/analysis/limits.pdf)
-+ [<span style="color:blue">**📖Continuity**</span>](http://wuguoning.github.io/files/analysis/continuity.pdf)
-+ [<span style="color:blue">**📖Mean Value Theorem**</span>](http://wuguoning.github.io/files/analysis/meanvalue.pdf)
-+ [<span style="color:blue">**📖Derivative**</span>](http://wuguoning.github.io/files/analysis/derivative.pdf)
-+ [<span style="color:blue">**📖Primitive**</span>](http://wuguoning.github.io/files/analysis/primitive.pdf)
-+ [<span style="color:blue">**📖Definite Integral**</span>](http://wuguoning.github.io/files/analysis/integral.pdf)
++ [<span style="color:blue">**📖Introduction**</span>](http://wuguoning.github.io/files/analysis/notes/introduction.pdf)
++ [<span style="color:blue">**📖Limit of Sequence**</span>](http://wuguoning.github.io/files/analysis/notes/limits.pdf)
++ [<span style="color:blue">**📖Continuity**</span>](http://wuguoning.github.io/files/analysis/notes/continuity.pdf)
++ [<span style="color:blue">**📖Mean Value Theorem**</span>](http://wuguoning.github.io/files/analysis/notes/meanvalue.pdf)
++ [<span style="color:blue">**📖Derivative**</span>](http://wuguoning.github.io/files/analysis/notes/derivative.pdf)
++ [<span style="color:blue">**📖Primitive**</span>](http://wuguoning.github.io/files/analysis/notes/primitive.pdf)
++ [<span style="color:blue">**📖Definite Integral**</span>](http://wuguoning.github.io/files/analysis/notes/integral.pdf)
     - [Slide of Definite Integral](http://wuguoning.github.io/files/analysis/slides/integral.pdf)
 + [<span style="color:blue">**📖Improper Integral**</span>](http://wuguoning.github.io/files/analysis/improperIntegral.pdf)
     - [Slide of Definite Integral](http://wuguoning.github.io/files/analysis/slides/improperIntegral.pdf)
