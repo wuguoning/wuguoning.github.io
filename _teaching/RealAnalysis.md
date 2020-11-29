@@ -62,11 +62,11 @@ integrability.
 ---
 ### Test
 
-+ [<span style="color:red">**✏️Test of Limits.**</span>](http://wuguoning.github.io/files/analysis/test1.pdf)
-+ [<span style="color:red">**✏️Test of Continuity.**</span>](http://wuguoning.github.io/files/analysis/test2.pdf)
-+ [<span style="color:red">**✏️Test of Mean Value Theorem.**</span>](http://wuguoning.github.io/files/analysis/test3.pdf)
-+ [<span style="color:red">**✏️Test of Derivative.**</span>](http://wuguoning.github.io/files/analysis/test4.pdf)
-+ [<span style="color:red">**✏️Test of Primitive.**</span>](http://wuguoning.github.io/files/analysis/test4.pdf)
++ [<span style="color:red">**✏️Test of Limits.**</span>](http://wuguoning.github.io/files/analysis/tests/test1.pdf)
++ [<span style="color:red">**✏️Test of Continuity.**</span>](http://wuguoning.github.io/files/analysis/tests/test2.pdf)
++ [<span style="color:red">**✏️Test of Mean Value Theorem.**</span>](http://wuguoning.github.io/files/analysis/tests/test3.pdf)
++ [<span style="color:red">**✏️Test of Derivative.**</span>](http://wuguoning.github.io/files/analysis/tests/test3.pdf)
++ [<span style="color:red">**✏️Test of Primitive.**</span>](http://wuguoning.github.io/files/analysis/tests/test4.pdf)
 
 ---
 
