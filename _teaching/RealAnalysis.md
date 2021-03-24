@@ -98,7 +98,7 @@ integrability.
 ---
 ### Homework
 
-+ [<span style="color:red">**📝Homework of Multi-variable Function**</span>](http://wuguoning.github.io/files/analysis/homework_mult_continuity.pdf)
++ [<span style="color:red">**📝Homework of Multi-variable Function**</span>](http://wuguoning.github.io/files/analysis/homeworks/homework_mulvarfun.pdf)
 
 
 + [<span style="color:red">**📝Homework of Differential of Multi-variable Function**</span>](http://wuguoning.github.io/files/analysis/homework_mult_diff.pdf)
